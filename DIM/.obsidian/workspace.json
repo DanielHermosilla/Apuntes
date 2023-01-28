@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "5f42f16990a3a194",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cacf55824104126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747533b0af1e5bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cálculo en Varias Variables/Integración/Cambio de variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4f23781dc7d78ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17c67173faac459a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cálculo en Varias Variables/Integración/Fubini.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf5bb4903372b773",
+    "type": "split",
+    "children": [
+      {
+        "id": "e32111938ffca86f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b19607c87a39be4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "b5b28b0c1581a2ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "309ce5773d544801",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b7ab20b4d87f8e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "535e71f73cd6e901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed195d587d4d0e4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "729f8a02a2404e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8ef52da16b5eed7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb593f2dc0ff6ac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md"
+              }
+            }
+          },
+          {
+            "id": "5e933bd606a5d662",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4f23781dc7d78ba",
+  "lastOpenFiles": [
+    "Cálculo en Varias Variables/Integración/Coordenadas esféricas.md",
+    "Cálculo en Varias Variables/Integración/Cambio de variable.md",
+    "Cálculo en Varias Variables/Integración/Fubini.md",
+    "Cálculo en Varias Variables/Integración/Volumen.md",
+    "Cálculo en Varias Variables/Integración/Extensión.md",
+    "Cálculo en Varias Variables/Integración/Medida nula.md",
+    "Cálculo en Varias Variables/Integración/Integral en varias variables.md",
+    "Cálculo en Varias Variables/Integración/Suma superior e inferior.md",
+    "Cálculo en Varias Variables/Integración/Particiones en varias variables.md",
+    "Cálculo en Varias Variables/Integración/Integral sobre rectángulos.md"
+  ]
+}

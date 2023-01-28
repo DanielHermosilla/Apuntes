@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "472a261e9b0922e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f20220dc968f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3608463bc8204901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivadas/Derivada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88170ae470d7f615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series numéricas/Criterios de convergencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea05257986c8a7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a7a17d3bc64bb93",
+    "type": "split",
+    "children": [
+      {
+        "id": "431c9ce65bdd85f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "212d20b0307433cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c24ba8e1df6d77e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c964bdafcd5e1711",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e638909dc026021f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea42395a88d0e4ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94808e0abf95979e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe04a97c19eb0a78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22fbdd4f8806ad6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1188081aebc25d5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea05257986c8a7ba",
+  "lastOpenFiles": [
+    "Series numéricas/Criterios de convergencia.md",
+    "Integrales impropias/Criterios de convergencia.md",
+    "Series numéricas/Convergencia condicional.md",
+    "Derivadas/Teorema del Valor Medio.md",
+    "Derivadas/Regla de Fermat.md",
+    "Derivadas/Derivada.md",
+    "Series de potencias/Continuidad de series de potencias.md",
+    "Series de potencias/Radio de convergencia.md",
+    "Continuidad/Teorema de los valores intermedios.md",
+    "Continuidad/Teorema de los supremos e ínfimos.md"
+  ]
+}

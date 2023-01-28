@@ -1,0 +1,203 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Esfuerzo": {
+      "Esfuerzo": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670880997986
+        }
+      }
+    },
+    "onda": {
+      "onda": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1673298840412
+        }
+      }
+    },
+    "frecuencia": {
+      "frecuencia": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1670881874226
+        }
+      }
+    },
+    "\\frac{\\sigma^2": {
+      "\\frac{\\sigma^2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670881544113
+        }
+      }
+    },
+    "velocidad": {
+      "velocidad": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670881653375
+        }
+      }
+    },
+    "\\bar{B} \\pm": {
+      "\\bar{B} \\pm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670884685703
+        }
+      }
+    },
+    "\\frac{\\sum^{N}_{i": {
+      "\\frac{\\sum^{N}_{i": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671041007201
+        }
+      }
+    },
+    "\\vec{F}": {
+      "\\vec{F}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671485034906
+        }
+      }
+    },
+    "campo eléctrico": {
+      "campo eléctrico": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1671485628119
+        }
+      }
+    },
+    "partícula libre": {
+      "partícula libre": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1671485651040
+        }
+      }
+    },
+    "energía potencial": {
+      "energía potencial": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1671486791488
+        }
+      }
+    },
+    "Diferencia de potencial": {
+      "Diferencia de potencial": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1671489015881
+        }
+      }
+    },
+    "Campo eléctrico": {
+      "Campo eléctrico": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1673299990696
+        }
+      }
+    },
+    "Resistencia eléctrica": {
+      "Resistencia eléctrica": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1671489162591
+        }
+      }
+    },
+    "estado estacionario": {
+      "estado estacionario": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1672090912483
+        }
+      }
+    },
+    "Condensador": {
+      "Condensador": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1672092677198
+        }
+      }
+    },
+    "Ley de Ohm": {
+      "Ley de Ohm": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1672091159089
+        }
+      }
+    },
+    "Potencia eléctrica": {
+      "Potencia eléctrica": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673298578621
+        }
+      }
+    },
+    "Corriente alterna": {
+      "Corriente alterna": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673303101378
+        }
+      }
+    }
+  }
+}

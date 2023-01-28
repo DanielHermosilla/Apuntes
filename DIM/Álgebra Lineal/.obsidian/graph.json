@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Espacios vectoriales\"",
+      "color": {
+        "a": 1,
+        "rgb": 4999845
+      }
+    },
+    {
+      "query": "path:\"Transformaciones lineales\"",
+      "color": {
+        "a": 1,
+        "rgb": 10505093
+      }
+    },
+    {
+      "query": "path:\"Valores y vectores propios\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Matrices",
+      "color": {
+        "a": 1,
+        "rgb": 4957103
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5335693359375,
+  "repelStrength": 9.10807291666667,
+  "linkStrength": 0.386922200520833,
+  "linkDistance": 250,
+  "scale": 1.5102246123792884,
+  "close": true
+}

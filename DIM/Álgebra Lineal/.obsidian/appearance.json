@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Encore",
+  "enabledCssSnippets": [
+    "somethingsnippet"
+  ],
+  "translucency": false,
+  "baseFontSize": 14,
+  "theme": "obsidian"
+}

@@ -1,0 +1,363 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "\\exists": {
+      "\\exists": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669601574324
+        }
+      }
+    },
+    "vector propio": {
+      "vector propio": {
+        "internalLink": {
+          "count": 13,
+          "lastUpdated": 1670024577765
+        }
+      }
+    },
+    "transformaciones lineales": {
+      "transformaciones lineales": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1669677651395
+        }
+      }
+    },
+    "matriz": {
+      "matriz": {
+        "internalLink": {
+          "count": 16,
+          "lastUpdated": 1670024519574
+        }
+      }
+    },
+    "matriz representante": {
+      "matriz representante": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669677130546
+        }
+      }
+    },
+    "valor propio": {
+      "valor propio": {
+        "internalLink": {
+          "count": 16,
+          "lastUpdated": 1670024586612
+        }
+      }
+    },
+    "combinaciones lineales": {
+      "combinaciones lineales": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669602341360
+        }
+      }
+    },
+    "\\begin{bmatrix}": {
+      "\\begin{bmatrix}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670024207303
+        }
+      }
+    },
+    "\\end{bmatrix}": {
+      "\\end{bmatrix}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670024373485
+        }
+      }
+    },
+    "valores y vectores propios": {
+      "valores y vectores propios": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669677272152
+        }
+      }
+    },
+    "escalares": {
+      "escalares": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669604802978
+        }
+      }
+    },
+    "Espacios vectoriales": {
+      "Espacios vectoriales": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669730120249
+        }
+      }
+    },
+    "vectores": {
+      "vectores": {
+        "internalLink": {
+          "count": 14,
+          "lastUpdated": 1670023718027
+        }
+      }
+    },
+    "\\lambda": {
+      "\\lambda": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669605565585
+        }
+      }
+    },
+    "función": {
+      "función": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669685404978
+        }
+      }
+    },
+    "Base": {
+      "Base": {
+        "internalLink": {
+          "count": 9,
+          "lastUpdated": 1670023631301
+        }
+      }
+    },
+    "dependencia": {
+      "dependencia": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669684466899
+        }
+      }
+    },
+    "subespacios propios": {
+      "subespacios propios": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1670022990882
+        }
+      }
+    },
+    "matriz diagonalizable": {
+      "matriz diagonalizable": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1670024532604
+        }
+      }
+    },
+    "diagonalizable": {
+      "diagonalizable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669679620613
+        }
+      }
+    },
+    "polinomio característico": {
+      "polinomio característico": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1670022971546
+        }
+      }
+    },
+    "\\lambda_0": {
+      "\\lambda_0": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1669681378786
+        }
+      }
+    },
+    "multiplicidad geométrica": {
+      "multiplicidad geométrica": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1670022997729
+        }
+      }
+    },
+    "producto punto": {
+      "producto punto": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1670023320755
+        }
+      }
+    },
+    "\\begin{pmatrix}": {
+      "\\begin{pmatrix}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1669730001350
+        }
+      }
+    },
+    "\\end{pmatrix}": {
+      "\\end{pmatrix}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1669730012356
+        }
+      }
+    },
+    "norma": {
+      "norma": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669683140903
+        }
+      }
+    },
+    "subespacios vectoriales": {
+      "subespacios vectoriales": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1669685272104
+        }
+      }
+    },
+    "conjuntos ortogonales y ortonormales": {
+      "conjuntos ortogonales y ortonormales": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1669732471996
+        }
+      }
+    },
+    "ortogonal": {
+      "ortogonal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669685255446
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669685441131
+        }
+      }
+    },
+    "\\frac{1}{\\sqrt{2}}": {
+      "\\frac{1}{\\sqrt{2}}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669730561702
+        }
+      }
+    },
+    "-\\frac{1}{\\sqrt{2}}": {
+      "-\\frac{1}{\\sqrt{2}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669730766881
+        }
+      }
+    },
+    "multiplicidad algebraica": {
+      "multiplicidad algebraica": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670022976853
+        }
+      }
+    },
+    "proyecciones ortogonales": {
+      "proyecciones ortogonales": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1670023459044
+        }
+      }
+    },
+    "matrices representantes de vectores propios": {
+      "matrices representantes de vectores propios": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670024082729
+        }
+      }
+    },
+    "determinante": {
+      "determinante": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670024495169
+        }
+      }
+    },
+    "rango": {
+      "rango": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670024667350
+        }
+      }
+    },
+    "dimensión": {
+      "dimensión": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670024670096
+        }
+      }
+    }
+  }
+}
