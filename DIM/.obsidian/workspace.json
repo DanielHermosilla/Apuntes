@@ -11,48 +11,11 @@
             "id": "747533b0af1e5bce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cálculo en Varias Variables/Integración/Cambio de variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f23781dc7d78ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cálculo en Varias Variables/Integración/Fubini.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a42e9a678e2ebf0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "17c67173faac459a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cálculo en Varias Variables/Integración/Fubini.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b19607c87a39be4",
+  "active": "747533b0af1e5bce",
   "lastOpenFiles": [
+    "Cálculo en Varias Variables/Integración/Cambio de variable.md",
+    "Cálculo en Varias Variables/test.md",
     "TestGithub.md",
     "Cálculo en Varias Variables/Integración/Fubini.md",
     "Cálculo en Varias Variables/Ejercicios Control 3.md",
     "Cálculo en Varias Variables/Integración/Coordenadas esféricas.md",
-    "Cálculo en Varias Variables/Integración/Cambio de variable.md",
     "Cálculo en Varias Variables/Integración/Volumen.md",
     "Cálculo en Varias Variables/Integración/Extensión.md",
     "Cálculo en Varias Variables/Integración/Medida nula.md",
-    "Cálculo en Varias Variables/Integración/Integral en varias variables.md",
-    "Cálculo en Varias Variables/Integración/Suma superior e inferior.md"
+    "Cálculo en Varias Variables/Integración/Integral en varias variables.md"
   ]
 }
