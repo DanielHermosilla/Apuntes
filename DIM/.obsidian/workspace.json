@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md",
+                "file": "Cálculo en Varias Variables/Integración/Fubini.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a42e9a678e2ebf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cálculo en Varias Variables/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md",
+                "file": "Cálculo en Varias Variables/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md",
+                "file": "Cálculo en Varias Variables/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cálculo en Varias Variables/Ejercicios Control 3.md"
+                "file": "Cálculo en Varias Variables/test.md"
               }
             }
           },
@@ -179,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4f23781dc7d78ba",
+  "active": "2a42e9a678e2ebf0",
   "lastOpenFiles": [
+    "TestGithub.md",
+    "Cálculo en Varias Variables/Integración/Fubini.md",
+    "Cálculo en Varias Variables/Ejercicios Control 3.md",
     "Cálculo en Varias Variables/Integración/Coordenadas esféricas.md",
     "Cálculo en Varias Variables/Integración/Cambio de variable.md",
-    "Cálculo en Varias Variables/Integración/Fubini.md",
     "Cálculo en Varias Variables/Integración/Volumen.md",
     "Cálculo en Varias Variables/Integración/Extensión.md",
     "Cálculo en Varias Variables/Integración/Medida nula.md",
     "Cálculo en Varias Variables/Integración/Integral en varias variables.md",
-    "Cálculo en Varias Variables/Integración/Suma superior e inferior.md",
-    "Cálculo en Varias Variables/Integración/Particiones en varias variables.md",
-    "Cálculo en Varias Variables/Integración/Integral sobre rectángulos.md"
+    "Cálculo en Varias Variables/Integración/Suma superior e inferior.md"
   ]
 }
