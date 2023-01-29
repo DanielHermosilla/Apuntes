@@ -10,6 +10,15 @@ Al conectar cada tema entre sí se pueden generar grafos:
 ### Cursos
 
 Actualmente existen apuntes para los cursos relacionados al Departamento de Ingeniería Matemática y de Física que son dictados a partir del segundo semestre. A futuro se considerará rellenar los vacios del primer semestre y añadir un apartado para el Departamento de Ingeniería Industrial y Ciencias de la Computación. 
+
+### Descargas
+
+Es recomendable utilizar la aplicación *Obsidian* para obtener la mejor visualización de cada texto. Bastaría con descargar la carpeta a estudiar y generar un *vault* a partir de ésta:
+
+<img width="474" alt="Captura de Pantalla 2023-01-28 a la(s) 21 34 36" src="https://user-images.githubusercontent.com/123832478/215297537-c632909f-ca25-49b9-a494-b33c2a9c2614.png">
+
+De esta forma la aplicación va a poder procesar cada referencia a imagenes y vínculos internos de una forma limpia y ordenada. 
+
 ### Actualizaciones 
 
 Gracias al *plug-in* de @denolehov las notas se van actualizando cada cierto tiempo en el repositorio. Las fechas de edición se encuentran en los comentarios de cada *commit*. 
