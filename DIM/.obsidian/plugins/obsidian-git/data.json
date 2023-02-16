@@ -2,7 +2,7 @@
   "commitMessage": "Apuntes realizados en {{date}}",
   "autoCommitMessage": "Apuntes realizados en {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 10,
+  "autoSaveInterval": 40,
   "autoPushInterval": 0.5,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
