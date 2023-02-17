@@ -35,3 +35,7 @@ lista = [5,6] * 3
 print(lista)
 
 ```
+
+Las listas también poseen funciones predefinidas donde destacan la función *min*, *max*  y *len*. 
+
+Para finalizar es importante notar que las listas se indexan al igual que los [[Strings|strings]] o [[Tuplas|tuplas]] 
