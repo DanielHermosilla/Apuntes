@@ -63,7 +63,7 @@ def sumaPonderada(*args):
 
 	return result 
 
-print(sumaPonderada((1,2),(3,4),(5,6)))
+sumaPonderada((1,2),(3,4),(5,6))
 
 ```
 
@@ -75,4 +75,9 @@ def obtenerCasas(**casas):
 	for c in casas: 
 		s = int(c.split("_")[1])
 		if int(c.split("_")[1]) > 0:
-				print(casas)
+			print(casas[c])
+
+obtenerCasas(c_1 = "Casa Mex", c_2 = "Casa Habana", c_3 = "Casa EU")
+
+```
+
