@@ -15,4 +15,16 @@ print(comp1 + comp2)
 ```
 
 
-### Decim
+### Decimales 
+
+Cuando se requiere mas precisión se ocupa la librería *"decimal"* que es nativa al lenguaje: 
+
+```jupyter 
+
+import decimal 
+b = decimal.Decimal("12934.392021384")
+
+print(b)
+
+```
+
