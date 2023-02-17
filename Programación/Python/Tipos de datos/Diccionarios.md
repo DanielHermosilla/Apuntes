@@ -28,5 +28,37 @@ Como fue dicho anteriormente, para llamar el diccionario habría que llamarlo po
 
 dicc = {"Nombre": "Daniel", "Edad": 19, "Carrera": "Ingeniería "}
 
-dicc[Edad] 
-dicc[Carrera]
+dicc["Carrera"]
+
+```
+
+Es posible eliminar todas las entradas de un diccionario ocupando la función *clear* como también eliminar una entrada particular ocupando la función *del*. 
+
+Al igual que las [[Tuplas|tuplas]], también se puede ocupar el método *in* para comprobar si una llave pertenece al diccionario: 
+
+```jupyter
+
+dicc = {"Comida": "Arroz"}
+"Comida" in dicc
+
+```
+
+Además se agrega la función *items* para conocer todos los pares en el diccionario: 
+
+```jupyter
+
+dicc = {"Color": "Verde", "Número": 10}
+dicc.items()
+
+```
+
+Por último, se puede generar un ciclo *for* en los diccionarios: 
+
+```jupyter
+
+dicc = {"Nombre": "Gretica", "Edad": 27}
+
+for d in dicc:
+	print(d, dicc[d])
+
+
