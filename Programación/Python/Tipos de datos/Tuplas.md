@@ -8,7 +8,7 @@ t = (1,2)
 
 ```
 
-Al igual que en la listas o [[Strings|strings]], para poder acceder a una tupla se ocupa la misma sintaxis: 
+Al igual que en la [[Listas|listas]] o [[Strings|strings]], para poder acceder a una tupla se ocupa la misma sintaxis: 
 
 ```jupyter
 

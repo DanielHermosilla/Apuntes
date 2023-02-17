@@ -61,4 +61,5 @@ dicc = {"Nombre": "Gretica", "Edad": 27}
 for d in dicc:
 	print(d, dicc[d])
 
+```
 
