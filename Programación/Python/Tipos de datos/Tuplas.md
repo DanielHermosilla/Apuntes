@@ -31,9 +31,19 @@ t.count(1) # Retornará las veces que se encuentra el entero 1
 - Index: recibe un valor y retornará el primer índice donde se encuentra el elemento. 
 
 ```jupyter
+
 t = 1 , 2, "Andrés", [1,5,7], 1, "Roberto"
 t.index([1,5,7]) # Retornará el lugar donde se encuentra la lista [1,5,7]
 
 ```
 
-- In: para verificar la existencia de un elemento en 
+- In: para verificar la existencia de un elemento, devuelve un resultado *booleano*:
+
+```jupyter
+
+t = 3, "Daniel", 4
+"Daniel" in t 
+
+```
+
+

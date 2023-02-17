@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "800ab45b13556917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Tipos de datos/Diccionarios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos/Tuplas.md",
+                "file": "Python/Tipos de datos/Diccionarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos/Tuplas.md",
+                "file": "Python/Tipos de datos/Diccionarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos/Tuplas.md"
+                "file": "Python/Tipos de datos/Diccionarios.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caaa19f9ca0bc436",
+  "active": "800ab45b13556917",
   "lastOpenFiles": [
-    "Python/Tipos de datos/Strings.md",
     "Python/Tipos de datos/Tuplas.md",
+    "Python/Tipos de datos/Strings.md",
     "Python/Operadores numéricos.md",
     "Python/Tipos de datos/Flotantes.md",
     "Python/Tipos de datos/Enteros.md",
