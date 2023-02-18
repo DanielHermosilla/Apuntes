@@ -11,6 +11,36 @@ La idea es que **cada nodo padre debe ser mayor que los nodos hijos**. Por eso m
 
 Entonces, se realiza el siguiente procedimiento para poder ordenar el arbol cumpliendo las condiciones: 
 
-```jupyter 
+```Python 
 
-def maxHeapif
+# Recibe la lista (l), el indice (i) y el tamaño (valor 
+# entero asociado al nodo) del arbol binario. 
+
+
+def maxHeapify(l, i, tamano):
+	izq = 2 * i + 1
+	der = 2 * i + 2
+
+	if izq < tamano and l[izq] > l[i]:
+		maximo = izq
+	else: 
+		maximo = i
+
+	if der < tamano and l[der] > l[maximo]:
+		maximo = der 
+
+	if maximo is not i: # Generación de un subarbol 
+		temp = l[i]
+		l[i] = l[maximo]
+		l[maximo] = temp
+		maxHeapify(1, maximo, tamano)
+
+```
+
+Ahora, para lsa construcción del heap se emplea la siguiente función: 
+
+```Python
+
+def construyeHeap(l):
+	heapTamano = len(l)
+	for i in range (int)
