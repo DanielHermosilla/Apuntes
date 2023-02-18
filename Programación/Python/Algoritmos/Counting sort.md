@@ -18,4 +18,7 @@ def numero_elementos_iguales_i (l,c):
 		c[l[i]] += 1
 
 def numero_elemento_menores_i(c):
-	
+	for i in range(1,len(c)):
+		c[i] = c[i] + c[i-1]
+
+```
