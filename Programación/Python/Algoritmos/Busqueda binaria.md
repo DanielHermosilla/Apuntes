@@ -5,16 +5,28 @@ El algoritmo se basa en la idea de asumir una [[Listas|lista]] ordenada. En caso
 ```jupyter 
 
 def busquedaBinaria(lista, elemento):
-	inicio = lista[0]
-	fin = lista[len(lista)]
-	centro = (fin - inicio)//2 + inicio 
-
-	if elemento < centro: 
-		return busquedaBinaria(lista[0:centro], elemento)
-
-	elif elemento > centro: 
-		return busquedaBinaria(lista[centro:fin], elemento)
-
-	else: 
-		return elemento[inicio] is x
+	try
+		inicio = lista[0]
+		fin = lista[len(lista) - 1]
+		centro = len(lista)//2
 	
+		if elemento < lista[centro]: 
+			return busquedaBinaria(lista[0:centro], elemento)
+	
+		elif elemento > lista[centro]: 
+			return busquedaBinaria(lista[centro:fin], elemento)
+	
+		else: 
+			return "El elemento \"{}\" se encuentra en la lista".format(elemento)
+
+	except
+
+# Test 
+
+lista = [1,5,8,10,15,70,80,400,467,697,700,893,10000] 
+
+busquedaBinaria(lista,893)
+
+
+```
+

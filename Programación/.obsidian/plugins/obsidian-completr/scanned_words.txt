@@ -35,6 +35,8 @@ od
 of
 ordenamiento
 ordenada
+oraciones
+omitir
 dos
 datos
 decir
@@ -75,6 +77,9 @@ desordenados
 despues
 desde
 derecha
+denominado
+divide
+def
 predefinidos
 procesan
 partir
@@ -119,6 +124,8 @@ previamente
 posici
 poco
 pr
+palabras
+predefinidas
 como
 complejo
 caso
@@ -161,6 +168,13 @@ correcta
 carece
 ctica
 comparaciones
+cadenas
+concanetaci
+campos
+compararlo
+comparaci
+cnica
+centro
 enteros
 en
 el
@@ -206,6 +220,8 @@ escenario
 extremadamente
 encontrar
 estar
+emplea
+elif
 los
 lenguaje
 lograr
@@ -232,6 +248,9 @@ lN
 lE
 ld
 ltima
+llenar
+locals
+llamada
 int
 inmutable
 imaginaria
@@ -269,6 +288,10 @@ burbuja
 bien
 bases
 basa
+buscado
+busqueda
+backtracking
+busquedaBinaria
 Es
 Ejemplo
 El
@@ -286,6 +309,8 @@ Eg
 EQ
 Entonces
 Este
+Existe
+Esta
 se
 si
 siguientes
@@ -319,6 +344,7 @@ sJXe
 sd
 sf
 sencillo
+sigue
 fueran
 flotantes
 float
@@ -340,6 +366,9 @@ fm
 fu
 fo
 funciona
+format
+falsa
+fin
 asignaciones
 almacena
 analizaremos
@@ -378,6 +407,7 @@ aj
 algoritmo
 adyacentes
 asumir
+aquella
 jupyter
 jk
 jfv
@@ -438,6 +468,7 @@ mc
 mj
 my
 menor
+mitad
 que
 quisiera
 quiere
@@ -465,6 +496,8 @@ nEL
 nb
 ni
 nm
+nombres
+nosotros
 un
 una
 utilizan
@@ -501,6 +534,11 @@ rm
 rQ
 realiza
 recorrido
+reemplazo
+referencias
+resulta
+recursi
+return
 Suma
 Se
 Si
@@ -520,6 +558,7 @@ Fr
 FG
 FF
 Fm
+Formato
 vida
 varios
 vamos
@@ -540,6 +579,7 @@ vi
 vJ
 vq
 vV
+variables
 Divisiones
 Del
 Dentro
