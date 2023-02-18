@@ -37,6 +37,7 @@ ordenamiento
 ordenada
 oraciones
 omitir
+ordena
 dos
 datos
 decir
@@ -80,6 +81,7 @@ derecha
 denominado
 divide
 def
+directamente
 predefinidos
 procesan
 partir
@@ -175,6 +177,11 @@ compararlo
 comparaci
 cnica
 centro
+conteo
+computacional
+cada
+comprendidos
+countingSort
 enteros
 en
 el
@@ -222,6 +229,7 @@ encontrar
 estar
 emplea
 elif
+esa
 los
 lenguaje
 lograr
@@ -251,6 +259,9 @@ ltima
 llenar
 locals
 llamada
+lineal
+luego
+lose
 int
 inmutable
 imaginaria
@@ -274,6 +285,7 @@ intercambiando
 invariante
 iteraci
 idea
+informaci
 bool
 booleanos
 backslash
@@ -345,6 +357,8 @@ sd
 sf
 sencillo
 sigue
+sort
+supone
 fueran
 flotantes
 float
@@ -408,6 +422,7 @@ algoritmo
 adyacentes
 asumir
 aquella
+algun
 jupyter
 jk
 jfv
@@ -448,6 +463,7 @@ tx
 tJJv
 tS
 tomar
+tiempo
 memoria
 matem
 multiplicaci
@@ -469,6 +485,8 @@ mj
 my
 menor
 mitad
+mero
+menores
 que
 quisiera
 quiere
@@ -509,6 +527,8 @@ ug
 uB
 uHv
 utilidad
+utiliza
+ubicar
 representar
 representada
 representa
@@ -539,6 +559,7 @@ referencias
 resulta
 recursi
 return
+rango
 Suma
 Se
 Si
@@ -590,6 +611,7 @@ DD
 Dd
 DJ
 Db
+Determina
 Las
 La
 Los
@@ -620,6 +642,7 @@ CX
 Cf
 Cu
 Co
+Counting
 halla
 hacer
 habr
