@@ -19,6 +19,16 @@ Es recomendable utilizar la aplicación *Obsidian* para obtener la mejor visuali
 
 De esta forma la aplicación va a poder procesar cada referencia a imagenes y vínculos internos de una forma limpia y ordenada. 
 
+### Plugins 
+
+Los plugins ocupado en Obsidian para tener una mejor visualización y escritura del repositorio son los siguientes: 
+- Various complements 
+- Completr 
+- Jupyter plugin
+- Obsidian Git 
+
+El plugin de Jupyter Notebooks es muy recomendado para poder tener una colorización en la sintaxis de código en los repositorios relacionados a Python. 
+
 ### Actualizaciones 
 
 Gracias al *plug-in* de @denolehov las notas se van actualizando cada cierto tiempo en el repositorio. Las fechas de edición se encuentran en los comentarios de cada *commit*. 
