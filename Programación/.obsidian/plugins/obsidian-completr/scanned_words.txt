@@ -73,6 +73,8 @@ dL
 dW
 desordenados
 despues
+desde
+derecha
 predefinidos
 procesan
 partir
@@ -115,6 +117,8 @@ ph
 pt
 previamente
 posici
+poco
+pr
 como
 complejo
 caso
@@ -154,6 +158,9 @@ cr
 cN
 conocido
 correcta
+carece
+ctica
+comparaciones
 enteros
 en
 el
@@ -196,6 +203,9 @@ eB
 esima
 esimo
 escenario
+extremadamente
+encontrar
+estar
 los
 lenguaje
 lograr
@@ -221,6 +231,7 @@ lD
 lN
 lE
 ld
+ltima
 int
 inmutable
 imaginaria
@@ -243,6 +254,7 @@ idE
 intercambiando
 invariante
 iteraci
+idea
 bool
 booleanos
 backslash
@@ -254,6 +266,9 @@ basicamente
 bW
 bL
 burbuja
+bien
+bases
+basa
 Es
 Ejemplo
 El
@@ -269,6 +284,8 @@ Efu
 Ehf
 Eg
 EQ
+Entonces
+Este
 se
 si
 siguientes
@@ -301,6 +318,7 @@ sO
 sJXe
 sd
 sf
+sencillo
 fueran
 flotantes
 float
@@ -359,6 +377,7 @@ aF
 aj
 algoritmo
 adyacentes
+asumir
 jupyter
 jk
 jfv
@@ -418,6 +437,7 @@ mX
 mc
 mj
 my
+menor
 que
 quisiera
 quiere
@@ -455,6 +475,7 @@ uL
 ug
 uB
 uHv
+utilidad
 representar
 representada
 representa
@@ -478,6 +499,8 @@ rMMu
 rP
 rm
 rQ
+realiza
+recorrido
 Suma
 Se
 Si
@@ -563,6 +586,7 @@ habr
 hX
 hs
 hQwZ
+hasta
 Index
 In
 IN
@@ -580,6 +604,7 @@ gS
 gzr
 gy
 gcr
+grandes
 Un
 Uy
 UR
@@ -689,6 +714,7 @@ yq
 yF
 yD
 yp
+ya
 Jj
 Jv
 JQ
@@ -701,6 +727,7 @@ xh
 xR
 xnEO
 xab
+ximo
 Gl
 GO
 Vbh

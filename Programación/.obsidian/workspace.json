@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "800ab45b13556917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Tipos de datos/Diccionarios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0a7e5e775ed05842",
             "type": "leaf",
             "state": {
@@ -40,43 +28,19 @@
             }
           },
           {
-            "id": "790ff2ad51d0a16f",
+            "id": "8d28183def854108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Funciones/Argumento de funciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcd369bdea9c44d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Estructuras de control/Bucles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "681df7bec7f25049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Algoritmos/Bubble sort.md",
+                "file": "Python/Algoritmos/Busqueda binaria.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Bubble sort.md",
+                "file": "Python/Algoritmos/Busqueda binaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Bubble sort.md",
+                "file": "Python/Algoritmos/Busqueda binaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Bubble sort.md"
+                "file": "Python/Algoritmos/Busqueda binaria.md"
               }
             }
           }
@@ -203,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "681df7bec7f25049",
+  "active": "8d28183def854108",
   "lastOpenFiles": [
-    "bubblesort.webp",
     "Python/Algoritmos/Bubble sort.md",
+    "Python/Algoritmos/Busqueda binaria.md",
+    "bubblesort.webp",
     "Python/Estructuras de control/Bucles.md",
     "Python/Estructuras de control/Condicionales.md",
     "Python/Funciones/Argumento de funciones.md",
     "Python/Tipos de datos/Strings.md",
     "Python/Tipos de datos/Listas.md",
     "Python/Tipos de datos/Diccionarios.md",
-    "Python/Tipos de datos/Enteros.md",
-    "Python/Tipos de datos/Flotantes.md"
+    "Python/Tipos de datos/Enteros.md"
   ]
 }
