@@ -5,4 +5,12 @@ Este modelo se puede representar bajo un arbol binario:
 ![[heapsort.png|center]]
 
 
-Por lo tanto, se intenta ordenar una [[Listas|lista]] al dividir los elementos en un arbol binario. Un video que lo explica bien es el [siguiente](https://www.youtube.com/watch?v=28KxhS8P2Bg&ab_channel=IVANANDRESGUAPACHABARRERO). Por lo tanto se van creando hijos a través de una raiz principal que lo representa el primer elemento indexado. 
+Por lo tanto, se intenta ordenar una [[Listas|lista]] al dividir los elementos en un arbol binario. Un video que lo explica bien es el [siguiente](https://www.youtube.com/watch?v=28KxhS8P2Bg&ab_channel=IVANANDRESGUAPACHABARRERO). Por lo tanto se van creando hijos a través de una raiz principal que lo representa el primer elemento indexado.  
+
+La idea es que **cada nodo padre debe ser mayor que los nodos hijos**. Por eso mismo, si no se cumple la condición los elementos se deberían permutar. 
+
+Entonces, se realiza el siguiente procedimiento para poder ordenar el arbol cumpliendo las condiciones: 
+
+```jupyter 
+
+def maxHeapif
