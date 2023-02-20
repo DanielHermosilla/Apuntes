@@ -79,15 +79,18 @@ def construyeHeap(l):
 		maxHeapify(l, i, heapTamano)
 
 def heapSort(l):
-	construyeHeap(l):
+	construyeHeap(l)
 	heapTamano = len(l)
 	for i in range(len(l), 0, -1):
 		temp = l[0]
 		l[0] = l[i]
 		l[i] = temp
 		heapTamano -= 1
-		maxHeapify(1, 1, heapTamano)
+		maxHeapify(l, 1, heapTamano)
 
 # Prueba 
 
 l = [3,5,2,1]
+heapSort(l)
+
+```
