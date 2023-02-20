@@ -1,9 +1,0 @@
-
-
-```jupyter
-
-print("Hello world")
-
-```
-
- 

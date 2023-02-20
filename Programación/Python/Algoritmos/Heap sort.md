@@ -9,88 +9,84 @@ Por lo tanto, se intenta ordenar una [[Listas|lista]] al dividir los elementos e
 
 La idea es que **cada nodo padre debe ser mayor que los nodos hijos**. Por eso mismo, si no se cumple la condición los elementos se deberían permutar. 
 
-Entonces, se realiza el siguiente procedimiento para poder ordenar el arbol cumpliendo las condiciones: 
-
-```Python 
-
-# Recibe la lista (l), el indice (i) y el tamaño (valor 
-# entero asociado al nodo) del arbol binario. 
-
-
-def maxHeapify(l, i, tamano):
-	izq = 2 * i + 1
-	der = 2 * i + 2
-
-	if izq < tamano and l[izq] > l[i]:
-		maximo = izq
-	else: 
-		maximo = i
-
-	if der < tamano and l[der] > l[maximo]:
-		maximo = der 
-
-	if maximo is not i: # Generación de un subarbol 
-		temp = l[i]
-		l[i] = l[maximo]
-		l[maximo] = temp
-		maxHeapify(1, maximo, tamano)
-
-```
-
 La idea del algoritmo es que al ir permutando todos los elementos entre sí se va a llegar a un punto donde la raiz sea el mayor elemento. Por lo tanto, se guarda ese elemento en la **nueva lista ordenada** y se vuelve a realizar el procedimiento por recursión. La recursión partiría con el último elemento en el arbol, de derecha a izquierda. 
 
-Para construir el heap (arbol binario ordenado) se considera la siguiente función: 
+Otra forma alternativa sería ocupando [[Bucles|bucles]], ya que al trabajar con [[Listas|listas]] muy grandes se podría llegar a un error de recursión máxima. 
 
-```Python
-
-def construyeHeap(l):
-	heapTamano = len(l)
-	for i in range(int(len(l)/2), -1, -1):
-		maxHeapify(l, i, heapTamano)
-
-```
-
-Por último, el algoritmo completo sería el siguiente: 
+Por lo tanto el algoritmo sería el siguiente:
 
 ```jupyter
+  
 
-def maxHeapify(l, i, tamano):
-	izq = 2 * i + 1
-	der = 2 * i + 2
+# Va a ir intercambiando los elementos del arbol
 
-	if izq < tamano and l[izq] > l[i]:
-		maximo = izq
-	else: 
-		maximo = i
+def swap(lst, i , j):
 
-	if der < tamano and l[der] > l[maximo]:
-		maximo = der 
+	lst[i], lst[j] = lst[j], lst[i]
 
-	if maximo is not i: # Generación de un subarbol 
-		temp = l[i]
-		l[i] = l[maximo]
-		l[maximo] = temp
-		maxHeapify(1, maximo, tamano)
+# Sacar el elemento raiz
 
+def siftDown(lst, i, upper):
 
-def construyeHeap(l):
-	heapTamano = len(l)
-	for i in range(int(len(l)/2), -1, -1):
-		maxHeapify(l, i, heapTamano)
+	while (True):
 
-def heapSort(l):
-	construyeHeap(l)
-	heapTamano = len(l)
-	for i in range(len(l), 0, -1):
-		temp = l[0]
-		l[0] = l[i]
-		l[i] = temp
-		heapTamano -= 1
-		maxHeapify(l, 1, heapTamano)
+		l, r = i*2+1, i*2+2
+		
+		if max(l, r) < upper:
+		
+			if lst[i] >= max(lst[l], lst[r]):
+			
+				break
+			
+			elif lst[l] > lst[r]:
+			
+				swap(lst, i, l)
+				i = l
+			
+			else:
+				swap(lst, i, r)
+		
+		elif l < upper:
+		
+			if lst[l] > lst[i]:
+			
+				swap(lst, i, l)
+				i = l
+			
+			else:
+				break
+		
+		elif r < upper:
+	
+			if lst[r] > lst[i]:
+			
+				swap(lst, i, r)
+				i = r
+			
+			else:
+				break
+		
+		else:
+			break
 
-# Prueba 
+# Función principal
 
-l = [3,5,2,1]
-heapSort(l)
+def heapsort(lst):
+
+	for j in range(len(lst)-2//2, -1, -1):
+	
+		siftDown(lst, j , len(lst))
+
+	for end in range(len(lst)-1, 0, -1):
+	
+		swap(lst, 0, end)
+		siftDown(lst, 0, end)
+
+# Test
+
+lst = [5, 16, 18, 20, 43, 90, 21, 6, 1, 32, 24, 6, 7]
+
+heapsort(lst)
+print(lst)
 
 ```
