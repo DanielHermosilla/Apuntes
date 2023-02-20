@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -191,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a4d65cc625cc44a",
+  "active": "1c8e510f5649ba2c",
   "lastOpenFiles": [
     "Python/Algoritmos/Counting sort.md",
     "Python/Algoritmos/Busqueda binaria.md",
