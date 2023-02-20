@@ -37,7 +37,7 @@ def maxHeapify(l, i, tamano):
 
 ```
 
-Ahora, para lsa construcción del heap se emplea la siguiente función: 
+Ahora, para la construcción del heap se emplea la siguiente función: 
 
 ```Python
 
