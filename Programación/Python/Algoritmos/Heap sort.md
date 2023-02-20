@@ -37,10 +37,57 @@ def maxHeapify(l, i, tamano):
 
 ```
 
-Ahora, para la construcción del heap se emplea la siguiente función: 
+La idea del algoritmo es que al ir permutando todos los elementos entre sí se va a llegar a un punto donde la raiz sea el mayor elemento. Por lo tanto, se guarda ese elemento en la **nueva lista ordenada** y se vuelve a realizar el procedimiento por recursión. La recursión partiría con el último elemento en el arbol, de derecha a izquierda. 
+
+Para construir el heap (arbol binario ordenado) se considera la siguiente función: 
 
 ```Python
 
 def construyeHeap(l):
 	heapTamano = len(l)
-	for i in range (int)
+	for i in range(int(len(l)/2), -1, -1):
+		maxHeapify(l, i, heapTamano)
+
+```
+
+Por último, el algoritmo completo sería el siguiente: 
+
+```jupyter
+
+def maxHeapify(l, i, tamano):
+	izq = 2 * i + 1
+	der = 2 * i + 2
+
+	if izq < tamano and l[izq] > l[i]:
+		maximo = izq
+	else: 
+		maximo = i
+
+	if der < tamano and l[der] > l[maximo]:
+		maximo = der 
+
+	if maximo is not i: # Generación de un subarbol 
+		temp = l[i]
+		l[i] = l[maximo]
+		l[maximo] = temp
+		maxHeapify(1, maximo, tamano)
+
+
+def construyeHeap(l):
+	heapTamano = len(l)
+	for i in range(int(len(l)/2), -1, -1):
+		maxHeapify(l, i, heapTamano)
+
+def heapSort(l):
+	construyeHeap(l):
+	heapTamano = len(l)
+	for i in range(len(l), 0, -1):
+		temp = l[0]
+		l[0] = l[i]
+		l[i] = temp
+		heapTamano -= 1
+		maxHeapify(1, 1, heapTamano)
+
+# Prueba 
+
+l = [3,5,2,1]
