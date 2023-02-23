@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos/Tuplas.md",
+                "file": "Python/Algoritmos/Quick Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -171,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b91bc83967599df",
+  "active": "caaa19f9ca0bc436",
   "lastOpenFiles": [
-    "Python/Algoritmos/Bubble sort.md",
-    "Python/Algoritmos/Quick Sort.md",
-    "Python/Tipos de datos/Enteros.md",
     "Python/Algoritmos/Heap sort.md",
+    "Python/Algoritmos/Quick Sort.md",
+    "Python/Algoritmos/Bubble sort.md",
     "Python/Algoritmos/Busqueda binaria.md",
     "Python/Algoritmos/Counting sort.md",
+    "Python/Tipos de datos/Tuplas.md",
+    "Python/Tipos de datos/Enteros.md",
     "Python/Tipos de datos/Strings.md",
     "bubblesort.webp",
-    "Python/Estructuras de control/Bucles.md",
-    "Python/Estructuras de control/Condicionales.md"
+    "Python/Estructuras de control/Bucles.md"
   ]
 }

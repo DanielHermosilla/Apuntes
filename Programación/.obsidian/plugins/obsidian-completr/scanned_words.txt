@@ -41,6 +41,7 @@ ordena
 ordenando
 ordenar
 optimizado
+ocupara
 dos
 datos
 decir
@@ -254,6 +255,7 @@ explica
 eso
 ese
 error
+expresada
 los
 lenguaje
 lograr
@@ -540,6 +542,7 @@ qlv
 qM
 queda
 quick
+quicksort
 ndar
 numero
 neas
@@ -760,6 +763,7 @@ QyTT
 Qk
 QY
 Quick
+Quicksort
 YPG
 YPCA
 Ys

@@ -42,3 +42,52 @@ print(QuickSort(array))
 
 ```
 
+### Quicksort optimizado 
+
+En este algoritmo de quicksort se ocupara un [[Bucles|bucle]] doble. La idea queda expresada bajo el siguiente [video](https://www.youtube.com/watch?v=MZaf_9IZCrc&ab_channel=KCAng)
+
+```jupyter 
+
+# Función que cambia de lugar elementos de la lista 
+
+def swap(lst, i , j):
+
+	lst[i], lst[j] = lst[j], lst[i]
+	
+# Algoritmo QuickSort optimizado 
+
+def QuickSort(array):
+
+	largo = len(array)
+	
+	if largo == 0:
+	
+		return []
+	
+	pivote = array.pop()
+	
+	menores = list()
+	
+	mayores = list()
+	
+	for i in range(largo-1):
+	
+		for j in range(largo-1):
+		
+			if j > pivote:
+				pass
+
+			else:
+				swap(array, i, j)
+			 
+		array.insert(pivote, i + 1)
+		
+	return QuickSort(menores) + [pivote] + QuickSort(mayores)
+
+# TEST 
+
+array = [55,66,22,33,99,88,11,44]
+
+print(QuickSort(array))
+
+```
