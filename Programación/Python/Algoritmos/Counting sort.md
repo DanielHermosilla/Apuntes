@@ -1,4 +1,4 @@
-Counting sort u ordenamiento por conteo es un algoritmo que ordena una [[Listas|lista]] de elementos en tiempo computacional lineal. Determina para cada elemento el número de elementos menores a este, luego utiliza esa información para ubicar directamente el elemento en su posición en la [[Listas|lista]] ordenada.  Para hacer este algoritmo se supone que lose elementos están comprendidos en un rango $\lbrace a_0,\dots,a_n\rbrace$ para algun [[Enteros|entero]] $k$. 
+Counting sort u ordenamiento por conteo es un algoritmo que ordena una [[Listas|lista]] de elementos en tiempo computacional lineal. Determina para cada elemento el número de elementos menores a este, luego utiliza esa información para ubicar directamente el elemento en su posición en la [[Listas|lista]] ordenada.  Para hacer este algoritmo se supone que los elementos están comprendidos en un rango $\lbrace a_0,\dots,a_n\rbrace$ para algun [[Enteros|entero]] $k$. 
 
 ```jupyter
 

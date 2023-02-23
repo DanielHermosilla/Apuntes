@@ -75,21 +75,18 @@ def QuickSort(array):
 		for j in range(largo-1):
 		
 			if array[j] > pivote:
-				pass
+				None
 
 			else:
 				i += 1
 				swap(array, i, j)
-		i -= 1
+
+		
 		array.insert(i+1, pivote)
-		menores = array[0:i]
+		menores = array[0:i+1]
 		mayores = array[i+2:]
 		break
 
-	print(menores)
-	print(mayores)
-	print(pivote)
-	print(array)
 	return QuickSort(menores) + [pivote] + QuickSort(mayores)
 
 # TEST 
