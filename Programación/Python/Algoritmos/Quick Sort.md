@@ -80,7 +80,10 @@ def QuickSort(array):
 			else:
 				i += 1
 				swap(array, i, j)
-			 
+
+		if len(array) <= i + 1:
+			array.append(pivote)
+			
 		array.insert(i+1, pivote)
 		menores = array[0:i]
 		mayores = array[i+2:]
