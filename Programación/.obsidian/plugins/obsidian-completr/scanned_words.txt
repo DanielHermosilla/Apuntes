@@ -42,6 +42,7 @@ ordenando
 ordenar
 optimizado
 ocupara
+orden
 dos
 datos
 decir
@@ -201,6 +202,8 @@ comprendidos
 countingSort
 creando
 condici
+conquistar
+comparar
 enteros
 en
 el
@@ -290,6 +293,8 @@ luego
 lose
 lugar
 llegar
+lema
+logrando
 int
 inmutable
 imaginaria
@@ -468,6 +473,7 @@ jk
 jfv
 jU
 jj
+juntar
 True
 Tambi
 TTms
@@ -580,6 +586,7 @@ uHv
 utilidad
 utiliza
 ubicar
+uniendo
 representar
 representada
 representa
@@ -616,6 +623,10 @@ recorriendo
 reducir
 rendimiento
 recorrer
+realizando
+reordenar
+recursividad
+recursivamente
 Suma
 Se
 Si
@@ -730,6 +741,7 @@ gy
 gcr
 grandes
 guarda
+generan
 Un
 Uy
 UR
