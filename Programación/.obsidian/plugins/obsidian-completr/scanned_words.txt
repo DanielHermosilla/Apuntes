@@ -38,6 +38,8 @@ ordenada
 oraciones
 omitir
 ordena
+ordenando
+ordenar
 dos
 datos
 decir
@@ -82,6 +84,10 @@ denominado
 divide
 def
 directamente
+dise
+durante
+debe
+deber
 predefinidos
 procesan
 partir
@@ -128,6 +134,11 @@ poco
 pr
 palabras
 predefinidas
+padre
+permutar
+permutando
+punto
+procedimiento
 como
 complejo
 caso
@@ -182,6 +193,8 @@ computacional
 cada
 comprendidos
 countingSort
+creando
+condici
 enteros
 en
 el
@@ -230,6 +243,12 @@ estar
 emplea
 elif
 esa
+emplean
+ejecuci
+explica
+eso
+ese
+error
 los
 lenguaje
 lograr
@@ -262,6 +281,8 @@ llamada
 lineal
 luego
 lose
+lugar
+llegar
 int
 inmutable
 imaginaria
@@ -286,6 +307,11 @@ invariante
 iteraci
 idea
 informaci
+introduce
+intenta
+indexado
+ir
+izquierda
 bool
 booleanos
 backslash
@@ -304,6 +330,7 @@ buscado
 busqueda
 backtracking
 busquedaBinaria
+binario
 Es
 Ejemplo
 El
@@ -359,6 +386,7 @@ sencillo
 sigue
 sort
 supone
+sea
 fueran
 flotantes
 float
@@ -383,6 +411,7 @@ funciona
 format
 falsa
 fin
+fuera
 asignaciones
 almacena
 analizaremos
@@ -423,6 +452,8 @@ adyacentes
 asumir
 aquella
 algun
+arbol
+alternativa
 jupyter
 jk
 jfv
@@ -464,6 +495,8 @@ tJJv
 tS
 tomar
 tiempo
+trav
+trabajar
 memoria
 matem
 multiplicaci
@@ -487,6 +520,9 @@ menor
 mitad
 mero
 menores
+manejar
+modelo
+mayor
 que
 quisiera
 quiere
@@ -516,6 +552,9 @@ ni
 nm
 nombres
 nosotros
+nodo
+nodos
+nueva
 un
 una
 utilizan
@@ -560,6 +599,7 @@ resulta
 recursi
 return
 rango
+raiz
 Suma
 Se
 Si
@@ -601,6 +641,9 @@ vJ
 vq
 vV
 variables
+video
+van
+vuelve
 Divisiones
 Del
 Dentro
@@ -650,6 +693,7 @@ hX
 hs
 hQwZ
 hasta
+hijos
 Index
 In
 IN
@@ -668,6 +712,7 @@ gzr
 gy
 gcr
 grandes
+guarda
 Un
 Uy
 UR
@@ -682,6 +727,7 @@ RIFF
 Rs
 Rc
 Rm
+Realiza
 WEBPVP
 Wq
 WR
@@ -769,6 +815,7 @@ OCX
 Oj
 Oi
 Ow
+Otra
 MS
 Mb
 MN
@@ -791,6 +838,7 @@ xR
 xnEO
 xab
 ximo
+xima
 Gl
 GO
 Vbh
