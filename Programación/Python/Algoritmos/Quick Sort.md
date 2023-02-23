@@ -63,7 +63,7 @@ def QuickSort(array):
 	if largo == 0:
 	
 		return []
-	
+
 	pivote = array.pop()
 	
 	menores = list()
@@ -80,10 +80,7 @@ def QuickSort(array):
 			else:
 				i += 1
 				swap(array, i, j)
-
-		if len(array) <= i + 1:
-			array.append(pivote)
-			
+		i -= 1
 		array.insert(i+1, pivote)
 		menores = array[0:i]
 		mayores = array[i+2:]
@@ -92,6 +89,7 @@ def QuickSort(array):
 	print(menores)
 	print(mayores)
 	print(pivote)
+	print(array)
 	return QuickSort(menores) + [pivote] + QuickSort(mayores)
 
 # TEST 
