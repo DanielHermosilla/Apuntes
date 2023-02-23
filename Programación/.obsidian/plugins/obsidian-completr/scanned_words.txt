@@ -40,6 +40,7 @@ omitir
 ordena
 ordenando
 ordenar
+optimizado
 dos
 datos
 decir
@@ -88,6 +89,8 @@ dise
 durante
 debe
 deber
+dividiendo
+distintos
 predefinidos
 procesan
 partir
@@ -139,6 +142,8 @@ permutar
 permutando
 punto
 procedimiento
+pivotes
+pivote
 como
 complejo
 caso
@@ -350,6 +355,7 @@ Entonces
 Este
 Existe
 Esta
+Esto
 se
 si
 siguientes
@@ -387,6 +393,7 @@ sigue
 sort
 supone
 sea
+seg
 fueran
 flotantes
 float
@@ -532,6 +539,7 @@ qYWk
 qlv
 qM
 queda
+quick
 ndar
 numero
 neas
@@ -555,6 +563,7 @@ nosotros
 nodo
 nodos
 nueva
+nicamente
 un
 una
 utilizan
@@ -600,6 +609,10 @@ recursi
 return
 rango
 raiz
+recorriendo
+reducir
+rendimiento
+recorrer
 Suma
 Se
 Si
@@ -609,6 +622,7 @@ Sig
 Stz
 SP
 Sn
+Sort
 Funcionan
 Funciones
 Fk
@@ -745,6 +759,7 @@ QM
 QyTT
 Qk
 QY
+Quick
 YPG
 YPCA
 Ys
