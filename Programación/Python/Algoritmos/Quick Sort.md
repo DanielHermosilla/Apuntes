@@ -1,0 +1,1 @@
+El algoritmo quick sort consiste en ocupar pivotes dentro de las [[Listas|listas]] e ir comparando los elementos 
