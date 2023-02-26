@@ -81,6 +81,6 @@ Otros usos que tienen son implementaciones combinatoriales como permutaciones, c
 
 - *Permutations*: Equivale a permutaciones, también recibe como [[Argumento de funciones|argumento]] un [[Listas|array]]. 
 
-- Combinations: Lo mismo para combinaciones, con el mismo tipo de [[Argumento de funciones|argumento]] que las anteriores. 
+- *Combinations*: Lo mismo para combinaciones, con el mismo tipo de [[Argumento de funciones|argumento]] que las anteriores. 
 
-- Combinations_with_replacement: Son combinaciones con repetición, que reciben una lista. 
+- *Combinations_with_replacement*: Son combinaciones con repetición, que reciben una lista. 
