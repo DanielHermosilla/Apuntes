@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bde387598050746f",
+        "id": "ba732fd64bf0be8b",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a4330a707a6437",
+            "id": "259fd92578cef4fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Métodos Experimentales/Corriente alterna/Circuito RLC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Métodos Experimentales/Corriente alterna/Circuito RLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Métodos Experimentales/Corriente alterna/Circuito RLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Métodos Experimentales/Corriente alterna/Circuito RLC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a4330a707a6437",
+  "active": "259fd92578cef4fe",
   "lastOpenFiles": [
-    "Métodos Experimentales/Corriente alterna/Impedancia.md",
     "Métodos Experimentales/Corriente alterna/Circuito RLC.md",
+    "Métodos Experimentales/Corriente alterna/Impedancia.md",
     "Métodos Experimentales/Corriente alterna/Corriente alterna.md",
     "Métodos Experimentales/Corriente alterna/Circuito RL.md",
     "Métodos Experimentales/Corriente alterna/Circuito LC.md",
