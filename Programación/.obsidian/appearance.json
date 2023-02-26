@@ -4,5 +4,8 @@
   "enabledCssSnippets": [
     "centermenu"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "translucency": true
 }
