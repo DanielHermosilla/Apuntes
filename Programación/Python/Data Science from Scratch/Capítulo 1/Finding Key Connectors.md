@@ -12,7 +12,7 @@ users = [
 	    { "id": 6, "name": "Hicks" },
 	    { "id": 7, "name": "Devin" },
 	    { "id": 8, "name": "Kate" },
-	    { "id": 9, "name": "Klein" }”
+	    { "id": 9, "name": "Klein" }
 
 ]
 ```
