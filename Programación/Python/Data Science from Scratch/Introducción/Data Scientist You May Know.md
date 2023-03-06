@@ -86,4 +86,58 @@ interests = [
     (9, "Java"), (9, "MapReduce"), (9, "Big Data")
 ]
 
+```
+
+A partir de esto se podría ver que Thor no tiene amigos en común con Devin pero si tienen el mismo interes por *machine learning*. 
+
+Por lo tanto, se podría construir una función que encuentre a usuarios con cierto interes.
+
+```Python 
+
+def data_scientist_who_like(target_interest):
+
+	return [user_id
+			for user_id, user_interest in interests
+			if user_interest == target_interest]
+```
+
+Este código funciona pero tiene que examinar toda la lista de intereses por cada busqueda, lo que es poco óptimo (aquí se podrían aplicar algoritmos de busquedas, como la [[Busqueda binaria|busqueda binaria]]). El libro opta por construir índices de los intereses de los usuarios. 
+
+```Python 
+
+from collections import defaultdict 
+
+# Las llaves son los intereses, los valores son listas de los id's de usuarios con ese interés 
+
+user_ids_by_interest = defaultdict(list)
+
+for user_id, interest in interests:
+	user_ids_by_interest[interest].append(user_id)
+
+# Se puede realizar lo mismo pero al revéz 
+
+interests_by_user_id = defaultdict(list)
+
+for user_id, interests in interests:
+	interests_by_user_id[user_id].append(interest)
+	
+```
+
+De tal forma, se tiene un [[Diccionarios|diccionario]] que va a contener a todos los usuarios con cierto interes. Mucho más facil y cómodo que ir preguntando cada vez en una [[Listas|lista]].  
+
+Por último, se puede integrar una función para poder encontrar a gente con intereses comunes: 
+
+```Python 
+
+def most_common_interests_with(user):
+
+	return Counter(interested_user_id
+	
+			for interest in interests_by_user_id[user["id"]]
+			
+			for interested_user_id in user_ids_by_interest[interest]
+			
+			if interested_user_id != user["id"])
+
+```
 
