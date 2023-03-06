@@ -122,3 +122,18 @@ def data_scientist_who_like(target_interest):
             for user_id, user_interest in interests
             if user_interest == target_interest]
 
+from collections import defaultdict
+
+# Se van a ocupar las llaves para añadir el interes y los valores para poner los 
+# ids de los usuarios con ese interés 
+
+user_ids_by_interest = defaultdict(list)
+
+for user_id, interest in interests: 
+    user_ids_by_interest[interest].append(user_id)
+
+# Se crea otro diccionario que funciona al inverso; del usuario al interés
+interests_by_user_id = defaultdict(list)
+
+for user_id, interests in interests:
+    interests_by_user_id[user_id].append(interest)
