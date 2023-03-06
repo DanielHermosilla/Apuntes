@@ -92,7 +92,7 @@ numeroAmigosPorId = [(users["id"],numeroDeAmigos(user))
 
 # Ordenamos la lista, en este caso se ocupa el método nativo de Python de sortear listas
 
-sorted(numeroAmigosPorId, key=lambda (idUsuario, numeroAmigos): numeroAmigos, numeroAmigos, reverse = True)
+sorted(numeroAmigosPorId, key=lambda (idUsuario, numeroAmigos): numeroAmigos, numeroAmigos, reverse = True) # Esto solo funciona en Python 2, revisar el código Introduccion.py
 
 ```
 

@@ -6,8 +6,6 @@ Los ejemplos gráficos y explicaciones se encuentran en los archivos Markdown ad
   
 """
 
-from collections import Counter 
-
 #  Lista de diccionarios que contiene a los usuarios de la red social 
 
 users = [
@@ -54,11 +52,21 @@ total_connections = sum(number_of_friends(user)
 num_users = len(users)
 avg_connections = total_connections / num_users
 
+# Y ordenar una lista de más amigos a menos amigos 
+
+num_friends_by_id = [(user["id"], number_of_friends(user)) for user in users]
+sorted(num_friends_by_id,
+       key= lambda userid_numfriends: userid_numfriends[1],
+       reverse=True)
+
 """ 
 
 "Data Scientist You May Know" 
 
 """
+
+from collections import Counter 
+
 
 # Buscamos la forma en sugerir a un usuario pueda conocer a otro al mostrar amigos de amigos 
 
@@ -68,4 +76,25 @@ def friends_of_friends_ids_bad(user):
             for foaf in friend["friends"]] # Obtener cada uno de los amigos de estos 
 
 
-print(friends_of_friends_ids_bad(users[0]))
+# Para contar los amigos mutuos implementamos una función que los va contando 
+# Antes que nada implementamos una función que nos dice que no son un mismo usuario 
+# o que no son amigos 
+
+def not_the_same(user, other_user): 
+    return user["id"] != other_user["id"]
+
+def not_friends(user, other_user):
+    return all(not_the_same(friend,other_user)
+               for friend in user["friends"])
+
+
+def friends_of_friend_ids(user):
+    return Counter(foaf["id"]
+                   for friend in user["friends"]  # for each of my friends
+                   for foaf in friend["friends"]  # count *their* friends
+                   if not_the_same(user, foaf)    # who aren't me
+                   and not_friends(user, foaf))   # and aren't my friends
+
+userX = users[3]
+print(friends_of_friend_ids(userX))
+
