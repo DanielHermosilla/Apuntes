@@ -90,6 +90,14 @@ También es posible encontrar las personas más conectadas, que serían las pers
 numeroAmigosPorId = [(users["id"],numeroDeAmigos(user))
 					for user in users] 
 
-# Ordenamos la lista, en este caso no se explicíta el método de ordenamiento como tal. 
+# Ordenamos la lista, en este caso se ocupa el método nativo de Python de sortear listas
 
-sorted( )
+sorted(numeroAmigosPorId, key=lambda (idUsuario, numeroAmigos): numeroAmigos, numeroAmigos, reverse = True)
+
+```
+
+Una forma de visualizar lo que se realizó es identificar a las personas que son centrales a la red. De hecho, esto se llama *degree centrality*. 
+
+![[degreeCentrality.png|center]]
+
+Esto tiene la virtud de ser fácil de calcular, aunque no da los resultados que se esperarían. Por ejemplo, podríamos apreciar que el usuario "1" tiene 3 conexiones, mientras el usuario "4" tiene solamente dos. Por ende, debería dar la impresión de que Dunn (usuario 1) esté mas centralizado. 

@@ -99,6 +99,9 @@ distintos
 dictados
 dia
 dan
+degree
+da
+dar
 predefinidos
 procesan
 partir
@@ -156,6 +159,8 @@ podriamos
 preguntar
 promedio
 personas
+pocos
+pide
 como
 complejo
 caso
@@ -224,6 +229,14 @@ cap
 contiene
 conexiones
 conectadas
+centrales
+centrality
+cil
+calcular
+centralizado
+conocerse
+computar
+cero
 enteros
 en
 el
@@ -282,6 +295,8 @@ expresada
 esta
 ejercicios
 empezar
+esperar
+ejemplos
 los
 lenguaje
 lograr
@@ -320,6 +335,7 @@ lema
 logrando
 libro
 largo
+llama
 int
 inmutable
 imaginaria
@@ -351,6 +367,10 @@ ir
 izquierda
 id
 ilustra
+identificar
+impresi
+incorporar
+instinto
 bool
 booleanos
 backslash
@@ -432,6 +452,10 @@ sea
 seg
 social
 sumar
+solamente
+sugerencia
+scientists
+sugerir
 fueran
 flotantes
 float
@@ -512,6 +536,11 @@ asignamos
 ahi
 append
 aden
+algunos
+aunque
+amos
+apreciar
+amigo
 jupyter
 jk
 jfv
@@ -587,6 +616,8 @@ menores
 manejar
 modelo
 mayor
+menos
+mientras
 que
 quisiera
 quiere
@@ -624,6 +655,8 @@ nueva
 nicamente
 necesario
 nos
+nota
+nombrar
 un
 una
 utilizan
@@ -683,6 +716,8 @@ recursivamente
 realizados
 rez
 red
+realiz
+resultados
 Suma
 Se
 Si
@@ -732,6 +767,8 @@ video
 van
 vuelve
 vacia
+visualizar
+virtud
 Divisiones
 Del
 Dentro
@@ -746,6 +783,8 @@ Determina
 Data
 Datos
 DataSciencester
+De
+Dunn
 Las
 La
 Los
@@ -758,6 +797,7 @@ Lk
 Lq
 Lj
 LtB
+Luego
 Al
 Adem
 Ahora
@@ -797,6 +837,7 @@ hQwZ
 hasta
 hijos
 han
+hecho
 Index
 In
 IN
@@ -805,6 +846,7 @@ IXV
 IY
 Ii
 Inteligencia
+Incluye
 gico
 generar
 gran
@@ -828,6 +870,7 @@ Uu
 Uv
 Uf
 Ux
+Una
 RIFF
 Rs
 Rc
@@ -852,6 +895,7 @@ Qk
 QY
 Quick
 Quicksort
+Que
 YPG
 YPCA
 Ys
@@ -919,12 +963,14 @@ Hb
 Hc
 HW
 HM
+Hero
 OPB
 OCX
 Oj
 Oi
 Ow
 Otra
+Otros
 MS
 Mb
 MN
