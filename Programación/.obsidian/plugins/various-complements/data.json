@@ -142,6 +142,38 @@
           "lastUpdated": 1677376961626
         }
       }
+    },
+    "friends": {
+      "friends": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678111195546
+        }
+      }
+    },
+    "users": {
+      "users": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1678111780767
+        }
+      }
+    },
+    "conexionesTotales": {
+      "conexionesTotales": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678111346721
+        }
+      }
+    },
+    "numeroUsuarios": {
+      "numeroUsuarios": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678111352644
+        }
+      }
     }
   }
 }

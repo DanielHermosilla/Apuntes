@@ -13,6 +13,7 @@ Pe
 PAj
 PU
 Principles
+Primero
 ofrece
 ordenador
 ocupa
@@ -44,6 +45,7 @@ ordenar
 optimizado
 ocupara
 orden
+obtenemos
 dos
 datos
 decir
@@ -95,6 +97,8 @@ deber
 dividiendo
 distintos
 dictados
+dia
+dan
 predefinidos
 procesan
 partir
@@ -148,6 +152,10 @@ punto
 procedimiento
 pivotes
 pivote
+podriamos
+preguntar
+promedio
+personas
 como
 complejo
 caso
@@ -212,6 +220,10 @@ cursos
 creados
 cticos
 curso
+cap
+contiene
+conexiones
+conectadas
 enteros
 en
 el
@@ -269,6 +281,7 @@ error
 expresada
 esta
 ejercicios
+empezar
 los
 lenguaje
 lograr
@@ -306,6 +319,7 @@ llegar
 lema
 logrando
 libro
+largo
 int
 inmutable
 imaginaria
@@ -335,6 +349,8 @@ intenta
 indexado
 ir
 izquierda
+id
+ilustra
 bool
 booleanos
 backslash
@@ -354,6 +370,7 @@ busqueda
 backtracking
 busquedaBinaria
 binario
+basta
 Es
 Ejemplo
 El
@@ -413,6 +430,8 @@ sort
 supone
 sea
 seg
+social
+sumar
 fueran
 flotantes
 float
@@ -440,6 +459,8 @@ fin
 fuera
 facultad
 from
+formado
+figura
 asignaciones
 almacena
 analizaremos
@@ -485,6 +506,12 @@ alternativa
 apuntes
 archivos
 aborde
+amigos
+amistad
+asignamos
+ahi
+append
+aden
 jupyter
 jk
 jfv
@@ -530,6 +557,10 @@ tiempo
 trav
 trabajar
 transcribir
+tulo
+trabajando
+tal
+total
 memoria
 matem
 multiplicaci
@@ -592,6 +623,7 @@ nodos
 nueva
 nicamente
 necesario
+nos
 un
 una
 utilizan
@@ -606,6 +638,8 @@ utilidad
 utiliza
 ubicar
 uniendo
+usuarios
+usuario
 representar
 representada
 representa
@@ -648,6 +682,7 @@ recursividad
 recursivamente
 realizados
 rez
+red
 Suma
 Se
 Si
@@ -696,6 +731,7 @@ variables
 video
 van
 vuelve
+vacia
 Divisiones
 Del
 Dentro
@@ -709,6 +745,7 @@ Db
 Determina
 Data
 Datos
+DataSciencester
 Las
 La
 Los
@@ -748,6 +785,9 @@ Counting
 Combinatoria
 Casta
 CC
+Consiste
+Con
+Cual
 halla
 hacer
 habr
@@ -756,6 +796,7 @@ hs
 hQwZ
 hasta
 hijos
+han
 Index
 In
 IN
@@ -818,6 +859,7 @@ Yb
 YZ
 YY
 Yd
+Ya
 NS
 NNj
 NJ
