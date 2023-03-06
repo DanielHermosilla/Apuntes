@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Merge Sort.md",
+                "file": "Python/Funciones/Argumento de funciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Merge Sort.md",
+                "file": "Python/Funciones/Argumento de funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Merge Sort.md",
+                "file": "Python/Funciones/Argumento de funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Merge Sort.md"
+                "file": "Python/Funciones/Argumento de funciones.md"
               }
             }
           }
@@ -147,11 +146,12 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1c8e510f5649ba2c",
+  "active": "e174ba4b78e1e45d",
   "lastOpenFiles": [
+    "README.md",
+    "Python/Algoritmos/Merge Sort.md",
     "Python/Librerias/Itertools.md",
     "2023-02-26.md",
-    "Python/Algoritmos/Merge Sort.md",
     "Python/Librerias/Librerias.md",
     "Python/Algoritmos/Quick Sort.md",
     "Python/Algoritmos/Heap sort.md",

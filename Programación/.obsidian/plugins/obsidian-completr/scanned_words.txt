@@ -12,6 +12,7 @@ Pw
 Pe
 PAj
 PU
+Principles
 ofrece
 ordenador
 ocupa
@@ -93,6 +94,7 @@ debe
 deber
 dividiendo
 distintos
+dictados
 predefinidos
 procesan
 partir
@@ -204,6 +206,12 @@ creando
 condici
 conquistar
 comparar
+carpeta
+corresponden
+cursos
+creados
+cticos
+curso
 enteros
 en
 el
@@ -259,6 +267,8 @@ eso
 ese
 error
 expresada
+esta
+ejercicios
 los
 lenguaje
 lograr
@@ -295,6 +305,7 @@ lugar
 llegar
 lema
 logrando
+libro
 int
 inmutable
 imaginaria
@@ -363,6 +374,7 @@ Este
 Existe
 Esta
 Esto
+Estructuras
 se
 si
 siguientes
@@ -426,6 +438,8 @@ format
 falsa
 fin
 fuera
+facultad
+from
 asignaciones
 almacena
 analizaremos
@@ -468,6 +482,9 @@ aquella
 algun
 arbol
 alternativa
+apuntes
+archivos
+aborde
 jupyter
 jk
 jfv
@@ -512,6 +529,7 @@ tomar
 tiempo
 trav
 trabajar
+transcribir
 memoria
 matem
 multiplicaci
@@ -573,6 +591,7 @@ nodo
 nodos
 nueva
 nicamente
+necesario
 un
 una
 utilizan
@@ -627,6 +646,8 @@ realizando
 reordenar
 recursividad
 recursivamente
+realizados
+rez
 Suma
 Se
 Si
@@ -637,6 +658,8 @@ Stz
 SP
 Sn
 Sort
+Science
+Scratch
 Funcionan
 Funciones
 Fk
@@ -648,6 +671,7 @@ FG
 FF
 Fm
 Formato
+First
 vida
 varios
 vamos
@@ -683,6 +707,8 @@ Dd
 DJ
 Db
 Determina
+Data
+Datos
 Las
 La
 Los
@@ -703,6 +729,11 @@ Ai
 Am
 AP
 AI
+Aprender
+Artificial
+Algoritmos
+Arnaldo
+Aun
 Count
 Cuando
 Consisten
@@ -714,6 +745,9 @@ Cf
 Cu
 Co
 Counting
+Combinatoria
+Casta
+CC
 halla
 hacer
 habr
@@ -729,6 +763,7 @@ Is
 IXV
 IY
 Ii
+Inteligencia
 gico
 generar
 gran
@@ -825,6 +860,7 @@ ws
 wf
 wJR
 wo
+with
 kS
 kkP
 kY
@@ -850,6 +886,7 @@ Otra
 MS
 Mb
 MN
+Muchos
 yi
 yq
 yF
@@ -863,6 +900,7 @@ Jd
 JE
 JR
 JXj
+Joel
 xm
 xh
 xR
@@ -872,5 +910,7 @@ ximo
 xima
 Gl
 GO
+Grafos
+Grus
 Vbh
 Vl
