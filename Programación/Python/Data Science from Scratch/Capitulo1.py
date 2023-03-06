@@ -54,11 +54,18 @@ total_connections = sum(number_of_friends(user)
 num_users = len(users)
 avg_connections = total_connections / num_users
 
-# Ordenar a la gente por su cantidad de amigos
+""" 
 
-num_friends_by_id = [(user["id"], number_of_friends(user))
-                        for user in users]
+"Data Scientist You May Know" 
 
-print(sorted(num_friends_by_id, 
-             
-             key=lambda user_id, num_friends: num_friends, reverse = True))
+"""
+
+# Buscamos la forma en sugerir a un usuario pueda conocer a otro al mostrar amigos de amigos 
+
+def friends_of_friends_ids_bad(user):
+    return [foaf["id"]
+            for friend in user["friends"] # Por cada amigo de un usuario
+            for foaf in friend["friends"]] # Obtener cada uno de los amigos de estos 
+
+
+print(friends_of_friends_ids_bad(users[0]))
