@@ -137,3 +137,13 @@ interests_by_user_id = defaultdict(list)
 
 for user_id, interests in interests:
     interests_by_user_id[user_id].append(interest)
+
+# Por lo tanto, se podría ver quien tiene mas interés en común con otro usuario bajo 
+# una simple función 
+
+def most_common_interests_with(user):
+    return Counter(interested_user_id
+                   for interest in interests_by_user_id[user["id"]]
+                   for interested_user_id in user_ids_by_interest[interest]
+                   if interested_user_id != user["id"])
+
