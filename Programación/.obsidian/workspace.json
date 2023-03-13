@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Busqueda binaria.md",
+                "file": "Python/Tipos de datos/Listas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Busqueda binaria.md",
+                "file": "Python/Tipos de datos/Listas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Busqueda binaria.md",
+                "file": "Python/Tipos de datos/Listas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Busqueda binaria.md"
+                "file": "Python/Tipos de datos/Listas.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "62d903b40b686920",
   "lastOpenFiles": [
     "Python/Tipos de datos/Strings.md",
+    "Python/Algoritmos/Busqueda binaria.md",
     "Python/Tipos de datos/Listas.md",
     "Python/Tipos de datos/Flotantes.md",
     "Python/Tipos de datos/Enteros.md",
@@ -176,7 +177,6 @@
     "Python/Algoritmos/Quick Sort.md",
     "Python/Algoritmos/Heap sort.md",
     "Python/Algoritmos/Counting sort.md",
-    "Python/Algoritmos/Busqueda binaria.md",
     "Python/Algoritmos/Bubble sort.md",
     "Python/Tipos de datos/Tuplas.md"
   ]

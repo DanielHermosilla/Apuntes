@@ -1,4 +1,4 @@
-Se considera entre la estructura de datos fundamentales de Python. Dada a su gran flexibilidad permite poder acoplarse sin inconvenientes a un sin fín de problemas. 
+Se considera entre la estructura de datos fundamentales de Python. Dada a su gran flexibilidad permite poder acoplarse sin inconvenientes a un sin fín de problemas. Es decir, son **modificables**.  
 
 ### Creación de una lista 
 
