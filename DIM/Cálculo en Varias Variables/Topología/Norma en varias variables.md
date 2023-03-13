@@ -4,7 +4,7 @@ $$ ||x|| = \sqrt{x\cdot x} = \sqrt{x_{1}^2 + x_{2}^2 + \dots + x_{d}^2} $$
 Esto ya es conocido para [[vectores]] en varias dimensiones, pero, aún así, vamos a introducir propiedades nuevas a tal definición: 
 
 1) $||x|| > 0 \; \forall x\in E$
-2) $||x|| = 0 \iff x = \vec{0} \; \forall x \in E$
+2) $||x|| = 0\iff x = \vec{0} \; \forall x \in E$
 3) $||\alpha x|| = |\alpha| \;||x||\;\forall x\in E, \forall\alpha\in\mathbb{K}$ 
 4) $||x + y|| \leq ||x|| + ||y|| \; \forall x,y\in E \;\;\enspace\enspace\text{(desigualdad triangular)}$
 
@@ -78,7 +78,7 @@ $$||x||_{\infty} > 0 \; \forall x\in E$$
 
 En efecto, notemos que como estamos trabajando con valor absoluto, entonces nos podemos asegurar que se cumple para todo valor de un [[vectores|vector]] asociado a $x$ que se cumple lo siguiente: 
 
-$$ |x_i| \geq 0 \enspace\enspace\forall i \in \lbrace1,\dots,n\rbrace \implies ||·||_\infty \geq 0$$ 
+$$ |x_i| \geq 0 \enspace\enspace\forall i \in \lbrace1,\dots,n\rbrace\implies ||·||_\infty \geq 0$$ 
 Pero, tenemos un mayor o igual a 0 y necesitamos que sea mayor **estricto** a 0.  *¿Cuándo tenemos que la norma infinita es igual a 0?*, como se define como el mayor elemento del valor absoluto de un vector entonces notemos que para que la norma sea igual a 0 necesitariamos tener que el vector sea el vector nulo. Esto se explicará en el siguiente punto, pero, podríamos decir que se cumple la primera propiedad. 
 
 2) Segunda propiedad; por demostrar que: 
@@ -106,7 +106,7 @@ Por último, notar que justamente $\max_{1 \leq i \leq n} \lbrace|x_i| \rbrace =
 $$||\alpha x||_\infty = |\alpha| \;||x||_\infty $$ 
 4) Cuarta propiedad; por demostrar que: 
 
-$$||x + y||_\infty \leq ||x||_\infty + ||y||_\infty \; \forall x,y\in E\; \;\enspace\enspace\text{(desigualdad triangular)}$$ 
+$$||x + y||_\infty \leq ||x||_\infty + ||y||_\infty \; \forall x,y\in E\;\;\enspace\enspace\text{(desigualdad triangular)}$$ 
 
 Notar que $||x + y||_\infty = \max_{1 \leq i \leq n} \lbrace|x_i + y_i| \rbrace$. Es decir, la máxima suma de cada elemento del vector sumado por sí sólo en el valor absoluto. Sea $c = \max_{1 \leq i \leq n} \lbrace|x_i + y_i| \rbrace$, por lo tanto, $c$ está definido por un $\bar{x}$ e $\bar{y}$ arbitrario: 
 
