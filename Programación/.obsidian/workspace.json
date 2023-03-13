@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac1988ad2d977a0a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "a6e941c00522ba5c",
+  "active": "ac1988ad2d977a0a",
   "lastOpenFiles": [
     "Python/Data Science from Scratch/Capítulo 1/Data Scientist You May Know.md",
     "Python/Data Science from Scratch/Capítulo 1",
