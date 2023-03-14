@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23ebc4c5e7adfe93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Repasos/Funciones/Continuidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "758bd7e0b9e17c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Repasos/Funciones/Derivada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "618e560a0e18952a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Repasos/Funciones/Derivada parcial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a658391a78de8f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Métricas de bienestar/Curva de Lorenz.md",
+                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Métricas de bienestar/Curva de Lorenz.md",
+                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Métricas de bienestar/Curva de Lorenz.md"
+                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md"
               }
             }
           }
@@ -146,10 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "a658391a78de8f8f",
   "lastOpenFiles": [
-    "curvaLorenz.png",
+    "img/GraficoIntegral.png",
+    "Probabilidades/Repasos/Funciones/Derivada parcial.md",
+    "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
+    "Probabilidades/Repasos/Integrales",
+    "Probabilidades/Repasos/Funciones/Derivada.md",
+    "Probabilidades/Repasos/Funciones",
+    "Probabilidades/Repasos/Funciones/Continuidad.md",
+    "img/funcioncontinua.png",
     "Economía/Métricas de bienestar/Curva de Lorenz.md",
+    "Probabilidades/Repasos/Conjuntos",
+    "curvaLorenz.png",
     "img/curvaLorenz 1.png",
     "Economía/Métricas de bienestar/Índice de Gini.md",
     "img/Gini3.png",
@@ -167,10 +225,10 @@
     "Economía/Variable nominal.md",
     "Economía/Economía.md",
     "Economía/Economía cerrada.md",
-    "Probabilidades/Repasos/Cardinalidad.md",
+    "Probabilidades/Repasos/Conjuntos/Cardinalidad.md",
     "img/EconomíaCerrada.png",
-    "Probabilidades/Repasos/Conjuntos.md",
-    "Probabilidades/Repasos/Producto cartesiano.md",
+    "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
+    "Probabilidades/Repasos/Conjuntos/Producto cartesiano.md",
     "Probabilidades/Teoría de probabilidades.md",
     "img",
     "img/Venn.png",
