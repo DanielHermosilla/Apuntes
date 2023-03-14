@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "somethingsnippet"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "cssTheme": "Catppuccin"
 }

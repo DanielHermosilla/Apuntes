@@ -1,0 +1,1 @@
+Se entiende como partícula a la concentración de cualquier objeto o cuerpo a la simplificación de un punto. 

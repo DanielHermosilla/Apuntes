@@ -68,6 +68,9 @@ disipando
 dfine
 decaimiento
 determinada
+dos
+distante
+describe
 fuerza
 forma
 fijar
@@ -89,6 +92,7 @@ filtro
 filtros
 frecuncias
 factor
+finito
 aplicada
 al
 aplicar
@@ -188,6 +192,7 @@ potencia
 postula
 punto
 progresivamente
+pantalla
 unidad
 una
 uno
@@ -235,6 +240,10 @@ resumen
 rmica
 rdida
 resonancia
+ramificaci
+rayo
+ranuras
+ranura
 Por
 Puede
 Producto
@@ -300,6 +309,7 @@ trayectoria
 transformadores
 te
 tica
+ticas
 se
 su
 sale
@@ -414,6 +424,7 @@ ciclo
 calidad
 cr
 curva
+causa
 Notemos
 Nos
 Newton
@@ -472,6 +483,9 @@ expresado
 efecto
 existe
 expresi
+electromagn
+explicar
+explica
 modificar
 masa
 mira
@@ -567,6 +581,7 @@ inductancia
 ir
 impedancia
 izquierda
+importante
 no
 neo
 ngulo
@@ -584,6 +599,7 @@ nimo
 natural
 notar
 nada
+normal
 homog
 haber
 hay
@@ -606,6 +622,7 @@ En
 Estado
 Entonces
 Este
+Estudio
 ya
 Se
 Son
@@ -613,9 +630,11 @@ Si
 Suma
 Similar
 Solo
+Superposici
 Donde
 Diferencia
 Dispositivo
+Difracci
 objeto
 otro
 obtenci
@@ -637,6 +656,9 @@ operar
 orden
 oscilaci
 obtenida
+ondas
+onda
+oscuras
 borde
 buena
 busca
@@ -645,6 +667,7 @@ bajo
 bater
 bajos
 bajas
+brillantes
 Ya
 Tenemos
 Tambi
@@ -652,11 +675,13 @@ Tiene
 Frecuencia
 Faradios
 Faraday
+Franjas
 Que
 La
 Los
 Llamamos
 Ley
+Lo
 Operaci
 Otra
 Ocupando

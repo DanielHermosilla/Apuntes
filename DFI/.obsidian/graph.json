@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 4698111
       }
+    },
+    {
+      "query": "path:Mecánica",
+      "color": {
+        "a": 1,
+        "rgb": 10804529
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8001102010732466,
+  "scale": 0.778772110750356,
   "close": true
 }
