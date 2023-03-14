@@ -8,67 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7b932a300d1a68e",
+            "id": "812e2e3554cb692b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Métricas de bienestar/Curva de Lorenz.md",
+                "file": "Economía/Conceptos claves/Sistemas económicos y políticos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23ebc4c5e7adfe93",
+            "id": "d3d0143d3003a234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Repasos/Funciones/Continuidad.md",
+                "file": "Economía/Conceptos claves/Mercado.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "758bd7e0b9e17c8d",
+            "id": "74bc5cdf349462e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Repasos/Funciones/Derivada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "618e560a0e18952a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Repasos/Funciones/Derivada parcial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a658391a78de8f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Probabilidades/Repasos/Integrales/Técnicas de integración.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,15 +163,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a658391a78de8f8f",
+  "active": "74bc5cdf349462e2",
   "lastOpenFiles": [
-    "img/GraficoIntegral.png",
-    "Probabilidades/Repasos/Funciones/Derivada parcial.md",
+    "Economía/Conceptos claves/Sistemas económicos y políticos.md",
+    "img/Medioambiente.png",
+    "img/Crecimiento.png",
+    "Economía/Conceptos claves/Trabajo.md",
+    "Economía/Conceptos claves/Mercado.md",
+    "Economía/Conceptos claves/Economía.md",
+    "Probabilidades/Teoría de probabilidades.md",
     "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
-    "Probabilidades/Repasos/Integrales",
+    "Probabilidades/Repasos/Funciones/Derivada parcial.md",
     "Probabilidades/Repasos/Funciones/Derivada.md",
-    "Probabilidades/Repasos/Funciones",
     "Probabilidades/Repasos/Funciones/Continuidad.md",
+    "Probabilidades/Repasos/Conjuntos/Producto cartesiano.md",
+    "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
+    "Probabilidades/Repasos/Conjuntos/Cardinalidad.md",
+    "Economía/Conceptos claves",
+    "img/GraficoIntegral.png",
+    "Probabilidades/Repasos/Integrales",
+    "Probabilidades/Repasos/Funciones",
     "img/funcioncontinua.png",
     "Economía/Métricas de bienestar/Curva de Lorenz.md",
     "Probabilidades/Repasos/Conjuntos",
@@ -216,22 +195,15 @@
     "Economía/Métricas de bienestar/Salarios.md",
     "img/Salarios.png",
     "Economía/Métricas de bienestar",
-    "Economía/Variable real.md",
+    "Economía/Conceptos claves/Variable real.md",
     "Economía/Métricas de bienestar/Producto interno bruto.md",
     "Economía/Índices de comparación/Índice de Canasta Básica.md",
     "Economía/Índices de comparación/Purchasing Power Parity.md",
     "Economía/Índices de comparación/Índice Big Mac.md",
     "Economía/Índices de comparación",
-    "Economía/Variable nominal.md",
-    "Economía/Economía.md",
+    "Economía/Conceptos claves/Variable nominal.md",
     "Economía/Economía cerrada.md",
-    "Probabilidades/Repasos/Conjuntos/Cardinalidad.md",
-    "img/EconomíaCerrada.png",
-    "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
-    "Probabilidades/Repasos/Conjuntos/Producto cartesiano.md",
-    "Probabilidades/Teoría de probabilidades.md",
     "img",
-    "img/Venn.png",
     "Probabilidades/Repasos",
     "Test.md"
   ]

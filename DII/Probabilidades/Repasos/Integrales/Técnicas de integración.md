@@ -10,7 +10,7 @@ Entonces;
 
 Por lo tanto, sabemos que lo siguiente es válido: 
 
-$$\int u dv = uv - \int vdu$$ 
+$$\int u dv = uv -\int vdu$$ 
 Entonces, 
 
 $$\int_{0}^{1}xe^{2x}dx = \frac{xe^{2x}}{2}\bigg\vert_{0}^{1} - \int_{0}^{1}\frac{1}{2}e^{2x}$$ 

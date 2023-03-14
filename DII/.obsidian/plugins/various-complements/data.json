@@ -91,6 +91,22 @@
           "lastUpdated": 1678818015607
         }
       }
+    },
+    "Economía": {
+      "Economía": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678822865769
+        }
+      }
+    },
+    "Producto interno bruto": {
+      "Producto interno bruto": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678822917369
+        }
+      }
     }
   }
 }
