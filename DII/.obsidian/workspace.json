@@ -11,11 +11,28 @@
             "id": "f7b932a300d1a68e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Variable real.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ce8885ebabb8919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Métricas de bienestar/Índice de Gini.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economía/Métricas de bienestar/Índice de Gini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economía/Métricas de bienestar/Índice de Gini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economía/Métricas de bienestar/Índice de Gini.md"
+              }
             }
           }
         ]
@@ -138,12 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7b932a300d1a68e",
+  "active": "0500663b42f9dbb9",
   "lastOpenFiles": [
-    "Economía/Economía cerrada.md",
-    "Economía/Producto interno bruto.md",
-    "Economía/Variable nominal.md",
+    "img/Gini2.png",
+    "img/Gini1.png",
+    "Economía/Métricas de bienestar/Salarios.md",
+    "Economía/Métricas de bienestar/Índice de Gini.md",
+    "img/Salarios.png",
+    "Economía/Métricas de bienestar",
     "Economía/Variable real.md",
+    "Economía/Métricas de bienestar/Producto interno bruto.md",
+    "Economía/Índices de comparación/Índice de Canasta Básica.md",
+    "Economía/Índices de comparación/Purchasing Power Parity.md",
+    "Economía/Índices de comparación/Índice Big Mac.md",
+    "Economía/Índices de comparación",
+    "Economía/Variable nominal.md",
+    "Economía/Economía.md",
+    "Economía/Economía cerrada.md",
     "Probabilidades/Repasos/Cardinalidad.md",
     "img/EconomíaCerrada.png",
     "Probabilidades/Repasos/Conjuntos.md",
@@ -152,7 +184,6 @@
     "img",
     "img/Venn.png",
     "Probabilidades/Repasos",
-    "Untitled.md",
     "Test.md"
   ]
 }
