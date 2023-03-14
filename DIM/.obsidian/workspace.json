@@ -11,8 +11,36 @@
             "id": "747533b0af1e5bce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f671abfa4355bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a14b6d70c2aab6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md"
+              }
             }
           },
           {
@@ -148,6 +180,17 @@
   },
   "active": "747533b0af1e5bce",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
+    "Cálculo en Varias Variables/Ejercicios Control 2.md",
+    "Cálculo en Varias Variables/Pregunta 2.md",
+    "Cálculo en Varias Variables/Funciones/Continuidad en varias variables.md",
+    "Cálculo en Varias Variables/Funciones/Continuidad de la composición de funciones.md",
+    "Cálculo en Varias Variables/Funciones/Preimagenes.md",
+    "Cálculo en Varias Variables/Funciones/Máximos y mínimos de funciones continuas.md",
+    "Cálculo en Varias Variables/Funciones/Coercividad.md",
+    "Cálculo en Varias Variables/Funciones/Funciones escalares.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales",
     "Cálculo en Varias Variables/Integración/Integral sobre rectángulos.md",
     "Cálculo en Varias Variables/Sucesiones/Sucesión de Cauchy.md",
     "Cálculo en Varias Variables/Topología/Norma en varias variables.md",
@@ -163,11 +206,6 @@
     "Cálculo en Varias Variables/test.md",
     "TestGithub.md",
     "Cálculo en Varias Variables/Integración/Fubini.md",
-    "Cálculo en Varias Variables/Ejercicios Control 3.md",
-    "Cálculo en Varias Variables/Integración/Coordenadas esféricas.md",
-    "Cálculo en Varias Variables/Integración/Volumen.md",
-    "Cálculo en Varias Variables/Integración/Extensión.md",
-    "Cálculo en Varias Variables/Integración/Medida nula.md",
-    "Cálculo en Varias Variables/Integración/Integral en varias variables.md"
+    "Cálculo en Varias Variables/Ejercicios Control 3.md"
   ]
 }

@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 2992516
       }
+    },
+    {
+      "query": "path:\"Ecuaciones Diferenciales Ordinarias\"",
+      "color": {
+        "a": 1,
+        "rgb": 14959748
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.451136363636364,
   "linkDistance": 238,
-  "scale": 0.44747395922349326,
+  "scale": 0.6712109388352413,
   "close": true
 }

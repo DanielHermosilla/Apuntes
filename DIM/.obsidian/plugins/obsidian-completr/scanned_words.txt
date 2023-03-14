@@ -65,6 +65,7 @@ ndrico
 note
 ndricas
 notas
+normalizada
 de
 del
 definici
@@ -187,6 +188,7 @@ determinado
 dulo
 dz
 determinada
+despejando
 un
 una
 uni
@@ -353,6 +355,11 @@ coordenada
 choca
 cono
 circunferencia
+coerciva
+calor
+cuerpos
+caliente
+cal
 su
 ser
 se
@@ -433,6 +440,8 @@ suave
 simple
 sta
 superiores
+supone
+sfera
 magnitud
 medio
 menor
@@ -488,6 +497,7 @@ mecanismo
 mientras
 mucho
 men
+miraba
 que
 qu
 queda
@@ -608,6 +618,7 @@ paraboloide
 pasamos
 planos
 polares
+porque
 trav
 teorema
 ticas
@@ -677,6 +688,9 @@ tratar
 transformaci
 theta
 trigonom
+temperatura
+tuviera
+tiempo
 Pit
 Para
 Por
@@ -698,6 +712,7 @@ Pruebe
 Pregunta
 Problema
 Primero
+Postulado
 goras
 general
 geom
@@ -723,6 +738,7 @@ garantizar
 grandes
 genera
 generados
+gnita
 Ejemplo
 En
 Es
@@ -745,6 +761,7 @@ Ecuaci
 Eso
 Examen
 Evaluar
+EDO
 Norma
 No
 Notemos
@@ -754,6 +771,7 @@ Note
 Nos
 Notaci
 Nuevamente
+Newton
 las
 la
 lgebra
@@ -804,6 +822,7 @@ limitada
 llegariamos
 logra
 lido
+llegada
 Matem
 Matriz
 MY
@@ -844,6 +863,8 @@ volumenes
 verticales
 vertical
 vol
+variaci
+variaba
 el
 estudio
 en
@@ -1053,6 +1074,8 @@ abstracta
 ar
 abr
 altura
+atm
+ano
 bajo
 bola
 binomio
@@ -1165,6 +1188,12 @@ int
 interseci
 invertido
 inferiores
+incognita
+involucrar
+inc
+indica
+intercambio
+igualdad
 Vamos
 Voy
 Veamos
@@ -1210,6 +1239,7 @@ Cuyo
 Cil
 Calcule
 Considerar
+Consiste
 Sobre
 Se
 Segunda
@@ -1333,6 +1363,9 @@ rculo
 ricas
 resolviendo
 restricci
+restringido
+representada
+restando
 orden
 otras
 observaci
@@ -1370,6 +1403,9 @@ optimizar
 ocup
 os
 ocupando
+ordinaria
+oceano
+oc
 Analizando
 Ahora
 Aca
@@ -1392,6 +1428,7 @@ AB
 Aplicaci
 Acord
 Ambos
+Aun
 Basicamente
 Bola
 Bolas
@@ -1418,6 +1455,7 @@ IEND
 Introducci
 Int
 Integrando
+Isaac
 Un
 Uni
 Una
@@ -1505,6 +1543,7 @@ Fum
 Fr
 Finalmente
 Fubini
+Funciones
 XO
 Xd
 Xmr
