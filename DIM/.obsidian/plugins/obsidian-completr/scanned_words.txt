@@ -68,6 +68,7 @@ notas
 normalizada
 necesarios
 nea
+nemotecnicamente
 de
 del
 definici
@@ -452,6 +453,7 @@ sta
 superiores
 supone
 sfera
+sacar
 magnitud
 medio
 menor
@@ -776,6 +778,7 @@ Examen
 Evaluar
 EDO
 Est
+Extendidamente
 Norma
 No
 Notemos
