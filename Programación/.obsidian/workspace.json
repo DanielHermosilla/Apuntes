@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e616135a8f80e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Estructuras de control/Invariantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Quick Sort.md",
+                "file": "Python/Estructuras de control/Invariantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Quick Sort.md",
+                "file": "Python/Estructuras de control/Invariantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Quick Sort.md"
+                "file": "Python/Estructuras de control/Invariantes.md"
               }
             }
           }
@@ -159,8 +171,12 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "9d46cca34ab91651",
+  "active": "0e616135a8f80e4e",
   "lastOpenFiles": [
+    "Python/Estructuras de control/Bucles.md",
+    "Python/Estructuras de control/Condicionales.md",
+    "Python/Estructuras de control/Invariantes.md",
+    "Python/Algoritmos/Quick Sort.md",
     "Python/Tipos de datos/Booleanos.md",
     "Python/Funciones/Argumento de funciones.md",
     "Python/Tipos de datos/Listas.md",
@@ -188,7 +204,6 @@
     "README.md",
     "Python/Algoritmos/Merge Sort.md",
     "2023-02-26.md",
-    "Python/Algoritmos/Quick Sort.md",
     "Python/Algoritmos/Heap sort.md",
     "Python/Algoritmos/Counting sort.md",
     "Python/Algoritmos/Bubble sort.md",

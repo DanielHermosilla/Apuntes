@@ -51,6 +51,7 @@ obtenemos
 obtienen
 opta
 ocupado
+ordenadamente
 dos
 datos
 decir
@@ -184,6 +185,7 @@ programa
 pues
 populares
 posee
+poner
 como
 complejo
 caso
@@ -284,6 +286,10 @@ clasificaci
 clustering
 cuadrados
 concatenar
+cierta
+cuando
+cumpla
+constantes
 enteros
 en
 el
@@ -353,6 +359,7 @@ eficientes
 estad
 externo
 especie
+ejecutar
 los
 lenguaje
 lograr
@@ -480,6 +487,10 @@ busquedaBinaria
 binario
 basta
 busquedas
+bucles
+bucle
+bloque
+break
 Es
 Ejemplo
 El
@@ -552,6 +563,7 @@ step
 suministrado
 stico
 separando
+sentencia
 fueran
 flotantes
 float
@@ -656,6 +668,7 @@ aleatorios
 alto
 aprendizaje
 adelante
+aquellas
 jupyter
 jk
 jfv
@@ -712,6 +725,8 @@ tendr
 til
 tenga
 transformadas
+tico
+termine
 memoria
 matem
 multiplicaci
@@ -754,6 +769,7 @@ medio
 mediantes
 min
 max
+mantienen
 que
 quisiera
 quiere
@@ -906,6 +922,7 @@ Formato
 First
 Filterfalse
 Fourier
+For
 vida
 varios
 vamos
@@ -937,6 +954,7 @@ ver
 variaciones
 varias
 vacias
+verdadera
 Divisiones
 Del
 Dentro
@@ -1022,6 +1040,7 @@ han
 hecho
 ha
 herramientas
+hipot
 Index
 In
 IN
@@ -1075,6 +1094,7 @@ WFq
 WYY
 WB
 WW
+While
 Qh
 QG
 QM
@@ -1137,6 +1157,7 @@ wf
 wJR
 wo
 with
+while
 kS
 kkP
 kY
