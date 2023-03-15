@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Estructuras de control/Invariantes.md",
+                "file": "Python/Algoritmos/Quick Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Estructuras de control/Invariantes.md",
+                "file": "Python/Algoritmos/Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Estructuras de control/Invariantes.md",
+                "file": "Python/Algoritmos/Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Estructuras de control/Invariantes.md"
+                "file": "Python/Algoritmos/Quick Sort.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "0e616135a8f80e4e",
   "lastOpenFiles": [
+    "Python/Estructuras de control/Invariantes.md",
     "Python/Estructuras de control/Bucles.md",
     "Python/Estructuras de control/Condicionales.md",
-    "Python/Estructuras de control/Invariantes.md",
     "Python/Algoritmos/Quick Sort.md",
     "Python/Tipos de datos/Booleanos.md",
     "Python/Funciones/Argumento de funciones.md",
