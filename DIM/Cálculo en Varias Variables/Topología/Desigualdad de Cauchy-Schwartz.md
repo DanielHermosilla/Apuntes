@@ -2,7 +2,7 @@ Para todo par de [[vectores]] $x$ e $y$ de $\mathbb{R}^n$, tenemos:
 
 $$ |\langle x,y\rangle| \leq ||x||_2 \; ||y||_2 $$
 
-Donde hacemos alusión al [[producto punto]], es decir: 
+Donde hacemos alusión al [[producto escalar]], es decir: 
 
 $$\langle x,y\rangle = \sum_{i=1}^{n} x_i y_i$$ 
 ## Demostración 

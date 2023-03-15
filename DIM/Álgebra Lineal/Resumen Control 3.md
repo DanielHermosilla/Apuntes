@@ -25,7 +25,7 @@ Diremos que una [[matriz diagonalizable|matriz]] es diagonalizable si admite una
 $$\text{Si}\enspace\forall\alpha\enspace\text{Multiplicidad geométrica}_{\alpha_i} = \text{Multiplicidad algebraica}_{\alpha_i}\implies A\enspace\text{es diagonalizable} $$ 
 ## Ortogonalidad 
 
-Diremos que dos [[vectores]] son **ortogonales** cuando su [[producto punto]] es 0. Esto significa que ambos [[vectores]] son perpendiculares. 
+Diremos que dos [[vectores]] son **ortogonales** cuando su [[producto escalar]] es 0. Esto significa que ambos [[vectores]] son perpendiculares. 
 
 ## Ortonormalidad 
 

@@ -25,7 +25,7 @@ Y a esto lo llamaremos [[vector gradiente]], representado por $\nabla f(x_0)$.
 Combinando todo esto, vemos que en el caso que $f:\mathbb{R}^n\rightarrow\mathbb{R}$ [[Diferenciabilidad|diferenciable]] en $x_0$, vale que: 
 
 $$ D_v f(x_0) = \nabla f(x_0)\;o\;v$$ 
-Que llegaría a ser simplemente un [[producto punto]] entre el [[vector gradiente]] y [[vectores|vector]] direccional. 
+Que llegaría a ser simplemente un [[producto escalar]] entre el [[vector gradiente]] y [[vectores|vector]] direccional. 
 
 ## Observación 
 

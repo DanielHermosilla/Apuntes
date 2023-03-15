@@ -340,6 +340,7 @@ sin
 sinusoidal
 sicamente
 seg
+simplificaci
 como
 cuerpos
 comprimirla
@@ -425,6 +426,8 @@ calidad
 cr
 curva
 causa
+concentraci
+cualquier
 Notemos
 Nos
 Newton
@@ -486,6 +489,7 @@ expresi
 electromagn
 explicar
 explica
+entiende
 modificar
 masa
 mira

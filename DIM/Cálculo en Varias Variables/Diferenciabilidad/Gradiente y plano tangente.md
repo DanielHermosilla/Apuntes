@@ -44,7 +44,7 @@ Debemos verificar que si tengo un punto "$a$" tangente a $S$ en "$x_0$", entonce
 
 ![[IMG_B09BA468D4B8-1.jpeg|center|550]]
 
-Por lo tanto, queremos que el [[producto punto]] entre $a$ y el [[vector gradiente]] sea igual a 0 para garantizar que sea perpendicular. 
+Por lo tanto, queremos que el [[producto escalar]] entre $a$ y el [[vector gradiente]] sea igual a 0 para garantizar que sea perpendicular. 
 
 Si $a$ es tangente a $S$, podemos construir una curva $x(t)\subset S$ tal que: 
 

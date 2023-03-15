@@ -66,6 +66,8 @@ note
 ndricas
 notas
 normalizada
+necesarios
+nea
 de
 del
 definici
@@ -189,6 +191,9 @@ dulo
 dz
 determinada
 despejando
+depende
+directa
+derivarla
 un
 una
 uni
@@ -360,6 +365,11 @@ calor
 cuerpos
 caliente
 cal
+catalogar
+coeficiente
+cerca
+cuesti
+complejos
 su
 ser
 se
@@ -498,6 +508,8 @@ mientras
 mucho
 men
 miraba
+multiplicadas
+mano
 que
 qu
 queda
@@ -619,6 +631,7 @@ pasamos
 planos
 polares
 porque
+proyecciones
 trav
 teorema
 ticas
@@ -762,6 +775,7 @@ Eso
 Examen
 Evaluar
 EDO
+Est
 Norma
 No
 Notemos
@@ -823,6 +837,7 @@ llegariamos
 logra
 lido
 llegada
+linealmente
 Matem
 Matriz
 MY
@@ -865,6 +880,7 @@ vertical
 vol
 variaci
 variaba
+volviendo
 el
 estudio
 en
@@ -960,6 +976,8 @@ empiezan
 ellos
 esf
 esa
+etc
+estuviera
 formas
 fin
 forall
@@ -990,6 +1008,8 @@ fico
 finita
 funciona
 finalmente
+fijamos
+fijar
 an
 amos
 aquello
@@ -1124,6 +1144,8 @@ hubiera
 horizontales
 haber
 hiperboloide
+homog
+herm
 intervalos
 interesante
 introducir
@@ -1194,6 +1216,7 @@ inc
 indica
 intercambio
 igualdad
+igualado
 Vamos
 Voy
 Veamos
@@ -1240,6 +1263,7 @@ Cil
 Calcule
 Considerar
 Consiste
+Corresponde
 Sobre
 Se
 Segunda
@@ -1286,6 +1310,8 @@ Determine
 Demostrar
 Demuestre
 Definida
+Dejaremos
+Dado
 responder
 representa
 rmino
@@ -1366,6 +1392,7 @@ restricci
 restringido
 representada
 restando
+regla
 orden
 otras
 observaci
@@ -1406,6 +1433,8 @@ ocupando
 ordinaria
 oceano
 oc
+ortogonalidad
+operaci
 Analizando
 Ahora
 Aca

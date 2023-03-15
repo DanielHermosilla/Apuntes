@@ -1,14 +1,14 @@
 
-Recordemos que la proyección de un [[vectores|vector]] $u$ sobre $v \neq 0$ está definida por $w = \frac{\langle u,v \rangle}{\langle v,v \rangle} v$. Este vector $w$ sería el que está *más cerca* de $u$ en el espacio de $\langle \lbrace v \rbrace \rangle$.  Se puede verificar facilmente al hacer el [[producto punto]] y verificar que estamos haciendo una proyección geométrica. 
+Recordemos que la proyección de un [[vectores|vector]] $u$ sobre $v \neq 0$ está definida por $w = \frac{\langle u,v \rangle}{\langle v,v \rangle} v$. Este vector $w$ sería el que está *más cerca* de $u$ en el espacio de $\langle \lbrace v \rbrace \rangle$.  Se puede verificar facilmente al hacer el [[producto escalar]] y verificar que estamos haciendo una proyección geométrica. 
 
 ### Conjunto ortogonal 
 
-Decimos que tenemos un conjunto **ortogonal** cuando el [[producto punto]] es 0. Es decir, sea un conjunto $\lbrace v_1, \dots, v_n \rbrace$ , entonces tenemos **ortogonalidad** si se cumple que: 
+Decimos que tenemos un conjunto **ortogonal** cuando el [[producto escalar]] es 0. Es decir, sea un conjunto $\lbrace v_1, \dots, v_n \rbrace$ , entonces tenemos **ortogonalidad** si se cumple que: 
 
 $$\langle v_i, v_j \rangle = 0\enspace\text{para}\enspace i\neq j$$ 
 ### Conjunto ortonormal 
 
-Vamos a decir que tenemos un conjunto **ortonormal** si tenemos un conjunto **ortogonal** y la [[norma]] del vector en cuestión es igual a la raíz de su [[producto punto]]: 
+Vamos a decir que tenemos un conjunto **ortonormal** si tenemos un conjunto **ortogonal** y la [[norma]] del vector en cuestión es igual a la raíz de su [[producto escalar]]: 
 
 $$\langle v_i, v_j \rangle = 0\enspace\text{para}\enspace i\neq j\enspace \land \enspace \|v_i \| = \sqrt{\langle v_i, v_i \rangle} = 1$$
 

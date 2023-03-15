@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "de769118ec37a95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto punto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e66bda68c970f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f671abfa4355bc4a",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md"
+                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md"
               }
             }
           },
@@ -178,8 +203,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747533b0af1e5bce",
+  "active": "6e66bda68c970f99",
   "lastOpenFiles": [
+    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto punto.md",
+    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto Hermítico.md",
+    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/producto escalar.md",
+    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
+    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
+    "Álgebra Lineal/Espacios vectoriales/escalares.md",
+    "Álgebra Lineal/Valores y vectores propios/conjuntos ortogonales y ortonormales.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
@@ -200,12 +232,6 @@
     "Cálculo en Varias Variables/Topología/Distancia.md",
     "Cálculo en Varias Variables/Sucesiones/Espacio de Banach.md",
     "Cálculo en Varias Variables/Sucesiones/Sucesiones en varias variables.md",
-    "Cálculo en Varias Variables/Conjuntos/Conjuntos abiertos y cerrados.md",
-    "Cálculo en Varias Variables/Conjuntos/Bolas.md",
-    "Cálculo en Varias Variables/Integración/Cambio de variable.md",
-    "Cálculo en Varias Variables/test.md",
-    "TestGithub.md",
-    "Cálculo en Varias Variables/Integración/Fubini.md",
-    "Cálculo en Varias Variables/Ejercicios Control 3.md"
+    "Cálculo en Varias Variables/Conjuntos/Conjuntos abiertos y cerrados.md"
   ]
 }

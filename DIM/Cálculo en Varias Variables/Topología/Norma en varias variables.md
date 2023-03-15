@@ -30,7 +30,7 @@ $$||x + y||_2 \leq ||x||_2 + ||y||_2 \; \forall x,y\in E\;\;\enspace\enspace\tex
 
 $$\iff||x + y||_2 = ||x||_{2}^2 + \mathbf{2\langle x,y\rangle} + ||y||_{2}^2 $$
 
-Veamos que por la [[Desigualdad de Cauchy-Schwartz|desigualdad de Cauchy-Schwartz]] tenemos lo siguiente, ya que nuestro término medio es un [[producto punto]]:
+Veamos que por la [[Desigualdad de Cauchy-Schwartz|desigualdad de Cauchy-Schwartz]] tenemos lo siguiente, ya que nuestro término medio es un [[producto escalar]]:
 
 $$||x + y||_2 \leq ||x||_{2}^2 + 2||x||_2 \;||y||_2 + ||y||_{2}^2$$
 $$\iff ||x + y||_2 \leq (||x||_2 + ||y||_2)^2$$
@@ -49,7 +49,7 @@ Ahora notemos la siguiente observación; definamos la siguiente [[función]]: $\
 
 $$ \langle x,y \rangle:= \sum^{n}_{i=1} x_i y_i$$
 
-Basicamente, estamos definiendo el [[producto punto]]. Notemos que es un producto interno, es decir, verifica que: 
+Basicamente, estamos definiendo el [[producto escalar]]. Notemos que es un producto interno, es decir, verifica que: 
 
 1) $\langle \alpha x,y \rangle = \alpha\langle x,y\rangle\enspace\enspace\forall x,y\in\mathbb{R}^n, \enspace\forall\alpha\in\mathbb{R}$ 
 2) $\langle x + y,z\rangle = \langle x,z\rangle + \langle y,z\rangle\enspace\enspace\forall x,y,z\in\mathbb{R}^n$

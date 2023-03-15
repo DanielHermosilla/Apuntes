@@ -1,5 +1,5 @@
 
-El producto hermítico es una extensión del [[producto punto]], donde se define la siguiente operación: 
+El producto hermítico es una extensión del [[producto escalar]], donde se define la siguiente operación: 
 
 Dado los siguientes [[vectores]] complejos: 
 
