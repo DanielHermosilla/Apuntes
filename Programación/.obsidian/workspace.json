@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d46cca34ab91651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Algoritmos/Quick Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Funciones/Argumento de funciones.md",
+                "file": "Python/Algoritmos/Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Funciones/Argumento de funciones.md",
+                "file": "Python/Algoritmos/Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Funciones/Argumento de funciones.md"
+                "file": "Python/Algoritmos/Quick Sort.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "62d903b40b686920",
+  "active": "9d46cca34ab91651",
   "lastOpenFiles": [
+    "Python/Tipos de datos/Booleanos.md",
+    "Python/Funciones/Argumento de funciones.md",
     "Python/Tipos de datos/Listas.md",
     "Python/Tipos de datos/Strings.md",
     "Python/Algoritmos/Busqueda binaria.md",
@@ -158,7 +173,6 @@
     "Python/Librerias/Collections.md",
     "Python/Data Science from Scratch/Introducción/Finding Key Connectors.md",
     "Python/Data Science from Scratch/Introducción/Data Scientist You May Know.md",
-    "Python/Funciones/Argumento de funciones.md",
     "Python/Data Science from Scratch/Capítulo 1/Data Scientist You May Know.md",
     "Python/Data Science from Scratch/Capítulo 1",
     "Python/Data Science from Scratch/Introduccion.py",
