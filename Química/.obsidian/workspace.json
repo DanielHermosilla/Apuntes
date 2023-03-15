@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ac7308188e71aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoría atómica/Teoria de Thomson.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d0e622ef98400f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoría atómica/Teoría de Rutherford.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af01a4bcd4679b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoría atómica/Teoría de Bohr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoría atómica/Teoría de Dalton.md",
+                "file": "Teoría atómica/Teoría de Bohr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoría atómica/Teoría de Dalton.md",
+                "file": "Teoría atómica/Teoría de Bohr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoría atómica/Teoría de Dalton.md"
+                "file": "Teoría atómica/Teoría de Bohr.md"
               }
             }
           }
@@ -146,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4af739c55fddad01",
+  "active": "af01a4bcd4679b38",
   "lastOpenFiles": [
+    "Teoría atómica/Teoría de Rutherford.md",
+    "Teoría atómica/Teoría de Bohr.md",
+    "Teoría atómica/Teoria de Thomson.md",
     "Teoría atómica/Teoría de Dalton.md",
     "Teoría atómica"
   ]
