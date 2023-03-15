@@ -71,6 +71,10 @@ determinada
 dos
 distante
 describe
+derivada
+describir
+dado
+derivarla
 fuerza
 forma
 fijar
@@ -93,6 +97,7 @@ filtros
 frecuncias
 factor
 finito
+fijamos
 aplicada
 al
 aplicar
@@ -140,6 +145,9 @@ altos
 ahora
 agrega
 ancho
+aqu
+ah
+amos
 por
 para
 pan
@@ -193,6 +201,8 @@ postula
 punto
 progresivamente
 pantalla
+podr
+plano
 unidad
 una
 uno
@@ -244,6 +254,7 @@ ramificaci
 rayo
 ranuras
 ranura
+rapidez
 Por
 Puede
 Producto
@@ -275,6 +286,7 @@ llegar
 le
 llamado
 ltimo
+llegado
 tanto
 tratar
 tender
@@ -310,6 +322,10 @@ transformadores
 te
 tica
 ticas
+tiende
+tando
+ticamente
+tangente
 se
 su
 sale
@@ -341,6 +357,8 @@ sinusoidal
 sicamente
 seg
 simplificaci
+siguientes
+secuencia
 como
 cuerpos
 comprimirla
@@ -428,6 +446,11 @@ curva
 causa
 concentraci
 cualquier
+calcular
+concluye
+conclusi
+cadena
+cambiando
 Notemos
 Nos
 Newton
@@ -490,6 +513,10 @@ electromagn
 explicar
 explica
 entiende
+encontrar
+equivalencias
+equivalentemente
+equivale
 modificar
 masa
 mira
@@ -524,6 +551,10 @@ milisegundos
 mejor
 magn
 magnetico
+mite
+moverse
+matem
+multiplicaci
 va
 volumen
 vamente
@@ -546,6 +577,8 @@ variaci
 ve
 variando
 ver
+vectorial
+visto
 An
 Al
 Ampere
@@ -564,6 +597,7 @@ general
 gravitacional
 genera
 generada
+gran
 introduce
 igual
 independiente
@@ -604,6 +638,7 @@ natural
 notar
 nada
 normal
+nace
 homog
 haber
 hay
@@ -615,6 +650,8 @@ hablar
 ha
 hacemos
 hacer
+habr
+hab
 Est
 Es
 Esto
@@ -627,6 +664,7 @@ Estado
 Entonces
 Este
 Estudio
+Ejemplo
 ya
 Se
 Son
@@ -635,10 +673,12 @@ Suma
 Similar
 Solo
 Superposici
+Su
 Donde
 Diferencia
 Dispositivo
 Difracci
+De
 objeto
 otro
 obtenci
@@ -663,6 +703,7 @@ obtenida
 ondas
 onda
 oscuras
+ocupando
 borde
 buena
 busca
@@ -672,6 +713,7 @@ bater
 bajos
 bajas
 brillantes
+bidimensional
 Ya
 Tenemos
 Tambi
@@ -692,6 +734,7 @@ Ocupando
 Minimizaci
 Michael
 Un
+Una
 Indica
 Intensidad
 Joule
