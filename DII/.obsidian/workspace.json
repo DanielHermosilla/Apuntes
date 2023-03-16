@@ -38,9 +38,57 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1cc672ce8cf5b20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Modelos matemáticos en la economía/Modelo de Malthus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8b7d3bd19d62128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Modelos matemáticos en la economía/Innovación tecnológica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "482ebaf45621378f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Modelos matemáticos en la economía/Modelo de Malthus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "138b599a4dfd369f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Clase y módulo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -106,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Conceptos claves/Sistemas económicos y políticos.md",
+                "file": "Economía/Clase y módulo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Conceptos claves/Sistemas económicos y políticos.md",
+                "file": "Economía/Clase y módulo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Conceptos claves/Sistemas económicos y políticos.md"
+                "file": "Economía/Clase y módulo 1.md"
               }
             }
           }
@@ -167,11 +215,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "138b599a4dfd369f",
   "lastOpenFiles": [
+    "Economía/Modelos matemáticos en la economía/Modelo de Malthus.md",
+    "Economía/Clase y módulo 1.md",
+    "Economía/Modelos matemáticos en la economía/Innovación tecnológica.md",
+    "Economía/Modelos matemáticos en la economía/Función de costos.md",
+    "img/EjemploIsocostos.png",
+    "Economía/Modelos matemáticos en la economía/Modelos económicos.md",
+    "img/EjemploInnovacion2.png",
+    "img/EjemploTecnología2.png",
+    "img/EjemploTecnología.png",
+    "img/InnovaciónTecnológica.jpeg",
+    "img/SalarioSubsistencia.jpeg",
+    "img/Malthus2.jpeg",
+    "IMG_DF7DC6F88BD5-1.jpeg",
+    "img/Malthus.jpeg",
     "Economía/Conceptos claves/Sistemas económicos y políticos.md",
+    "Economía/Modelos matemáticos en la economía/Untitled",
+    "Economía/Modelos matemáticos en la economía",
     "img/Medioambiente.png",
-    "img/Crecimiento.png",
     "Economía/Conceptos claves/Trabajo.md",
     "Economía/Conceptos claves/Mercado.md",
     "Economía/Conceptos claves/Economía.md",
@@ -184,20 +247,12 @@
     "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
     "Probabilidades/Repasos/Conjuntos/Cardinalidad.md",
     "Economía/Conceptos claves",
-    "img/GraficoIntegral.png",
     "Probabilidades/Repasos/Integrales",
     "Probabilidades/Repasos/Funciones",
-    "img/funcioncontinua.png",
     "Economía/Métricas de bienestar/Curva de Lorenz.md",
     "Probabilidades/Repasos/Conjuntos",
-    "curvaLorenz.png",
-    "img/curvaLorenz 1.png",
     "Economía/Métricas de bienestar/Índice de Gini.md",
-    "img/Gini3.png",
-    "img/Gini2.png",
-    "img/Gini1.png",
     "Economía/Métricas de bienestar/Salarios.md",
-    "img/Salarios.png",
     "Economía/Métricas de bienestar",
     "Economía/Conceptos claves/Variable real.md",
     "Economía/Métricas de bienestar/Producto interno bruto.md",
@@ -206,9 +261,7 @@
     "Economía/Índices de comparación/Índice Big Mac.md",
     "Economía/Índices de comparación",
     "Economía/Conceptos claves/Variable nominal.md",
-    "Economía/Conceptos claves/Economía cerrada.md",
     "img",
-    "Probabilidades/Repasos",
-    "Test.md"
+    "Probabilidades/Repasos"
   ]
 }
