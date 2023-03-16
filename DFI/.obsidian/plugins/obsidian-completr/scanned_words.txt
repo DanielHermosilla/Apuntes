@@ -9,6 +9,8 @@ Cuando
 Capacitancia
 Composici
 CA
+Claramente
+Con
 de
 define
 decir
@@ -75,6 +77,7 @@ derivada
 describir
 dado
 derivarla
+derivar
 fuerza
 forma
 fijar
@@ -98,6 +101,8 @@ frecuncias
 factor
 finito
 fijamos
+formalmente
+formar
 aplicada
 al
 aplicar
@@ -148,6 +153,9 @@ ancho
 aqu
 ah
 amos
+arbitrario
+azul
+apuntando
 por
 para
 pan
@@ -203,6 +211,7 @@ progresivamente
 pantalla
 podr
 plano
+perpendicular
 unidad
 una
 uno
@@ -212,6 +221,7 @@ uso
 usos
 universalmente
 underdamped
+unitario
 rea
 relacionado
 refiere
@@ -255,6 +265,10 @@ rayo
 ranuras
 ranura
 rapidez
+referir
+recorrido
+radiales
+rectilineas
 Por
 Puede
 Producto
@@ -287,6 +301,7 @@ le
 llamado
 ltimo
 llegado
+leve
 tanto
 tratar
 tender
@@ -326,6 +341,10 @@ tiende
 tando
 ticamente
 tangente
+totalmente
+tal
+tri
+trayectorias
 se
 su
 sale
@@ -359,6 +378,8 @@ seg
 simplificaci
 siguientes
 secuencia
+saber
+siendo
 como
 cuerpos
 comprimirla
@@ -451,6 +472,16 @@ concluye
 conclusi
 cadena
 cambiando
+conveniencia
+cambiar
+camino
+circunferencia
+consideramos
+compartan
+circulo
+consecuencia
+centro
+circumferencia
 Notemos
 Nos
 Newton
@@ -555,6 +586,7 @@ mite
 moverse
 matem
 multiplicaci
+movimientos
 va
 volumen
 vamente
@@ -579,6 +611,7 @@ variando
 ver
 vectorial
 visto
+vectores
 An
 Al
 Ampere
@@ -598,6 +631,7 @@ gravitacional
 genera
 generada
 gran
+graficamente
 introduce
 igual
 independiente
@@ -620,6 +654,7 @@ ir
 impedancia
 izquierda
 importante
+isosceles
 no
 neo
 ngulo
@@ -639,6 +674,8 @@ notar
 nada
 normal
 nace
+nde
+necesario
 homog
 haber
 hay
@@ -704,6 +741,9 @@ ondas
 onda
 oscuras
 ocupando
+origen
+osculadora
+osculador
 borde
 buena
 busca
@@ -744,6 +784,7 @@ Recordando
 RMS
 RL
 zado
+zoom
 ximo
 xima
 Henry

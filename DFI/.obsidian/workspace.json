@@ -20,31 +20,7 @@
             }
           },
           {
-            "id": "b02ec4ac2aea0297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Sistema de referencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08c35cdb2007d6c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Cinemática/Posición.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af830f60e7f93998",
+            "id": "e677774de4e978d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +32,31 @@
             }
           },
           {
-            "id": "e677774de4e978d1",
+            "id": "872bfb9396be6397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Cinemática/Cinemática.md",
+                "file": "Mecánica/Cinemática/Vector tangencial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5755478e01a985d",
+            "id": "1ee121e0b4122cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Partícula.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Cinemática/Cinemática.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Cinemática/Cinemática.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Cinemática/Cinemática.md"
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md"
               }
             }
           }
@@ -207,20 +183,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e677774de4e978d1",
+  "active": "2d8d32f31af482e9",
   "lastOpenFiles": [
-    "Mecánica/Cinemática/Aceleración.md",
-    "Mecánica/Cinemática/Cinemática.md",
-    "Mecánica/Cinemática/Posición.md",
+    "Mecánica/img/EjemploOsculador.jpeg",
+    "Mecánica/Cinemática/Vector tangencial.md",
+    "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
+    "Mecánica/img/Osculador2.jpeg",
+    "Mecánica/img/Osculador.jpeg",
+    "Mecánica/img/CirculoOsculador.jpeg",
     "Mecánica/Cinemática/Velocidad.md",
+    "Mecánica/img/VectorTangencial.jpeg",
+    "Mecánica/Partícula.md",
+    "Mecánica/Cinemática/Cinemática.md",
+    "Mecánica/Sistema de referencia.md",
+    "Mecánica/Cinemática/Posición.md",
+    "Mecánica/Cinemática/Aceleración.md",
     "Mecánica/img/Velocidad2.jpeg",
     "Mecánica/img/Velocidad.jpeg",
     "Mecánica/img",
     "Mecánica/img/Trayectoria.jpeg",
-    "Mecánica/Sistema de referencia.md",
     "Mecánica/Sistema de referencias",
     "Mecánica/Sistema de partículas",
-    "Mecánica/Partícula.md",
     "Mecánica/Cinemática",
     "Introducción a la Física Moderna/Formulario.md",
     "Introducción a la Física Moderna/cantidad de movimiento.md",

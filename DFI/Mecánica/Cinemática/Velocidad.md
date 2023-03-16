@@ -25,7 +25,7 @@ $$\lim_{\Delta s\rightarrow 0}\frac{\Delta\vec{r}}{\Delta s} = 1$$
 De aquí se concluye la gran conclusión sobre la velocidad: 
 
 $$\vec{v} = \frac{ds}{dt}\hat{t}=\dot{s}\hat{t}$$ 
-Donde $\dot{s}$ corresponde a la rapidez y $\hat{t}$ a un vector tangente a la trayectoria. 
+Donde $\dot{s}$ corresponde a la rapidez y $\hat{t}$ a un [[Vector tangencial|vector tangente]] a la trayectoria. 
 
 De aquí nace la siguiente secuencia; la [[Posición|posición]] de una [[Partícula|partícula]] se puede describir a partir de su trayectoria y la trayectoria a partir del tiempo: 
 
