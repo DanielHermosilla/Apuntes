@@ -159,8 +159,8 @@
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 24,
-          "lastUpdated": 1679056187716
+          "count": 26,
+          "lastUpdated": 1679057278119
         }
       }
     },
@@ -193,6 +193,14 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1679056132803
+        }
+      }
+    },
+    "Cardinalidad": {
+      "Cardinalidad": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679057363608
         }
       }
     }
