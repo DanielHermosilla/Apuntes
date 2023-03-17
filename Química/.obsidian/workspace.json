@@ -26,9 +26,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2eccca356815e503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física moderna/Principio de incertidumbre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3fa9e8aff223da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física moderna/Ecuación de Schrödinger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc11bbea04831c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Números cuánticos/Números cuánticos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5ea969b283bd5ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Números cuánticos/Numero cúantico principal (n).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c857a0ef4892c44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Números cuánticos/Numero cúantico principal (n).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a848ff628ac7aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Números cuánticos/Número cuántigo magnético (m).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a8c4cf03cc0e4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Números cuánticos/Números cuánticos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -78,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -94,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física moderna/Mecánica cuántica.md",
+                "file": "Números cuánticos/Números cuánticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física moderna/Mecánica cuántica.md",
+                "file": "Números cuánticos/Números cuánticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física moderna/Mecánica cuántica.md"
+                "file": "Números cuánticos/Números cuánticos.md"
               }
             }
           }
@@ -155,13 +240,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6fc25a718c8bd1b",
+  "active": "6a8c4cf03cc0e4b8",
   "lastOpenFiles": [
+    "Números cuánticos/Número cuántigo magnético (m).md",
+    "Números cuánticos/Numero cúantico principal (n).md",
+    "img/OrbitalF.png",
+    "img/OrbitalD.png",
+    "Números cuánticos/Numero cúantico del momento angular (l).md",
+    "img/OrbitalP.png",
+    "img/OrbitalS.png",
+    "Números cuánticos/Números cuánticos.md",
+    "Números cuánticos/Spin.md",
+    "Física moderna/Ecuación de Schrödinger.md",
+    "Números cuánticos",
+    "Untitled",
+    "Física moderna/Principio de incertidumbre.md",
+    "Física moderna/Mecánica cuántica.md",
     "Física moderna/Radiación electromagnética.md",
     "Física moderna/Radiación de cuerpo negro.md",
     "img/Efecto fotoeléctrico.md",
     "img/SeriesBohr.png",
-    "Física moderna/Mecánica cuántica.md",
     "Teoría atómica/Teoría de Bohr.md",
     "img/Espectro atómico.md",
     "img/fotoelectrico.png",
