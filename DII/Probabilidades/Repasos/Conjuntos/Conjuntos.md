@@ -22,3 +22,8 @@ Forma visual y/o gráfica de representar las operaciones entre conjuntos
 - Disjuntos ($A\cap B=\emptyset$): Todos los elementos de los conjuntos **no son compartidos**
 - 
 - Partición ($\bigcap_{i=1}^n A=\ohm$ ): Número de conjuntos tal que todos son **disjuntos** pero su unión nos da el conjunto entero.
+
+
+### Conjunto potencia 
+
+Equivale al conjunto de todos los subconjuntos de un conjunto.

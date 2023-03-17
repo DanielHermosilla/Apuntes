@@ -63,8 +63,8 @@
     "Conjuntos": {
       "Conjuntos": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678710759833
+          "count": 3,
+          "lastUpdated": 1679053834206
         }
       }
     },
@@ -145,6 +145,54 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1678926016368
+        }
+      }
+    },
+    "Espacio muestral": {
+      "Espacio muestral": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679053556837
+        }
+      }
+    },
+    "\\mathbb{P}": {
+      "\\mathbb{P}": {
+        "currentFile": {
+          "count": 24,
+          "lastUpdated": 1679056187716
+        }
+      }
+    },
+    "Evento": {
+      "Evento": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679054624328
+        }
+      }
+    },
+    "\\Omega^c": {
+      "\\Omega^c": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679055320609
+        }
+      }
+    },
+    "\\leq\\mathbb{P}": {
+      "\\leq\\mathbb{P}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679055790191
+        }
+      }
+    },
+    "+\\mathbb{P}": {
+      "+\\mathbb{P}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679056132803
         }
       }
     }
