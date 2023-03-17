@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Fusion"
+  "cssTheme": "Fusion",
+  "enabledCssSnippets": [
+    "Copia de somethingsnippet"
+  ]
 }

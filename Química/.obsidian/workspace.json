@@ -8,55 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4af739c55fddad01",
+            "id": "d39a9f5dedc912fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría atómica/Teoría de Dalton.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "3ac7308188e71aca",
+            "id": "a6fc25a718c8bd1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría atómica/Teoria de Thomson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d0e622ef98400f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría atómica/Teoría de Rutherford.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af01a4bcd4679b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría atómica/Teoría de Bohr.md",
+                "file": "Física moderna/Mecánica cuántica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoría atómica/Teoría de Bohr.md",
+                "file": "Física moderna/Mecánica cuántica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoría atómica/Teoría de Bohr.md",
+                "file": "Física moderna/Mecánica cuántica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoría atómica/Teoría de Bohr.md"
+                "file": "Física moderna/Mecánica cuántica.md"
               }
             }
           }
@@ -183,12 +155,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af01a4bcd4679b38",
+  "active": "a6fc25a718c8bd1b",
   "lastOpenFiles": [
-    "Teoría atómica/Teoría de Rutherford.md",
+    "Física moderna/Radiación electromagnética.md",
+    "Física moderna/Radiación de cuerpo negro.md",
+    "img/Efecto fotoeléctrico.md",
+    "img/SeriesBohr.png",
+    "Física moderna/Mecánica cuántica.md",
     "Teoría atómica/Teoría de Bohr.md",
-    "Teoría atómica/Teoria de Thomson.md",
+    "img/Espectro atómico.md",
+    "img/fotoelectrico.png",
+    "img",
+    "img/CuerpoNegro.png",
+    "Física moderna",
+    "Estructura atómica/Electrones.md",
+    "Estructura atómica/Núcleo.md",
+    "Estructura atómica/Protones.md",
+    "Estructura atómica/Neutrones.md",
     "Teoría atómica/Teoría de Dalton.md",
+    "Teoría atómica/Teoria de Thomson.md",
+    "Teoría atómica/Teoría de Rutherford.md",
+    "Estructura atómica/Fuerza electrostática.md",
+    "Estructura atómica/Átomo.md",
+    "Estructura atómica",
     "Teoría atómica"
   ]
 }
