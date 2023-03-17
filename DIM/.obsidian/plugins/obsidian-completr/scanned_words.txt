@@ -69,6 +69,7 @@ normalizada
 necesarios
 nea
 nemotecnicamente
+necesita
 de
 del
 definici
@@ -195,6 +196,9 @@ despejando
 depende
 directa
 derivarla
+dica
+determina
+diferenciales
 un
 una
 uni
@@ -371,6 +375,8 @@ coeficiente
 cerca
 cuesti
 complejos
+cticos
+contexto
 su
 ser
 se
@@ -454,6 +460,9 @@ superiores
 supone
 sfera
 sacar
+sinusoidales
+suamdo
+solucionar
 magnitud
 medio
 menor
@@ -634,6 +643,10 @@ planos
 polares
 porque
 proyecciones
+plantear
+pr
+peri
+permanente
 trav
 teorema
 ticas
@@ -706,6 +719,8 @@ trigonom
 temperatura
 tuviera
 tiempo
+terminos
+tender
 Pit
 Para
 Por
@@ -981,6 +996,8 @@ esf
 esa
 etc
 estuviera
+ecuaciones
+experiencia
 formas
 fin
 forall
@@ -1099,6 +1116,8 @@ abr
 altura
 atm
 ano
+atmosf
+ayudar
 bajo
 bola
 binomio
@@ -1220,12 +1239,14 @@ indica
 intercambio
 igualdad
 igualado
+iniciales
 Vamos
 Voy
 Veamos
 Valores
 VQ
 Vol
+Volviendo
 ya
 ys
 yr
@@ -1396,6 +1417,7 @@ restringido
 representada
 restando
 regla
+rica
 orden
 otras
 observaci
@@ -1438,6 +1460,7 @@ oceano
 oc
 ortogonalidad
 operaci
+oscilaci
 Analizando
 Ahora
 Aca
@@ -1461,6 +1484,7 @@ Aplicaci
 Acord
 Ambos
 Aun
+Acordemonos
 Basicamente
 Bola
 Bolas

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "747533b0af1e5bce",
+            "id": "6e66bda68c970f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "de769118ec37a95f",
+            "id": "da0f02f56cfe0c3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto punto.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e66bda68c970f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f671abfa4355bc4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a14b6d70c2aab6b",
+            "id": "281c041fedab4db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md"
               }
             }
           },
@@ -203,17 +179,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e66bda68c970f99",
+  "active": "281c041fedab4db6",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
+    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto punto.md",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto Hermítico.md",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/producto escalar.md",
-    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
     "Álgebra Lineal/Espacios vectoriales/escalares.md",
     "Álgebra Lineal/Valores y vectores propios/conjuntos ortogonales y ortonormales.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
     "Cálculo en Varias Variables/Pregunta 2.md",
     "Cálculo en Varias Variables/Funciones/Continuidad en varias variables.md",
@@ -230,8 +208,6 @@
     "Cálculo en Varias Variables/Topología/Topología.md",
     "Cálculo en Varias Variables/Topología/desigualdad de Young.md",
     "Cálculo en Varias Variables/Topología/Distancia.md",
-    "Cálculo en Varias Variables/Sucesiones/Espacio de Banach.md",
-    "Cálculo en Varias Variables/Sucesiones/Sucesiones en varias variables.md",
-    "Cálculo en Varias Variables/Conjuntos/Conjuntos abiertos y cerrados.md"
+    "Cálculo en Varias Variables/Sucesiones/Espacio de Banach.md"
   ]
 }

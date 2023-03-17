@@ -46,4 +46,30 @@ Por lo tanto,
 $$T_2(t) = c\;e^{-\sigma t} + \sigma\; e^{-\sigma t}\int T_1(s)e^{\sigma s} ds\ \ ,\ c\in\mathbb{R}$$ 
 Por lo tanto, tenemos lo siguiente: 
 
-$$T_2(t) = \text{Solución homogénea (no depende de }T_1) + \text{Solución particular (depende de }T_1)$$ 
+$$T_2(t) = \text{Solución homogénea (no depende de }T_1) + \text{Solución particular o forzante (depende de }T_1)$$ 
+Esto llegaría a ser la **solución general**, ya que depende de una constante arbitraria. 
+
+Ahora, uno podría plantear una posible ecuación de la temperatura atmosférica ocupando ecuaciones sinusoidales: 
+
+$$T_1(t)=A\sin(\omega t) + D\ \ ,\;\omega>0$$ 
+Y también vamos a tener a la función que encontramos en la EDO, que para terminos prácticos se va a reducir a la solución homogénea suamdo con la particular. 
+
+$$T_2(t) = T_H + T_P$$ 
+Notemos que $T_P$ es una oscilación periódica, esto se llama **solución permanente**, no así en $T_h$, ya que puede tender 0 cuando $t\rightarrow\infty$ (transiente). 
+
+Acordemonos que se necesita una [[Condición inicial|condición inicial]] para poder determinar la constante $c$. 
+
+Por lo tanto;
+
+$$T_p = \sigma De^{-\sigma t}\int e^{\sigma t} + A\sigma e^{-\sigma t}\int\sin (\omega t)e^{\omega t}$$
+
+
+Si se desarrollan ambas integrales (la segunda se podría hacer por partes o por [[Integración con variable compleja|integración por variable compleja]], se llega a lo siguiente: 
+
+$$T_p = \frac{A\omega}{\sqrt{\omega^2 + \sigma^2}}[\frac{\sigma}{\sqrt{\omega^2 + \sigma^2}}\sin\omega t - \frac{\omega}{\sqrt{\sigma^2 + \omega^2}}\cos\omega t]$$ 
+Considerando que son dos funciones sinusoidales, se puede hacer lo siguiente: 
+
+$$\frac{A\omega}{\sqrt{\omega^2 + \sigma^2}}[\sin\phi - \cos\phi]$$ 
+Con $\phi$ siendo la **fase**. Por lo tanto, la solución de la solución permanente es: 
+
+$$T_p = A\frac{\omega}{\sqrt{\omega^2 + \sigma^2}}\;\sin(\omega t - \phi)$$ 
