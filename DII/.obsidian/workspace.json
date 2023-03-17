@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f36a03947d9beb9",
+            "id": "b1d9c11c30a4d3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
+                "file": "Economía/Escasez/Problema del consumidor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a46b3323d891b95",
+            "id": "2f71d589eb343a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Axiomas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41688bd3b546ac29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Propiedades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35df965d639ab137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
+                "file": "Economía/Escasez/Tasa marginal de sustitución.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
+                "file": "Economía/Escasez/Problema del consumidor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
+                "file": "Economía/Escasez/Problema del consumidor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md"
+                "file": "Economía/Escasez/Problema del consumidor.md"
               }
             }
           }
@@ -183,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35df965d639ab137",
+  "active": "b1d9c11c30a4d3b4",
   "lastOpenFiles": [
-    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+    "Economía/Escasez/Tasa marginal de sustitución.md",
+    "Economía/Escasez/Problema del consumidor.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
+    "Economía/Escasez",
+    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Probabilidades/Axiomas y propiedades/Propiedades.md",
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
@@ -226,10 +205,7 @@
     "Economía/Conceptos claves",
     "Probabilidades/Repasos/Integrales",
     "Probabilidades/Repasos/Funciones",
-    "Economía/Métricas de bienestar/Curva de Lorenz.md",
     "Probabilidades/Repasos/Conjuntos",
-    "Economía/Métricas de bienestar/Índice de Gini.md",
-    "Economía/Métricas de bienestar",
-    "Economía/Índices de comparación"
+    "Economía/Métricas de bienestar"
   ]
 }
