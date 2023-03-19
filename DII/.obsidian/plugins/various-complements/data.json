@@ -79,8 +79,8 @@
     "Derivada": {
       "Derivada": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1678924184080
+          "count": 3,
+          "lastUpdated": 1679250830991
         }
       }
     },
@@ -201,6 +201,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1679057363608
+        }
+      }
+    },
+    "Continuidad": {
+      "Continuidad": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679250542616
+        }
+      }
+    },
+    "Tasa marginal de sustitución": {
+      "Tasa marginal de sustitución": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679252347177
         }
       }
     }

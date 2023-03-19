@@ -20,6 +20,54 @@
             }
           },
           {
+            "id": "7e9ac36df142089b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Escasez/Función producción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45d954e0df88418b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Escasez/Costo de oportunidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7873f39af5e2cfd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Escasez/Función Utilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9cff684d1e2c98c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Escasez/Optimizar decisiones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2f71d589eb343a99",
             "type": "leaf",
             "state": {
@@ -31,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Escasez/Problema del consumidor.md",
+                "file": "Economía/Escasez/Optimizar decisiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Escasez/Problema del consumidor.md",
+                "file": "Economía/Escasez/Optimizar decisiones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Escasez/Problema del consumidor.md"
+                "file": "Economía/Escasez/Optimizar decisiones.md"
               }
             }
           }
@@ -159,9 +207,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1d9c11c30a4d3b4",
+  "active": "0500663b42f9dbb9",
   "lastOpenFiles": [
+    "img/Optimizar decisiones 2.png",
+    "img/Optimizar decisiones.png",
+    "Economía/Escasez/Función Utilidad.md",
+    "Economía/Escasez/Optimizar decisiones.md",
+    "img/Utilidad cambio.png",
+    "Curva Indiferencia.png",
     "Economía/Escasez/Tasa marginal de sustitución.md",
+    "Economía/Escasez/Preferencias.md",
+    "img/Preferencias.png",
+    "Economía/Escasez/Costo de oportunidad.md",
+    "img/Costo de oportunidad.png",
+    "Economía/Escasez/Función producción.md",
+    "img/Conjunto factible.png",
+    "img/Producto Marginal.png",
+    "img/ProductoMedio.png",
+    "Probabilidades/Repasos/Funciones/Continuidad.md",
+    "img/Función produccion.png",
     "Economía/Escasez/Problema del consumidor.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Economía/Escasez",
@@ -184,24 +248,8 @@
     "Economía/Modelos matemáticos en la economía/Función de costos.md",
     "img/EjemploIsocostos.png",
     "Economía/Modelos matemáticos en la economía/Modelos económicos.md",
-    "img/EjemploInnovacion2.png",
-    "img/EjemploTecnología2.png",
-    "img/EjemploTecnología.png",
-    "img/InnovaciónTecnológica.jpeg",
-    "img/SalarioSubsistencia.jpeg",
-    "img/Malthus2.jpeg",
-    "IMG_DF7DC6F88BD5-1.jpeg",
-    "img/Malthus.jpeg",
     "Economía/Modelos matemáticos en la economía/Untitled",
     "Economía/Modelos matemáticos en la economía",
-    "img/Medioambiente.png",
-    "Economía/Conceptos claves/Trabajo.md",
-    "Economía/Conceptos claves/Economía.md",
-    "Probabilidades/Teoría de probabilidades.md",
-    "Probabilidades/Repasos/Integrales/Técnicas de integración.md",
-    "Probabilidades/Repasos/Funciones/Derivada parcial.md",
-    "Probabilidades/Repasos/Funciones/Derivada.md",
-    "Probabilidades/Repasos/Funciones/Continuidad.md",
     "Economía/Conceptos claves",
     "Probabilidades/Repasos/Integrales",
     "Probabilidades/Repasos/Funciones",
