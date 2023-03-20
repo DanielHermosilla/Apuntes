@@ -199,6 +199,7 @@ derivarla
 dica
 determina
 diferenciales
+desarrollan
 un
 una
 uni
@@ -647,6 +648,7 @@ plantear
 pr
 peri
 permanente
+partes
 trav
 teorema
 ticas
@@ -721,6 +723,7 @@ tuviera
 tiempo
 terminos
 tender
+transiente
 Pit
 Para
 Por
@@ -1030,6 +1033,7 @@ funciona
 finalmente
 fijamos
 fijar
+fase
 an
 amos
 aquello
@@ -1240,6 +1244,7 @@ intercambio
 igualdad
 igualado
 iniciales
+integrales
 Vamos
 Voy
 Veamos
@@ -1288,6 +1293,7 @@ Calcule
 Considerar
 Consiste
 Corresponde
+Considerando
 Sobre
 Se
 Segunda
