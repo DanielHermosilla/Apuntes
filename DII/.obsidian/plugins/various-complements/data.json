@@ -63,8 +63,8 @@
     "Conjuntos": {
       "Conjuntos": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1679053834206
+          "count": 4,
+          "lastUpdated": 1679313715632
         }
       }
     },
@@ -151,8 +151,8 @@
     "Espacio muestral": {
       "Espacio muestral": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679053556837
+          "count": 2,
+          "lastUpdated": 1679312650799
         }
       }
     },
@@ -167,8 +167,8 @@
     "Evento": {
       "Evento": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679054624328
+          "count": 4,
+          "lastUpdated": 1679313735196
         }
       }
     },
@@ -241,6 +241,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1679283498616
+        }
+      }
+    },
+    "Axiomas": {
+      "Axiomas": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679312767103
         }
       }
     }

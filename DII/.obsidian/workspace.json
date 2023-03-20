@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e655f6ca2cb40df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a4ace15858274d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Escasez/Efecto sustitución e ingreso.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Escasez/Efecto sustitución e ingreso.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Escasez/Efecto sustitución e ingreso.md"
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md"
               }
             }
           }
@@ -146,10 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fca4a95a117b6db4",
+  "active": "05a4ace15858274d",
   "lastOpenFiles": [
-    "Economía/Escasez/Optimizar decisiones.md",
+    "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
+    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
     "Economía/Escasez/Efecto sustitución e ingreso.md",
+    "Probabilidades/Probabilidad condicional e independencia",
+    "Economía/Escasez/Optimizar decisiones.md",
     "img/Aumento salario 2.png",
     "Economía/Escasez/Tasa marginal de sustitución.md",
     "img/Aumento salario hora.png",
@@ -175,7 +204,6 @@
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Axiomas y propiedades/Untitled",
     "Probabilidades/Axiomas y propiedades/Evento.md",
-    "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
     "Probabilidades/Repasos/Conjuntos/Cardinalidad.md",
     "Probabilidades/Repasos/Conjuntos/Producto cartesiano.md",
     "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
@@ -185,13 +213,11 @@
     "Economía/Modelos matemáticos en la economía/Innovación tecnológica.md",
     "Economía/Conceptos claves/Mercado.md",
     "Economía/Conceptos claves/Sistemas económicos y políticos.md",
-    "Economía/Modelos matemáticos en la economía/Función de costos.md",
     "Economía/Modelos matemáticos en la economía/Untitled",
     "Economía/Modelos matemáticos en la economía",
     "Economía/Conceptos claves",
     "Probabilidades/Repasos/Integrales",
     "Probabilidades/Repasos/Funciones",
-    "Probabilidades/Repasos/Conjuntos",
-    "Economía/Métricas de bienestar"
+    "Probabilidades/Repasos/Conjuntos"
   ]
 }
