@@ -10,7 +10,7 @@ $$\iff P(B\cap A)= P(B|A)P(A)$$
 
 Sean los tres [[Evento|eventos]] los siguientes: 
 
-$$P(A\cap B\cap C) = P(A\cap(B(\cap C))$$
+$$P(A\cap B\cap C) = P(A\cap(B\cap C))$$
 $$ = P(B\cap C|A)P(A)$$ $$=\frac{P(A\cap B\cap C)}{P(A)}$$ $$=\frac{P(C|A\cap B)P(A\cap B)}{P(A)}$$ $$=P(C|A\cap B)P(B|A)P(A)$$ 
 ### Regla de la cadena con *n* eventos 
 

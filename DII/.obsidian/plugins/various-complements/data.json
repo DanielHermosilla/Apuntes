@@ -151,8 +151,8 @@
     "Espacio muestral": {
       "Espacio muestral": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1679312650799
+          "count": 3,
+          "lastUpdated": 1679316765733
         }
       }
     },
@@ -167,8 +167,8 @@
     "Evento": {
       "Evento": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1679313735196
+          "count": 5,
+          "lastUpdated": 1679316232659
         }
       }
     },
@@ -249,6 +249,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1679312767103
+        }
+      }
+    },
+    "eventos": {
+      "eventos": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679316413914
+        }
+      }
+    },
+    "\\Omega_2": {
+      "\\Omega_2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679316848696
         }
       }
     }
