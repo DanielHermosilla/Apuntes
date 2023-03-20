@@ -575,6 +575,7 @@ nts
 nRZ
 nmwB
 nf
+nticos
 ticas
 tomo
 tiene
@@ -626,6 +627,7 @@ twc
 td
 tf
 tqJ
+tengan
 giraban
 gk
 go
@@ -870,6 +872,8 @@ ma
 mQ
 mf
 mz
+mismos
+meros
 Dalton
 DZ
 Dm
@@ -1072,6 +1076,7 @@ cct
 cv
 cwj
 cY
+cuatro
 Part
 PNG
 Profile
@@ -1466,6 +1471,7 @@ hv
 hV
 hk
 hwW
+haber
 BW
 Bx
 BE
