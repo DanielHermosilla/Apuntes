@@ -47,54 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "1000000": {
-      "1000000": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676733438955
-        }
-      }
-    },
-    "comp2": {
-      "comp2": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676649104825
-        }
-      }
-    },
-    "Ingeniería": {
-      "Ingeniería": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676660457878
-        }
-      }
-    },
-    "sumaPonderada": {
-      "sumaPonderada": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676663350938
-        }
-      }
-    },
-    "obtenerCasas": {
-      "obtenerCasas": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676663583001
-        }
-      }
-    },
-    "busquedaBinaria": {
-      "busquedaBinaria": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676733218960
-        }
-      }
-    },
     "maximo": {
       "maximo": {
         "currentFile": {
@@ -220,6 +172,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678119897295
+        }
+      }
+    },
+    "x^{77}": {
+      "x^{77}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679335925956
         }
       }
     }
