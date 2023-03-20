@@ -52,6 +52,8 @@ obtienen
 opta
 ocupado
 ordenadamente
+ordenamientos
+ordenados
 dos
 datos
 decir
@@ -116,6 +118,7 @@ diversas
 dulos
 definen
 discutir
+deseado
 predefinidos
 procesan
 partir
@@ -290,6 +293,7 @@ cierta
 cuando
 cumpla
 constantes
+consulta
 enteros
 en
 el
@@ -669,6 +673,8 @@ alto
 aprendizaje
 adelante
 aquellas
+arrays
+array
 jupyter
 jk
 jfv

@@ -1,4 +1,4 @@
-Este algoritmo se ocupa para bases de datos grandes y es extremadamente eficiente. Como ejemplo, se podría encontrar un elemento en un [[Listas|arreglo]] de 1000000 elementos en un máximo de 20 comparaciones. 
+Este algoritmo se ocupa para bases de datos grandes y es extremadamente eficiente. Como ejemplo, se podría encontrar un elemento en un [[Listas|arreglo]] de 1000000 elementos en un máximo de 20 comparaciones.  Aun así, el array **debe estar ordenado**. 
 
 El algoritmo se basa en la idea de asumir una [[Listas|lista]] ordenada. En caso de estar ordenada se divide la lista en la mitad y compararlo con el elemento buscado. Si la comparación resulta falsa, se sigue la busqueda con una recursión. Esta técnica emplea una técnica llamada *backtracking*. 
 
