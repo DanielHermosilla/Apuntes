@@ -4,115 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "7b642d2f39986f16",
+        "id": "b52e609c7910ac09",
         "type": "tabs",
         "children": [
           {
-            "id": "d39a9f5dedc912fc",
+            "id": "26a522b8be5acfbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabla periódica/Metales, metaloides y no metales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4edd3ad94db9bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabla periódica/Electronegatividad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7094019373548905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de enlaces químicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cadd54ef5e39fb8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "a6fc25a718c8bd1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física moderna/Mecánica cuántica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eccca356815e503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física moderna/Principio de incertidumbre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3fa9e8aff223da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física moderna/Ecuación de Schrödinger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc11bbea04831c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Números cuánticos/Números cuánticos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5ea969b283bd5ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Números cuánticos/Numero cúantico principal (n).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c857a0ef4892c44c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Números cuánticos/Numero cúantico principal (n).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a848ff628ac7aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Números cuánticos/Número cuántigo magnético (m).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a8c4cf03cc0e4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Números cuánticos/Números cuánticos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -179,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Números cuánticos/Números cuánticos.md",
+                "file": "Tipos de enlaces químicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Números cuánticos/Números cuánticos.md",
+                "file": "Tipos de enlaces químicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Números cuánticos/Números cuánticos.md"
+                "file": "Tipos de enlaces químicos.md"
               }
             }
           }
@@ -240,20 +179,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a8c4cf03cc0e4b8",
+  "active": "7094019373548905",
   "lastOpenFiles": [
-    "Números cuánticos/Número cuántigo magnético (m).md",
+    "Tabla periódica/Electronegatividad.md",
+    "Tipos de enlaces químicos.md",
+    "Tabla periódica/Metales, metaloides y no metales.md",
+    "Tabla periódica/Radio atómico.md",
+    "Tabla periódica/Afinidad electrónica.md",
+    "Tabla periódica/Carga nuclear efectiva.md",
+    "img/tabla periodica metales.png",
+    "Tabla periódica/Energía de ionización.md",
+    "Tabla periódica/Configuración electrónica.md",
+    "Tabla periódica/Tabla periódica moderna.md",
+    "img/radioatomico.png",
+    "Números cuánticos/Número cuántico magnético (m).md",
+    "Números cuánticos/Numero cúantico del momento angular (l).md",
     "Números cuánticos/Numero cúantico principal (n).md",
+    "img/PropiedadesPeriodicasElementos.png",
+    "img/Tabla Periódica configuración electrónica.jpeg",
+    "img/tablaperiodica.png",
+    "Tabla periódica",
+    "Números cuánticos/Números cuánticos.md",
     "img/OrbitalF.png",
     "img/OrbitalD.png",
-    "Números cuánticos/Numero cúantico del momento angular (l).md",
     "img/OrbitalP.png",
     "img/OrbitalS.png",
-    "Números cuánticos/Números cuánticos.md",
     "Números cuánticos/Spin.md",
     "Física moderna/Ecuación de Schrödinger.md",
     "Números cuánticos",
-    "Untitled",
     "Física moderna/Principio de incertidumbre.md",
     "Física moderna/Mecánica cuántica.md",
     "Física moderna/Radiación electromagnética.md",
@@ -262,19 +215,12 @@
     "img/SeriesBohr.png",
     "Teoría atómica/Teoría de Bohr.md",
     "img/Espectro atómico.md",
-    "img/fotoelectrico.png",
     "img",
-    "img/CuerpoNegro.png",
     "Física moderna",
     "Estructura atómica/Electrones.md",
     "Estructura atómica/Núcleo.md",
     "Estructura atómica/Protones.md",
     "Estructura atómica/Neutrones.md",
-    "Teoría atómica/Teoría de Dalton.md",
-    "Teoría atómica/Teoria de Thomson.md",
-    "Teoría atómica/Teoría de Rutherford.md",
-    "Estructura atómica/Fuerza electrostática.md",
-    "Estructura atómica/Átomo.md",
     "Estructura atómica",
     "Teoría atómica"
   ]
