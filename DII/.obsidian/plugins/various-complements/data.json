@@ -87,8 +87,8 @@
     "\\frac{\\partial": {
       "\\frac{\\partial": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678818015607
+          "count": 2,
+          "lastUpdated": 1679283213402
         }
       }
     },
@@ -127,8 +127,8 @@
     "Salarios": {
       "Salarios": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1678927669952
+          "count": 9,
+          "lastUpdated": 1679284597259
         }
       }
     },
@@ -215,8 +215,32 @@
     "Tasa marginal de sustitución": {
       "Tasa marginal de sustitución": {
         "internalLink": {
+          "count": 3,
+          "lastUpdated": 1679284571559
+        }
+      }
+    },
+    "Costo de oportunidad": {
+      "Costo de oportunidad": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1679252347177
+          "lastUpdated": 1679282650782
+        }
+      }
+    },
+    "Derivada parcial": {
+      "Derivada parcial": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679283049962
+        }
+      }
+    },
+    "Optimizar decisiones": {
+      "Optimizar decisiones": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679283498616
         }
       }
     }

@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1d9c11c30a4d3b4",
+            "id": "fca4a95a117b6db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Escasez/Problema del consumidor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e9ac36df142089b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Escasez/Función producción.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d954e0df88418b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Escasez/Costo de oportunidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7873f39af5e2cfd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Escasez/Función Utilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9cff684d1e2c98c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Escasez/Optimizar decisiones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f71d589eb343a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Escasez/Tasa marginal de sustitución.md",
+                "file": "Economía/Escasez/Efecto sustitución e ingreso.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Escasez/Optimizar decisiones.md",
+                "file": "Economía/Escasez/Efecto sustitución e ingreso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Escasez/Optimizar decisiones.md",
+                "file": "Economía/Escasez/Efecto sustitución e ingreso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Escasez/Optimizar decisiones.md"
+                "file": "Economía/Escasez/Efecto sustitución e ingreso.md"
               }
             }
           }
@@ -207,26 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "fca4a95a117b6db4",
   "lastOpenFiles": [
+    "Economía/Escasez/Optimizar decisiones.md",
+    "Economía/Escasez/Efecto sustitución e ingreso.md",
+    "img/Aumento salario 2.png",
+    "Economía/Escasez/Tasa marginal de sustitución.md",
+    "img/Aumento salario hora.png",
+    "img/Efecto ingreso.png",
+    "Economía/Escasez/Preferencias.md",
+    "img/Conjunto factible 3.png",
+    "img/Conjunto factible 2.png",
+    "img/Conjunto factible 1.png",
+    "img/Efecto sustitución.png",
+    "Economía/Escasez/Función Utilidad.md",
+    "Economía/Escasez/Costo de oportunidad.md",
+    "Economía/Escasez/Función producción.md",
+    "Economía/Escasez/Problema del consumidor.md",
     "img/Optimizar decisiones 2.png",
     "img/Optimizar decisiones.png",
-    "Economía/Escasez/Función Utilidad.md",
-    "Economía/Escasez/Optimizar decisiones.md",
     "img/Utilidad cambio.png",
-    "Curva Indiferencia.png",
-    "Economía/Escasez/Tasa marginal de sustitución.md",
-    "Economía/Escasez/Preferencias.md",
-    "img/Preferencias.png",
-    "Economía/Escasez/Costo de oportunidad.md",
-    "img/Costo de oportunidad.png",
-    "Economía/Escasez/Función producción.md",
-    "img/Conjunto factible.png",
-    "img/Producto Marginal.png",
-    "img/ProductoMedio.png",
     "Probabilidades/Repasos/Funciones/Continuidad.md",
-    "img/Función produccion.png",
-    "Economía/Escasez/Problema del consumidor.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Economía/Escasez",
     "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
@@ -246,8 +186,6 @@
     "Economía/Conceptos claves/Mercado.md",
     "Economía/Conceptos claves/Sistemas económicos y políticos.md",
     "Economía/Modelos matemáticos en la economía/Función de costos.md",
-    "img/EjemploIsocostos.png",
-    "Economía/Modelos matemáticos en la economía/Modelos económicos.md",
     "Economía/Modelos matemáticos en la economía/Untitled",
     "Economía/Modelos matemáticos en la economía",
     "Economía/Conceptos claves",
