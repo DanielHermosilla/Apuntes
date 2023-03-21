@@ -200,6 +200,8 @@ dica
 determina
 diferenciales
 desarrollan
+desarrollando
+dividir
 un
 una
 uni
@@ -378,6 +380,10 @@ cuesti
 complejos
 cticos
 contexto
+compleja
+conjugaci
+cambios
+cita
 su
 ser
 se
@@ -464,6 +470,9 @@ sacar
 sinusoidales
 suamdo
 solucionar
+sinusoidal
+separaci
+stico
 magnitud
 medio
 menor
@@ -522,6 +531,7 @@ men
 miraba
 multiplicadas
 mano
+modelo
 que
 qu
 queda
@@ -649,6 +659,9 @@ pr
 peri
 permanente
 partes
+poblaci
+plantea
+parciales
 trav
 teorema
 ticas
@@ -859,12 +872,14 @@ logra
 lido
 llegada
 linealmente
+log
 Matem
 Matriz
 MY
 Momento
 Mientras
 Motivaci
+Modelo
 va
 var
 viene
@@ -1001,6 +1016,9 @@ etc
 estuviera
 ecuaciones
 experiencia
+exponencial
+escrito
+especiales
 formas
 fin
 forall
@@ -1034,6 +1052,7 @@ finalmente
 fijamos
 fijar
 fase
+fracciones
 an
 amos
 aquello
@@ -1122,6 +1141,10 @@ atm
 ano
 atmosf
 ayudar
+anule
+acordarnos
+asumir
+asumiremos
 bajo
 bola
 binomio
@@ -1172,6 +1195,8 @@ haber
 hiperboloide
 homog
 herm
+hacen
+hecha
 intervalos
 interesante
 introducir
@@ -1245,6 +1270,9 @@ igualdad
 igualado
 iniciales
 integrales
+impl
+instante
+inicial
 Vamos
 Voy
 Veamos
@@ -1315,6 +1343,8 @@ Segundo
 Suma
 Soluci
 Solucion
+Sabiendo
+Ser
 Donde
 Demostraci
 Diferencial
@@ -1424,6 +1454,7 @@ representada
 restando
 regla
 rica
+reconociendo
 orden
 otras
 observaci
@@ -1467,6 +1498,7 @@ oc
 ortogonalidad
 operaci
 oscilaci
+otorga
 Analizando
 Ahora
 Aca
@@ -1606,6 +1638,8 @@ Fr
 Finalmente
 Fubini
 Funciones
+Factorizando
+Falta
 XO
 Xd
 Xmr

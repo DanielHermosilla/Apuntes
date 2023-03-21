@@ -57,7 +57,7 @@ Y también vamos a tener a la función que encontramos en la EDO, que para termi
 $$T_2(t) = T_H + T_P$$ 
 Notemos que $T_P$ es una oscilación periódica, esto se llama **solución permanente**, no así en $T_h$, ya que puede tender 0 cuando $t\rightarrow\infty$ (transiente). 
 
-Acordemonos que se necesita una [[Condición inicial|condición inicial]] para poder determinar la constante $c$. 
+Acordemonos que se necesita una [[Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial|condición inicial]] para poder determinar la constante $c$. 
 
 Por lo tanto;
 
