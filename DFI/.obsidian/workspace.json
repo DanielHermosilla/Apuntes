@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "605285a86387d6ca",
+            "id": "24f6dbba855af392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e677774de4e978d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Cinemática/Velocidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "872bfb9396be6397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Cinemática/Vector tangencial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee121e0b4122cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
+                "file": "Mecánica/Cinemática/Coordenadas polares.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
+                "file": "Mecánica/Cinemática/Coordenadas polares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
+                "file": "Mecánica/Cinemática/Coordenadas polares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md"
+                "file": "Mecánica/Cinemática/Coordenadas polares.md"
               }
             }
           }
@@ -182,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "605285a86387d6ca",
+  "active": "24f6dbba855af392",
   "lastOpenFiles": [
-    "Introducción a la Física Moderna/Física Cuántica/principio de incertidumbre de Heisemberg.md",
+    "Mecánica/Cinemática/Posición.md",
+    "Mecánica/Cinemática/Coordenadas polares.md",
+    "EjemploPolares2.jpeg",
+    "EjemploPolares1.jpeg",
     "Mecánica/Cinemática/Cinemática.md",
+    "Mecánica/img/CoordenadaPolar.jpeg",
+    "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
+    "Introducción a la Física Moderna/Física Cuántica/principio de incertidumbre de Heisemberg.md",
     "Mecánica/img/EjemploOsculador.jpeg",
     "Mecánica/Cinemática/Vector tangencial.md",
     "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
@@ -196,12 +166,10 @@
     "Mecánica/img/VectorTangencial.jpeg",
     "Mecánica/Partícula.md",
     "Mecánica/Sistema de referencia.md",
-    "Mecánica/Cinemática/Posición.md",
     "Mecánica/Cinemática/Aceleración.md",
     "Mecánica/img/Velocidad2.jpeg",
     "Mecánica/img/Velocidad.jpeg",
     "Mecánica/img",
-    "Mecánica/img/Trayectoria.jpeg",
     "Mecánica/Sistema de referencias",
     "Mecánica/Sistema de partículas",
     "Mecánica/Cinemática",
@@ -218,9 +186,6 @@
     "Métodos Experimentales/Corriente alterna/Circuito RL.md",
     "Métodos Experimentales/Corriente alterna/Circuito LC.md",
     "Métodos Experimentales/Corriente alterna/Inductancia.md",
-    "Métodos Experimentales/Circuitos eléctricos/Condensadores/Condensador.md",
-    "2023-01-09.md",
-    "Métodos Experimentales/Circuitos eléctricos/Condensadores/Circuito RC.md",
-    "Métodos Experimentales/Circuitos eléctricos/Condensadores/Asociación de condensadores.md"
+    "Métodos Experimentales/Circuitos eléctricos/Condensadores/Condensador.md"
   ]
 }

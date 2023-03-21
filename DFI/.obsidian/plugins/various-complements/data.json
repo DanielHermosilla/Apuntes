@@ -54,6 +54,30 @@
           "lastUpdated": 1678890306726
         }
       }
+    },
+    "\\rho\\hat{\\rho}": {
+      "\\rho\\hat{\\rho}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679405260911
+        }
+      }
+    },
+    "\\frac{d\\hat{\\rho}}{dt}": {
+      "\\frac{d\\hat{\\rho}}{dt}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679405524852
+        }
+      }
+    },
+    "Aceleración": {
+      "Aceleración": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679406581942
+        }
+      }
     }
   }
 }

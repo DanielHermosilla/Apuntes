@@ -164,6 +164,7 @@ apuntando
 antico
 analizando
 aquella
+angular
 por
 para
 pan
@@ -227,6 +228,8 @@ pod
 presencia
 pi
 psi
+par
+polares
 unidad
 una
 uno
@@ -288,6 +291,7 @@ rectilineas
 resolver
 realmente
 rightarrow
+radial
 Por
 Puede
 Producto
@@ -325,6 +329,8 @@ leve
 llegamos
 linealmente
 leq
+logicamente
+llamara
 tanto
 tratar
 tender
@@ -371,6 +377,7 @@ trayectorias
 tendremos
 tridimensional
 textit
+tricamente
 se
 su
 sale
@@ -415,6 +422,7 @@ soluci
 sustitu
 space
 sqrt
+siguiendo
 como
 cuerpos
 comprimirla
@@ -523,6 +531,7 @@ conservativa
 componente
 combinan
 cos
+coordenadas
 Notemos
 Nos
 Newton
@@ -640,6 +649,7 @@ mec
 mueve
 mos
 mL
+metro
 va
 volumen
 vamente
@@ -690,6 +700,7 @@ generada
 gran
 graficamente
 geq
+geom
 introduce
 igual
 independiente
@@ -830,6 +841,7 @@ bajos
 bajas
 brillantes
 bidimensional
+basta
 Ya
 Tenemos
 Tambi
