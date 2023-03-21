@@ -165,6 +165,9 @@ antico
 analizando
 aquella
 angular
+angulares
+aquellas
+asume
 por
 para
 pan
@@ -230,6 +233,7 @@ pi
 psi
 par
 polares
+proyecci
 unidad
 una
 uno
@@ -292,6 +296,7 @@ resolver
 realmente
 rightarrow
 radial
+radio
 Por
 Puede
 Producto
@@ -331,6 +336,7 @@ linealmente
 leq
 logicamente
 llamara
+lculos
 tanto
 tratar
 tender
@@ -423,6 +429,7 @@ sustitu
 space
 sqrt
 siguiendo
+sabe
 como
 cuerpos
 comprimirla
@@ -532,6 +539,9 @@ componente
 combinan
 cos
 coordenadas
+cil
+consideran
+caracteriza
 Notemos
 Nos
 Newton
@@ -690,6 +700,7 @@ Viene
 Valor
 Voltaje
 Vamos
+Velocidad
 generalizaci
 gido
 graduada
@@ -756,6 +767,9 @@ necesario
 nica
 nico
 ninguna
+ndricas
+ndro
+nuevo
 homog
 haber
 hay
@@ -770,6 +784,7 @@ hacer
 habr
 hab
 hbar
+haciendo
 Est
 Es
 Esto
@@ -831,6 +846,7 @@ osculadora
 osculador
 obtienen
 ordinaria
+ortogonal
 borde
 buena
 busca
@@ -856,6 +872,7 @@ Los
 Llamamos
 Ley
 Lo
+Las
 Operaci
 Otra
 Ocupando

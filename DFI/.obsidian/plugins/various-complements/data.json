@@ -78,6 +78,22 @@
           "lastUpdated": 1679406581942
         }
       }
+    },
+    "Posición": {
+      "Posición": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679409286041
+        }
+      }
+    },
+    "Velocidad": {
+      "Velocidad": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679409293330
+        }
+      }
     }
   }
 }
