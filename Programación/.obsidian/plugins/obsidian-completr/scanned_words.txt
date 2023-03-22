@@ -54,6 +54,8 @@ ocupado
 ordenadamente
 ordenamientos
 ordenados
+ordenaci
+ordenado
 dos
 datos
 decir
@@ -189,6 +191,7 @@ pues
 populares
 posee
 poner
+place
 como
 complejo
 caso
@@ -470,6 +473,9 @@ integrarse
 ingenier
 incluye
 indexan
+insertando
+iterativo
+insertarlos
 bool
 booleanos
 backslash
@@ -568,6 +574,7 @@ suministrado
 stico
 separando
 sentencia
+situ
 fueran
 flotantes
 float
@@ -733,6 +740,7 @@ tenga
 transformadas
 tico
 termine
+toma
 memoria
 matem
 multiplicaci
@@ -1048,6 +1056,7 @@ hecho
 ha
 herramientas
 hipot
+hace
 Index
 In
 IN
@@ -1073,6 +1082,7 @@ guarda
 generan
 gente
 genere
+garantizar
 Un
 Uy
 UR
