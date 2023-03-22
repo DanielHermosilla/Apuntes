@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c54d1a0f020ddd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Teoría de juegos/Juego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e3de3d82f6de8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Teoría de juegos/Juego estático.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b915be543a58369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -43,6 +80,14 @@
             }
           },
           {
+            "id": "19db110042b7a6ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "1900d8260f02b99b",
             "type": "leaf",
             "state": {
@@ -56,20 +101,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "19db110042b7a6ce",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 207.5,
+    "collapsed": true
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -85,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md"
+                "file": "Economía/Teoría de juegos/Estratedia dominadas.md"
               }
             }
           }
@@ -146,15 +184,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f10a15718b4e84a1",
+  "active": "1b915be543a58369",
   "lastOpenFiles": [
+    "Economía/Teoría de juegos/Juego estático.md",
+    "Economía/Teoría de juegos/Estratedia dominadas.md",
+    "img/Juego Estático.png",
+    "Economía/Teoría de juegos/Juego.md",
+    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+    "Economía/Teoría de juegos",
     "Probabilidades/Axiomas y propiedades/Propiedades.md",
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
     "Probabilidades/Axiomas y propiedades/Evento.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
-    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Economía/Escasez/Problema del consumidor.md",
     "Economía/Escasez/Tasa marginal de sustitución.md",
     "Economía/Escasez/Función producción.md",
@@ -177,7 +220,6 @@
     "img/Efecto sustitución.png",
     "img/Optimizar decisiones 2.png",
     "img/Optimizar decisiones.png",
-    "img/Utilidad cambio.png",
     "Probabilidades/Repasos/Funciones/Continuidad.md",
     "Economía/Escasez",
     "Probabilidades/Axiomas y propiedades/Untitled",
@@ -185,14 +227,10 @@
     "Probabilidades/Repasos/Conjuntos/Producto cartesiano.md",
     "Probabilidades/Axiomas y propiedades",
     "Economía/Clase y módulo 1.md",
-    "Economía/Modelos matemáticos en la economía/Modelo de Malthus.md",
-    "Economía/Modelos matemáticos en la economía/Innovación tecnológica.md",
-    "Economía/Conceptos claves/Mercado.md",
     "Economía/Modelos matemáticos en la economía/Untitled",
     "Economía/Modelos matemáticos en la economía",
     "Economía/Conceptos claves",
     "Probabilidades/Repasos/Integrales",
-    "Probabilidades/Repasos/Funciones",
-    "Probabilidades/Repasos/Conjuntos"
+    "Probabilidades/Repasos/Funciones"
   ]
 }

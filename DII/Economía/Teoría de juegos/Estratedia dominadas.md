@@ -1,0 +1,2 @@
+
+Una [[Juego|estrategia]] es 
