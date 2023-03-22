@@ -28,3 +28,7 @@ def ordena_insercion(a):
 		insertar(a,k)
 
 ```
+
+Es decir, toma el mayor número y lo pone al final, despues toma el segundo mayor y lo pone después del final y así sucesivamente.
+
+El orden de este algoritmo es $O(n^2)$ 
