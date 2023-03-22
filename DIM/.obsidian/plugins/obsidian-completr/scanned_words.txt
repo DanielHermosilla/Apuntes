@@ -873,6 +873,7 @@ lido
 llegada
 linealmente
 log
+logaritmo
 Matem
 Matriz
 MY
@@ -1019,6 +1020,7 @@ experiencia
 exponencial
 escrito
 especiales
+expresar
 formas
 fin
 forall
@@ -1455,6 +1457,7 @@ restando
 regla
 rica
 reconociendo
+recordando
 orden
 otras
 observaci

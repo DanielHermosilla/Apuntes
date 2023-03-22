@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Axiomas.md",
+                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Axiomas.md",
+                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Axiomas.md",
+                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Axiomas.md"
+                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "f10a15718b4e84a1",
   "lastOpenFiles": [
-    "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Axiomas y propiedades/Propiedades.md",
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
+    "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
+    "Probabilidades/Axiomas y propiedades/Evento.md",
+    "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
-    "Probabilidades/Axiomas y propiedades/Evento.md",
-    "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
     "Economía/Escasez/Problema del consumidor.md",
     "Economía/Escasez/Tasa marginal de sustitución.md",
     "Economía/Escasez/Función producción.md",
