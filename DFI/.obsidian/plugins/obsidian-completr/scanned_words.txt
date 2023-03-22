@@ -11,6 +11,7 @@ Composici
 CA
 Claramente
 Con
+Consideremos
 de
 define
 decir
@@ -82,6 +83,7 @@ dimensi
 diferencial
 dada
 dx
+denominador
 fuerza
 forma
 fijar
@@ -168,6 +170,8 @@ angular
 angulares
 aquellas
 asume
+analizar
+anterior
 por
 para
 pan
@@ -297,6 +301,8 @@ realmente
 rightarrow
 radial
 radio
+rectilinea
+reconocido
 Por
 Puede
 Producto
@@ -430,6 +436,7 @@ space
 sqrt
 siguiendo
 sabe
+simplificando
 como
 cuerpos
 comprimirla
@@ -687,6 +694,7 @@ visto
 vectores
 vida
 vec
+volviendo
 An
 Al
 Ampere
@@ -770,6 +778,7 @@ ninguna
 ndricas
 ndro
 nuevo
+numerador
 homog
 haber
 hay
@@ -799,6 +808,7 @@ Este
 Estudio
 Ejemplo
 Ecuaci
+Equivalentemente
 ya
 Se
 Son
@@ -810,6 +820,8 @@ Superposici
 Su
 Schrödinger
 Sustituyendo
+Simplificando
+Sabemos
 Donde
 Diferencia
 Dispositivo
@@ -847,6 +859,7 @@ osculador
 obtienen
 ordinaria
 ortogonal
+otra
 borde
 buena
 busca
@@ -898,3 +911,4 @@ Henry
 Hay
 kL
 kx
+juntando

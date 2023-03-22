@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md"
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "14bf0aae4535761f",
   "lastOpenFiles": [
+    "Mecánica/Cinemática/Vector tangencial.md",
+    "Mecánica/Cinemática/Coordenadas esféricas.md",
     "Mecánica/Cinemática/Coordenadas polares.md",
     "Mecánica/Cinemática/Coordenadas cilíndricas.md",
-    "Mecánica/Cinemática/Coordenadas esféricas.md",
     "Mecánica/img/CoordenadasEsfericas.png",
     "Mecánica/Cinemática/Posición.md",
     "Mecánica/img/EjemploPolares2.jpeg",
@@ -168,7 +169,6 @@
     "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
     "Introducción a la Física Moderna/Física Cuántica/principio de incertidumbre de Heisemberg.md",
     "Mecánica/img/EjemploOsculador.jpeg",
-    "Mecánica/Cinemática/Vector tangencial.md",
     "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
     "Mecánica/img/Osculador2.jpeg",
     "Mecánica/img/Osculador.jpeg",
