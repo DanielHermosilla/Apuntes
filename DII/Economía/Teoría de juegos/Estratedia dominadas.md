@@ -1,2 +1,2 @@
 
-Una [[Juego|estrategia]] es 
+Una [[Juego|estrategia dominada]] es una estrategia para un jugador donde [[Independencia|independientemente]] de lo que hagan los rivales, existe una estrategia donde se obtiene una mayor utilidad. En este caso se dira que el jugador $s_i^{'}$ **domina** a $s_i$   

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de separación de variables.md",
+                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de separación de variables.md",
+                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de separación de variables.md",
+                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de separación de variables.md"
+                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md"
               }
             }
           },
@@ -156,9 +156,9 @@
   },
   "active": "c06c89f7c0e12d0f",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Método de separación de variables.md",
     "Ecuaciones Diferenciales Ordinarias/Condición inicial.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial.md",
-    "Ecuaciones Diferenciales Ordinarias/Método de separación de variables.md",
     "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
     "Cálculo en Varias Variables/Integración/Coordenadas esféricas.md",

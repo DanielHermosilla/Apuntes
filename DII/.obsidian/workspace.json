@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
-    "collapsed": true
+    "width": 207.5
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -186,8 +185,12 @@
   },
   "active": "1b915be543a58369",
   "lastOpenFiles": [
-    "Economía/Teoría de juegos/Juego estático.md",
+    "Economía/Escasez/Optimizar decisiones.md",
+    "Economía/Escasez/Función Utilidad.md",
+    "Economía/Escasez/Costo de oportunidad.md",
+    "Economía/Escasez/Función producción.md",
     "Economía/Teoría de juegos/Estratedia dominadas.md",
+    "Economía/Teoría de juegos/Juego estático.md",
     "img/Juego Estático.png",
     "Economía/Teoría de juegos/Juego.md",
     "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
@@ -200,12 +203,8 @@
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Economía/Escasez/Problema del consumidor.md",
     "Economía/Escasez/Tasa marginal de sustitución.md",
-    "Economía/Escasez/Función producción.md",
-    "Economía/Escasez/Costo de oportunidad.md",
     "Economía/Escasez/Preferencias.md",
-    "Economía/Escasez/Optimizar decisiones.md",
     "Economía/Escasez/Efecto sustitución e ingreso.md",
-    "Economía/Escasez/Función Utilidad.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
