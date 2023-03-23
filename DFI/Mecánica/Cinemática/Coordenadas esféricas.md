@@ -16,3 +16,6 @@ $$\vec{r} = r\hat{r}$$
 La [[Velocidad|velocidad]] se caracteriza por: 
 
 $$\vec{v}=\dot{r}\hat{r} + r\frac{d\hat{r}}{dt}$$ $$\vec{v} = \dot{r}\hat{r} + r[\dot{\theta}\hat{\theta}+\sin(\theta)\dot{\phi}\hat{\phi}]$$ 
+### Aceleración 
+
+Tiene una componente en $\hat{r}$, $\hat{\theta}$ y $\hat{\phi}$. 

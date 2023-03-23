@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
+                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
+                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
+                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md"
+                "file": "Mecánica/Cinemática/Coordenadas esféricas.md"
               }
             }
           }
@@ -156,28 +156,28 @@
   },
   "active": "14bf0aae4535761f",
   "lastOpenFiles": [
-    "Mecánica/Cinemática/Vector tangencial.md",
+    "Mecánica/Cinemática/Velocidad.md",
     "Mecánica/Cinemática/Coordenadas esféricas.md",
-    "Mecánica/Cinemática/Coordenadas polares.md",
+    "Mecánica/Cinemática/Aceleración.md",
+    "Mecánica/Cinemática/Cinemática.md",
     "Mecánica/Cinemática/Coordenadas cilíndricas.md",
-    "Mecánica/img/CoordenadasEsfericas.png",
+    "Mecánica/Cinemática/Coordenadas polares.md",
     "Mecánica/Cinemática/Posición.md",
+    "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
+    "Mecánica/Cinemática/Vector tangencial.md",
+    "Mecánica/img/CoordenadasEsfericas.png",
     "Mecánica/img/EjemploPolares2.jpeg",
     "Mecánica/img/EjemploPolares1.jpeg",
-    "Mecánica/Cinemática/Cinemática.md",
     "Mecánica/img/CoordenadaPolar.jpeg",
     "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
     "Introducción a la Física Moderna/Física Cuántica/principio de incertidumbre de Heisemberg.md",
     "Mecánica/img/EjemploOsculador.jpeg",
-    "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
     "Mecánica/img/Osculador2.jpeg",
     "Mecánica/img/Osculador.jpeg",
     "Mecánica/img/CirculoOsculador.jpeg",
-    "Mecánica/Cinemática/Velocidad.md",
     "Mecánica/img/VectorTangencial.jpeg",
     "Mecánica/Partícula.md",
     "Mecánica/Sistema de referencia.md",
-    "Mecánica/Cinemática/Aceleración.md",
     "Mecánica/img/Velocidad2.jpeg",
     "Mecánica/img",
     "Mecánica/Sistema de referencias",
