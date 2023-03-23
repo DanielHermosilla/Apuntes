@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
+                "file": "Economía/Escasez/Función Utilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
-    "collapsed": true
+    "width": 207.5
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
+                "file": "Economía/Escasez/Función Utilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
+                "file": "Economía/Escasez/Función Utilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md"
+                "file": "Economía/Escasez/Función Utilidad.md"
               }
             }
           }
@@ -187,9 +186,13 @@
   "active": "1b915be543a58369",
   "lastOpenFiles": [
     "Economía/Escasez/Optimizar decisiones.md",
+    "Economía/Escasez/Efecto sustitución e ingreso.md",
     "Economía/Escasez/Función Utilidad.md",
+    "Economía/Escasez/Preferencias.md",
     "Economía/Escasez/Costo de oportunidad.md",
     "Economía/Escasez/Función producción.md",
+    "Economía/Escasez/Tasa marginal de sustitución.md",
+    "Economía/Escasez/Problema del consumidor.md",
     "Economía/Teoría de juegos/Estratedia dominadas.md",
     "Economía/Teoría de juegos/Juego estático.md",
     "img/Juego Estático.png",
@@ -202,10 +205,6 @@
     "Probabilidades/Axiomas y propiedades/Evento.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
-    "Economía/Escasez/Problema del consumidor.md",
-    "Economía/Escasez/Tasa marginal de sustitución.md",
-    "Economía/Escasez/Preferencias.md",
-    "Economía/Escasez/Efecto sustitución e ingreso.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
