@@ -121,6 +121,7 @@ dulos
 definen
 discutir
 deseado
+despu
 predefinidos
 procesan
 partir
@@ -192,6 +193,7 @@ populares
 posee
 poner
 place
+pone
 como
 complejo
 caso
@@ -610,6 +612,7 @@ filterfalse
 filtrando
 fico
 finalizar
+final
 asignaciones
 almacena
 analizaremos

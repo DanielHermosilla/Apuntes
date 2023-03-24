@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md",
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Cinemática/Coordenadas esféricas.md"
+                "file": "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md"
               }
             }
           }
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8d32f31af482e9",
+  "active": "14bf0aae4535761f",
   "lastOpenFiles": [
+    "Mecánica/Cinemática/Coordenadas esféricas.md",
     "Mecánica/img/EjemploEsfericas.jpeg",
     "Mecánica/Cinemática/Velocidad.md",
-    "Mecánica/Cinemática/Coordenadas esféricas.md",
     "Mecánica/Cinemática/Aceleración.md",
     "Mecánica/Cinemática/Cinemática.md",
     "Mecánica/Cinemática/Coordenadas cilíndricas.md",
@@ -179,7 +179,6 @@
     "Mecánica/img/VectorTangencial.jpeg",
     "Mecánica/Partícula.md",
     "Mecánica/Sistema de referencia.md",
-    "Mecánica/img/Velocidad2.jpeg",
     "Mecánica/img",
     "Mecánica/Sistema de referencias",
     "Mecánica/Sistema de partículas",
