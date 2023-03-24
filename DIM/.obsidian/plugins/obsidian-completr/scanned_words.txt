@@ -202,6 +202,7 @@ diferenciales
 desarrollan
 desarrollando
 dividir
+deshace
 un
 una
 uni
@@ -384,6 +385,7 @@ compleja
 conjugaci
 cambios
 cita
+ciertos
 su
 ser
 se
@@ -473,6 +475,8 @@ solucionar
 sinusoidal
 separaci
 stico
+soluciones
+sumas
 magnitud
 medio
 menor
@@ -737,6 +741,7 @@ tiempo
 terminos
 tender
 transiente
+terminar
 Pit
 Para
 Por
@@ -810,6 +815,8 @@ Evaluar
 EDO
 Est
 Extendidamente
+EDOS
+Esa
 Norma
 No
 Notemos
@@ -1172,6 +1179,7 @@ boomerang
 boldsymbol
 br
 bigg
+backslash
 hay
 hacemos
 ha
@@ -1535,6 +1543,7 @@ BF
 BB
 Banach
 Busquemos
+Bernoulli
 Justamente
 JW
 Jw
@@ -1595,6 +1604,7 @@ RE
 Resumen
 Recordando
 Reemplazando
+Ricatti
 kappa
 kcM
 kj
@@ -1606,6 +1616,7 @@ HJ
 Haciendo
 Hessiana
 Hallar
+Homog
 Ortogonalidad
 Ortonormalidad
 OUC

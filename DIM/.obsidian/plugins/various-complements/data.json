@@ -70,6 +70,30 @@
           "lastUpdated": 1678810831449
         }
       }
+    },
+    "\\frac{1}{x}": {
+      "\\frac{1}{x}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679586434024
+        }
+      }
+    },
+    "\\begin{cases}": {
+      "\\begin{cases}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679587208287
+        }
+      }
+    },
+    "\\frac{1}{z}": {
+      "\\frac{1}{z}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679588796370
+        }
+      }
     }
   }
 }

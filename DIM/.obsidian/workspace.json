@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22605dd7e559ca33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff794e4050b72d49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c842412928c4d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d29b931dd45a9dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cálculo en Varias Variables/Integración/Extensión.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +195,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c06c89f7c0e12d0f",
+  "active": "ff794e4050b72d49",
   "lastOpenFiles": [
-    "Ecuaciones Diferenciales Ordinarias/Método de separación de variables.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
+    "Cálculo en Varias Variables/Integración/Extensión.md",
+    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+    "Cálculo en Varias Variables/Integración/Medida nula.md",
+    "Cálculo en Varias Variables/Integración/Integral en varias variables.md",
+    "Cálculo en Varias Variables/Integración/Suma superior e inferior.md",
+    "Cálculo en Varias Variables/Integración/Particiones en varias variables.md",
+    "Cálculo en Varias Variables/Integración/Integral sobre rectángulos.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
+    "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
     "Ecuaciones Diferenciales Ordinarias/Condición inicial.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial.md",
-    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
     "Cálculo en Varias Variables/Integración/Coordenadas esféricas.md",
     "Cálculo en Varias Variables/Integración/Cambio de variable.md",
@@ -172,17 +224,6 @@
     "Álgebra Lineal/Espacios vectoriales/escalares.md",
     "Álgebra Lineal/Valores y vectores propios/conjuntos ortogonales y ortonormales.md",
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
-    "Cálculo en Varias Variables/Pregunta 2.md",
-    "Cálculo en Varias Variables/Funciones/Continuidad en varias variables.md",
-    "Cálculo en Varias Variables/Funciones/Continuidad de la composición de funciones.md",
-    "Cálculo en Varias Variables/Funciones/Preimagenes.md",
-    "Cálculo en Varias Variables/Funciones/Máximos y mínimos de funciones continuas.md",
-    "Cálculo en Varias Variables/Funciones/Coercividad.md",
-    "Cálculo en Varias Variables/Funciones/Funciones escalares.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales",
-    "Cálculo en Varias Variables/Integración/Integral sobre rectángulos.md",
-    "Cálculo en Varias Variables/Sucesiones/Sucesión de Cauchy.md",
-    "Cálculo en Varias Variables/Topología/Norma en varias variables.md",
-    "Cálculo en Varias Variables/Topología/Desigualdad de Cauchy-Schwartz.md"
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales"
   ]
 }

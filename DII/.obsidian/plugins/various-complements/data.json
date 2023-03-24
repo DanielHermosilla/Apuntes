@@ -167,8 +167,8 @@
     "Evento": {
       "Evento": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1679316232659
+          "count": 9,
+          "lastUpdated": 1679660725326
         }
       }
     },
@@ -287,8 +287,24 @@
     "Independencia": {
       "Independencia": {
         "internalLink": {
+          "count": 3,
+          "lastUpdated": 1679660730668
+        }
+      }
+    },
+    "\\sum_{i": {
+      "\\sum_{i": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1679538594371
+          "lastUpdated": 1679658884236
+        }
+      }
+    },
+    "1}^{\\infty}P": {
+      "1}^{\\infty}P": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679658887699
         }
       }
     }
