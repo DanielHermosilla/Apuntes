@@ -1,4 +1,4 @@
-
+ 
 Sabemos que la [[Probabilidad Condicional|probabilidad condicional]] nos dice que: 
 
 $$P(A|B)=\frac{P(A\cap B)}{P(B)}$$ 

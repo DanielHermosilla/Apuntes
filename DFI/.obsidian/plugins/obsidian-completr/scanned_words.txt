@@ -110,6 +110,8 @@ fijamos
 formalmente
 formar
 fundamentales
+figura
+formando
 aplicada
 al
 aplicar
@@ -704,6 +706,7 @@ Ahora
 Adem
 Ancho
 Asi
+Aceleraci
 Viene
 Valor
 Voltaje
@@ -751,6 +754,7 @@ infty
 int
 ikL
 iA
+integramos
 no
 neo
 ngulo
@@ -871,6 +875,7 @@ bajas
 brillantes
 bidimensional
 basta
+bajando
 Ya
 Tenemos
 Tambi
