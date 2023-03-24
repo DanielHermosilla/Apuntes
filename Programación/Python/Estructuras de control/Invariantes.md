@@ -22,3 +22,9 @@ def potencia(x, n):
 ```
 
 El invariante llegaría a ser $y=x^k$ donde se rompe el bucle cuando $n=k$. 
+
+Las cosas que deben cumplir las invariantes es lo siguiente: 
+
+- Debe ser verificable antes, durante y después de un ciclo
+- Siempre debe estar en función de sus índices
+- Debe tener una condición inicial y de término y acordes. 

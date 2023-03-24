@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Insertion sort.md",
+                "file": "Python/Estructuras de control/Invariantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Insertion sort.md",
+                "file": "Python/Estructuras de control/Invariantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Insertion sort.md",
+                "file": "Python/Estructuras de control/Invariantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Insertion sort.md"
+                "file": "Python/Estructuras de control/Invariantes.md"
               }
             }
           }
@@ -146,12 +146,11 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1c8e510f5649ba2c",
+  "active": "4cdf86c128192f0b",
   "lastOpenFiles": [
+    "Python/Algoritmos/Ordenamiento/Insertion sort.md",
     "img/Seleccion.png",
     "Python/Algoritmos/Busqueda/Busqueda binaria.md",
-    "Python/Algoritmos/Ordenamiento/Insertion sort.md",
-    "Python/Algoritmos/Ordenamiento/Insertion sort.md",
     "Python/Algoritmos/Ordenamiento/Merge Sort.md",
     "Python/Algoritmos/Ordenamiento/Counting sort.md",
     "Python/Algoritmos/Ordenamiento/Bubble sort.md",

@@ -685,6 +685,7 @@ adelante
 aquellas
 arrays
 array
+alg
 jupyter
 jk
 jfv
@@ -908,6 +909,7 @@ relacionado
 regresi
 recomendable
 rompe
+rmino
 Suma
 Se
 Si
@@ -1060,6 +1062,7 @@ ha
 herramientas
 hipot
 hace
+har
 Index
 In
 IN
