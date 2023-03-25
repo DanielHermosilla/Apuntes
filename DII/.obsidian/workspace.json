@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md"
+                "file": "Probabilidades/Probabilidad condicional e independencia/Independencia.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "2601f536a11dcb3a",
   "lastOpenFiles": [
+    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
     "Probabilidades/Independencia condicional.md",
     "Probabilidades/Ley de Bayes.md",
     "Probabilidades/Ley de Probabilidades Totales.md",
@@ -180,10 +182,8 @@
     "Probabilidades/Axiomas y propiedades/Evento.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
-    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Repasos/Conjuntos/Conjuntos.md",
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
     "Probabilidades/Probabilidad condicional e independencia",
     "img/Aumento salario 2.png",
     "img/Aumento salario hora.png",
