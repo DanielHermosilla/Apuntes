@@ -122,6 +122,7 @@ definen
 discutir
 deseado
 despu
+deben
 predefinidos
 procesan
 partir
@@ -299,6 +300,8 @@ cuando
 cumpla
 constantes
 consulta
+cosas
+cumplir
 enteros
 en
 el
@@ -478,6 +481,8 @@ indexan
 insertando
 iterativo
 insertarlos
+invariantes
+inicial
 bool
 booleanos
 backslash
@@ -686,6 +691,8 @@ aquellas
 arrays
 array
 alg
+antes
+acordes
 jupyter
 jk
 jfv
@@ -928,6 +935,7 @@ Son
 Simplemente
 SciPy
 Scikit
+Siempre
 Funcionan
 Funciones
 Fk
@@ -975,6 +983,7 @@ variaciones
 varias
 vacias
 verdadera
+verificable
 Divisiones
 Del
 Dentro
@@ -994,6 +1003,7 @@ Dunn
 Devin
 Dropwhile
 Dado
+Debe
 Las
 La
 Los
