@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "Copia de somethingsnippet"
   ],
-  "cssTheme": "Clair de Lune"
+  "cssTheme": "Clair de Lune",
+  "baseFontSize": 30
 }
