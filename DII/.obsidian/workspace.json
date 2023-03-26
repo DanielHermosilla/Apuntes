@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Ley de Bayes.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Ley de Bayes.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Ley de Bayes.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Ley de Bayes.md"
+                "file": "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md"
               }
             }
           }
@@ -156,12 +156,12 @@
   },
   "active": "2601f536a11dcb3a",
   "lastOpenFiles": [
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
-    "Probabilidades/Ley de Bayes.md",
-    "Probabilidades/Teoría de probabilidades.md",
-    "Probabilidades/Independencia condicional.md",
-    "Probabilidades/Ley de Probabilidades Totales.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
+    "Probabilidades/Independencia condicional.md",
+    "Probabilidades/Ley de Bayes.md",
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Probabilidades/Teoría de probabilidades.md",
+    "Probabilidades/Ley de Probabilidades Totales.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Economía/Teoría de juegos/Juego.md",
