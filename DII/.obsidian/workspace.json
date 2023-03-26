@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Independencia condicional.md",
+                "file": "Probabilidades/Ley de Bayes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Independencia condicional.md",
+                "file": "Probabilidades/Ley de Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Independencia condicional.md",
+                "file": "Probabilidades/Ley de Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Independencia condicional.md"
+                "file": "Probabilidades/Ley de Bayes.md"
               }
             }
           }
@@ -156,13 +156,13 @@
   },
   "active": "2601f536a11dcb3a",
   "lastOpenFiles": [
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
     "Probabilidades/Ley de Bayes.md",
-    "Probabilidades/Ley de Probabilidades Totales.md",
     "Probabilidades/Teoría de probabilidades.md",
+    "Probabilidades/Independencia condicional.md",
+    "Probabilidades/Ley de Probabilidades Totales.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
-    "Probabilidades/Independencia condicional.md",
     "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Economía/Teoría de juegos/Juego.md",
     "Economía/Escasez/Tasa marginal de sustitución.md",
