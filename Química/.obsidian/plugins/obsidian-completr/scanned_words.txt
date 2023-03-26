@@ -214,6 +214,7 @@ ln
 llegar
 ltimo
 lugar
+lico
 postula
 pueden
 pasando
@@ -504,6 +505,8 @@ estado
 ecuaci
 entonces
 entalpia
+electrost
+especies
 orbitales
 oQt
 ox
@@ -583,6 +586,7 @@ ocupar
 ocupan
 ordenar
 otros
+opuesto
 ir
 inicialmente
 iCCPICC
@@ -660,6 +664,7 @@ inversa
 izquierda
 inversos
 ionizaci
+inmersos
 Refutando
 Rd
 RIU
@@ -969,6 +974,7 @@ tYr
 tres
 tienden
 tanto
+tica
 giraban
 gk
 go
@@ -1122,6 +1128,7 @@ arriba
 anteriormente
 afinidad
 altas
+atracci
 del
 de
 densa
@@ -1287,6 +1294,7 @@ formar
 fuerzas
 fundamental
 fase
+formado
 masiva
 ml
 mI
@@ -1363,6 +1371,8 @@ mTcTt
 mmD
 mayor
 magnesio
+met
+mar
 Dalton
 DZ
 Dm
@@ -1587,6 +1597,7 @@ Existen
 Efecto
 Ejemplo
 Elementos
+Enlace
 centro
 contiene
 cula
@@ -1681,6 +1692,8 @@ cuantizar
 cuantizado
 cerca
 cargan
+cargas
+covalente
 Part
 PNG
 Profile
@@ -3876,5 +3889,6 @@ siente
 solamente
 siendo
 segundo
+signo
 äYE
 ßN
