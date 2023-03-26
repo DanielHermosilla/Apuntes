@@ -98,16 +98,32 @@
     "Núcleo": {
       "Núcleo": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679320806981
+          "count": 2,
+          "lastUpdated": 1679866565677
         }
       }
     },
     "Átomo": {
       "Átomo": {
         "internalLink": {
+          "count": 3,
+          "lastUpdated": 1679867029264
+        }
+      }
+    },
+    "Electronegatividad": {
+      "Electronegatividad": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1679867056109
+        }
+      }
+    },
+    "Afinidad electrónica": {
+      "Afinidad electrónica": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1679321852955
+          "lastUpdated": 1679866536422
         }
       }
     }

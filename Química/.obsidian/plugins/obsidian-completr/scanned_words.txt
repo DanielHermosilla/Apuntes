@@ -55,6 +55,7 @@ STj
 SA
 SgFp
 Sabiendo
+Son
 refuta
 rico
 rL
@@ -507,6 +508,10 @@ entonces
 entalpia
 electrost
 especies
+enlaces
+espec
+energia
+estos
 orbitales
 oQt
 ox
@@ -587,6 +592,7 @@ ocupan
 ordenar
 otros
 opuesto
+otro
 ir
 inicialmente
 iCCPICC
@@ -808,6 +814,8 @@ bDE
 btt
 bWMAbRqKp
 bur
+basan
+baja
 ndose
 nicamente
 nK
@@ -975,6 +983,7 @@ tres
 tienden
 tanto
 tica
+tipos
 giraban
 gk
 go
@@ -1049,6 +1058,7 @@ grupo
 gaseoso
 gas
 gana
+generan
 alrededor
 an
 aU
@@ -1220,6 +1230,7 @@ dicas
 derecha
 descrito
 dos
+diferencia
 forma
 fO
 fg
@@ -1295,6 +1306,8 @@ fuerzas
 fundamental
 fase
 formado
+ficamente
+forman
 masiva
 ml
 mI
@@ -1598,6 +1611,7 @@ Efecto
 Ejemplo
 Elementos
 Enlace
+Entre
 centro
 contiene
 cula
@@ -1694,6 +1708,9 @@ cerca
 cargan
 cargas
 covalente
+cede
+compuestos
+cristales
 Part
 PNG
 Profile
@@ -2013,6 +2030,7 @@ Ca
 CuS
 Cd
 Con
+Como
 Zxk
 ZI
 ZD
@@ -3890,5 +3908,6 @@ solamente
 siendo
 segundo
 signo
+sueltan
 äYE
 ßN
