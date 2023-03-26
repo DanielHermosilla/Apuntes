@@ -135,6 +135,7 @@ realizar
 real
 repulsi
 radio
+revez
 la
 los
 las
@@ -216,6 +217,9 @@ llegar
 ltimo
 lugar
 lico
+longitud
+licos
+llama
 postula
 pueden
 pasando
@@ -316,6 +320,11 @@ perder
 puede
 prot
 pantalla
+pares
+pertenecen
+polar
+pero
+puntos
 que
 qy
 qe
@@ -512,6 +521,11 @@ enlaces
 espec
 energia
 estos
+electronesentre
+enlace
+este
+estructura
+estables
 orbitales
 oQt
 ox
@@ -593,6 +607,7 @@ ordenar
 otros
 opuesto
 otro
+otra
 ir
 inicialmente
 iCCPICC
@@ -671,6 +686,7 @@ izquierda
 inversos
 ionizaci
 inmersos
+igual
 Refutando
 Rd
 RIU
@@ -902,6 +918,8 @@ necesaria
 necesita
 negativamente
 noble
+ntica
+nea
 ticas
 tomo
 tiene
@@ -984,6 +1002,7 @@ tienden
 tanto
 tica
 tipos
+tomos
 giraban
 gk
 go
@@ -1059,6 +1078,7 @@ gaseoso
 gas
 gana
 generan
+general
 alrededor
 an
 aU
@@ -1139,6 +1159,8 @@ anteriormente
 afinidad
 altas
 atracci
+atrae
+apolar
 del
 de
 densa
@@ -1231,6 +1253,10 @@ derecha
 descrito
 dos
 diferencia
+determina
+distinta
+dativo
+dibujar
 forma
 fO
 fg
@@ -1308,6 +1334,7 @@ fase
 formado
 ficamente
 forman
+formal
 masiva
 ml
 mI
@@ -1386,6 +1413,8 @@ mayor
 magnesio
 met
 mar
+medida
+mol
 Dalton
 DZ
 Dm
@@ -1612,6 +1641,7 @@ Ejemplo
 Elementos
 Enlace
 Entre
+Este
 centro
 contiene
 cula
@@ -1711,6 +1741,15 @@ covalente
 cede
 compuestos
 cristales
+covalentes
+compartir
+compartidos
+cabe
+cleo
+caso
+comparten
+comparte
+coordinado
 Part
 PNG
 Profile
@@ -1795,6 +1834,7 @@ Propiedades
 Por
 Pentraci
 Penetraci
+Pero
 vive
 vj
 vI
@@ -1862,6 +1902,7 @@ vVF
 valencia
 van
 variaci
+varios
 IHDR
 Ia
 IWO
@@ -2031,6 +2072,8 @@ CuS
 Cd
 Con
 Como
+Cuando
+Consiste
 Zxk
 ZI
 ZD
@@ -2180,6 +2223,7 @@ Oa
 OLv
 OyR
 OB
+Ocurre
 GC
 GAg
 Gz
@@ -2330,6 +2374,7 @@ hwx
 hin
 hay
 helio
+hacia
 BW
 Bx
 BE
@@ -2471,6 +2516,7 @@ LWnt
 Ls
 LCOw
 LJ
+Lewis
 NK
 NA
 Nl
@@ -3909,5 +3955,8 @@ siendo
 segundo
 signo
 sueltan
+significativa
+sus
+servir
 äYE
 ßN

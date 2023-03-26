@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "4d9acb3746c912ff",
+            "id": "e360c3c40b6a9f20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces/Enlace covalente.md",
+                "file": "Enlaces/Teoría de Lewis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69ea16c71d71e501",
+            "id": "05210f7440bebde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces/Polaridad del enlace covalente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "129e8e1a5d3adf2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enlaces/Fuerza de Enlace.md",
+                "file": "Geometría molecular/Estructura cristalinas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces/Fuerza de Enlace.md",
+                "file": "Geometría molecular/Estructura cristalinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces/Fuerza de Enlace.md",
+                "file": "Geometría molecular/Estructura cristalinas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces/Fuerza de Enlace.md"
+                "file": "Geometría molecular/Estructura cristalinas.md"
               }
             }
           }
@@ -183,13 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "129e8e1a5d3adf2f",
+  "active": "05210f7440bebde0",
   "lastOpenFiles": [
-    "Enlaces/Polaridad del enlace covalente.md",
-    "Enlaces/Fuerza de Enlace.md",
-    "img/Polaridad.png",
-    "Enlaces/Enlace covalente.md",
+    "Enlaces/Teoría de Lewis.md",
+    "Geometría molecular/Estructura cristalinas.md",
+    "Geometría molecular",
+    "img/Resonancia.png",
+    "Enlaces/Untitled.md",
     "Enlaces/Tipos de enlaces químicos.md",
+    "Enlaces/Enlace covalente.md",
+    "Enlaces/Polaridad del enlace covalente.md",
+    "Enlaces/Orden de enlace.md",
+    "img/LongitudEnlace.png",
+    "img/Polaridad.png",
     "Enlaces/Enlace iónico.md",
     "Enlaces/Enlace metálico.md",
     "img/Enlace metálico.png",
@@ -213,17 +207,12 @@
     "Tabla periódica",
     "Números cuánticos/Números cuánticos.md",
     "img/OrbitalF.png",
-    "img/OrbitalD.png",
-    "img/OrbitalP.png",
     "Números cuánticos/Spin.md",
     "Física moderna/Ecuación de Schrödinger.md",
     "Números cuánticos",
     "Física moderna/Principio de incertidumbre.md",
     "Física moderna/Mecánica cuántica.md",
     "Física moderna/Radiación electromagnética.md",
-    "Física moderna/Radiación de cuerpo negro.md",
-    "img/Efecto fotoeléctrico.md",
-    "Teoría atómica/Teoría de Bohr.md",
     "img",
     "Física moderna",
     "Estructura atómica",
