@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7094019373548905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enlaces/Tipos de enlaces químicos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e360c3c40b6a9f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enlaces/Teoría de Lewis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "012bc38c77fe0f1d",
             "type": "leaf",
             "state": {
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,6 +161,8 @@
   },
   "active": "67fdc7d55663fe67",
   "lastOpenFiles": [
+    "img/TiposDeEmpaquetamiento.png",
+    "img/Hueco Triangular.png",
     "img/Cúbica centrada en el cuerpo.png",
     "img/Cúbica simple.png",
     "Geometría molecular/Celda unitaria.md",
@@ -216,11 +194,9 @@
     "Tabla periódica/Energía de ionización.md",
     "Tabla periódica/Configuración electrónica.md",
     "Tabla periódica/Tabla periódica moderna.md",
-    "img/radioatomico.png",
     "Números cuánticos/Número cuántico magnético (m).md",
     "Números cuánticos/Numero cúantico del momento angular (l).md",
     "Números cuánticos/Numero cúantico principal (n).md",
-    "img/PropiedadesPeriodicasElementos.png",
     "Tabla periódica",
     "Números cuánticos/Números cuánticos.md",
     "Números cuánticos/Spin.md",
