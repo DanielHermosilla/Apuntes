@@ -136,6 +136,9 @@ real
 repulsi
 radio
 revez
+rfo
+repetici
+red
 la
 los
 las
@@ -221,6 +224,7 @@ longitud
 licos
 llama
 lido
+largo
 postula
 pueden
 pasando
@@ -327,6 +331,12 @@ polar
 pero
 puntos
 presentar
+posee
+posiciones
+predecibles
+pueda
+planos
+paralelos
 que
 qy
 qe
@@ -529,6 +539,8 @@ este
 estructura
 estables
 estructuras
+estructural
+existe
 orbitales
 oQt
 ox
@@ -611,6 +623,7 @@ otros
 opuesto
 otro
 otra
+ordenados
 ir
 inicialmente
 iCCPICC
@@ -690,6 +703,7 @@ inversos
 ionizaci
 inmersos
 igual
+intersecciones
 Refutando
 Rd
 RIU
@@ -768,6 +782,7 @@ RjN
 RNQ
 RlR
 Regla
+Resonancia
 bas
 bola
 bs
@@ -835,6 +850,7 @@ bWMAbRqKp
 bur
 basan
 baja
+bien
 ndose
 nicamente
 nK
@@ -1082,6 +1098,7 @@ gas
 gana
 generan
 general
+gido
 alrededor
 an
 aU
@@ -1261,6 +1278,8 @@ determina
 distinta
 dativo
 dibujar
+disposici
+definida
 forma
 fO
 fg
@@ -1339,6 +1358,7 @@ formado
 ficamente
 forman
 formal
+ficas
 masiva
 ml
 mI
@@ -1419,6 +1439,7 @@ met
 mar
 medida
 mol
+mediante
 Dalton
 DZ
 Dm
@@ -1560,6 +1581,8 @@ uhw
 ua
 uQ
 ubicados
+unitaria
+unidad
 El
 Eq
 Ef
@@ -1756,6 +1779,12 @@ comparten
 comparte
 coordinado
 cristalinas
+cristalino
+culos
+celda
+ciertas
+commprende
+conjuntos
 Part
 PNG
 Profile
@@ -1841,6 +1870,7 @@ Por
 Pentraci
 Penetraci
 Pero
+Patrones
 vive
 vj
 vI
@@ -3470,6 +3500,8 @@ UEO
 UNd
 UzO
 UI
+Una
+Unidad
 YC
 Yh
 Yz
