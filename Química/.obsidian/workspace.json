@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometría molecular/Celda unitaria.md",
+                "file": "Enlaces/Tipos de enlaces químicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometría molecular/Celda unitaria.md",
+                "file": "Enlaces/Tipos de enlaces químicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometría molecular/Celda unitaria.md",
+                "file": "Enlaces/Tipos de enlaces químicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometría molecular/Celda unitaria.md"
+                "file": "Enlaces/Tipos de enlaces químicos.md"
               }
             }
           }
@@ -171,11 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98d54734a380979",
+  "active": "67fdc7d55663fe67",
   "lastOpenFiles": [
+    "img/escalaPauling.jpg",
+    "Enlaces/Triángulo de enlace.md",
+    "Geometría molecular/Celda unitaria.md",
     "Geometría molecular/Redes cristalinas cúbicas.md",
     "img/Atomos por celda unidad.png",
-    "Geometría molecular/Celda unitaria.md",
     "Geometría molecular/Empaquetamiento de esferas.md",
     "Geometría molecular/Estructura cristalinas.md",
     "Geometría molecular/Red cristalina.md",
@@ -190,7 +192,6 @@
     "img/SolidosCristalinos.png",
     "Geometría molecular",
     "img/Resonancia.png",
-    "Enlaces/Untitled.md",
     "Enlaces/Tipos de enlaces químicos.md",
     "Enlaces/Enlace covalente.md",
     "Enlaces/Polaridad del enlace covalente.md",

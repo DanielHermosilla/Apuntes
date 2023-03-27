@@ -114,8 +114,8 @@
     "Electronegatividad": {
       "Electronegatividad": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1679867056109
+          "count": 5,
+          "lastUpdated": 1679923949159
         }
       }
     },
@@ -124,6 +124,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1679866536422
+        }
+      }
+    },
+    "Polaridad del enlace covalente": {
+      "Polaridad del enlace covalente": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679923963171
         }
       }
     }
