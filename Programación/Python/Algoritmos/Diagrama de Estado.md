@@ -3,3 +3,5 @@ A diferencia del [[Diagramas de Flujo]], representa a la lista de iteraciones de
 
 
 ![[DiagramaDeEstado.png|center]]
+
+Es decir, se basa en estados repetitivos. 
