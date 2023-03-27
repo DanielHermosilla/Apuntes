@@ -63,8 +63,8 @@
     "Conjuntos": {
       "Conjuntos": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1679519265271
+          "count": 11,
+          "lastUpdated": 1679920169438
         }
       }
     },
@@ -199,8 +199,8 @@
     "Cardinalidad": {
       "Cardinalidad": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679057363608
+          "count": 2,
+          "lastUpdated": 1679918998187
         }
       }
     },
@@ -305,6 +305,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679658887699
+        }
+      }
+    },
+    "reemplazo": {
+      "reemplazo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679917708976
         }
       }
     }
