@@ -1,4 +1,4 @@
-
+ 
 Es la forma en la que las [[Celda unitaria|celdas unitarias]] se distribuyen y acomodan entre capas, que determinan el tipo de celdas unitarias.
 
 ### Hueco triangular 
@@ -29,3 +29,12 @@ Es la relación porcentual entre el espacio ocupado por las partículas unitaria
 Se podrían tener distintas [[Estructura cristalinas|estructuras]] a partir del tipo de empaquetamiento, que son representados por las letras $A$, $B$  y $C$
 
 ![[TiposDeEmpaquetamiento.png|center]]
+
+
+### Redes cristalinas cúbicas 
+
+Se puede apreciar que varían entre los [[Átomo|átomos]] metidos entre medio de las [[Celda unitaria|celdas unitarias]].  
+
+
+![[Redes cristalinas cúbicas.png|center]]
+

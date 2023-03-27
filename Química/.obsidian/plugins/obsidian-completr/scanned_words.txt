@@ -139,6 +139,9 @@ revez
 rfo
 repetici
 red
+rtices
+relaci
+representados
 la
 los
 las
@@ -225,6 +228,7 @@ licos
 llama
 lido
 largo
+letras
 postula
 pueden
 pasando
@@ -337,6 +341,7 @@ predecibles
 pueda
 planos
 paralelos
+porcentual
 que
 qy
 qe
@@ -541,6 +546,13 @@ estables
 estructuras
 estructural
 existe
+esferas
+especie
+espacio
+eficiencia
+empaquetamiento
+etc
+exclusivamente
 orbitales
 oQt
 ox
@@ -624,6 +636,8 @@ opuesto
 otro
 otra
 ordenados
+observar
+ocupado
 ir
 inicialmente
 iCCPICC
@@ -704,6 +718,8 @@ ionizaci
 inmersos
 igual
 intersecciones
+interior
+importante
 Refutando
 Rd
 RIU
@@ -783,6 +799,7 @@ RNQ
 RlR
 Regla
 Resonancia
+Redes
 bas
 bola
 bs
@@ -851,6 +868,8 @@ bur
 basan
 baja
 bien
+bica
+bicas
 ndose
 nicamente
 nK
@@ -939,6 +958,8 @@ negativamente
 noble
 ntica
 nea
+naturaleza
+notar
 ticas
 tomo
 tiene
@@ -1022,6 +1043,9 @@ tanto
 tica
 tipos
 tomos
+tipo
+triangular
+tener
 giraban
 gk
 go
@@ -1182,6 +1206,11 @@ atracci
 atrae
 apolar
 amorfas
+acomodan
+anterior
+ahora
+apreciar
+aristas
 del
 de
 densa
@@ -1280,6 +1309,11 @@ dativo
 dibujar
 disposici
 definida
+distribuyen
+determinan
+despliega
+dejando
+destacada
 forma
 fO
 fg
@@ -1359,6 +1393,8 @@ ficamente
 forman
 formal
 ficas
+final
+fijarse
 masiva
 ml
 mI
@@ -1440,6 +1476,9 @@ mar
 medida
 mol
 mediante
+medio
+manera
+metidos
 Dalton
 DZ
 Dm
@@ -1583,6 +1622,7 @@ uQ
 ubicados
 unitaria
 unidad
+unitarias
 El
 Eq
 Ef
@@ -1670,6 +1710,8 @@ Enlace
 Entre
 Este
 Estado
+Estructura
+Eficiencia
 centro
 contiene
 cula
@@ -1785,6 +1827,13 @@ celda
 ciertas
 commprende
 conjuntos
+capas
+celdas
+cubo
+centrada
+cuantas
+compartidas
+calcular
 Part
 PNG
 Profile
@@ -1871,6 +1920,7 @@ Pentraci
 Penetraci
 Pero
 Patrones
+Parecido
 vive
 vj
 vI
@@ -1939,6 +1989,10 @@ valencia
 van
 variaci
 varios
+verde
+volumen
+var
+varias
 IHDR
 Ia
 IWO
@@ -2110,6 +2164,7 @@ Con
 Como
 Cuando
 Consiste
+Compartici
 Zxk
 ZI
 ZD
@@ -2411,6 +2466,7 @@ hin
 hay
 helio
 hacia
+hueco
 BW
 Bx
 BE
@@ -3124,6 +3180,8 @@ TmCh
 Tk
 Th
 TqU
+Tiene
+Tipos
 Ad
 Aj
 AAxp
@@ -3330,6 +3388,8 @@ HM
 Hfk
 HOn
 Hund
+Hueco
+Hay
 zQ
 zM
 zk
@@ -3996,5 +4056,9 @@ sueltan
 significativa
 sus
 servir
+simple
+semiesfera
+solapado
+siete
 äYE
 ßN

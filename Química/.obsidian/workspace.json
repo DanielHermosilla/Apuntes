@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Geometría molecular/Celda unitaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3b979ab37b46071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Geometría molecular/Empaquetamiento de esferas.md",
                 "mode": "source",
                 "source": false
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometría molecular/Empaquetamiento de esferas.md",
+                "file": "Geometría molecular/Celda unitaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometría molecular/Empaquetamiento de esferas.md",
+                "file": "Geometría molecular/Celda unitaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometría molecular/Empaquetamiento de esferas.md"
+                "file": "Geometría molecular/Celda unitaria.md"
               }
             }
           }
@@ -159,17 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67fdc7d55663fe67",
+  "active": "d98d54734a380979",
   "lastOpenFiles": [
+    "Geometría molecular/Redes cristalinas cúbicas.md",
+    "img/Atomos por celda unidad.png",
+    "Geometría molecular/Celda unitaria.md",
+    "Geometría molecular/Empaquetamiento de esferas.md",
+    "Geometría molecular/Estructura cristalinas.md",
+    "Geometría molecular/Red cristalina.md",
+    "img/Compartición de esferas.png",
+    "img/Redes cristalinas cúbicas.png",
     "img/TiposDeEmpaquetamiento.png",
     "img/Hueco Triangular.png",
     "img/Cúbica centrada en el cuerpo.png",
     "img/Cúbica simple.png",
-    "Geometría molecular/Celda unitaria.md",
-    "Geometría molecular/Empaquetamiento de esferas.md",
-    "Geometría molecular/Red cristalina.md",
     "Enlaces/Teoría de Lewis.md",
-    "Geometría molecular/Estructura cristalinas.md",
     "img/RedCristalina.png",
     "img/SolidosCristalinos.png",
     "Geometría molecular",
@@ -179,18 +195,14 @@
     "Enlaces/Enlace covalente.md",
     "Enlaces/Polaridad del enlace covalente.md",
     "Enlaces/Orden de enlace.md",
-    "img/LongitudEnlace.png",
-    "img/Polaridad.png",
     "Enlaces/Enlace iónico.md",
     "Enlaces/Enlace metálico.md",
-    "img/Enlace metálico.png",
     "Enlaces",
     "Tabla periódica/Electronegatividad.md",
     "Tabla periódica/Metales, metaloides y no metales.md",
     "Tabla periódica/Radio atómico.md",
     "Tabla periódica/Afinidad electrónica.md",
     "Tabla periódica/Carga nuclear efectiva.md",
-    "img/tabla periodica metales.png",
     "Tabla periódica/Energía de ionización.md",
     "Tabla periódica/Configuración electrónica.md",
     "Tabla periódica/Tabla periódica moderna.md",
@@ -199,7 +211,6 @@
     "Números cuánticos/Numero cúantico principal (n).md",
     "Tabla periódica",
     "Números cuánticos/Números cuánticos.md",
-    "Números cuánticos/Spin.md",
     "Números cuánticos",
     "img",
     "Física moderna",
