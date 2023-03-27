@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
+                "file": "Economía/Teoría de juegos/Juego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10f9d175494f0c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Teoría de juegos/Juego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e0c5f48d8b0351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Teoría de juegos/Estrategia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
+                "file": "Economía/Teoría de juegos/Estrategia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
+                "file": "Economía/Teoría de juegos/Estrategia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md"
+                "file": "Economía/Teoría de juegos/Estrategia.md"
               }
             }
           }
@@ -171,8 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ee117f1281ec7ba",
+  "active": "55e0c5f48d8b0351",
   "lastOpenFiles": [
+    "Economía/Teoría de juegos/Juego.md",
+    "Economía/Teoría de juegos/Estrategia.md",
+    "Economía/Teoría de juegos/Free riding.md",
+    "Economía/Teoría de juegos/Juego estático.md",
+    "Economía/Escasez/Función producción.md",
+    "Economía/Escasez/Costo de oportunidad.md",
+    "Economía/Escasez/Optimizar decisiones.md",
+    "Economía/Escasez/Función Utilidad.md",
+    "Economía/Escasez/Tasa marginal de sustitución.md",
+    "Economía/Escasez/Problema del consumidor.md",
+    "Economía/Teoría de juegos/Equilibrio de Nash.md",
     "Economía/Teoría de juegos/Estratedia dominadas.md",
     "Probabilidades/Conteo/Muestreo aleatorio.md",
     "Probabilidades/Conteo/Principio multiplicativo.md",
@@ -188,18 +223,7 @@
     "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Probabilidades/Axiomas y propiedades/Evento.md",
-    "Economía/Teoría de juegos/Equilibrio de Nash.md",
     "Probabilidades/Teoría de probabilidades.md",
-    "Probabilidades/Independencia condicional.md",
-    "Economía/Teoría de juegos/Juego.md",
-    "Economía/Escasez/Tasa marginal de sustitución.md",
-    "Economía/Escasez/Función producción.md",
-    "Economía/Escasez/Preferencias.md",
-    "Economía/Escasez/Costo de oportunidad.md",
-    "Economía/Escasez/Optimizar decisiones.md",
-    "Economía/Escasez/Función Utilidad.md",
-    "Economía/Escasez/Efecto sustitución e ingreso.md",
-    "Economía/Escasez/Problema del consumidor.md",
     "img/Juego Estático.png",
     "Economía/Teoría de juegos",
     "Probabilidades/Probabilidad condicional e independencia",
