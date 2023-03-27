@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "832b09f04696c89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Estructuras de control/Recursividad a la cola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26a972e0887e8899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Algoritmos/Diagramas de Flujo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9d97004950e0eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Algoritmos/Diagrama de Estado.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 200
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -85,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Algoritmos/Diagrama de Estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Algoritmos/Diagrama de Estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Algoritmos/Diagrama de Estado.md"
+              }
             }
           }
         ]
@@ -144,6 +185,15 @@
   },
   "active": "1c8e510f5649ba2c",
   "lastOpenFiles": [
+    "DiagramaDeEstado.png",
+    "Python/Algoritmos/Diagramas de Flujo.md",
+    "Python/Algoritmos/Diagrama de Estado.md",
+    "img/diagramaFlujo.png",
+    "Python/Estructuras de control/Recursividad a la cola.md",
+    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+    "Python/Algoritmos/Ordenamiento/Heap sort.md",
+    "Python/Algoritmos/Ordenamiento/Counting sort.md",
+    "Python/Algoritmos/Ordenamiento/Bubble sort.md",
     "README.md",
     "Untitled.md",
     "Python/Estructuras de control/Invariantes.md",
@@ -151,9 +201,6 @@
     "img/Seleccion.png",
     "Python/Algoritmos/Busqueda/Busqueda binaria.md",
     "Python/Algoritmos/Ordenamiento/Merge Sort.md",
-    "Python/Algoritmos/Ordenamiento/Counting sort.md",
-    "Python/Algoritmos/Ordenamiento/Bubble sort.md",
-    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
     "Python/Algoritmos/Evaluación de funciones.md",
     "Python/Algoritmos/Descomposición binaria.md",
     "Python/Algoritmos/Ordenamiento",
@@ -168,10 +215,6 @@
     "Python/Tipos de datos/Enteros.md",
     "Python/Librerias/Librerias.md",
     "Python/Librerias/Itertools.md",
-    "Python/Librerias/Collections.md",
-    "Python/Data Science from Scratch/Introducción/Finding Key Connectors.md",
-    "Python/Data Science from Scratch/Introducción/Data Scientist You May Know.md",
-    "Python/Data Science from Scratch/Capítulo 1/Data Scientist You May Know.md",
     "Python/Data Science from Scratch/Capítulo 1",
     "Python/Data Science from Scratch/Introduccion.py",
     "Python/Data Science from Scratch/Capitulo1.py",
@@ -179,7 +222,6 @@
     "Python/Algoritmos/MergeSort.py",
     "Python/Algoritmos/HeapSort.py",
     "img/degreeCentrality.png",
-    "Python/Operadores numéricos.md",
     "img/FindingKeyConnectors.png",
     "Python/Data Science from Scratch/Introducción",
     "Python/Data Science from Scratch"

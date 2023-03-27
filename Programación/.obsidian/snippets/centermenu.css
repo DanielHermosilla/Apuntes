@@ -1,14 +1,5 @@
-.center-menu {
-  display: block;
-  text-align: center;
-}
-
-.right-allign {
-  display: block;
-  text-align: right;
-}
-
-.left-menu {
-  display: block;
-  text-align: left;
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
