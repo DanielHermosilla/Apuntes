@@ -142,6 +142,7 @@ red
 rtices
 relaci
 representados
+rmulas
 la
 los
 las
@@ -342,6 +343,8 @@ pueda
 planos
 paralelos
 porcentual
+podian
+parti
 que
 qy
 qe
@@ -553,6 +556,7 @@ eficiencia
 empaquetamiento
 etc
 exclusivamente
+eficiente
 orbitales
 oQt
 ox
@@ -638,6 +642,7 @@ otra
 ordenados
 observar
 ocupado
+ondulatorio
 ir
 inicialmente
 iCCPICC
@@ -800,6 +805,7 @@ RlR
 Regla
 Resonancia
 Redes
+Relacion
 bas
 bola
 bs
@@ -870,6 +876,7 @@ baja
 bien
 bica
 bicas
+basa
 ndose
 nicamente
 nK
@@ -960,6 +967,7 @@ ntica
 nea
 naturaleza
 notar
+nacen
 ticas
 tomo
 tiene
@@ -1046,6 +1054,8 @@ tomos
 tipo
 triangular
 tener
+tan
+tambie
 giraban
 gk
 go
@@ -1395,6 +1405,7 @@ formal
 ficas
 final
 fijarse
+formas
 masiva
 ml
 mI
@@ -1479,6 +1490,8 @@ mediante
 medio
 manera
 metidos
+masa
+momentum
 Dalton
 DZ
 Dm
@@ -1834,6 +1847,13 @@ centrada
 cuantas
 compartidas
 calcular
+coordinaci
+cantidad
+contacto
+cercanos
+compacto
+central
+comportan
 Part
 PNG
 Profile
@@ -1993,6 +2013,7 @@ verde
 volumen
 var
 varias
+vecinos
 IHDR
 Ia
 IWO
@@ -2538,6 +2559,7 @@ Bi
 ByE
 Bwq
 Brm
+Broglie
 Lu
 La
 LI
@@ -3182,6 +3204,7 @@ Th
 TqU
 Tiene
 Tipos
+Todo
 Ad
 Aj
 AAxp
@@ -3963,6 +3986,7 @@ Mfd
 Mfp
 Mientras
 Metales
+Medida
 sSO
 sJ
 sq

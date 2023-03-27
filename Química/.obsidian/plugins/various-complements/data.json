@@ -106,16 +106,16 @@
     "Átomo": {
       "Átomo": {
         "internalLink": {
-          "count": 7,
-          "lastUpdated": 1679884479751
+          "count": 8,
+          "lastUpdated": 1679926933334
         }
       }
     },
     "Electronegatividad": {
       "Electronegatividad": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1679923949159
+          "count": 6,
+          "lastUpdated": 1679926253232
         }
       }
     },
@@ -132,6 +132,30 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1679923963171
+        }
+      }
+    },
+    "Enlace covalente": {
+      "Enlace covalente": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679926147466
+        }
+      }
+    },
+    "valencia": {
+      "valencia": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679926452705
+        }
+      }
+    },
+    "Repulsión de los pares de electrones de la capa de valencia": {
+      "Repulsión de los pares de electrones de la capa de valencia": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679927002842
         }
       }
     }
