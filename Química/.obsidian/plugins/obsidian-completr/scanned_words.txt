@@ -220,6 +220,7 @@ lico
 longitud
 licos
 llama
+lido
 postula
 pueden
 pasando
@@ -325,6 +326,7 @@ pertenecen
 polar
 pero
 puntos
+presentar
 que
 qy
 qe
@@ -526,6 +528,7 @@ enlace
 este
 estructura
 estables
+estructuras
 orbitales
 oQt
 ox
@@ -1161,6 +1164,7 @@ altas
 atracci
 atrae
 apolar
+amorfas
 del
 de
 densa
@@ -1642,6 +1646,7 @@ Elementos
 Enlace
 Entre
 Este
+Estado
 centro
 contiene
 cula
@@ -1750,6 +1755,7 @@ caso
 comparten
 comparte
 coordinado
+cristalinas
 Part
 PNG
 Profile

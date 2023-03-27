@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
+                "file": "Probabilidades/Axiomas y propiedades/Propiedades.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
+                "file": "Probabilidades/Axiomas y propiedades/Propiedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
+                "file": "Probabilidades/Axiomas y propiedades/Propiedades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md"
+                "file": "Probabilidades/Axiomas y propiedades/Propiedades.md"
               }
             }
           }
@@ -169,16 +169,21 @@
   },
   "active": "8b8b8429d68e8b6d",
   "lastOpenFiles": [
-    "Economía/Teoría de juegos/Estratedia dominadas.md",
-    "Economía/Teoría de juegos/Equilibrio de Nash.md",
-    "Probabilidades/Ley de Probabilidades Totales.md",
-    "Probabilidades/Teoría de probabilidades.md",
-    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+    "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
+    "Probabilidades/Axiomas y propiedades/Propiedades.md",
+    "Probabilidades/Axiomas y propiedades/Axiomas.md",
+    "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
+    "Probabilidades/Axiomas y propiedades/Evento.md",
+    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
+    "Economía/Teoría de juegos/Equilibrio de Nash.md",
+    "Economía/Teoría de juegos/Estratedia dominadas.md",
+    "Probabilidades/Ley de Probabilidades Totales.md",
+    "Probabilidades/Teoría de probabilidades.md",
     "Probabilidades/Ley de Bayes.md",
     "Probabilidades/Independencia condicional.md",
-    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Economía/Teoría de juegos/Juego.md",
     "Economía/Escasez/Tasa marginal de sustitución.md",
     "Economía/Escasez/Función producción.md",
@@ -191,12 +196,7 @@
     "Economía/Teoría de juegos/Juego estático.md",
     "img/Juego Estático.png",
     "Economía/Teoría de juegos",
-    "Probabilidades/Axiomas y propiedades/Propiedades.md",
-    "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
-    "Probabilidades/Axiomas y propiedades/Evento.md",
-    "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
-    "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Probabilidades/Probabilidad condicional e independencia",
     "img/Aumento salario 2.png",
     "img/Aumento salario hora.png",
