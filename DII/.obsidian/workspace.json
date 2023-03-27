@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
+                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
+                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md",
+                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Teoría de juegos/Estratedia dominadas.md"
+                "file": "Economía/Teoría de juegos/Equilibrio de Nash.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "3ee117f1281ec7ba",
   "lastOpenFiles": [
+    "Economía/Teoría de juegos/Estratedia dominadas.md",
     "Probabilidades/Conteo/Muestreo aleatorio.md",
     "Probabilidades/Conteo/Principio multiplicativo.md",
     "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
@@ -188,7 +189,6 @@
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Probabilidades/Axiomas y propiedades/Evento.md",
     "Economía/Teoría de juegos/Equilibrio de Nash.md",
-    "Economía/Teoría de juegos/Estratedia dominadas.md",
     "Probabilidades/Teoría de probabilidades.md",
     "Probabilidades/Independencia condicional.md",
     "Economía/Teoría de juegos/Juego.md",
