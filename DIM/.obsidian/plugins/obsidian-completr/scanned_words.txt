@@ -203,6 +203,7 @@ desarrollan
 desarrollando
 dividir
 deshace
+dividiendo
 un
 una
 uni
@@ -386,6 +387,7 @@ conjugaci
 cambios
 cita
 ciertos
+crecimiento
 su
 ser
 se
@@ -536,6 +538,7 @@ miraba
 multiplicadas
 mano
 modelo
+multiplicarla
 que
 qu
 queda
@@ -925,6 +928,7 @@ vol
 variaci
 variaba
 volviendo
+vuelve
 el
 estudio
 en
@@ -1062,6 +1066,7 @@ fijamos
 fijar
 fase
 fracciones
+factorizar
 an
 amos
 aquello
@@ -1154,6 +1159,7 @@ anule
 acordarnos
 asumir
 asumiremos
+atr
 bajo
 bola
 binomio

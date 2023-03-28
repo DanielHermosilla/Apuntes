@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md"
               }
             }
           },
@@ -158,14 +158,14 @@
   "lastOpenFiles": [
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
-    "Cálculo en Varias Variables/Integración/Extensión.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
     "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
+    "Cálculo en Varias Variables/Integración/Extensión.md",
     "Cálculo en Varias Variables/Integración/Medida nula.md",
     "Cálculo en Varias Variables/Integración/Integral en varias variables.md",
     "Cálculo en Varias Variables/Integración/Suma superior e inferior.md",
