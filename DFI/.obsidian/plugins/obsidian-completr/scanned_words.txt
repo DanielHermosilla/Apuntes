@@ -84,6 +84,8 @@ diferencial
 dada
 dx
 denominador
+din
+despejando
 fuerza
 forma
 fijar
@@ -112,6 +114,7 @@ formar
 fundamentales
 figura
 formando
+fundamental
 aplicada
 al
 aplicar
@@ -240,6 +243,9 @@ psi
 par
 polares
 proyecci
+permite
+perfecciona
+propiedad
 unidad
 una
 uno
@@ -305,6 +311,8 @@ radial
 radio
 rectilinea
 reconocido
+resolvi
+reactivo
 Por
 Puede
 Producto
@@ -312,6 +320,8 @@ Pendiente
 Promedio
 Para
 Psi
+Pero
+Plantea
 lo
 los
 lidos
@@ -345,6 +355,7 @@ leq
 logicamente
 llamara
 lculos
+leyes
 tanto
 tratar
 tender
@@ -392,6 +403,7 @@ tendremos
 tridimensional
 textit
 tricamente
+tres
 se
 su
 sale
@@ -551,6 +563,12 @@ coordenadas
 cil
 consideran
 caracteriza
+cnicamente
+componentes
+causas
+cu
+cambien
+cuantificado
 Notemos
 Nos
 Newton
@@ -622,6 +640,7 @@ enspace
 estacionaria
 estariamos
 eligiremos
+eje
 modificar
 masa
 mira
@@ -669,6 +688,7 @@ mueve
 mos
 mL
 metro
+mica
 va
 volumen
 vamente
@@ -755,6 +775,9 @@ int
 ikL
 iA
 integramos
+integrar
+inicial
+inercial
 no
 neo
 ngulo
@@ -783,6 +806,7 @@ ndricas
 ndro
 nuevo
 numerador
+ndola
 homog
 haber
 hay
@@ -798,6 +822,7 @@ habr
 hab
 hbar
 haciendo
+habla
 Est
 Es
 Esto
@@ -813,6 +838,7 @@ Estudio
 Ejemplo
 Ecuaci
 Equivalentemente
+EDO
 ya
 Se
 Son
@@ -901,6 +927,7 @@ Un
 Una
 Indica
 Intensidad
+Inercia
 Joule
 RC
 Resistencia
@@ -908,6 +935,7 @@ Recordando
 RMS
 RL
 Reescribiendo
+Rama
 zado
 zoom
 ximo
@@ -916,4 +944,5 @@ Henry
 Hay
 kL
 kx
+kilos
 juntando
