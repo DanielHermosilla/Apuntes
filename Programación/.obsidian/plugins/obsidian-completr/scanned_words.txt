@@ -302,6 +302,7 @@ constantes
 consulta
 cosas
 cumplir
+cota
 enteros
 en
 el
@@ -372,6 +373,8 @@ estad
 externo
 especie
 ejecutar
+estados
+eficiencia
 los
 lenguaje
 lograr
@@ -483,6 +486,8 @@ iterativo
 insertarlos
 invariantes
 inicial
+iteraciones
+ignoran
 bool
 booleanos
 backslash
@@ -532,6 +537,7 @@ Estructuras
 Equivalente
 Equivale
 Est
+Ejemplos
 se
 si
 siguientes
@@ -582,6 +588,9 @@ stico
 separando
 sentencia
 situ
+sumandos
+simos
+superior
 fueran
 flotantes
 float
@@ -693,6 +702,7 @@ array
 alg
 antes
 acordes
+acompa
 jupyter
 jk
 jfv
@@ -795,6 +805,7 @@ mediantes
 min
 max
 mantienen
+medir
 que
 quisiera
 quiere
@@ -844,6 +855,7 @@ nivel
 ntesis
 numpy
 notar
+notaci
 un
 una
 utilizan
@@ -917,6 +929,8 @@ regresi
 recomendable
 rompe
 rmino
+repetitivos
+rminos
 Suma
 Se
 Si

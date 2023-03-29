@@ -616,6 +616,7 @@ smZ
 sKk
 sY
 seA
+sera
 magnitud
 medio
 menor

@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cdf86c128192f0b",
+            "id": "02f618cd52cfc39e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+                "file": "Python/Algoritmos/Métodos matemáticos/Notación Omega.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "832b09f04696c89c",
+            "id": "d30984653f700872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Estructuras de control/Recursividad a la cola.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26a972e0887e8899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Algoritmos/Diagramas de Flujo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9d97004950e0eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Algoritmos/Diagrama de Estado.md",
+                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Diagrama de Estado.md",
+                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Diagrama de Estado.md",
+                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Diagrama de Estado.md"
+                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md"
               }
             }
           }
@@ -183,14 +159,19 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1c8e510f5649ba2c",
+  "active": "d30984653f700872",
   "lastOpenFiles": [
+    "Python/Algoritmos/Métodos matemáticos/Notación Omega.md",
+    "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
+    "Python/Algoritmos/Métodos matemáticos/Notación O.md",
+    "Python/Algoritmos/Diagramas/Diagrama de Estado.md",
+    "Python/Algoritmos/Métodos matemáticos",
+    "Python/Algoritmos/Diagramas",
+    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
     "img/DiagramaDeEstado.png",
-    "Python/Algoritmos/Diagramas de Flujo.md",
-    "Python/Algoritmos/Diagrama de Estado.md",
+    "Python/Algoritmos/Diagramas/Diagramas de Flujo.md",
     "img/diagramaFlujo.png",
     "Python/Estructuras de control/Recursividad a la cola.md",
-    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
     "Python/Algoritmos/Ordenamiento/Heap sort.md",
     "Python/Algoritmos/Ordenamiento/Counting sort.md",
     "Python/Algoritmos/Ordenamiento/Bubble sort.md",
@@ -213,8 +194,6 @@
     "Python/Tipos de datos/Strings.md",
     "Python/Tipos de datos/Flotantes.md",
     "Python/Tipos de datos/Enteros.md",
-    "Python/Librerias/Librerias.md",
-    "Python/Librerias/Itertools.md",
     "Python/Data Science from Scratch/Capítulo 1",
     "Python/Data Science from Scratch/Introduccion.py",
     "Python/Data Science from Scratch/Capitulo1.py",
@@ -222,8 +201,6 @@
     "Python/Algoritmos/MergeSort.py",
     "Python/Algoritmos/HeapSort.py",
     "img/degreeCentrality.png",
-    "img/FindingKeyConnectors.png",
-    "Python/Data Science from Scratch/Introducción",
-    "Python/Data Science from Scratch"
+    "img/FindingKeyConnectors.png"
   ]
 }
