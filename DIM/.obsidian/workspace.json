@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8568c28355b445f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "559b69494e51c91f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md"
               }
             }
           },
@@ -154,35 +179,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff794e4050b72d49",
+  "active": "8568c28355b445f7",
   "lastOpenFiles": [
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Global.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Lipschitz.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+    "Cálculo en Varias Variables/Sucesiones/Espacio de Banach.md",
+    "Cálculo en Varias Variables/Sucesiones/Sucesión de Cauchy.md",
+    "Cálculo Diferencial e Integral/Derivadas/Derivada.md",
+    "Cálculo Diferencial e Integral/Continuidad/Teorema de los valores intermedios.md",
+    "Cálculo Diferencial e Integral/Derivadas/Teorema del Valor Medio.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
     "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
-    "Cálculo en Varias Variables/Integración/Extensión.md",
-    "Cálculo en Varias Variables/Integración/Medida nula.md",
-    "Cálculo en Varias Variables/Integración/Integral en varias variables.md",
-    "Cálculo en Varias Variables/Integración/Suma superior e inferior.md",
-    "Cálculo en Varias Variables/Integración/Particiones en varias variables.md",
-    "Cálculo en Varias Variables/Integración/Integral sobre rectángulos.md",
-    "Cálculo en Varias Variables/Diferenciabilidad/Multiplicadores de Lagrange.md",
-    "Ecuaciones Diferenciales Ordinarias/Condición inicial.md",
-    "Cálculo en Varias Variables/Integración/Coordenadas esféricas.md",
-    "Cálculo en Varias Variables/Integración/Cambio de variable.md",
-    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
-    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto punto.md",
-    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto Hermítico.md",
-    "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/producto escalar.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
+    "Ecuaciones Diferenciales Ordinarias/img/ExistenciaYUnicidad.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/img",
+    "Cálculo Diferencial e Integral/Aplicaciones de la integral/Sólido de Revolución.md",
+    "Cálculo Diferencial e Integral/Aplicaciones de la integral/Coordenadas polares.md",
+    "Cálculo Diferencial e Integral/Aplicaciones de la integral/Manto de revolución.md",
+    "Cálculo Diferencial e Integral/Aplicaciones de la integral/Longitud de un Arco de Curva.md",
+    "Cálculo Diferencial e Integral/Teorema de Pitágoras.md",
+    "Cálculo Diferencial e Integral/Distancia entre dos puntos.md",
+    "Cálculo Diferencial e Integral/Series numéricas/Series geométrica.md",
+    "Cálculo Diferencial e Integral/Series numéricas/Convergencia condicional.md",
+    "Cálculo Diferencial e Integral/Series numéricas/Series alternantes.md",
+    "Cálculo Diferencial e Integral/Series numéricas/Criterios de convergencia.md",
+    "Cálculo Diferencial e Integral/Series numéricas/Teorema de Cauchy.md",
+    "Cálculo Diferencial e Integral/Integral de Riemann/Integral de Riemann.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
-    "Álgebra Lineal/Espacios vectoriales/escalares.md",
-    "Álgebra Lineal/Valores y vectores propios/conjuntos ortogonales y ortonormales.md",
-    "Cálculo en Varias Variables/Ejercicios Control 2.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales"
   ]
 }
