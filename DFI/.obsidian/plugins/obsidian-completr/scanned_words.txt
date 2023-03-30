@@ -177,6 +177,9 @@ aquellas
 asume
 analizar
 anterior
+acciones
+act
+acci
 por
 para
 pan
@@ -246,6 +249,12 @@ proyecci
 permite
 perfecciona
 propiedad
+plante
+proporcionalidad
+produce
+pares
+problema
+pasos
 unidad
 una
 uno
@@ -313,6 +322,8 @@ rectilinea
 reconocido
 resolvi
 reactivo
+reacci
+ricos
 Por
 Puede
 Producto
@@ -322,6 +333,7 @@ Para
 Psi
 Pero
 Plantea
+Posteriormente
 lo
 los
 lidos
@@ -404,6 +416,8 @@ tridimensional
 textit
 tricamente
 tres
+traducir
+tendr
 se
 su
 sale
@@ -451,6 +465,8 @@ sqrt
 siguiendo
 sabe
 simplificando
+sentido
+seguir
 como
 cuerpos
 comprimirla
@@ -641,6 +657,7 @@ estacionaria
 estariamos
 eligiremos
 eje
+ejerce
 modificar
 masa
 mira
@@ -689,6 +706,8 @@ mos
 mL
 metro
 mica
+mida
+magnitud
 va
 volumen
 vamente
@@ -743,6 +762,7 @@ gran
 graficamente
 geq
 geom
+gen
 introduce
 igual
 independiente
@@ -778,6 +798,7 @@ integramos
 integrar
 inicial
 inercial
+iniciales
 no
 neo
 ngulo
@@ -852,12 +873,15 @@ Schrödinger
 Sustituyendo
 Simplificando
 Sabemos
+Siempre
 Donde
 Diferencia
 Dispositivo
 Difracci
 De
 Delta
+Definici
+Diagrama
 objeto
 otro
 obtenci
@@ -890,6 +914,7 @@ obtienen
 ordinaria
 ortogonal
 otra
+opuesto
 borde
 buena
 busca
@@ -928,6 +953,7 @@ Una
 Indica
 Intensidad
 Inercia
+Identificar
 Joule
 RC
 Resistencia
@@ -945,4 +971,5 @@ Hay
 kL
 kx
 kilos
+kilo
 juntando
