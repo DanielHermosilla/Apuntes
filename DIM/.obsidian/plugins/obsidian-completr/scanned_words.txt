@@ -24,6 +24,7 @@ LM
 LZ
 LsFVH
 LLc
+Lipschitz
 norma
 nada
 nuevas
@@ -617,6 +618,8 @@ sKk
 sY
 seA
 sera
+seg
+sicamente
 magnitud
 medio
 menor
@@ -1168,6 +1171,7 @@ lV
 lMJ
 lK
 lT
+localmente
 Matem
 Matriz
 MY
@@ -1243,6 +1247,8 @@ vV
 vs
 vOm
 vbI
+vive
+vecindad
 el
 estudio
 en
@@ -1423,6 +1429,7 @@ fk
 fv
 frw
 fh
+ficamente
 an
 amos
 aquello
@@ -1535,6 +1542,7 @@ ap
 aql
 algunas
 alg
+acotar
 bajo
 bola
 binomio
@@ -2102,6 +2110,7 @@ Aa
 Ar
 Ap
 Aws
+Acotar
 Basicamente
 Bola
 Bolas
@@ -2390,6 +2399,7 @@ GzC
 Gqj
 GL
 Gk
+Gr
 zt
 zU
 zuNM

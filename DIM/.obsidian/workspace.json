@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "559b69494e51c91f",
+            "id": "81ecdc864210e502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md"
               }
             }
           },
@@ -179,14 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8568c28355b445f7",
+  "active": "81ecdc864210e502",
   "lastOpenFiles": [
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Global.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Lipschitz.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
+    "Ecuaciones Diferenciales Ordinarias/img/Lipschitz local.jpeg",
     "Cálculo en Varias Variables/Sucesiones/Espacio de Banach.md",
     "Cálculo en Varias Variables/Sucesiones/Sucesión de Cauchy.md",
+    "Cálculo en Varias Variables/Diferenciabilidad/Máximos y mínimos.md",
     "Cálculo Diferencial e Integral/Derivadas/Derivada.md",
     "Cálculo Diferencial e Integral/Continuidad/Teorema de los valores intermedios.md",
     "Cálculo Diferencial e Integral/Derivadas/Teorema del Valor Medio.md",
@@ -207,8 +210,6 @@
     "Cálculo Diferencial e Integral/Series numéricas/Convergencia condicional.md",
     "Cálculo Diferencial e Integral/Series numéricas/Series alternantes.md",
     "Cálculo Diferencial e Integral/Series numéricas/Criterios de convergencia.md",
-    "Cálculo Diferencial e Integral/Series numéricas/Teorema de Cauchy.md",
-    "Cálculo Diferencial e Integral/Integral de Riemann/Integral de Riemann.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales"

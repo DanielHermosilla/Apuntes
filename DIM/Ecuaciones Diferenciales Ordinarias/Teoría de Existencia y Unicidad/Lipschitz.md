@@ -1,4 +1,4 @@
-Funciones cuyas [[Derivada|derivadas]] son acotadas. 
+Funciones cuyas [[Derivada|derivadas]] son acotadas. Se denomina que es global cuando es válido $\forall y\in\mathbb{R}$ y $\forall x\in\mathbb{R}$. Por el otro lado, se denomina local cuando cumple para un subconjunto de los reales. 
 
 ### Demostración 
 
@@ -20,3 +20,12 @@ Esto se debe a que el Teorema del Valor Medio postula a que existe un valor $\xi
 
 $$\frac{|f(y)-f(z)|}{|y-z|}\leq\max_{\xi\in\mathbb{R}}|\frac{\partial f}{\partial y}(\xi)|$$ 
 Entonces, si la [[Derivadas parciales|derivada parcial]] es acotada entonces es [[Lipschitz]]. 
+
+## Lipschitz local 
+
+Acotar el intervalo de donde $x$ se encuentra según un $\delta$ para que la condición se cumpla. 
+$$|f(x,y) - f(x,z)| \leq L|y-z|$$ $$\forall y\in [y_0 - r_1, y_0 + r]$$ $$\forall z\in [y_0 - r_1, y_0 + r]$$
+$$\forall x\in I\cap[x_0 - \delta, x_0 + \delta]$$ 
+Gráficamente implica que la función vive en la siguiente vecindad: 
+
+![[Lipschitz local.jpeg|center]]

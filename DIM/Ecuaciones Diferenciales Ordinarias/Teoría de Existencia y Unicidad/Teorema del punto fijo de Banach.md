@@ -12,11 +12,12 @@ disableZoom: true
 grid: true
 ---
 y = x
-h = x/0.5 - 1
+h = x/0.5 - 1.5
+
 
 ```
 
 Es decir, si una función es [[Lipschitz]] con $L<1$, entonces 
 
-$$\exists ! y*\in E\ \ \ \ \phi(y*)=y*$$ 
+$$\exists !y*\in E\ \ \ \ \phi(y*)=y*$$ 
 Donde $E$ es un [[Espacio de Banach|espacio de Banach]]. 

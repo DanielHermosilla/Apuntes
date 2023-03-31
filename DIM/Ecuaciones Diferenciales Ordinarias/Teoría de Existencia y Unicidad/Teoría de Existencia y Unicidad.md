@@ -1,5 +1,6 @@
 
 Supongamos lo siguiente en $I$, siendo un intervalo real no reducido a un punto, donde 
+
 $$x_0\in I,\ y_0\in\mathbb{R}\ \land\ f:I\times \mathbb{R}\rightarrow\mathbb{R}$$ 
 Se define el **problema de Cauchy**. 
 
@@ -21,6 +22,8 @@ Las condiciones para que esto se cumpla es lo siguiente; sea la función
 
 $$f: I\times\mathbb{R}\rightarrow\mathbb{R}$$ 
 Donde $f(x,y)$ tiene que ser [[Función continua|continua]] en $x$ e $y$ ser [[Lipschitz]]. Se dirá que tal solución sera el [[Teorema del punto fijo de Banach|punto fijo]] de la integral de la función.
+
+Si la hipótesis no se llegará a cumplir, se podría acotar para que se cumpla la condición de [[Lipschitz|lipschitz localmente]]. 
 
 ### Ejemplo funciones objetivo
 
@@ -71,4 +74,31 @@ h = -2sin(x)
 ```
 
 
+### Ejemplo 
+
+Se tiene la siguiente función: 
+
+$$f(x,y) = xy$$ 
+Donde: 
+
+$$\frac{\partial f}{\partial y} = x$$ 
+Entonces, la constante de Lipschitz será: 
+
+$$\max_{x\in I\;\land\;y\in\mathbb{R}}|\frac{\partial f}{\partial y}| = \max_{x\in I\;\land\;y\in\mathbb{R}}|x|\leq L$$ 
+Si $I$ es un intervalo acotado. Y se puede aplicar el [[Teoría de Existencia y Unicidad|TEU]], es decir $\exists !y\in\mathbb{C}^1(I)$ 
+
+
+### Ejemplo 
+
+Se tiene la siguiente función: 
+
+$$y' = \frac{xy}{1 + x^2}\ x\in I$$ $$\implies f(x,y) = \frac{xy}{1 + x^2}$$ 
+La [[Derivadas parciales|derivada parcial]] en función de $y$ sería: 
+
+$$\frac{\partial f}{\partial y} = \frac{x}{1 + x^2}$$ 
+
+Entonces, el máximo de la función llegaría a ser: 
+
+$$\max_{x\in I}|\frac{x}{1 + x^2}|\leq L$$ 
+[[Derivada|Derivando]] en función de $x$, se encuentra el máximo que es $\frac{1}{2}$. 
 
