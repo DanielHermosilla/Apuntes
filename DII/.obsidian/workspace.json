@@ -4,107 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "bc61bf205c3d5eb4",
+        "id": "7c12a47b4897b296",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1eb788e69e45f1",
+            "id": "9fa541573531bbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "28a0d918fe515673",
+            "id": "4017393cd93dd61a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Conteo/Principio multiplicativo.md",
+                "file": "Probabilidades/Conteo/Muestreo aleatorio.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ee117f1281ec7ba",
+            "id": "f861d9c91f1daefd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Teoría de juegos/Juego.md",
+                "file": "Probabilidades/Conteo/Muestreo aleatorio.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10f9d175494f0c04",
+            "id": "5f96949f9c2e4cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Teoría de juegos/Juego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e0c5f48d8b0351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b9190cd17838696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1872ddbd1a5e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Criterios de asignación/Desigualdad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29100c3b76526b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Criterios de asignación/Índice de Gini.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 200
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -170,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Criterios de asignación/Índice de Gini.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Criterios de asignación/Índice de Gini.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Criterios de asignación/Índice de Gini.md"
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md"
               }
             }
           }
@@ -231,13 +183,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "5f96949f9c2e4cf1",
   "lastOpenFiles": [
+    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+    "Probabilidades/Conteo/Muestreo aleatorio.md",
+    "Probabilidades/Conteo/Principio multiplicativo.md",
+    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "img/Gini.png",
     "Economía/Criterios de asignación/Desigualdad.md",
     "Economía/Criterios de asignación/Índice de Gini.md",
     "Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
-    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Economía/Criterios de asignación",
     "Probabilidades/Axiomas y propiedades/Propiedades.md",
     "Economía/Teoría de juegos/Estrategia.md",
@@ -252,15 +210,10 @@
     "Economía/Escasez/Problema del consumidor.md",
     "Economía/Teoría de juegos/Equilibrio de Nash.md",
     "Economía/Teoría de juegos/Estratedia dominadas.md",
-    "Probabilidades/Conteo/Muestreo aleatorio.md",
-    "Probabilidades/Conteo/Principio multiplicativo.md",
     "Probabilidades/Conteo",
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Ley de Probabilidades Totales.md",
-    "Probabilidades/Ley de Bayes.md",
-    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
-    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "img/Juego Estático.png",
     "Economía/Teoría de juegos",
     "Probabilidades/Probabilidad condicional e independencia",
@@ -272,7 +225,6 @@
     "img/Conjunto factible 1.png",
     "img/Efecto sustitución.png",
     "img/Optimizar decisiones 2.png",
-    "img/Optimizar decisiones.png",
     "Economía/Escasez",
     "Probabilidades/Axiomas y propiedades/Untitled",
     "Probabilidades/Axiomas y propiedades",

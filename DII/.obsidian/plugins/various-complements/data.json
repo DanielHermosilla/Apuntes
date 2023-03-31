@@ -63,8 +63,8 @@
     "Conjuntos": {
       "Conjuntos": {
         "internalLink": {
-          "count": 11,
-          "lastUpdated": 1679920169438
+          "count": 15,
+          "lastUpdated": 1680265599305
         }
       }
     },
@@ -337,6 +337,46 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1680224154139
+        }
+      }
+    },
+    "\\begin{vmatrix}": {
+      "\\begin{vmatrix}": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1680264247027
+        }
+      }
+    },
+    "\\end{vmatrix}": {
+      "\\end{vmatrix}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1680264253888
+        }
+      }
+    },
+    "0}^{n}\\begin{vmatrix}": {
+      "0}^{n}\\begin{vmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680264239792
+        }
+      }
+    },
+    "k \\end{vmatrix}": {
+      "k \\end{vmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680264245301
+        }
+      }
+    },
+    "0}^{n}\\begin{pmatrix}": {
+      "0}^{n}\\begin{pmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680264865559
         }
       }
     }
