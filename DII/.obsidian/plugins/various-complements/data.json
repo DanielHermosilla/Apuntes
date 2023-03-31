@@ -95,8 +95,8 @@
     "Economía": {
       "Economía": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1678822865769
+          "count": 3,
+          "lastUpdated": 1680223809930
         }
       }
     },
@@ -279,8 +279,8 @@
     "Juego": {
       "Juego": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679519376095
+          "count": 2,
+          "lastUpdated": 1680223600318
         }
       }
     },
@@ -313,6 +313,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679917708976
+        }
+      }
+    },
+    "Equilibrio de Nash": {
+      "Equilibrio de Nash": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680223615536
+        }
+      }
+    },
+    "Curva de Lorenz": {
+      "Curva de Lorenz": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680224059917
+        }
+      }
+    },
+    "Distribución Pareto-Eficiente": {
+      "Distribución Pareto-Eficiente": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680224154139
         }
       }
     }

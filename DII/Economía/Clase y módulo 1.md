@@ -49,7 +49,7 @@
 
 --- 
 
-![[Índice de Gini]]
+![[Economía/Métricas de bienestar/Índice de Gini]]
 
 - - - - - - 
 - 

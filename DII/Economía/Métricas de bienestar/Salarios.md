@@ -3,4 +3,4 @@ A diferencia del [[Producto interno bruto|PIB]], que mide la producción a nivel
 
 ![[Salarios.png|center]]
 
-A partir de esto se puede medir desigualdad de ingresos a partir de un reajuste porcentual ocupando el [[Índice de Gini|índice de Gini]]. 
+A partir de esto se puede medir desigualdad de ingresos a partir de un reajuste porcentual ocupando el [[Economía/Métricas de bienestar/Índice de Gini|índice de Gini]]. 
