@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md",
+                "file": "Geometría molecular/Celda unitaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md",
+                "file": "Geometría molecular/Celda unitaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md"
+                "file": "Geometría molecular/Celda unitaria.md"
               }
             }
           }
