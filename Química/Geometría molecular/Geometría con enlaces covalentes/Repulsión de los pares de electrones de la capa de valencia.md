@@ -23,4 +23,14 @@ Cuando existen electrones libres, se ocupa la representación $E$ para mostrar l
 
 ![[Nomenclatura Electrones Libres.png|center]]
 
+Y por ende, la geometría está determinada por lo siguiente: 
 
+![[GeometriaCovalente.png|center]]
+
+### Ejemplo 
+
+Se tiene la siguiente molécula: $CH_3CH_2COOH$. Por estructura de Lewis queda de la siguiente forma: 
+
+![[Ejemplo1.png|center]]
+
+En los carbonos centrales se tiene $AB_4$ excepto por el tercero que es trigonal plano. El oxigeno llega a ser angular. 
