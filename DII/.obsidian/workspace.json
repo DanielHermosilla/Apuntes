@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md"
+                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "8f43f0c733d6a3b4",
   "lastOpenFiles": [
+    "Probabilidades/Resumen Caso 1.md",
     "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Probabilidades/Resumen Caso 1.md",
     "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Principio multiplicativo.md",
