@@ -287,8 +287,8 @@
     "Independencia": {
       "Independencia": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1679660730668
+          "count": 4,
+          "lastUpdated": 1680471549238
         }
       }
     },
@@ -377,6 +377,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1680264865559
+        }
+      }
+    },
+    "Propiedades": {
+      "Propiedades": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680471099762
+        }
+      }
+    },
+    "Ley uniforme discreta": {
+      "Ley uniforme discreta": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680471113827
         }
       }
     }
