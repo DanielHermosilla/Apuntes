@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02f618cd52cfc39e",
+            "id": "e8de8b838ca99914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Métodos matemáticos/Notación Omega.md",
+                "file": "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d30984653f700872",
+            "id": "6ca706adcd4d6600",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
+                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
+                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
+                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Métodos matemáticos/Notación Theta.md"
+                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md"
               }
             }
           }
@@ -159,10 +159,13 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "d30984653f700872",
+  "active": "6ca706adcd4d6600",
   "lastOpenFiles": [
-    "Python/Algoritmos/Métodos matemáticos/Notación Omega.md",
+    "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
+    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
+    "Python/Algoritmos/Diseño de Algoritmos Eficientes",
     "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
+    "Python/Algoritmos/Métodos matemáticos/Notación Omega.md",
     "Python/Algoritmos/Métodos matemáticos/Notación O.md",
     "Python/Algoritmos/Diagramas/Diagrama de Estado.md",
     "Python/Algoritmos/Métodos matemáticos",
@@ -192,14 +195,11 @@
     "Python/Funciones/Argumento de funciones.md",
     "Python/Tipos de datos/Listas.md",
     "Python/Tipos de datos/Strings.md",
-    "Python/Tipos de datos/Flotantes.md",
-    "Python/Tipos de datos/Enteros.md",
     "Python/Data Science from Scratch/Capítulo 1",
     "Python/Data Science from Scratch/Introduccion.py",
     "Python/Data Science from Scratch/Capitulo1.py",
     "Python/Algoritmos/QuickSort.py",
     "Python/Algoritmos/MergeSort.py",
-    "Python/Algoritmos/HeapSort.py",
     "img/degreeCentrality.png",
     "img/FindingKeyConnectors.png"
   ]
