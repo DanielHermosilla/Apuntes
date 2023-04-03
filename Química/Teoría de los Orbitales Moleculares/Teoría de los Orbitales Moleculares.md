@@ -36,3 +36,7 @@ Dado que se pueden tener un enlace $\sigma$ en el orbital $s$ y los [[Numero cú
 
 
 Por correspondencia, el enlace de menor energía sería $\sigma_{2p}$ y el de más energía el $\sigma_{2p}^{\star}$. 
+
+El comportamiento de las moléculas diatómicas homonucleares se pueden reducir en la siguiente imagen: 
+
+![[Pasted image 20230403111849.png|center]]
