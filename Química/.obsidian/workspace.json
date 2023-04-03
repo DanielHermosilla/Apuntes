@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "352f97d4cb278b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enlaces/Enlace de coordinación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53d227b77d36f576",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
+                "file": "Enlaces/Enlace de coordinación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
+                "file": "Enlaces/Enlace de coordinación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md"
+                "file": "Enlaces/Enlace de coordinación.md"
               }
             }
           }
@@ -171,13 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e4c49d22aa6c1c1",
+  "active": "352f97d4cb278b31",
   "lastOpenFiles": [
-    "Pasted image 20230403111849.png",
+    "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
+    "Enlaces/Enlace de coordinación.md",
+    "img/Orbitales Magneticos en P.png",
     "img/Orbital magnético P.png",
     "Teoría de los Orbitales Moleculares/Orden de enlace.md",
     "Teoría de los Orbitales Moleculares/Mediciones magnéticas.md",
-    "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
     "Números cuánticos/Numero cúantico del momento angular (l).md",
     "Números cuánticos/Número cuántico magnético (m).md",
     "Teoría de los Orbitales Moleculares",
@@ -197,7 +210,6 @@
     "Hibridación",
     "img/Ejemplo polaridad.png",
     "Enlaces/Enlace covalente.md",
-    "img/EjemploMomentoDipolar.png",
     "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md",
     "Geometría molecular/Empaquetamiento de esferas.md",
     "Física moderna/Mecánica cuántica.md",

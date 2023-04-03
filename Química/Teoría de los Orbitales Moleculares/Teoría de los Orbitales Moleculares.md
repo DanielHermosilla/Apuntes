@@ -39,4 +39,4 @@ Por correspondencia, el enlace de menor energía sería $\sigma_{2p}$ y el de m�
 
 El comportamiento de las moléculas diatómicas homonucleares se pueden reducir en la siguiente imagen: 
 
-![[Pasted image 20230403111849.png|center]]
+![[Orbitales Magneticos en P.png|center]]
