@@ -63,8 +63,8 @@
     "Conjuntos": {
       "Conjuntos": {
         "internalLink": {
-          "count": 15,
-          "lastUpdated": 1680265599305
+          "count": 17,
+          "lastUpdated": 1680541438418
         }
       }
     },
@@ -95,8 +95,8 @@
     "Economía": {
       "Economía": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1680223809930
+          "count": 4,
+          "lastUpdated": 1680539433368
         }
       }
     },
@@ -279,8 +279,8 @@
     "Juego": {
       "Juego": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680223600318
+          "count": 3,
+          "lastUpdated": 1680539966735
         }
       }
     },
@@ -319,8 +319,8 @@
     "Equilibrio de Nash": {
       "Equilibrio de Nash": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680223615536
+          "count": 2,
+          "lastUpdated": 1680539524308
         }
       }
     },
@@ -393,6 +393,30 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1680471113827
+        }
+      }
+    },
+    "Desigualdad": {
+      "Desigualdad": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680539997262
+        }
+      }
+    },
+    "partes": {
+      "partes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680541227445
+        }
+      }
+    },
+    "Asignaciones factibles": {
+      "Asignaciones factibles": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680541546222
         }
       }
     }
