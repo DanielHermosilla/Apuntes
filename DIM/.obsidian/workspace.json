@@ -8,36 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff794e4050b72d49",
+            "id": "10b273e7098bf9d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
-                "mode": "source",
-                "source": false
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "8568c28355b445f7",
+            "id": "9e3268087432d564",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
-                "mode": "source",
-                "source": false
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+                "viewState": {
+                  "x": -157.9999999999995,
+                  "y": -107.21999999999994,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "81ecdc864210e502",
+            "id": "27f43fc1995ab403",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+                "viewState": {
+                  "x": 170,
+                  "y": 9,
+                  "zoom": -0.83534278662632
+                }
+              }
+            }
+          },
+          {
+            "id": "b53860e37a52f386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas"
               }
             }
           },
@@ -179,13 +200,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81ecdc864210e502",
+  "active": "27f43fc1995ab403",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Integración directa.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
+    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
+    "Ecuaciones Diferenciales Ordinarias/Resumenes",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Global.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Lipschitz.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
     "Ecuaciones Diferenciales Ordinarias/img/Lipschitz local.jpeg",
     "Cálculo en Varias Variables/Sucesiones/Espacio de Banach.md",
     "Cálculo en Varias Variables/Sucesiones/Sucesión de Cauchy.md",
@@ -193,23 +227,11 @@
     "Cálculo Diferencial e Integral/Derivadas/Derivada.md",
     "Cálculo Diferencial e Integral/Continuidad/Teorema de los valores intermedios.md",
     "Cálculo Diferencial e Integral/Derivadas/Teorema del Valor Medio.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
-    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
     "Ecuaciones Diferenciales Ordinarias/img/ExistenciaYUnicidad.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img",
     "Cálculo Diferencial e Integral/Aplicaciones de la integral/Sólido de Revolución.md",
     "Cálculo Diferencial e Integral/Aplicaciones de la integral/Coordenadas polares.md",
     "Cálculo Diferencial e Integral/Aplicaciones de la integral/Manto de revolución.md",
-    "Cálculo Diferencial e Integral/Aplicaciones de la integral/Longitud de un Arco de Curva.md",
-    "Cálculo Diferencial e Integral/Teorema de Pitágoras.md",
-    "Cálculo Diferencial e Integral/Distancia entre dos puntos.md",
-    "Cálculo Diferencial e Integral/Series numéricas/Series geométrica.md",
-    "Cálculo Diferencial e Integral/Series numéricas/Convergencia condicional.md",
-    "Cálculo Diferencial e Integral/Series numéricas/Series alternantes.md",
-    "Cálculo Diferencial e Integral/Series numéricas/Criterios de convergencia.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales"
