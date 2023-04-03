@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+                "file": "Probabilidades/Resumen Caso 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+                "file": "Probabilidades/Resumen Caso 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+                "file": "Probabilidades/Resumen Caso 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md"
+                "file": "Probabilidades/Resumen Caso 1.md"
               }
             }
           }
@@ -160,16 +160,16 @@
   },
   "active": "8f43f0c733d6a3b4",
   "lastOpenFiles": [
+    "Probabilidades/Teoría de probabilidades.md",
+    "Probabilidades/Ley de Probabilidades Totales.md",
+    "Probabilidades/Ley de Bayes.md",
+    "Probabilidades/Independencia condicional.md",
     "Probabilidades/Resumen Caso 1.md",
+    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Principio multiplicativo.md",
-    "Probabilidades/Ley de Probabilidades Totales.md",
-    "Probabilidades/Independencia condicional.md",
-    "Probabilidades/Teoría de probabilidades.md",
-    "Probabilidades/Ley de Bayes.md",
     "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
