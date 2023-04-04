@@ -102,3 +102,46 @@ Entonces, el máximo de la función llegaría a ser:
 $$\max_{x\in I}|\frac{x}{1 + x^2}|\leq L$$ 
 [[Derivada|Derivando]] en función de $x$, se encuentra el máximo que es $\frac{1}{2}$. 
 
+
+
+## Demostración 
+
+Si $\phi: E\rightarrow E$ es una función de [[Lipschitz]], es decir, $|\phi(y)-\phi(z)| \leq L|y-z|, L<1$, entonces existe un único $y$ tal que $y* = \phi(y*)$. 
+
+Primero, demostrando el [[Teorema del punto fijo de Banach]], se puede definir una **iteración de Picard**: 
+
+```functionplot
+---
+title: Teorema punto fijo
+xLabel: x
+yLabel: y
+bounds: [0,3,0,5]
+disableZoom: true
+grid: true
+---
+y = x
+h = x/0.5 - 1.5
+
+
+```
+
+Es decir, $y_{n+1} = \phi (y_n)$, $h\leq 0$, $y_0$ dado en $E$. La idea es que si $y_n\rightarrow y_{\infty}$ entonces $y_{n+1}\rightarrow y_{\infty}$ y además $\phi(y_n)\rightarrow\phi(y_{\infty})$ entonces $y_{n+1}\rightarrow y_{\infty}$ y además $\phi (y_n)\rightarrow\phi (y_{\infty})$ porque $\phi$ es continua. 
+
+Entonces $y_{\infty} = \phi (y_{\infty}) \implies y_{\infty}$. 
+
+Ocupando la condición de Lipschitz se llega que: 
+
+$$|y_{\infty} - y_\star | = |\phi(y_\infty) - \phi(y*)|\leq |y_\infty - y*| \implies y_\infty = y*$$ 
+Ahora, para probar que $y_n$ es de Cauchy, $|y_{n+1}-y_n|\rightarrow 0$. 
+
+Entonces, se puede reescribir como: 
+
+$$|y_{n+k}-y_n|\leq |y_{n+k} - y_{n+k-1}| + |y_{n+k-1}-y_{n+k-2}| + \dots + |y_{n+1}-y_n|$$ 
+$$|y_{n+k}-y_n|\leq |\phi(y_{n+k-1}) - \phi(y_{n+k-2}| + \dots + |\phi(y_n)-\phi(y_{n-1}))$$ 
+$$|y_{n+k}-y_n|\leq L|y_{n+k-1}-y_{n+k-2}| + L|y_{n+k-2} - y_{n+k-3}| + \dots + L|y_n - y_{n+1}|$$ 
+Se podría seguir recursivamente hasta llegar a: 
+
+$$|y_{n+k}-y_n|\leq L^{n+k}|y_1 - y_0| + L^{n+k-2}|y_1-y_0| + \dots + L^n|y_1 - y_0|$$ 
+Y se tiene una **suma geométrica**: 
+
+$$|y_{n+k}-y_n| = L^n|y_1 - y_0|\sum^{k-1}_{j=0}L^j = \frac{L^n}{1-L}(1-L^k)|y_1 - y_0|

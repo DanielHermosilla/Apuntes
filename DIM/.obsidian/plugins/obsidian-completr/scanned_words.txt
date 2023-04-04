@@ -265,6 +265,7 @@ dcf
 df
 dbad
 dba
+demostrando
 un
 una
 uni
@@ -1012,6 +1013,7 @@ PQ
 PH
 PGx
 PLRKcs
+Picard
 goras
 general
 geom
@@ -1772,6 +1774,7 @@ iV
 iQVV
 iO
 integrante
+iteraci
 Vamos
 Voy
 Veamos
