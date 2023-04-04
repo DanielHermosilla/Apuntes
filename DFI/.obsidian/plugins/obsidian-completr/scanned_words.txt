@@ -86,6 +86,7 @@ dx
 denominador
 din
 despejando
+diminuta
 fuerza
 forma
 fijar
@@ -115,6 +116,7 @@ fundamentales
 figura
 formando
 fundamental
+fuerzas
 aplicada
 al
 aplicar
@@ -180,6 +182,7 @@ anterior
 acciones
 act
 acci
+asumir
 por
 para
 pan
@@ -255,6 +258,7 @@ produce
 pares
 problema
 pasos
+plantea
 unidad
 una
 uno
@@ -325,6 +329,7 @@ reactivo
 reacci
 ricos
 resuelve
+ricas
 Por
 Puede
 Producto
@@ -369,6 +374,7 @@ logicamente
 llamara
 lculos
 leyes
+lisis
 tanto
 tratar
 tender
@@ -419,6 +425,8 @@ tricamente
 tres
 traducir
 tendr
+tierra
+trico
 se
 su
 sale
@@ -586,12 +594,16 @@ causas
 cu
 cambien
 cuantificado
+celestes
+considerando
 Notemos
 Nos
 Newton
 Normalmente
+Nace
 que
 queda
+quisiera
 en
 es
 el
@@ -659,6 +671,7 @@ estariamos
 eligiremos
 eje
 ejerce
+esf
 modificar
 masa
 mira
@@ -709,6 +722,7 @@ metro
 mica
 mida
 magnitud
+men
 va
 volumen
 vamente
@@ -737,6 +751,7 @@ vectores
 vida
 vec
 volviendo
+vol
 An
 Al
 Ampere
@@ -800,6 +815,7 @@ integrar
 inicial
 inercial
 iniciales
+integral
 no
 neo
 ngulo

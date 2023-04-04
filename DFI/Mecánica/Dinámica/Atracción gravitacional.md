@@ -27,3 +27,9 @@ Esta integral tiene como solución lo siguiente:
 $$F_g = \frac{GmM_t}{(R+z)^2}$$ 
 Donde:
 $$\frac{GM_t}{R_{T}^{2}} = g = 9.807 m/s^2$$ 
+Si se quisiera saber la fuerza gravitatoria cuando ya se pasa el radio de la tierra, se podría definir la siguiente función: 
+
+$$f(z) = (R+z)^{-2}$$ 
+Donde $z$ es la distancia tomando como referencia el *piso* de la tierra. 
+
+$$f(z) = f(z=0)
