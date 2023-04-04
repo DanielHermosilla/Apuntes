@@ -179,4 +179,13 @@ Pero $L\ \max|x-x_0|$ no siempre es menor que uno. Entonces, se cambia la [[Norm
 $$||y||_{\infty , L} = \max_{x\in I}|y(x)|e^{-2L(x-x_0)}$$ 
 Donde la exponencial decrece pero siempre es positiva. Por lo tanto, el espacio de las funciones [[Continuidad en varias variables|continuas]] sigue siendo de [[Espacio de Banach|Banach]] en la [[Norma en varias variables|norma]] definida. Entonces, redefiniendo: 
 
-$$|\phi(y(x))-\phi(z(x))|\leq L\int^{x}_{x_0}|y(s)-z(s)|ds e^{-2L(s-\leq L\max|x-x_0|\ ||y-z||_\infty$$
+$$|\phi(y(x))-\phi(z(x))|\leq L\int^{x}_{x_0}|y(s)-z(s)|ds \ e^{-2L(s-x_0)}\ e^{2L(s-x_0)}$$
+Al multiplicar por 1 al por $e^{-2L(s-x_0)}\ e^{2L(s-x_0)}$ entonces se puede llegar que: 
+
+$$|\phi(y(x))-\phi(z(x))|\leq L ||y-z||_{\infty, L} \int^{x}_{x_0}e^{2L(s-x_0)}ds$$
+
+Resolviendo la integral, siguiendo la desigualdad y multplicando por la el resultado de ésta se llega que: 
+
+$$e^{-2L(x-x_0)}|\phi(y(x))-\phi(z(x))|\leq \frac{1}{2} ||y-z||_{\infty, L} $$
+
+Y por lo tanto es de [[Lipschitz]] con $L=\frac{1}{2}$ 

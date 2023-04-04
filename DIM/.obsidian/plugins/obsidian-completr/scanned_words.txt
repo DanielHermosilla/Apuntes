@@ -266,6 +266,8 @@ df
 dbad
 dba
 demostrando
+demostr
+ds
 un
 una
 uni
@@ -504,6 +506,7 @@ cabb
 comportar
 ce
 cc
+convergan
 su
 ser
 se
@@ -715,6 +718,7 @@ mR
 mkT
 ma
 mtio
+mostrar
 que
 qu
 queda
@@ -877,6 +881,7 @@ pI
 pT
 pA
 pB
+phi
 trav
 teorema
 ticas
@@ -1054,6 +1059,7 @@ guo
 gk
 go
 gp
+grac
 Ejemplo
 En
 Es
@@ -1464,6 +1470,7 @@ faaa
 fa
 fadc
 fb
+fijo
 an
 amos
 aquello
@@ -1578,6 +1585,7 @@ algunas
 alg
 acotar
 argumentando
+ahora
 bajo
 bola
 binomio
@@ -1661,6 +1669,7 @@ hz
 hV
 hn
 hF
+hasta
 intervalos
 interesante
 introducir
@@ -1775,6 +1784,7 @@ iQVV
 iO
 integrante
 iteraci
+infinito
 Vamos
 Voy
 Veamos
@@ -2286,6 +2296,7 @@ TjR
 Tx
 Tg
 Teor
+TEU
 ximo
 xf
 xR
@@ -2425,6 +2436,7 @@ Ou
 Oss
 Oo
 OG
+Ocupando
 Gram
 Gs
 Gw
