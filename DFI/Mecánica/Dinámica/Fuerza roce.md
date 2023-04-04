@@ -8,3 +8,9 @@ Si se considera un cuerpo en un plano inclinado sometido a únicamente la fuerza
 
 $$mg\sin\alpha = \mu_e mg\cos\alpha$$$$\tan\alpha = \mu_e$$ 
 Y llegar a una dependencia en función del ángulo. 
+
+## Fuerza de roce cinético 
+
+Ocurre cuando hay un [[Cinemática|movimiento]] entre dos cuerpos.  Equivale a una igualdad parecida al roce estático pero con un distinto coeficiente de roce, donde $\mu_c\leq\mu_e$: 
+
+$$\vec{F}_{\text{Roce cinético}} = \mu_c |\vec{N}|$$ 
