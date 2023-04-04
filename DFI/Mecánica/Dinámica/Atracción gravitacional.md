@@ -32,4 +32,9 @@ Si se quisiera saber la fuerza gravitatoria cuando ya se pasa el radio de la tie
 $$f(z) = (R+z)^{-2}$$ 
 Donde $z$ es la distancia tomando como referencia el *piso* de la tierra. 
 
-$$f(z) = f(z=0)
+$$f(z) = f(z=0) + \frac{d f}{d z}\bigg\vert_{z=0}z + \frac{1}{2}\frac{d^2f}{dz^2}\bigg\vert_{z=0}z^2\ \ \ \text{Desarrollo de Taylor}$$
+
+$$\frac{df}{dz} = -2(R_t + z)^{-3}$$ 
+$$\frac{d^2f}{dz^2} = 6 (R_t + z)^{-4}$$ 
+$$f(z) = \frac{1}{R_{t}^{2}} - \frac{2}{R_{t}^{3}}z + \frac{6}{2}\frac{1}{R_{t}^{4}}z^2$$ 
+$$|\vec{F}g| = mg[1-2\frac{z}{R_t}]$$ 
