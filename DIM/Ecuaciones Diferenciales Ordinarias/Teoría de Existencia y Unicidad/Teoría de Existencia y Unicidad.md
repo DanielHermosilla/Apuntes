@@ -144,4 +144,39 @@ Se podría seguir recursivamente hasta llegar a:
 $$|y_{n+k}-y_n|\leq L^{n+k}|y_1 - y_0| + L^{n+k-2}|y_1-y_0| + \dots + L^n|y_1 - y_0|$$ 
 Y se tiene una **suma geométrica**: 
 
-$$|y_{n+k}-y_n| = L^n|y_1 - y_0|\sum^{k-1}_{j=0}L^j = \frac{L^n}{1-L}(1-L^k)|y_1 - y_0|
+$$|y_{n+k}-y_n| = L^n\ |y_1 - y_0|\ \sum^{k-1}_{j=0}L^j = \frac{L^n}{1-L}(1-L^k)\ |y_1 - y_0|\rightarrow 0$$ 
+Entonces, como $L<1$, por lo tanto es convergente, por lo tanto, es una [[Sucesión de Cauchy|sucesión de Cauchy]] y por conclusión es un [[Espacio de Banach|espacio de Banach]]. 
+
+Dado que se demostró el punto fijo, ahora, volviendo al problema de Cauchy se define lo siguiente: 
+
+$$ 
+\text{Problema de Cauchy}=\begin{cases} 
+       y'(x) = f(x,y(x)) \\
+      y(x_0) = y  
+   \end{cases}
+$$
+
+Equivalente a: 
+
+$$\int_{x_0}^{x}y' = \int^{x}_{x_0}f(s,y(s))ds$$ $$y(x)-y(x_0) = \int^{x}_{x_0}f(s,y(s))ds$$ $$y(x) = y_0 + \int^{x}_{x_0}f(s,y(s))ds = \phi(y)$$ $$y(x) = \phi(y(x))^{x_0}\ \ \ \text{Teorema del Punto Fijo}$$ 
+Entonces, basta mostrar que $\phi(y(x))$ menor a una constante. Sea $\phi$ la siguiente función: 
+
+$$\phi:\mathbb{C}^0(I)\rightarrow\mathbb{C}^0(I)\ \ x\in I$$
+$$y(x)\rightarrow \phi(y(x)) = y_0 + \int^{x}_{x_0}f(s,y(s))ds$$ 
+Vale decir que, gracías la hipótesis del TEU, $f(s,y(s))$ es continua. 
+
+Para que cumpla que las [[Sucesión de Cauchy|sucesiones de Cauchy]] convergan se debe establecer una [[Norma en varias variables|norma]], que en este caso será la norma infinito y que el intervalo sea cerrado y acotado, vale decir: 
+
+$$||y||_\infty = \max_{x\in I}|y(x)|$$ 
+Entonces, todas las sucesiones de Cauchy son convergentes, $E=\mathbb{C}^0(I)$ es [[Espacio de Banach|Banach]]. 
+
+$$\phi(y(x))-\phi(z(x))=\int^{x}_{x_0}f(s,y(s)) - f(s,z(s))dx$$ 
+Y aquí se podría ocupar la condición de [[Lipschitz]]. 
+
+$$|\phi(y(x))-\phi(z(x))|\leq \int^{x}_{x_0}|f(s,y(s))-f(s,z(s))|ds\ \ \ \text{Hipótesis del TEU}$$$$|\phi(y(x))-\phi(z(x))|\leq L\int^{x}_{x_0}|y(s)-z(s)|ds\leq L\max|x-x_0|\ ||y-z||_\infty$$ 
+Pero $L\ \max|x-x_0|$ no siempre es menor que uno. Entonces, se cambia la [[Norma en varias variables|norma]] que dependa de la constante de [[Lipschitz]]. 
+
+$$||y||_{\infty , L} = \max_{x\in I}|y(x)|e^{-2L(x-x_0)}$$ 
+Donde la exponencial decrece pero siempre es positiva. Por lo tanto, el espacio de las funciones [[Continuidad en varias variables|continuas]] sigue siendo de [[Espacio de Banach|Banach]] en la [[Norma en varias variables|norma]] definida. Entonces, redefiniendo: 
+
+$$|\phi(y(x))-\phi(z(x))|\leq L\int^{x}_{x_0}|y(s)-z(s)|ds e^{-2L(s-\leq L\max|x-x_0|\ ||y-z||_\infty$$
