@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md",
+                "file": "Economía/Monopolios/Monopolio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8008425f6f4e7cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md",
+                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md",
+                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md"
+                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "8008425f6f4e7cee",
   "lastOpenFiles": [
     "Economía/Monopolios/Monopolio.md",
+    "Economía/Monopolios/Margen de Lerner Monopólico.md",
     "Economía/Elasticidad precio-demanda.md",
     "img/Monopolio3.png",
     "img/Monopolio 2.png",
@@ -196,7 +209,6 @@
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
-    "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
     "img/Gini.png",
     "Economía/Criterios de asignación",
     "Probabilidades/Conteo",

@@ -79,8 +79,8 @@
     "Derivada": {
       "Derivada": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680715559704
+          "count": 5,
+          "lastUpdated": 1680717227682
         }
       }
     },
@@ -425,6 +425,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1680715566663
+        }
+      }
+    },
+    "\\frac{\\delta}{\\epsilon}": {
+      "\\frac{\\delta}{\\epsilon}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680716955406
         }
       }
     }
