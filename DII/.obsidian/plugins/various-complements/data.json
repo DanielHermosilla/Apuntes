@@ -79,8 +79,8 @@
     "Derivada": {
       "Derivada": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1679250830991
+          "count": 4,
+          "lastUpdated": 1680715559704
         }
       }
     },
@@ -417,6 +417,14 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1680541546222
+        }
+      }
+    },
+    "Función de costos": {
+      "Función de costos": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680715566663
         }
       }
     }

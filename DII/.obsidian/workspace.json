@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7c12a47b4897b296",
+        "id": "daac73fba709fd03",
         "type": "tabs",
         "children": [
           {
-            "id": "8f43f0c733d6a3b4",
+            "id": "1de7aa9a98a53ccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Criterios de asignación/Desigualdad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d99caf041de9001a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Métodos de asignación/Eficiencia de Pareto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9948f4a5f3cc9a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Métodos de asignación/Justicia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33cd4cd3c24f63f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Métodos de asignación/Curva de eficiencia de Pareto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "830eb817a9f250e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/Métodos de asignación/Instituciones y políticas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1658163295f66b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+                "file": "Economía/Monopolios/Monopolio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Métodos de asignación/Instituciones y políticas.md",
+                "file": "Economía/Monopolios/Monopolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Métodos de asignación/Instituciones y políticas.md",
+                "file": "Economía/Monopolios/Monopolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Métodos de asignación/Instituciones y políticas.md"
+                "file": "Economía/Monopolios/Monopolio.md"
               }
             }
           }
@@ -207,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "1de7aa9a98a53ccd",
   "lastOpenFiles": [
+    "img/Monopolio3.png",
+    "img/Monopolio 2.png",
+    "img/Monopolio.png",
+    "Economía/Criterios de asignación/Desigualdad.md",
+    "Economía/Monopolios/Monopolio.md",
+    "Economía/Monopolios",
     "img/Instituciones y políticas.png",
     "Economía/Métodos de asignación/Curva de eficiencia de Pareto.md",
     "Economía/Métodos de asignación/Instituciones y políticas.md",
@@ -220,7 +165,6 @@
     "Economía/Métodos de asignación/Justicia.md",
     "Economía/Métodos de asignación/Eficiencia de Pareto.md",
     "img/Eficiencia de Pareto.png",
-    "Economía/Criterios de asignación/Desigualdad.md",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
     "Probabilidades/Resumen Caso 1.md",
@@ -239,7 +183,6 @@
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
-    "Probabilidades/Axiomas y propiedades/Evento.md",
     "img/Gini.png",
     "Economía/Criterios de asignación",
     "Probabilidades/Conteo",
@@ -247,13 +190,9 @@
     "Economía/Teoría de juegos",
     "Probabilidades/Probabilidad condicional e independencia",
     "img/Aumento salario 2.png",
-    "img/Aumento salario hora.png",
-    "img/Efecto ingreso.png",
-    "img/Conjunto factible 3.png",
     "Economía/Escasez",
     "Probabilidades/Axiomas y propiedades/Untitled",
     "Probabilidades/Axiomas y propiedades",
-    "Economía/Modelos matemáticos en la economía/Untitled",
-    "Economía/Modelos matemáticos en la economía"
+    "Economía/Modelos matemáticos en la economía/Untitled"
   ]
 }
