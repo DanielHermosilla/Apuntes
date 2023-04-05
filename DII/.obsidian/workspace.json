@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ae01bddd9cff06b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/Elasticidad precio-demanda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md",
+                "file": "Economía/Elasticidad precio-demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md",
+                "file": "Economía/Elasticidad precio-demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md"
+                "file": "Economía/Elasticidad precio-demanda.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1de7aa9a98a53ccd",
+  "active": "0500663b42f9dbb9",
   "lastOpenFiles": [
+    "Economía/Monopolios/Monopolio.md",
+    "Economía/Elasticidad precio-demanda.md",
     "img/Monopolio3.png",
     "img/Monopolio 2.png",
     "img/Monopolio.png",
     "Economía/Criterios de asignación/Desigualdad.md",
-    "Economía/Monopolios/Monopolio.md",
     "Economía/Monopolios",
     "img/Instituciones y políticas.png",
     "Economía/Métodos de asignación/Curva de eficiencia de Pareto.md",
@@ -189,7 +203,6 @@
     "img/Juego Estático.png",
     "Economía/Teoría de juegos",
     "Probabilidades/Probabilidad condicional e independencia",
-    "img/Aumento salario 2.png",
     "Economía/Escasez",
     "Probabilidades/Axiomas y propiedades/Untitled",
     "Probabilidades/Axiomas y propiedades",

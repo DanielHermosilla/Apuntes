@@ -10,6 +10,8 @@ Si se intenta calcular el óptimo se obtiene lo siguiente:
 $$P(Q) + QP'(Q) = C'(Q)$$ 
 Donde la expresión se conoce como **ingreso marginal** y la [[Derivada|derivada]] de la [[Función de costos|función de costos]] llegaría a ser el **costo marginal**. 
 
+En resumen, ingreso marginal es la variación del ingreso (cantidad multiplicado por la función demanda) y costo marginal es la variación del costo. Para maximisar utilidades se igualan ambas variables. 
+
 ## Vista gráfica 
 
 Normalmente, si la firma del monopolio no tiene costos, sus ingresos se verían gráficados por la cantidad que el consumidor está dispuesto a pagar por el precio.
