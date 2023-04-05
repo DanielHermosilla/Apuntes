@@ -29,3 +29,30 @@ $$\forall x\in I\cap[x_0 - \delta, x_0 + \delta]$$
 Gráficamente implica que la función vive en la siguiente vecindad: 
 
 ![[Lipschitz local.jpeg|center]]
+
+## Cálculo de Lipschitz
+
+Sea $f: I\times\mathbb{R}\rightarrow\mathbb{R}$, se dice globalmente Lipschitz con respecto a su segunda variable si $\exists L >0$ tal que para cada $x\in I$ se tiene: 
+
+$$|f(x,y)-f(x,z)|\leq L|y-z|$$ 
+Siendo $L$ la constante de Lipschitz de L. Normalmente se resuelve con [[Teorema del Valor Medio]] pero para [[Derivadas parciales|derivadas parciales]], es decir: 
+
+Sea $f: I\times\mathbb{R}\rightarrow\mathbb{R}$ de clase $C^1$ con respecto a su segunda variable, esto es $\frac{\partial f}{\partial y}(x,y)$ existe y [[Continuidad en varias variables|continua]]. Luego $\forall y_1 , y_2 \in\mathbb{R}; \ y_1 \neq y_2$ existe $\xi$ tal que: 
+
+$$\frac{f(x,y_2) - f(x,y_1)}{y_2 - y_1} = \frac{\partial f}{\partial y}(x,\xi)\ \ \ \ \ \forall x\in I$$ 
+Esto implica que: 
+
+$$f(x,y_2) - f(x,y_1) = \frac{\partial f}{\partial y}(x, \xi)(y_2 - y_1)$$ $$\implies f(x,y_2)-f(x,y_1)| = |\frac{\partial f}{\partial y}(x,\xi)| |y_2 - y_1|$$ 
+Si $\frac{\partial f}{\partial y}$ fuese acotada en todo $\mathbb{R}$, entonces: 
+
+$$\frac{\partial f}{\partial y}(x, \xi)|\leq L$$ 
+Entonces: 
+
+$$|f(x,y_2)-f(x,y_1)| = |\frac{\partial f}{\partial y}(x,\xi)| |y_2 - y_1|$$ $$\implies |f(x,y_2)-f(x,y_1)| \leq L|y_2 - y_1|$$ 
+Implica que $f$ es Lipschitz con respecto a su segunda variable. Notar que: 
+
+1. Por lo general la [[Derivadas parciales|derivada parcial]] es continua, luego es acotada en conjuntos acotados. 
+2. Entonces, basta mirar los límites a los infinitos respectivos: 
+
+$$\lim_{y\rightarrow\pm\infty}\frac{\partial f}{\partial y}(x,y)$$ 
+Si los límites son finitos, entonces el conjunto es acotado. 
