@@ -16,6 +16,7 @@ Principles
 Primero
 Product
 Permutations
+Pero
 ofrece
 ordenador
 ocupa
@@ -123,6 +124,7 @@ discutir
 deseado
 despu
 deben
+define
 predefinidos
 procesan
 partir
@@ -195,6 +197,8 @@ posee
 poner
 place
 pone
+problema
+polinomios
 como
 complejo
 caso
@@ -303,6 +307,7 @@ consulta
 cosas
 cumplir
 cota
+combinar
 enteros
 en
 el
@@ -375,6 +380,8 @@ especie
 ejecutar
 estados
 eficiencia
+entonces
+ecuaci
 los
 lenguaje
 lograr
@@ -488,6 +495,8 @@ invariantes
 inicial
 iteraciones
 ignoran
+ineficiente
+implicando
 bool
 booleanos
 backslash
@@ -591,6 +600,10 @@ situ
 sumandos
 simos
 superior
+subdividir
+sub
+soluciones
+simplificar
 fueran
 flotantes
 float
@@ -806,6 +819,9 @@ min
 max
 mantienen
 medir
+multiplicar
+mejor
+multiplicaciones
 que
 quisiera
 quiere
@@ -931,6 +947,10 @@ rompe
 rmino
 repetitivos
 rminos
+resolverlos
+resolverlo
+reescribir
+recursivas
 Suma
 Se
 Si
@@ -950,6 +970,7 @@ Simplemente
 SciPy
 Scikit
 Siempre
+Sean
 Funcionan
 Funciones
 Fk
@@ -1049,6 +1070,7 @@ Algoritmos
 Arnaldo
 Aun
 Algebra
+Algoritmo
 Count
 Cuando
 Consisten
@@ -1113,6 +1135,7 @@ generan
 gente
 genere
 garantizar
+general
 Un
 Uy
 UR
@@ -1124,6 +1147,7 @@ Uv
 Uf
 Ux
 Una
+Utilizando
 RIFF
 Rs
 Rc
@@ -1169,6 +1193,7 @@ NyO
 NU
 NumPy
 No
+Normalmente
 XE
 XX
 Xx
@@ -1198,6 +1223,7 @@ Kz
 KM
 KX
 KR
+Karatsuba
 wD
 ws
 wf
