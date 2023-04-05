@@ -47,139 +47,19 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "maximo": {
-      "maximo": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676745659902
-        }
-      }
-    },
-    "heapTamano": {
-      "heapTamano": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676929480537
-        }
-      }
-    },
-    "mayores": {
-      "mayores": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677187795687
-        }
-      }
-    },
-    "mergeSort": {
-      "mergeSort": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677374421676
-        }
-      }
-    },
-    "params": {
-      "params": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677375330784
-        }
-      }
-    },
-    "Itertools": {
-      "Itertools": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677376961626
-        }
-      }
-    },
-    "friends": {
-      "friends": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678111195546
-        }
-      }
-    },
-    "users": {
-      "users": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678111780767
-        }
-      }
-    },
-    "conexionesTotales": {
-      "conexionesTotales": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678111346721
-        }
-      }
-    },
-    "numeroUsuarios": {
-      "numeroUsuarios": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678111352644
-        }
-      }
-    },
-    "otroUsuario": {
-      "otroUsuario": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678113389485
-        }
-      }
-    },
-    "amigosDeAmigos": {
-      "amigosDeAmigos": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678113532970
-        }
-      }
-    },
-    "directos": {
-      "directos": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678113603193
-        }
-      }
-    },
-    "amigoDelAmigoIds": {
-      "amigoDelAmigoIds": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678113614436
-        }
-      }
-    },
-    "interests": {
-      "interests": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678119508823
-        }
-      }
-    },
-    "lista": {
-      "lista": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678119897295
-        }
-      }
-    },
     "x^{77}": {
       "x^{77}": {
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679335925956
+        }
+      }
+    },
+    "Python": {
+      "Python": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680722181391
         }
       }
     }
