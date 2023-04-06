@@ -432,6 +432,7 @@ tendr
 tierra
 trico
 todav
+times
 se
 su
 sale
@@ -766,6 +767,7 @@ vida
 vec
 volviendo
 vol
+viscoso
 An
 Al
 Ampere
@@ -998,6 +1000,7 @@ RL
 Reescribiendo
 Rama
 Roce
+Rv
 zado
 zoom
 ximo
@@ -1009,3 +1012,4 @@ kx
 kilos
 kilo
 juntando
+Kv
