@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Monopolios/Margen de Lerner Monopólico.md"
+                "file": "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md"
               }
             }
           }
@@ -173,8 +173,16 @@
   },
   "active": "8008425f6f4e7cee",
   "lastOpenFiles": [
-    "Economía/Monopolios/Monopolio.md",
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Probabilidades/Independencia condicional.md",
+    "Probabilidades/Ley de Bayes.md",
+    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+    "Probabilidades/Teoría de probabilidades.md",
+    "Probabilidades/Ley de Probabilidades Totales.md",
+    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
+    "Probabilidades/Resumen Caso 1.md",
     "Economía/Monopolios/Margen de Lerner Monopólico.md",
+    "Economía/Monopolios/Monopolio.md",
     "Economía/Elasticidad precio-demanda.md",
     "img/Monopolio3.png",
     "img/Monopolio 2.png",
@@ -194,19 +202,11 @@
     "img/Eficiencia de Pareto.png",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
-    "Probabilidades/Resumen Caso 1.md",
-    "Probabilidades/Teoría de probabilidades.md",
-    "Probabilidades/Ley de Probabilidades Totales.md",
-    "Probabilidades/Ley de Bayes.md",
-    "Probabilidades/Independencia condicional.md",
     "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Principio multiplicativo.md",
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
-    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
-    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "img/Gini.png",

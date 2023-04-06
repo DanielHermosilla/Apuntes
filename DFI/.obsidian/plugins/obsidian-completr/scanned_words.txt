@@ -117,6 +117,7 @@ figura
 formando
 fundamental
 fuerzas
+forman
 aplicada
 al
 aplicar
@@ -183,6 +184,7 @@ acciones
 act
 acci
 asumir
+alpha
 por
 para
 pan
@@ -330,6 +332,8 @@ reacci
 ricos
 resuelve
 ricas
+roce
+rotos
 Por
 Puede
 Producto
@@ -427,6 +431,7 @@ traducir
 tendr
 tierra
 trico
+todav
 se
 su
 sale
@@ -476,6 +481,7 @@ sabe
 simplificando
 sentido
 seguir
+sometido
 como
 cuerpos
 comprimirla
@@ -596,11 +602,15 @@ cambien
 cuantificado
 celestes
 considerando
+caracterizar
+culas
+cin
 Notemos
 Nos
 Newton
 Normalmente
 Nace
+Normal
 que
 queda
 quisiera
@@ -672,6 +682,8 @@ eligiremos
 eje
 ejerce
 esf
+ejercen
+enlaces
 modificar
 masa
 mira
@@ -723,6 +735,8 @@ mica
 mida
 magnitud
 men
+mol
+mu
 va
 volumen
 vamente
@@ -816,6 +830,7 @@ inicial
 inercial
 iniciales
 integral
+inclinado
 no
 neo
 ngulo
@@ -845,6 +860,7 @@ ndro
 nuevo
 numerador
 ndola
+nicamente
 homog
 haber
 hay
@@ -953,6 +969,7 @@ Frecuencia
 Faradios
 Faraday
 Franjas
+Fuerza
 Que
 La
 Los
@@ -980,6 +997,7 @@ RMS
 RL
 Reescribiendo
 Rama
+Roce
 zado
 zoom
 ximo
