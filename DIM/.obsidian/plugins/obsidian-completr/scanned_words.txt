@@ -719,6 +719,8 @@ mkT
 ma
 mtio
 mostrar
+mirar
+mediantes
 que
 qu
 queda
@@ -1060,6 +1062,7 @@ gk
 go
 gp
 grac
+globalmente
 Ejemplo
 En
 Es
@@ -1099,6 +1102,7 @@ Ed
 Eo
 EKs
 Ecuaciones
+Euler
 Norma
 No
 Notemos
@@ -1471,6 +1475,8 @@ fa
 fadc
 fb
 fijo
+fuese
+finitos
 an
 amos
 aquello
@@ -1586,6 +1592,9 @@ alg
 acotar
 argumentando
 ahora
+argumentar
+acercar
+aproximaciones
 bajo
 bola
 binomio
@@ -1785,6 +1794,7 @@ iO
 integrante
 iteraci
 infinito
+infinitos
 Vamos
 Voy
 Veamos
@@ -1928,6 +1938,7 @@ SN
 SOw
 SS
 Separaci
+Siendo
 Donde
 Demostraci
 Diferencial
@@ -2072,6 +2083,8 @@ resoluci
 representadas
 resoluciones
 reductibles
+resuelve
+respectivos
 orden
 otras
 observaci
@@ -2245,6 +2258,7 @@ In
 IZ
 Ic
 Integraci
+Implica
 Un
 Uni
 Una
