@@ -1,6 +1,6 @@
 #### Axiomas y Propiedades: 
 1. Ley uniforme discreta: $$\mathbb{P}(A)=\frac{|A|}{|\Omega|}$$
-2. Resta 
+2. Resta:
 $$\mathbb{P}(A\backslash B)=\mathbb{P}(A)-\mathbb{P}(A\cap B)$$
 3. Inclusión-exclusión 
 $$\mathbb{P}(A\cup B) = \mathbb{P}(A)+\mathbb{P}(B)-\mathbb{P}(A\cap B)$$
