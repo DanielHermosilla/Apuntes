@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md",
+                "file": "Probabilidades/Ley de Probabilidades Totales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c937ca4908e60adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posible error.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md",
+                "file": "Probabilidades/Axiomas y propiedades/Propiedades.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md",
+                "file": "Posible error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md",
+                "file": "Posible error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Resumen Caso 1.md"
+                "file": "Posible error.md"
               }
             }
           }
@@ -159,17 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8008425f6f4e7cee",
+  "active": "c937ca4908e60adf",
   "lastOpenFiles": [
-    "Economía/Monopolios/Monopolio.md",
-    "Probabilidades/Resumen Caso 1.md",
-    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
-    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
-    "Probabilidades/Independencia condicional.md",
-    "Probabilidades/Ley de Bayes.md",
-    "Probabilidades/Teoría de probabilidades.md",
     "Probabilidades/Ley de Probabilidades Totales.md",
+    "Posible error.md",
+    "Probabilidades/Teoría de probabilidades.md",
+    "Probabilidades/Ley de Bayes.md",
+    "Probabilidades/Resumen Caso 1.md",
+    "Economía/Monopolios/Monopolio.md",
+    "Probabilidades/Axiomas y propiedades/Propiedades.md",
+    "Probabilidades/Axiomas y propiedades/Axiomas.md",
+    "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
+    "Probabilidades/Independencia condicional.md",
+    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo aleatorio.md",
+    "Probabilidades/Conteo/Principio multiplicativo.md",
+    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+    "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
+    "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
+    "Probabilidades/Axiomas y propiedades/Evento.md",
+    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
+    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Economía/Monopolios/Margen de Lerner Monopólico.md",
     "Economía/Elasticidad precio-demanda.md",
     "img/Monopolio3.png",
@@ -178,25 +204,11 @@
     "Economía/Criterios de asignación/Desigualdad.md",
     "Economía/Monopolios",
     "img/Instituciones y políticas.png",
-    "Economía/Métodos de asignación/Curva de eficiencia de Pareto.md",
-    "Economía/Métodos de asignación/Instituciones y políticas.md",
     "img/Curva de eficiencia de Pareto.png",
-    "Economía/Métodos de asignación/Negociación.md",
     "img/Negociacion.png",
-    "Economía/Métodos de asignación/Asignaciones factibles.md",
     "img/Asignaciones factibles.png",
-    "Economía/Métodos de asignación/Justicia.md",
-    "Economía/Métodos de asignación/Eficiencia de Pareto.md",
     "img/Eficiencia de Pareto.png",
     "Economía/Métodos de asignación",
-    "Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
-    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
-    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
-    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
-    "Probabilidades/Conteo/Principio multiplicativo.md",
-    "Probabilidades/Axiomas y propiedades/Axiomas.md",
-    "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "img/Gini.png",
     "Economía/Criterios de asignación",
     "Probabilidades/Conteo",
