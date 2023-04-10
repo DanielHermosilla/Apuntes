@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Álgebra Lineal\"",
+      "color": {
+        "a": 1,
+        "rgb": 7514074
+      }
+    },
+    {
+      "query": "path:\"Cálculo Diferencial e Integral\"",
+      "color": {
+        "a": 1,
+        "rgb": 9457340
+      }
+    },
+    {
+      "query": "path:\"Cálculo en Varias Variables\"",
+      "color": {
+        "a": 1,
+        "rgb": 2992516
+      }
+    },
+    {
+      "query": "path:\"Ecuaciones Diferenciales Ordinarias\"",
+      "color": {
+        "a": 1,
+        "rgb": 14959748
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.447083333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.492518939393939,
+  "repelStrength": 10,
+  "linkStrength": 0.451136363636364,
+  "linkDistance": 238,
+  "scale": 0.6666903536039686,
+  "close": true
+}
