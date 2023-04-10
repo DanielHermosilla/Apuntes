@@ -151,16 +151,16 @@
     "Espacio muestral": {
       "Espacio muestral": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1679316765733
+          "count": 4,
+          "lastUpdated": 1681130589768
         }
       }
     },
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 26,
-          "lastUpdated": 1679057278119
+          "count": 30,
+          "lastUpdated": 1681132757057
         }
       }
     },
@@ -441,6 +441,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1681086344847
+        }
+      }
+    },
+    "Variable aleatoria discreta": {
+      "Variable aleatoria discreta": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681132808450
+        }
+      }
+    },
+    "\\sum_{x\\in": {
+      "\\sum_{x\\in": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681132763659
         }
       }
     }

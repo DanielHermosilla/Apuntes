@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc49042e3cd61427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98ecde595473f011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3caac626c7631943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Resumen Caso 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Monopolios/Ineficiencia del monopolio.md",
+                "file": "Probabilidades/Resumen Caso 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Monopolios/Ineficiencia del monopolio.md",
+                "file": "Probabilidades/Resumen Caso 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Monopolios/Ineficiencia del monopolio.md"
+                "file": "Probabilidades/Resumen Caso 1.md"
               }
             }
           }
@@ -146,36 +183,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "3caac626c7631943",
   "lastOpenFiles": [
+    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
+    "Probabilidades/Teoría de probabilidades.md",
+    "Probabilidades/Ley de Probabilidades Totales.md",
+    "Probabilidades/Resumen Caso 1.md",
+    "Probabilidades/Independencia condicional.md",
+    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+    "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
+    "Economía/Monopolios/Ineficiencia del monopolio.md",
+    "Probabilidades/Variable aleatoria discreta",
     "img/PérdidaExcedente.png",
     "img/ExcedenteMonopolio.png",
     "img/ExcedenteConsumidor.png",
     "Posible error.md",
-    "Economía/Monopolios/Ineficiencia del monopolio.md",
-    "Probabilidades/Ley de Probabilidades Totales.md",
-    "Probabilidades/Teoría de probabilidades.md",
     "Probabilidades/Ley de Bayes.md",
-    "Probabilidades/Resumen Caso 1.md",
     "Economía/Monopolios/Monopolio.md",
     "Probabilidades/Axiomas y propiedades/Propiedades.md",
     "Probabilidades/Axiomas y propiedades/Axiomas.md",
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
-    "Probabilidades/Independencia condicional.md",
-    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestreo aleatorio.md",
     "Probabilidades/Conteo/Principio multiplicativo.md",
     "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
     "Probabilidades/Axiomas y propiedades/Espacio muestral.md",
     "Probabilidades/Axiomas y propiedades/Evento.md",
-    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
-    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
-    "Economía/Monopolios/Margen de Lerner Monopólico.md",
     "img/Monopolio3.png",
     "img/Monopolio 2.png",
     "img/Monopolio.png",
@@ -184,7 +223,6 @@
     "img/Curva de eficiencia de Pareto.png",
     "img/Negociacion.png",
     "img/Asignaciones factibles.png",
-    "img/Eficiencia de Pareto.png",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación",
     "Probabilidades/Conteo",
@@ -192,7 +230,6 @@
     "Probabilidades/Probabilidad condicional e independencia",
     "Economía/Escasez",
     "Probabilidades/Axiomas y propiedades/Untitled",
-    "Probabilidades/Axiomas y propiedades",
-    "Economía/Modelos matemáticos en la economía/Untitled"
+    "Probabilidades/Axiomas y propiedades"
   ]
 }
