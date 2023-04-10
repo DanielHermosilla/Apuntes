@@ -79,8 +79,8 @@
     "Derivada": {
       "Derivada": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1680717227682
+          "count": 6,
+          "lastUpdated": 1681145552371
         }
       }
     },
@@ -423,8 +423,8 @@
     "Función de costos": {
       "Función de costos": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680715566663
+          "count": 2,
+          "lastUpdated": 1681146131716
         }
       }
     },
@@ -457,6 +457,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681132763659
+        }
+      }
+    },
+    "isobeneficio": {
+      "isobeneficio": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681146148484
         }
       }
     }
