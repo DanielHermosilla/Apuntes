@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddd666e79107e89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md"
               }
             }
           },
@@ -176,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "971d37d7810e93fe",
+  "active": "ddd666e79107e89e",
   "lastOpenFiles": [
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Método de Euler.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Método de Euler.md",
     "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
@@ -209,7 +222,6 @@
     "Ecuaciones Diferenciales Ordinarias/img/ExistenciaYUnicidad.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img",
     "Cálculo Diferencial e Integral/Aplicaciones de la integral/Sólido de Revolución.md",
-    "Cálculo Diferencial e Integral/Aplicaciones de la integral/Coordenadas polares.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales"

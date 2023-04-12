@@ -87,6 +87,7 @@ denominador
 din
 despejando
 diminuta
+distancia
 fuerza
 forma
 fijar
@@ -185,6 +186,7 @@ act
 acci
 asumir
 alpha
+atributos
 por
 para
 pan
@@ -261,6 +263,7 @@ pares
 problema
 pasos
 plantea
+piso
 unidad
 una
 uno
@@ -334,6 +337,10 @@ resuelve
 ricas
 roce
 rotos
+restituir
+resorte
+restituci
+restituye
 Por
 Puede
 Producto
@@ -379,6 +386,7 @@ llamara
 lculos
 leyes
 lisis
+largo
 tanto
 tratar
 tender
@@ -433,6 +441,8 @@ tierra
 trico
 todav
 times
+tomando
+tratan
 se
 su
 sale
@@ -483,6 +493,7 @@ simplificando
 sentido
 seguir
 sometido
+stica
 como
 cuerpos
 comprimirla
@@ -606,6 +617,7 @@ considerando
 caracterizar
 culas
 cin
+com
 Notemos
 Nos
 Newton
@@ -615,6 +627,7 @@ Normal
 que
 queda
 quisiera
+querer
 en
 es
 el
@@ -685,6 +698,8 @@ ejerce
 esf
 ejercen
 enlaces
+equilibrio
+extiende
 modificar
 masa
 mira
@@ -768,6 +783,7 @@ vec
 volviendo
 vol
 viscoso
+volver
 An
 Al
 Ampere
@@ -778,6 +794,7 @@ Adem
 Ancho
 Asi
 Aceleraci
+Aquellas
 Viene
 Valor
 Voltaje
@@ -795,6 +812,7 @@ graficamente
 geq
 geom
 gen
+gravitatoria
 introduce
 igual
 independiente
@@ -833,6 +851,7 @@ inercial
 iniciales
 integral
 inclinado
+importantes
 no
 neo
 ngulo
@@ -967,6 +986,7 @@ Ya
 Tenemos
 Tambi
 Tiene
+Tienes
 Frecuencia
 Faradios
 Faraday
@@ -1001,6 +1021,7 @@ Reescribiendo
 Rama
 Roce
 Rv
+Resorte
 zado
 zoom
 ximo

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "76ec5d0f3fa29ee3",
+        "id": "408d70b2ee0e6278",
         "type": "tabs",
         "children": [
           {
-            "id": "f9d6d6245b0ce6fe",
+            "id": "8db8b10b31822e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Dinámica/Atracción gravitacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75c0a0e20966667f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Dinámica/Fuerza roce.md",
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cecab2d3ec24f180",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Dinámica/Fuerza roce.md",
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Dinámica/Fuerza roce.md",
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Dinámica/Fuerza roce.md"
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md"
               }
             }
           }
@@ -160,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75c0a0e20966667f",
+  "active": "2d8d32f31af482e9",
   "lastOpenFiles": [
-    "IMG_1E7AF8D69B9B-1.jpeg",
+    "Mecánica/img/resorte.jpeg",
     "Mecánica/Dinámica/Atracción gravitacional.md",
+    "Mecánica/Dinámica/Dinámica.md",
     "Mecánica/Dinámica/Fuerza roce.md",
     "Mecánica/Dinámica/Problemas de Dinámica.md",
+    "Mecánica/Dinámica/Fuerzas de restitución.md",
+    "Mecánica/img/IMG_1E7AF8D69B9B-1.jpeg",
     "Mecánica/img/AtracciónGravitacional 2.jpeg",
     "Mecánica/img/AtracciónGravitacional 3.jpeg",
     "Mecánica/img/AtraccionGravitacional.jpeg",
-    "Mecánica/Dinámica/Dinámica.md",
     "Mecánica/Dinámica/Momentum lineal.md",
     "Mecánica/Cinemática/Ecuación itinerario.md",
     "Mecánica/Cinemática/Curva odógrafa.md",
@@ -191,7 +179,6 @@
     "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
     "Introducción a la Física Moderna/Física Cuántica/principio de incertidumbre de Heisemberg.md",
     "Mecánica/img/EjemploOsculador.jpeg",
-    "Mecánica/img/Osculador2.jpeg",
     "Mecánica/Partícula.md",
     "Mecánica/Sistema de referencia.md",
     "Mecánica/img",
@@ -201,7 +188,6 @@
     "Introducción a la Física Moderna/Formulario.md",
     "Introducción a la Física Moderna/cantidad de movimiento.md",
     "Métodos Experimentales/Circuitos eléctricos/Corriente eléctrica.md",
-    "Métodos Experimentales/Circuitos eléctricos/Diferencia de potencial.md",
-    "Métodos Experimentales/Circuitos eléctricos/Fuerza de Coulumb.md"
+    "Métodos Experimentales/Circuitos eléctricos/Diferencia de potencial.md"
   ]
 }
