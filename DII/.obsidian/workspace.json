@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11060b3f471ee2dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/La firma y sus clientes/Economías de escala.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c42c36f19598bb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/La firma y sus clientes/Función de costo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d5773dc9bc30c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/La firma y sus clientes/Demanda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e44d05f65052184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economía/La firma y sus clientes/Curva Isobeneficio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31e4c41e7fb9319d",
             "type": "leaf",
             "state": {
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e09dc044c8278fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economía/La firma y sus clientes/Discriminación de precios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -135,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/La firma y sus clientes/Medición del excedente.md",
+                "file": "Economía/La firma y sus clientes/Discriminación de precios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/La firma y sus clientes/Medición del excedente.md",
+                "file": "Economía/La firma y sus clientes/Discriminación de precios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/La firma y sus clientes/Medición del excedente.md"
+                "file": "Economía/La firma y sus clientes/Discriminación de precios.md"
               }
             }
           }
@@ -196,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31e4c41e7fb9319d",
+  "active": "e09dc044c8278fa5",
   "lastOpenFiles": [
-    "Pasted image 20230410131047.png",
-    "Economía/La firma y sus clientes/Curva Isobeneficio.md",
     "Economía/La firma y sus clientes/Medición del excedente.md",
+    "Economía/La firma y sus clientes/Discriminación de precios.md",
+    "Economía/La firma y sus clientes/Curva Isobeneficio.md",
     "Economía/La firma y sus clientes/Demanda.md",
-    "img/CurvaDemanda.png",
     "Economía/La firma y sus clientes/Función de costo.md",
+    "img/Pasted image 20230410131047.png",
+    "img/CurvaDemanda.png",
     "img/RelacionCostoMedioMarginal.png",
     "img/CostoMedio.png",
     "img/Funcion costo.png",
@@ -235,7 +199,6 @@
     "img/ExcedenteConsumidor.png",
     "img/Monopolio3.png",
     "img/Monopolio 2.png",
-    "img/Monopolio.png",
     "Economía/Monopolios",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación",
