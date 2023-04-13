@@ -24,3 +24,12 @@ $$\dot{x}(t) = -\omega_0\sin(\omega_0 t)$$ $$\ddot{x}(t) = -\omega_{0}^{2}\cos(\
 Como hay dos soluciones, también se puede escribir como: 
 
 $$x(t) = A\sin(\omega t) + B\cos(\omega t)$$ 
+Donde $A$ y $B$ lo determina las condiciones iniciales o de borde. Si se imponen condiciones iniciales como $X_0$ por posición inicial y $v_0$ una velocidad final, entonces: 
+
+$$x(t) = X_0\cos(\omega_0 t) + \frac{v_0}{\omega_0}\sin(\omega_0 t)$$ 
+Con un [[periodo]] de oscilación de $\frac{2\pi}{\omega_0} = T$ 
+
+O análogamente se podría tener lo siguiente, al aplicar la fórmula de suma de angulos:
+
+$$x(t) = C\sin(\omega_0 t +\phi)$$ 
+Con $C^2 = x_{0}^{2} + \frac{V_{0}^{2}}{\omega_{0}^{2}}$ 

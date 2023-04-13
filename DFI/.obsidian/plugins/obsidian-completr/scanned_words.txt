@@ -443,6 +443,7 @@ todav
 times
 tomando
 tratan
+todos
 se
 su
 sale
@@ -1004,6 +1005,7 @@ Llamamos
 Ley
 Lo
 Las
+Lugar
 Operaci
 Otra
 Ocupando
@@ -1016,6 +1018,7 @@ Indica
 Intensidad
 Inercia
 Identificar
+Integrando
 Joule
 RC
 Resistencia
