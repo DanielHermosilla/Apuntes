@@ -33,3 +33,9 @@ O análogamente se podría tener lo siguiente, al aplicar la fórmula de suma de
 
 $$x(t) = C\sin(\omega_0 t +\phi)$$ 
 Con $C^2 = x_{0}^{2} + \frac{V_{0}^{2}}{\omega_{0}^{2}}$ 
+
+Por el otro lado, si se deriva al cuadrado, se llega que: 
+
+$$\dot{x}^2 = v_{0}^2 + (\omega_0 x_0)^2 - \omega_{0}^{2} x^2$$ ![[VelocidadCuadrado.jpeg|center]]
+
+Cuya forma es esta, es decir, la velocidad alcanza su máximo en $x=0$. 
