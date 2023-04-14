@@ -4,95 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3173c4a89916dbe3",
+        "id": "625405aeba2de999",
         "type": "tabs",
         "children": [
           {
-            "id": "f65bd24ce3b7139b",
+            "id": "b6e51f841b8e324d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
+                "file": "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a7b0ba1cf44818c",
+            "id": "fca01c29d95a8217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "255985758779b7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31d17783d5ceafb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee3cda2326a8e4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34d925e036ed023b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7a90990b0b1c556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Coeficiente de Variación.md",
+                "file": "Economía/La firma y sus clientes/Ingreso marginal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -159,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
+                "file": "Economía/La firma y sus clientes/Ingreso marginal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
+                "file": "Economía/La firma y sus clientes/Ingreso marginal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md"
+                "file": "Economía/La firma y sus clientes/Ingreso marginal.md"
               }
             }
           }
@@ -220,41 +159,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31d17783d5ceafb9",
+  "active": "fca01c29d95a8217",
   "lastOpenFiles": [
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Economía/La firma y sus clientes/Ingreso marginal.md",
+    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+    "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
+    "Probabilidades/Teoría de probabilidades.md",
+    "Probabilidades/Ley de Probabilidades Totales.md",
+    "Probabilidades/Ley de Bayes.md",
+    "Probabilidades/Independencia condicional.md",
+    "Probabilidades/Resumen Caso 1.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Coeficiente de Variación.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
+    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo aleatorio.md",
+    "Economía/Monopolios/Monopolio.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
     "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
     "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
     "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
-    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Economía/La firma y sus clientes/Medición del excedente.md",
-    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
-    "Economía/Monopolios/Monopolio.md",
-    "Economía/La firma y sus clientes/Discriminación de precios.md",
-    "Economía/La firma y sus clientes/Curva Isobeneficio.md",
-    "Economía/La firma y sus clientes/Demanda.md",
-    "Economía/La firma y sus clientes/Función de costo.md",
     "img/Pasted image 20230410131047.png",
     "img/CurvaDemanda.png",
     "img/RelacionCostoMedioMarginal.png",
     "img/CostoMedio.png",
     "img/Funcion costo.png",
-    "Economía/La firma y sus clientes/Economías de escala.md",
     "Economía/La firma y sus clientes",
-    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
-    "Probabilidades/Conteo/Muestreo aleatorio.md",
-    "Probabilidades/Conteo/Principio multiplicativo.md",
-    "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
-    "Probabilidades/Ley de Bayes.md",
     "Probabilidades/Variable aleatoria discreta",
     "img/PérdidaExcedente.png",
     "img/ExcedenteMonopolio.png",
