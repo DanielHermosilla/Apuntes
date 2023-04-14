@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "e7364e77bb26c090",
+        "id": "3173c4a89916dbe3",
         "type": "tabs",
         "children": [
           {
-            "id": "31e4c41e7fb9319d",
+            "id": "f65bd24ce3b7139b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/La firma y sus clientes/Medición del excedente.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e09dc044c8278fa5",
+            "id": "6a7b0ba1cf44818c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "255985758779b7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31d17783d5ceafb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md"
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md"
               }
             }
           }
@@ -159,13 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e09dc044c8278fa5",
+  "active": "31d17783d5ceafb9",
   "lastOpenFiles": [
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
+    "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
+    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+    "Economía/La firma y sus clientes/Medición del excedente.md",
     "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Economía/Monopolios/Monopolio.md",
     "Economía/La firma y sus clientes/Discriminación de precios.md",
-    "Economía/La firma y sus clientes/Medición del excedente.md",
     "Economía/La firma y sus clientes/Curva Isobeneficio.md",
     "Economía/La firma y sus clientes/Demanda.md",
     "Economía/La firma y sus clientes/Función de costo.md",
@@ -175,7 +208,6 @@
     "img/CostoMedio.png",
     "img/Funcion costo.png",
     "Economía/La firma y sus clientes/Economías de escala.md",
-    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Economía/La firma y sus clientes",
     "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Muestreo aleatorio.md",
@@ -186,13 +218,6 @@
     "Probabilidades/Ley de Probabilidades Totales.md",
     "Probabilidades/Teoría de probabilidades.md",
     "Probabilidades/Resumen Caso 1.md",
-    "Probabilidades/Axiomas y propiedades/Propiedades.md",
-    "Probabilidades/Axiomas y propiedades/Axiomas.md",
-    "Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
-    "Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
-    "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
     "Probabilidades/Variable aleatoria discreta",
     "img/PérdidaExcedente.png",
     "img/ExcedenteMonopolio.png",
@@ -205,7 +230,6 @@
     "Probabilidades/Conteo",
     "Economía/Teoría de juegos",
     "Probabilidades/Probabilidad condicional e independencia",
-    "Economía/Escasez",
-    "Probabilidades/Axiomas y propiedades/Untitled"
+    "Economía/Escasez"
   ]
 }

@@ -68,14 +68,6 @@
         }
       }
     },
-    "3x^2y": {
-      "3x^2y": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678817812774
-        }
-      }
-    },
     "Derivada": {
       "Derivada": {
         "internalLink": {
@@ -97,14 +89,6 @@
         "internalLink": {
           "count": 4,
           "lastUpdated": 1680539433368
-        }
-      }
-    },
-    "Producto interno bruto": {
-      "Producto interno bruto": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678822917369
         }
       }
     },
@@ -447,8 +431,8 @@
     "Variable aleatoria discreta": {
       "Variable aleatoria discreta": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681132808450
+          "count": 3,
+          "lastUpdated": 1681477924965
         }
       }
     },
@@ -465,6 +449,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681146148484
+        }
+      }
+    },
+    "Esperanza": {
+      "Esperanza": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681477944693
         }
       }
     }
