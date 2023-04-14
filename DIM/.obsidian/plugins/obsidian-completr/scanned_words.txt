@@ -25,6 +25,7 @@ LZ
 LsFVH
 LLc
 Lipschitz
+LaGrange
 norma
 nada
 nuevas
@@ -109,6 +110,10 @@ nd
 nY
 nh
 nes
+nueva
+nuevamente
+neo
+negaci
 de
 del
 definici
@@ -268,6 +273,9 @@ dba
 demostrando
 demostr
 ds
+describe
+dependencia
+demostraciones
 un
 una
 uni
@@ -298,6 +306,7 @@ uY
 uis
 uO
 uh
+unos
 corresponde
 calculado
 como
@@ -507,6 +516,13 @@ comportar
 ce
 cc
 convergan
+caracter
+consiguen
+conmutativa
+conjugados
+com
+combinaci
+combinaciones
 su
 ser
 se
@@ -638,6 +654,8 @@ seA
 sera
 seg
 sicamente
+sticos
+sigma
 magnitud
 medio
 menor
@@ -884,6 +902,10 @@ pT
 pA
 pB
 phi
+polinomios
+parametros
+ponderada
+principalmentre
 trav
 teorema
 ticas
@@ -1103,6 +1125,7 @@ Eo
 EKs
 Ecuaciones
 Euler
+Edo
 Norma
 No
 Notemos
@@ -1202,6 +1225,13 @@ lK
 lT
 localmente
 llamara
+llamaran
+llevamos
+lambda
+left
+lineales
+llegasemos
+libres
 Matem
 Matriz
 MY
@@ -1411,6 +1441,7 @@ ed
 elevado
 elemental
 ef
+escalar
 formas
 fin
 forall
@@ -1477,6 +1508,7 @@ fb
 fijo
 fuese
 finitos
+factores
 an
 amos
 aquello
@@ -1595,6 +1627,9 @@ ahora
 argumentar
 acercar
 aproximaciones
+amortiguada
+asegura
+armando
 bajo
 bola
 binomio
@@ -1679,6 +1714,7 @@ hV
 hn
 hF
 hasta
+homogenea
 intervalos
 interesante
 introducir
@@ -1795,6 +1831,10 @@ integrante
 iteraci
 infinito
 infinitos
+imaginaria
+iw
+impone
+infinitas
 Vamos
 Voy
 Veamos
@@ -1899,6 +1939,7 @@ CRPP
 CS
 Casi
 Consisten
+Complejos
 Sobre
 Se
 Segunda
@@ -2085,6 +2126,9 @@ resoluciones
 reductibles
 resuelve
 respectivos
+reemplaza
+restante
+rmulas
 orden
 otras
 observaci
@@ -2147,6 +2191,10 @@ oz
 oY
 objetivo
 obviamente
+operador
+operadores
+omega
+obtenida
 Analizando
 Ahora
 Aca
@@ -2185,6 +2233,9 @@ Ar
 Ap
 Aws
 Acotar
+Aplicando
+Algoritmo
+Algo
 Basicamente
 Bola
 Bolas
@@ -2225,6 +2276,7 @@ Jj
 JNR
 JD
 JPj
+Juntando
 Integral
 Intersecci
 IHDR
@@ -2311,6 +2363,7 @@ Tx
 Tg
 Teor
 TEU
+Todos
 ximo
 xf
 xR
@@ -2354,6 +2407,7 @@ xW
 xwJ
 xA
 xlE
+xe
 Recordemos
 Recordar
 Rz
@@ -2380,6 +2434,7 @@ RPP
 Rkk
 RI
 Rh
+Resolviendo
 kappa
 kcM
 kj
@@ -2405,6 +2460,7 @@ kR
 kik
 kQ
 ky
+kx
 Hacer
 HC
 Hx
@@ -2493,6 +2549,7 @@ zi
 za
 zW
 zO
+ze
 Fq
 Fm
 Fld
@@ -2560,6 +2617,7 @@ wT
 wt
 wU
 wc
+wronskiana
 ZQyw
 Zc
 ZV
@@ -2670,6 +2728,7 @@ WO
 WL
 Wv
 WVS
+Wronskiana
 Ya
 YO
 YU

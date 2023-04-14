@@ -39,3 +39,21 @@ Por el otro lado, si se deriva al cuadrado, se llega que:
 $$\dot{x}^2 = v_{0}^2 + (\omega_0 x_0)^2 - \omega_{0}^{2} x^2$$ ![[VelocidadCuadrado.jpeg|center]]
 
 Cuya forma es esta, es decir, la velocidad alcanza su máximo en $x=0$. 
+
+### Ejemplo 1 
+
+![[Ejemplo2 Resorte.jpeg|center]]
+
+Se tiene un resorte unido a dos resortes con distinta constante elástica ($k_1, k_2$) y distinto largo natural. Al hacer la sumatoria de fuerzas se llega que la constante elástica **total** es $K* = k_1 + k_2$. 
+
+### Ejemplo 2
+
+![[Ejemplo1 Resorte.jpeg|center]]
+
+Se tiene que en el sistema definido, 
+
+$$\vec{F_1} = -K_1(x-l_1)\hat{i}$$
+$$\vec{F_2} = -K_2(y-l_2)\hat{j}$$ 
+Para dejar en los mismos sistemas, sabemos que $\hat{j} = -\hat{i}$. 
+
+Por suma de fuerzas, se llega que $m\ddot{x} = -(K_1 + K_2)x + cte$ 

@@ -4,43 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cacf55824104126",
+        "id": "8738323c49c4dca8",
         "type": "tabs",
         "children": [
           {
-            "id": "27f43fc1995ab403",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b53860e37a52f386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Lipschitz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "971d37d7810e93fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddd666e79107e89e",
+            "id": "24e54092c954e6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,9 +18,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7045342761312098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11513a8a38b82bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,41 +178,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddd666e79107e89e",
+  "active": "0b19607c87a39be4",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+    "Álgebra Lineal/Valores y vectores propios/Espectro de una matriz simétrica.md",
+    "Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
+    "Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Lipschitz.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Global.md",
+    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Método de Euler.md",
-    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
+    "Cálculo Diferencial e Integral/Derivadas/Teorema del Valor Medio.md",
+    "Álgebra Lineal/Matrices/matriz.md",
+    "Álgebra Lineal/Espacios vectoriales/dependencia.md",
+    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
+    "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/img/sobre amortiguado.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación diferencial lineal de primer orden.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ley de enfriamiento.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Condición inicial.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Integración directa.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
     "Ecuaciones Diferenciales Ordinarias/img/Aproximación Cauchy.png",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Lipschitz.md",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Local.md",
     "Ecuaciones Diferenciales Ordinarias/Resumenes",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Global.md",
     "Ecuaciones Diferenciales Ordinarias/img/Lipschitz local.jpeg",
-    "Cálculo en Varias Variables/Sucesiones/Espacio de Banach.md",
-    "Cálculo en Varias Variables/Sucesiones/Sucesión de Cauchy.md",
-    "Cálculo en Varias Variables/Diferenciabilidad/Máximos y mínimos.md",
-    "Cálculo Diferencial e Integral/Derivadas/Derivada.md",
-    "Cálculo Diferencial e Integral/Continuidad/Teorema de los valores intermedios.md",
-    "Cálculo Diferencial e Integral/Derivadas/Teorema del Valor Medio.md",
     "Ecuaciones Diferenciales Ordinarias/img/ExistenciaYUnicidad.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img",
-    "Cálculo Diferencial e Integral/Aplicaciones de la integral/Sólido de Revolución.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales"
