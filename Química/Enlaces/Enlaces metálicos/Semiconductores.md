@@ -26,4 +26,4 @@ Por el otro lado, el Boro tiene un electrón menos de valencia, entonces son imp
 
 Cuando mayor es la energía térmica, más electrones pueden realizar la transición a la banda de conducción y por ende, ser más conductores.
 
-![[Captura de pantalla 2023-04-14 a la(s) 11.05.25.png|center]]
+![[Semiconductor banda valencia.png|center]]

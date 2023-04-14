@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Semiconductores.md",
+                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Semiconductores.md",
+                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Semiconductores.md",
+                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Semiconductores.md"
+                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md"
               }
             }
           }
@@ -148,9 +149,10 @@
   },
   "active": "901400d37a81d47e",
   "lastOpenFiles": [
-    "Enlaces/Enlaces metálicos/Teoría de bandas.md",
     "Enlaces/Enlaces metálicos/Semiconductores.md",
-    "Captura de pantalla 2023-04-14 a la(s) 11.05.25.png",
+    "img/Semiconductor banda valencia.png",
+    "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
+    "Enlaces/Enlaces metálicos/Teoría de bandas.md",
     "img/ImpurezaAceptora.png",
     "img/Dopar.png",
     "img/EnergiaFerni.png",
@@ -185,7 +187,6 @@
     "Isómeros/Isómeros estructural.md",
     "Isómeros/Isómeros.md",
     "Isómeros",
-    "Hibridación/Hibridación.md",
     "Hibridación",
     "Geometría molecular/Geometría con enlaces covalentes",
     "Física moderna/Untitled",

@@ -106,8 +106,8 @@
     "Átomo": {
       "Átomo": {
         "internalLink": {
-          "count": 9,
-          "lastUpdated": 1681482980584
+          "count": 10,
+          "lastUpdated": 1681486151361
         }
       }
     },
@@ -196,6 +196,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1680533870538
+        }
+      }
+    },
+    "Estructura cristalinas": {
+      "Estructura cristalinas": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681485636993
         }
       }
     }
