@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría del campo cristalino.md",
+                "file": "Enlaces/Enlaces metálicos/Enlace metálico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcd89b591bf672e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enlaces/Enlaces metálicos/Teoría de bandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "901400d37a81d47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enlaces/Enlaces metálicos/Semiconductores.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoría del campo cristalino.md",
+                "file": "Enlaces/Enlaces metálicos/Semiconductores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoría del campo cristalino.md",
+                "file": "Enlaces/Enlaces metálicos/Semiconductores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoría del campo cristalino.md"
+                "file": "Enlaces/Enlaces metálicos/Semiconductores.md"
               }
             }
           }
@@ -148,6 +174,17 @@
   },
   "active": "67fdc7d55663fe67",
   "lastOpenFiles": [
+    "img/ImpurezaAceptora.png",
+    "img/Dopar.png",
+    "Enlaces/Enlaces metálicos/Teoría de bandas.md",
+    "Enlaces/Enlaces metálicos/Semiconductores.md",
+    "img/EnergiaFerni.png",
+    "img/LItio ejemplo.png",
+    "Enlaces/Enlaces metálicos/Enlace metálico.md",
+    "img/TeoriadeBandas2.png",
+    "img/TeoríadeBandas.png",
+    "Teoría del campo cristalino.md",
+    "Enlaces/Enlaces metálicos",
     "img/OrdenCampos.png",
     "img/Geometría y campos.png",
     "Geometría molecular/Estructura cristalinas.md",
@@ -157,26 +194,18 @@
     "Geometría molecular/Redes cristalinas cúbicas.md",
     "Geometría molecular/Índice de coordinación.md",
     "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md",
-    "Teoría del campo cristalino.md",
     "img/CampoFuerteDebil2.png",
     "img/CampoFuerteCampoDebil.png",
     "img/Spin ligando.png",
-    "img/Teoria del campo cristalino.png",
     "Números cuánticos/Numero cúantico del momento angular (l).md",
     "Números cuánticos/Número cuántico magnético (m).md",
-    "img/Índice de coordinación 2.png",
     "Enlaces/Enlace de coordinación.md",
-    "img/Índice de coordinación.png",
     "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
     "Teoría de los Orbitales Moleculares/Mediciones magnéticas.md",
     "Enlaces/Tipos de enlaces químicos.md",
     "Enlaces/Teoría de Lewis.md",
     "Enlaces/Polaridad del enlace covalente.md",
-    "Enlaces/Enlace metálico.md",
     "Enlaces/Orden de enlace.md",
-    "img/Enlace Coordinacion.png",
-    "img/Orbitales Magneticos en P.png",
-    "img/Orbital magnético P.png",
     "Teoría de los Orbitales Moleculares/Orden de enlace.md",
     "Teoría de los Orbitales Moleculares",
     "Isómeros/Estereoisomería.md",
@@ -185,14 +214,11 @@
     "Isómeros",
     "Hibridación/Hibridación.md",
     "Hibridación",
-    "Enlaces/Enlace covalente.md",
-    "Física moderna/Mecánica cuántica.md",
     "Geometría molecular/Geometría con enlaces covalentes",
     "Física moderna/Untitled",
     "Geometría molecular",
     "Enlaces",
     "Tabla periódica",
-    "Números cuánticos",
-    "img"
+    "Números cuánticos"
   ]
 }

@@ -23,3 +23,15 @@ Si se define $Y = X^2$, ¿Cuanto es $E[Y]$?
 $$E[X] = -1 · 0.3 + 0 · 0.5 + 1 · 0.2$$ 
 $$E[Y] = 0 · \mathbb{P}(Y=0) + 1 · \mathbb{P}(Y=1)$$ $$E[Y] = \mathbb{P}(X^2 = 0) + \mathbb{P}(X^2 = 1)$$ $$\implies E[Y] = 0.5$$ 
 Esto ya que la probabilidad de $X^2$ toma dos probabilidades disjuntas, se pueden separar. 
+
+
+## Esperanza infinita 
+
+Notemos que una esperanza **puede ser infinita**. Se puede demostrar bajo el siguiente ejemplo: 
+
+Sea un dado que se lanza $n$ veces y $X$ es lo que se gana, es decir $X=2^n$. 
+
+Por lo tanto, 
+
+$$E[X] = \sum_{n=1}^{\infty}2^n \ \mathbb{P}(N=n) = \sum_{n=1}^{\infty}1 = \infty$$ 
+
