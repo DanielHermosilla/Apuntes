@@ -23,3 +23,7 @@ En este caso, el fósforo tiene un electrón más de valencia, por lo tanto, gen
 Por el otro lado, el Boro tiene un electrón menos de valencia, entonces son impurezas aceptoras, deficientes de electrones y se genera un hueco. 
 
 ![[ImpurezaAceptora.png|center]]
+
+Cuando mayor es la energía térmica, más electrones pueden realizar la transición a la banda de conducción y por ende, ser más conductores.
+
+![[Captura de pantalla 2023-04-14 a la(s) 11.05.25.png|center]]

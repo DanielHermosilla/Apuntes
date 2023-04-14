@@ -105,6 +105,7 @@ Szl
 SRZp
 SQE
 SKt
+Sus
 refuta
 rico
 rL
@@ -248,6 +249,7 @@ rPO
 rjA
 rGsoPs
 rodeados
+rmica
 la
 los
 las
@@ -399,6 +401,8 @@ ldg
 lqO
 lJs
 lbrw
+libremente
+lado
 postula
 pueden
 pasando
@@ -574,6 +578,12 @@ pSD
 pUD
 phT
 pkM
+poca
+puro
+portadores
+positivas
+peque
+pocos
 que
 qy
 qe
@@ -900,6 +910,8 @@ eVS
 eht
 eSu
 extremo
+eso
+encuentra
 orbitales
 oQt
 ox
@@ -1041,6 +1053,9 @@ oAHl
 oMj
 oyQ
 oHr
+ocupados
+otorga
+ocupadas
 ir
 inicialmente
 iCCPICC
@@ -1184,6 +1199,9 @@ iLBx
 iSO
 iSBL
 iLXm
+impurezas
+intermedias
+impureza
 Refutando
 Rd
 RIU
@@ -1425,6 +1443,7 @@ baj
 bzjW
 bLW
 bandas
+banda
 ndose
 nicamente
 nK
@@ -1562,6 +1581,8 @@ nxD
 nwF
 ndonos
 nM
+nsecos
+negativas
 ticas
 tomo
 tiene
@@ -1706,6 +1727,7 @@ tIg
 tQw
 toj
 tyM
+transici
 giraban
 gk
 go
@@ -1837,6 +1859,9 @@ gZb
 ggg
 giPEJ
 gxd
+gran
+grande
+genera
 alrededor
 an
 aU
@@ -1981,6 +2006,8 @@ aiR
 apS
 aTH
 aNtv
+aislante
+aceptoras
 del
 de
 densa
@@ -2152,6 +2179,9 @@ dvI
 deslocalizado
 dando
 denominada
+dado
+dopar
+deficientes
 forma
 fO
 fg
@@ -2431,6 +2461,9 @@ mDOZ
 mbj
 mrz
 muchos
+mover
+material
+mantener
 Dalton
 DZ
 Dm
@@ -2532,6 +2565,7 @@ DYb
 DEg
 DFUPqFG
 DqK
+Deben
 una
 uX
 ul
@@ -2793,6 +2827,7 @@ ErZ
 Edi
 EYK
 ErG
+Extr
 centro
 contiene
 cula
@@ -2992,6 +3027,13 @@ cationes
 compartici
 compartiic
 conoce
+concentrados
+conducci
+conductor
+ctrico
+combinan
+cantidades
+conductores
 Part
 PNG
 Profile
@@ -3241,6 +3283,7 @@ vnh
 vaU
 voR
 vsO
+vacios
 IHDR
 Ia
 IWO
@@ -3377,6 +3420,7 @@ IGB
 Io
 IwEa
 ItI
+Intr
 CBK
 CR
 CM
@@ -3868,6 +3912,7 @@ GbB
 GKv
 Gno
 GctJ
+Genera
 hlZ
 hG
 hq
@@ -4336,6 +4381,7 @@ NmJ
 NZt
 NcQ
 NoGK
+Necesitan
 QT
 QF
 Qr
@@ -5172,6 +5218,7 @@ TRX
 Tta
 TNY
 Teor
+Tipo
 Ad
 Aj
 AAxp
@@ -5281,6 +5328,8 @@ Amx
 AHZ
 AJe
 AggG
+Avogadro
+Agregar
 kZ
 kY
 kG
@@ -6695,6 +6744,11 @@ sBN
 sBx
 sPr
 sSNS
+separaci
+semi
+suficientemente
+semiconductores
+sforo
 äYE
 äd
 ßN
