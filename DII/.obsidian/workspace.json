@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md",
+                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Monopolios/Monopolio.md"
+                "file": "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "e09dc044c8278fa5",
   "lastOpenFiles": [
+    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+    "Economía/Monopolios/Monopolio.md",
     "Economía/La firma y sus clientes/Discriminación de precios.md",
     "Economía/La firma y sus clientes/Medición del excedente.md",
     "Economía/La firma y sus clientes/Curva Isobeneficio.md",
@@ -174,9 +177,7 @@
     "Economía/La firma y sus clientes/Economías de escala.md",
     "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Economía/La firma y sus clientes",
-    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
-    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Muestreo aleatorio.md",
     "Probabilidades/Conteo/Principio multiplicativo.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
@@ -192,7 +193,6 @@
     "Probabilidades/Axiomas y propiedades/Función probabilidad.md",
     "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
     "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
-    "Probabilidades/Independencia condicional.md",
     "Probabilidades/Variable aleatoria discreta",
     "img/PérdidaExcedente.png",
     "img/ExcedenteMonopolio.png",
