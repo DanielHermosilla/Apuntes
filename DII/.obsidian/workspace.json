@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "625405aeba2de999",
+        "id": "a72fd470d0aa6e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e51f841b8e324d",
+            "id": "ba7d6294601b4bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fca01c29d95a8217",
+            "id": "e2b675a8a2ce025c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/La firma y sus clientes/Ingreso marginal.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/La firma y sus clientes/Ingreso marginal.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/La firma y sus clientes/Ingreso marginal.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/La firma y sus clientes/Ingreso marginal.md"
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md"
               }
             }
           }
@@ -159,10 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fca01c29d95a8217",
+  "active": "e2b675a8a2ce025c",
   "lastOpenFiles": [
-    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
+    "img/Bernoulli.png",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
+    "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
     "Economía/La firma y sus clientes/Ingreso marginal.md",
+    "Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
     "Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Probabilidades/Teoría de probabilidades.md",
@@ -181,13 +189,7 @@
     "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
     "Probabilidades/Conteo/Muestreo aleatorio.md",
     "Economía/Monopolios/Monopolio.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
-    "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza",
-    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
-    "Economía/La firma y sus clientes/Medición del excedente.md",
     "img/Pasted image 20230410131047.png",
     "img/CurvaDemanda.png",
     "img/RelacionCostoMedioMarginal.png",
@@ -199,13 +201,11 @@
     "img/ExcedenteMonopolio.png",
     "img/ExcedenteConsumidor.png",
     "img/Monopolio3.png",
-    "img/Monopolio 2.png",
     "Economía/Monopolios",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación",
     "Probabilidades/Conteo",
     "Economía/Teoría de juegos",
-    "Probabilidades/Probabilidad condicional e independencia",
-    "Economía/Escasez"
+    "Probabilidades/Probabilidad condicional e independencia"
   ]
 }

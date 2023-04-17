@@ -92,22 +92,6 @@
         }
       }
     },
-    "Sistemas económicos y políticos": {
-      "Sistemas económicos y políticos": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678923548100
-        }
-      }
-    },
-    "Trabajo": {
-      "Trabajo": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678923730092
-        }
-      }
-    },
     "Salarios": {
       "Salarios": {
         "internalLink": {
@@ -116,67 +100,27 @@
         }
       }
     },
-    "Modelos económicos": {
-      "Modelos económicos": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678925135572
-        }
-      }
-    },
-    "Modelo de Malthus": {
-      "Modelo de Malthus": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678926016368
-        }
-      }
-    },
     "Espacio muestral": {
       "Espacio muestral": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1681130589768
+          "count": 5,
+          "lastUpdated": 1681735508064
         }
       }
     },
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 30,
-          "lastUpdated": 1681132757057
+          "count": 35,
+          "lastUpdated": 1681736223364
         }
       }
     },
     "Evento": {
       "Evento": {
         "internalLink": {
-          "count": 9,
-          "lastUpdated": 1679660725326
-        }
-      }
-    },
-    "\\Omega^c": {
-      "\\Omega^c": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679055320609
-        }
-      }
-    },
-    "\\leq\\mathbb{P}": {
-      "\\leq\\mathbb{P}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679055790191
-        }
-      }
-    },
-    "+\\mathbb{P}": {
-      "+\\mathbb{P}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679056132803
+          "count": 12,
+          "lastUpdated": 1681735841510
         }
       }
     },
@@ -271,16 +215,16 @@
     "Independencia": {
       "Independencia": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680471549238
+          "count": 5,
+          "lastUpdated": 1681735684737
         }
       }
     },
     "\\sum_{i": {
       "\\sum_{i": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679658884236
+          "count": 3,
+          "lastUpdated": 1681739353215
         }
       }
     },
@@ -431,8 +375,8 @@
     "Variable aleatoria discreta": {
       "Variable aleatoria discreta": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1681480679148
+          "count": 7,
+          "lastUpdated": 1681735786869
         }
       }
     },
@@ -455,8 +399,96 @@
     "Esperanza": {
       "Esperanza": {
         "internalLink": {
+          "count": 3,
+          "lastUpdated": 1681736979096
+        }
+      }
+    },
+    "\\begin{cases}": {
+      "\\begin{cases}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681735174288
+        }
+      }
+    },
+    "\\end{cases}": {
+      "\\end{cases}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681735201086
+        }
+      }
+    },
+    "Varianza": {
+      "Varianza": {
+        "internalLink": {
           "count": 2,
-          "lastUpdated": 1681477944693
+          "lastUpdated": 1681737193385
+        }
+      }
+    },
+    "Ejemplo": {
+      "Ejemplo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681735643551
+        }
+      }
+    },
+    "\\begin{pmatrix}": {
+      "\\begin{pmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736212587
+        }
+      }
+    },
+    "3\\end{pmatrix}": {
+      "3\\end{pmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736216324
+        }
+      }
+    },
+    "·\\mathbb{P}": {
+      "·\\mathbb{P}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681736243106
+        }
+      }
+    },
+    "k \\end{pmatrix}p^k": {
+      "k \\end{pmatrix}p^k": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681737260477
+        }
+      }
+    },
+    "np\\sum_{j": {
+      "np\\sum_{j": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681736780452
+        }
+      }
+    },
+    "\\sum_{k": {
+      "\\sum_{k": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1681737410060
+        }
+      }
+    },
+    "\\frac{\\begin{pmatrix}": {
+      "\\frac{\\begin{pmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681739053201
         }
       }
     }
