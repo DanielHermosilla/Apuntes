@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "\\vec{v}": {
-      "\\vec{v}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678890306726
-        }
-      }
-    },
     "\\rho\\hat{\\rho}": {
       "\\rho\\hat{\\rho}": {
         "currentFile": {
@@ -146,8 +138,8 @@
     "\\omega_{0}^{2}": {
       "\\omega_{0}^{2}": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1681398148459
+          "count": 3,
+          "lastUpdated": 1681830350470
         }
       }
     },

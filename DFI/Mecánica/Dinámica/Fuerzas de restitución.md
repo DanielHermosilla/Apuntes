@@ -56,9 +56,73 @@ $$\vec{F_1} = -K_1(x-l_1)\hat{i}$$
 $$\vec{F_2} = -K_2(y-l_2)\hat{j}$$ 
 Para dejar en los mismos sistemas, sabemos que $\hat{j} = -\hat{i}$. 
 
-Por suma de fuerzas, se llega que $m\ddot{x} = -(K_1 + K_2)x + cte$ 
 
-Por el otro lado, si dejamos todo en función 
+Por suma de fuerzas, se llega que $m\ddot{x} = -(\frac{K_1K_2}{K_1 + K_2})x + cte$ 
+
+
 ### Ejemplo 3
 
-Se puede analizar también el caso de 
+Se tiene el siguiente problema, donde se tiene un pistón con un fluido por dentro.  
+
+![[Ejemplo piston.jpeg|center|400]]
+
+Por lo tanto, definiendo $y$ postivo hacia abajo: 
+$$m\ddot{y} = mg - k(y-l_0) - c\dot{y}$$ $$m\ddot{y} + c\dot{y} + ky = mg + Kl_0$$ 
+Por lo tanto, se tiene una EDO. Primero se busca la solución partícular, es decir, $mg + Kl_0 = 0$. Se llega que $A_0 = \frac{mg}{K} + L_0$. 
+
+Y la solución característica sería: 
+
+$$S_{1,2} = -\frac{C}{2m}\pm\sqrt{\left(\frac{C}{2m}\right)^2 - \frac{k}{m}}$$ 
+$$\iff S_{1,2} = -\omega_1 \pm \sqrt{\omega_{1}^{2}-\omega_{0}^{2}}$$ 
+Entonces, nos podríamos poner en casos: 
+
+$$\text{Caso no homogeneo} = \omega_{0}^{2} > \omega_{1}^{2}\iff\left(\frac{C}{2m}\right)^2 > \frac{K}{m}  \implies S_1 < 0\ \land\ S_2 < 0 \implies x(t) = Ae^{s_1 t} + Be^{s_2 t}\implies\lim_{t\rightarrow\infty}x(t)=0 $$ 
+Y en el homogeneo, donde $y_0  = 0$, se podría tener que la velocidad podría ser 0, negativa o positiva, donde se sabe que $y_0(t) = Ae^{s_1 t} + Be^{s_2 t}$. Se tienen los siguientes gráficos para las tres velocidades posibles: 
+
+Para $v_0 < 0$  se tiene una función **sobre-amortiguada**. 
+
+```functionplot
+---
+title: Función críticamente sobreamortiguada
+xLabel: x
+yLabel: t
+bounds: [-0.05,5,0,1]
+disableZoom: true
+grid: true
+---
+y =  exp(-x)
+
+```
+
+Para $v = 0$ se tiene una función **críticamente subamortiguada**. 
+
+```functionplot
+---
+title: Función críticamente subamortiguada
+xLabel: x
+yLabel: t
+bounds: [0,5,-1,1]
+disableZoom: true
+grid: true
+---
+y =  exp(-x)cos(x)
+h = exp(-x)
+z = -exp(-x)
+```
+
+
+Para $v>0$ se tiene una función **críticamente amortiguada**. 
+
+```functionplot
+---
+title: Función críticamente amortiguada
+xLabel: x
+yLabel: t
+bounds: [0,5,0,1]
+disableZoom: true
+grid: true
+---
+y = x * exp(-x)
+```
+
+Todas convergen asíntoticamente a lo mismo
