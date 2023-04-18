@@ -11,8 +11,12 @@
             "id": "358e3f4bf940f700",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/img/Ejemplo1 Resorte.jpeg",
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/img/Ejemplo1 Resorte.jpeg",
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/img/Ejemplo1 Resorte.jpeg"
+                "file": "Mecánica/Dinámica/Fuerzas de restitución.md"
               }
             }
           }
@@ -142,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8d32f31af482e9",
+  "active": "358e3f4bf940f700",
   "lastOpenFiles": [
     "Mecánica/img/Ejemplo2 Resorte.jpeg",
     "Mecánica/Dinámica/Fuerzas de restitución.md",

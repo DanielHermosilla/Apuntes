@@ -57,3 +57,8 @@ $$\vec{F_2} = -K_2(y-l_2)\hat{j}$$
 Para dejar en los mismos sistemas, sabemos que $\hat{j} = -\hat{i}$. 
 
 Por suma de fuerzas, se llega que $m\ddot{x} = -(K_1 + K_2)x + cte$ 
+
+Por el otro lado, si dejamos todo en función 
+### Ejemplo 3
+
+Se puede analizar también el caso de 
