@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -149,6 +148,13 @@
   },
   "active": "901400d37a81d47e",
   "lastOpenFiles": [
+    "img/Presión.png",
+    "img/Presión de vapor.png",
+    "img/CambioFase.png",
+    "img/Cohesión y adhesión.png",
+    "img/Tensión superficial.png",
+    "img/AguaHidrogeno.png",
+    "img/EbulliciónHidrogeno.png",
     "Enlaces/Enlaces metálicos/Semiconductores.md",
     "img/Semiconductor banda valencia.png",
     "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
@@ -156,14 +162,9 @@
     "img/ImpurezaAceptora.png",
     "img/Dopar.png",
     "img/EnergiaFerni.png",
-    "img/LItio ejemplo.png",
     "Enlaces/Enlaces metálicos/Enlace metálico.md",
-    "img/TeoriadeBandas2.png",
-    "img/TeoríadeBandas.png",
     "Teoría del campo cristalino.md",
     "Enlaces/Enlaces metálicos",
-    "img/OrdenCampos.png",
-    "img/Geometría y campos.png",
     "Geometría molecular/Estructura cristalinas.md",
     "Geometría molecular/Celda unitaria.md",
     "Geometría molecular/Red cristalina.md",
@@ -171,7 +172,6 @@
     "Geometría molecular/Redes cristalinas cúbicas.md",
     "Geometría molecular/Índice de coordinación.md",
     "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md",
-    "img/CampoFuerteDebil2.png",
     "Números cuánticos/Numero cúantico del momento angular (l).md",
     "Números cuánticos/Número cuántico magnético (m).md",
     "Enlaces/Enlace de coordinación.md",
