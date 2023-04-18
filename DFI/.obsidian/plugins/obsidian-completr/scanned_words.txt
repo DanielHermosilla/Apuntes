@@ -129,6 +129,8 @@ distinta
 distinto
 definido
 dejar
+dentro
+definiendo
 fuerza
 forma
 fijar
@@ -180,6 +182,8 @@ fE
 fRQ
 fR
 final
+fluido
+ficos
 aplicada
 al
 aplicar
@@ -267,6 +271,8 @@ ap
 aj
 angulos
 alcanza
+abajo
+amortiguada
 por
 para
 pan
@@ -359,6 +365,10 @@ pR
 pfY
 pTd
 pM
+pist
+postivo
+poner
+posibles
 unidad
 una
 uno
@@ -495,6 +505,7 @@ PHP
 PA
 Pu
 PW
+Primero
 lo
 los
 lidos
@@ -614,6 +625,7 @@ th
 tuj
 ti
 tl
+tienen
 se
 su
 sale
@@ -694,6 +706,7 @@ skM
 sj
 sumatoria
 sistemas
+subamortiguada
 como
 cuerpos
 comprimirla
@@ -833,6 +846,9 @@ cO
 cK
 cZT
 ct
+cular
+casos
+convergen
 Notemos
 Nos
 Newton
@@ -1114,6 +1130,7 @@ vK
 vpd
 vBT
 vY
+velocidades
 An
 Al
 Ampere
@@ -1192,6 +1209,7 @@ gm
 gq
 gVP
 gl
+gr
 introduce
 igual
 independiente
@@ -1305,6 +1323,7 @@ nS
 neS
 nJwN
 nflEmk
+ntoticamente
 homog
 haber
 hay
@@ -1345,6 +1364,7 @@ hKNh
 hF
 hRRj
 hN
+homogeneo
 Est
 Es
 Esto
@@ -1571,6 +1591,7 @@ TiF
 TD
 ThB
 Ti
+Todas
 Frecuencia
 Faradios
 Faraday

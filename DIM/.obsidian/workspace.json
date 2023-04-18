@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
+                "file": "Cálculo en Varias Variables/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
+                "file": "Cálculo en Varias Variables/Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
+                "file": "Cálculo en Varias Variables/Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md"
+                "file": "Cálculo en Varias Variables/Resumen Control 1.md"
               }
             }
           },
@@ -178,8 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b19607c87a39be4",
+  "active": "24e54092c954e6fe",
   "lastOpenFiles": [
+    "Cálculo en Varias Variables/Pregunta.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
@@ -192,7 +194,6 @@
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Método de Euler.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
     "Cálculo Diferencial e Integral/Derivadas/Teorema del Valor Medio.md",
     "Álgebra Lineal/Matrices/matriz.md",
     "Álgebra Lineal/Espacios vectoriales/dependencia.md",
@@ -211,7 +212,6 @@
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
     "Ecuaciones Diferenciales Ordinarias/img/Aproximación Cauchy.png",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
-    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
     "Ecuaciones Diferenciales Ordinarias/Resumenes",
     "Ecuaciones Diferenciales Ordinarias/img/Lipschitz local.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/ExistenciaYUnicidad.jpeg",
