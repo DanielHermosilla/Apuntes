@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd316ddf938fe6ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecánica/Dinámica/Resonancia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
+                "file": "Mecánica/Dinámica/Resonancia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Dinámica/Fuerzas de restitución.md",
+                "file": "Mecánica/Dinámica/Resonancia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Dinámica/Fuerzas de restitución.md"
+                "file": "Mecánica/Dinámica/Resonancia.md"
               }
             }
           }
@@ -146,11 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8d32f31af482e9",
+  "active": "bd316ddf938fe6ad",
   "lastOpenFiles": [
+    "Mecánica/Dinámica/Fuerzas de restitución.md",
+    "Mecánica/Dinámica/Fuerza roce.md",
+    "Mecánica/Dinámica/Momentum lineal.md",
+    "Mecánica/Dinámica/Problemas de Dinámica.md",
+    "Mecánica/Dinámica/Resonancia.md",
+    "Mecánica/Dinámica/Dinámica.md",
+    "Mecánica/Dinámica/Atracción gravitacional.md",
     "Mecánica/img/Ejemplo piston.jpeg",
     "Mecánica/img/Ejemplo2 Resorte.jpeg",
-    "Mecánica/Dinámica/Fuerzas de restitución.md",
     "Mecánica/img/Ejemplo1 Resorte.jpeg",
     "Mecánica/img/VelocidadCuadrado.jpeg",
     "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
@@ -159,15 +178,10 @@
     "Mecánica/Cinemática/Curva odógrafa.md",
     "Mecánica/Cinemática/Coordenadas cilíndricas.md",
     "Mecánica/img/resorte.jpeg",
-    "Mecánica/Dinámica/Atracción gravitacional.md",
-    "Mecánica/Dinámica/Dinámica.md",
-    "Mecánica/Dinámica/Fuerza roce.md",
-    "Mecánica/Dinámica/Problemas de Dinámica.md",
     "Mecánica/img/IMG_1E7AF8D69B9B-1.jpeg",
     "Mecánica/img/AtracciónGravitacional 2.jpeg",
     "Mecánica/img/AtracciónGravitacional 3.jpeg",
     "Mecánica/img/AtraccionGravitacional.jpeg",
-    "Mecánica/Dinámica/Momentum lineal.md",
     "Mecánica/Dinámica",
     "Mecánica/Cinemática/Coordenadas esféricas.md",
     "Mecánica/img/EjemploEsfericas.jpeg",
@@ -176,7 +190,6 @@
     "Mecánica/Cinemática/Cinemática.md",
     "Mecánica/Cinemática/Coordenadas polares.md",
     "Mecánica/Cinemática/Vector tangencial.md",
-    "Mecánica/img/CoordenadasEsfericas.png",
     "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
     "Introducción a la Física Moderna/Física Cuántica/principio de incertidumbre de Heisemberg.md",
     "Mecánica/Partícula.md",

@@ -32,6 +32,7 @@ CD
 CW
 Cg
 Cuya
+Consiste
 de
 define
 decir
@@ -273,6 +274,8 @@ angulos
 alcanza
 abajo
 amortiguada
+arm
+amplitudes
 por
 para
 pan
@@ -476,6 +479,9 @@ rr
 rS
 rJq
 resortes
+reemplazando
+rect
+respectivamente
 Por
 Puede
 Producto
@@ -626,6 +632,7 @@ tuj
 ti
 tl
 tienen
+traves
 se
 su
 sale
@@ -707,6 +714,7 @@ sj
 sumatoria
 sistemas
 subamortiguada
+simplifica
 como
 cuerpos
 comprimirla
@@ -849,6 +857,8 @@ ct
 cular
 casos
 convergen
+constantes
+cumpla
 Notemos
 Nos
 Newton
@@ -994,6 +1004,7 @@ ej
 eG
 eJ
 esta
+expandir
 modificar
 masa
 mira
@@ -1131,6 +1142,10 @@ vpd
 vBT
 vY
 velocidades
+vuelve
+viscocidad
+viendo
+vale
 An
 Al
 Ampere
@@ -1279,6 +1294,7 @@ iK
 ib
 iRRn
 imponen
+indeterminaci
 no
 neo
 ngulo
@@ -1324,6 +1340,7 @@ neS
 nJwN
 nflEmk
 ntoticamente
+ngulos
 homog
 haber
 hay
@@ -1365,6 +1382,7 @@ hF
 hRRj
 hN
 homogeneo
+hipotenusa
 Est
 Es
 Esto
@@ -1450,6 +1468,7 @@ SQ
 SV
 Sv
 Sn
+Sabiendo
 Donde
 Diferencia
 Dispositivo
@@ -1473,6 +1492,7 @@ DFO
 Dr
 DJ
 Dx
+Dado
 objeto
 otro
 obtenci
@@ -1528,6 +1548,8 @@ oi
 oR
 oS
 oeei
+otras
+original
 borde
 buena
 busca
@@ -1634,6 +1656,7 @@ QM
 QD
 Qn
 QE
+Qu
 La
 Los
 Llamamos
@@ -1931,6 +1954,7 @@ jm
 jIJ
 ju
 jqm
+juntar
 Kv
 KkG
 Kk

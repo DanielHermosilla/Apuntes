@@ -47,22 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "\\rho\\hat{\\rho}": {
-      "\\rho\\hat{\\rho}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679405260911
-        }
-      }
-    },
-    "\\frac{d\\hat{\\rho}}{dt}": {
-      "\\frac{d\\hat{\\rho}}{dt}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679405524852
-        }
-      }
-    },
     "Aceleración": {
       "Aceleración": {
         "internalLink": {
@@ -148,6 +132,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681227875266
+        }
+      }
+    },
+    "K-m\\omega^2": {
+      "K-m\\omega^2": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682002612528
         }
       }
     }
