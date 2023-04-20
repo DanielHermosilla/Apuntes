@@ -47,30 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "T_{2}^{": {
-      "T_{2}^{": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678810068023
-        }
-      }
-    },
-    "e^{-\\sigma": {
-      "e^{-\\sigma": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678810809684
-        }
-      }
-    },
-    "e^{\\sigma": {
-      "e^{\\sigma": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678810831449
-        }
-      }
-    },
     "\\frac{1}{x}": {
       "\\frac{1}{x}": {
         "currentFile": {
@@ -192,6 +168,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1681404370850
+        }
+      }
+    },
+    "y_1\\in\\mathbb{R}": {
+      "y_1\\in\\mathbb{R}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681836766018
+        }
+      }
+    },
+    "\\int\\frac{\\bar{Q}y_2}{W}": {
+      "\\int\\frac{\\bar{Q}y_2}{W}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681838432271
         }
       }
     }
