@@ -76,27 +76,11 @@
         }
       }
     },
-    "\\frac{\\partial": {
-      "\\frac{\\partial": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679283213402
-        }
-      }
-    },
     "Economía": {
       "Economía": {
         "internalLink": {
           "count": 4,
           "lastUpdated": 1680539433368
-        }
-      }
-    },
-    "Salarios": {
-      "Salarios": {
-        "internalLink": {
-          "count": 9,
-          "lastUpdated": 1679284597259
         }
       }
     },
@@ -129,70 +113,6 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1679918998187
-        }
-      }
-    },
-    "Continuidad": {
-      "Continuidad": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679250542616
-        }
-      }
-    },
-    "Tasa marginal de sustitución": {
-      "Tasa marginal de sustitución": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1679284571559
-        }
-      }
-    },
-    "Costo de oportunidad": {
-      "Costo de oportunidad": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679282650782
-        }
-      }
-    },
-    "Derivada parcial": {
-      "Derivada parcial": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679283049962
-        }
-      }
-    },
-    "Optimizar decisiones": {
-      "Optimizar decisiones": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679283498616
-        }
-      }
-    },
-    "Axiomas": {
-      "Axiomas": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679312767103
-        }
-      }
-    },
-    "eventos": {
-      "eventos": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679316413914
-        }
-      }
-    },
-    "\\Omega_2": {
-      "\\Omega_2": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679316848696
         }
       }
     },
@@ -399,8 +319,8 @@
     "Esperanza": {
       "Esperanza": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1681736979096
+          "count": 7,
+          "lastUpdated": 1682082270103
         }
       }
     },
@@ -423,8 +343,8 @@
     "Varianza": {
       "Varianza": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681737193385
+          "count": 3,
+          "lastUpdated": 1682080973168
         }
       }
     },

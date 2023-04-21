@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a72fd470d0aa6e0f",
+        "id": "b11dab180ae1162a",
         "type": "tabs",
         "children": [
           {
-            "id": "ba7d6294601b4bd3",
+            "id": "f4eae3d339f04977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2b675a8a2ce025c",
+            "id": "b4a667c31e181b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md"
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md"
               }
             }
           }
@@ -159,13 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2b675a8a2ce025c",
+  "active": "b4a667c31e181b3c",
   "lastOpenFiles": [
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+    "Captura de pantalla 2023-04-21 a la(s) 09.06.38.png",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+    "img/geométrica.png",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
     "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
     "img/Bernoulli.png",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
     "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
@@ -185,10 +190,6 @@
     "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
     "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
-    "Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
-    "Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Probabilidades/Conteo/Muestreo aleatorio.md",
-    "Economía/Monopolios/Monopolio.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza",
     "img/Pasted image 20230410131047.png",
     "img/CurvaDemanda.png",
@@ -200,7 +201,6 @@
     "img/PérdidaExcedente.png",
     "img/ExcedenteMonopolio.png",
     "img/ExcedenteConsumidor.png",
-    "img/Monopolio3.png",
     "Economía/Monopolios",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación",
