@@ -529,6 +529,11 @@ com
 combinaci
 combinaciones
 conocemos
+car
+cteristico
+complejas
+construcci
+comutativos
 su
 ser
 se
@@ -663,6 +668,7 @@ sicamente
 sticos
 sigma
 subespacio
+sabe
 magnitud
 medio
 menor
@@ -747,6 +753,8 @@ mostrar
 mirar
 mediantes
 metros
+multiplicidad
+mover
 que
 qu
 queda
@@ -1052,6 +1060,8 @@ PH
 PGx
 PLRKcs
 Picard
+Problemas
+Propiedad
 goras
 general
 geom
@@ -1243,6 +1253,8 @@ lineales
 llegasemos
 libres
 llevar
+lcula
+llegan
 Matem
 Matriz
 MY
@@ -1648,6 +1660,7 @@ amortiguada
 asegura
 armando
 abel
+anulador
 bajo
 bola
 binomio
@@ -1964,6 +1977,7 @@ CS
 Casi
 Consisten
 Complejos
+Coeficientes
 Sobre
 Se
 Segunda
@@ -2154,6 +2168,7 @@ reemplaza
 restante
 rmulas
 reflejado
+reescribiendo
 orden
 otras
 observaci
