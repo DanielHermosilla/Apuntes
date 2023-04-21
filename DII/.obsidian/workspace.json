@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b4a667c31e181b3c",
+            "id": "2dda6d2e96f8d1b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md"
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md"
               }
             }
           }
@@ -159,11 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4a667c31e181b3c",
+  "active": "2dda6d2e96f8d1b9",
   "lastOpenFiles": [
-    "Captura de pantalla 2023-04-21 a la(s) 09.06.38.png",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+    "img/Binomialnegativo.png",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
+    "Captura de pantalla 2023-04-21 a la(s) 09.48.31.png",
+    "img/Poisson.png",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
     "img/geométrica.png",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
@@ -188,8 +192,6 @@
     "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
-    "Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
-    "Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza",
     "img/Pasted image 20230410131047.png",
     "img/CurvaDemanda.png",
@@ -198,9 +200,6 @@
     "img/Funcion costo.png",
     "Economía/La firma y sus clientes",
     "Probabilidades/Variable aleatoria discreta",
-    "img/PérdidaExcedente.png",
-    "img/ExcedenteMonopolio.png",
-    "img/ExcedenteConsumidor.png",
     "Economía/Monopolios",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación",

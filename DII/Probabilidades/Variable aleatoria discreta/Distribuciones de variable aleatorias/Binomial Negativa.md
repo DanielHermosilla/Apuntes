@@ -9,7 +9,9 @@ m-1
 0 & \text{si no}\end{cases}$$ 
 Sería como una [[Función de Distribución Acumulada|función de distribución acumulada]] pero para la [[Distribución geométrica|distribución geométrica]]. 
 
-![[Captura de pantalla 2023-04-21 a la(s) 09.06.38.png|center]]
+![[Binomialnegativo.png|center]]
+
+En palabras simples, en que cantidad de intentos se puede pasar $m$ etapas. 
 
 ## Esperanza 
 
