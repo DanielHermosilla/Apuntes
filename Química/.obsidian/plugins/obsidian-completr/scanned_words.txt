@@ -258,6 +258,7 @@ rdt
 rTY
 resultado
 resistencia
+reaccionan
 la
 los
 las
@@ -609,6 +610,7 @@ punto
 presi
 procesos
 presiones
+proporci
 que
 qy
 qe
@@ -1262,6 +1264,7 @@ impide
 intramolecular
 intermolecular
 inverso
+independiente
 Refutando
 Rd
 RIU
@@ -1809,6 +1812,7 @@ tension
 tubo
 tasa
 transforman
+tama
 giraban
 gk
 go
@@ -2105,6 +2109,7 @@ adhesi
 ambiente
 alcanza
 altura
+ambos
 del
 de
 densa
@@ -2437,6 +2442,9 @@ facilidad
 fluir
 fen
 fusi
+fija
+fracciones
+fuente
 masiva
 ml
 mI
@@ -2599,6 +2607,8 @@ momentaneamente
 meno
 mica
 mismas
+masas
+muestra
 Dalton
 DZ
 Dm
@@ -3210,6 +3220,7 @@ curva
 cambia
 conserva
 congelamiento
+compusto
 Part
 PNG
 Profile
@@ -7076,6 +7087,7 @@ simultanea
 sabe
 solidificaci
 sublimaci
+sicas
 äYE
 äd
 ßN

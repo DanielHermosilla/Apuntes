@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f471718e88833c3b",
+        "id": "8f47acf29c7dfd02",
         "type": "tabs",
         "children": [
           {
-            "id": "901400d37a81d47e",
+            "id": "3d72ec0ae0319bb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
+                "file": "Reacciones Químicas/Masa molar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc99044fd07e87e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reacciones Químicas/Formula empírica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
+                "file": "Reacciones Químicas/Formula empírica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
+                "file": "Reacciones Químicas/Formula empírica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md"
+                "file": "Reacciones Químicas/Formula empírica.md"
               }
             }
           }
@@ -146,9 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67fdc7d55663fe67",
+  "active": "bc99044fd07e87e9",
   "lastOpenFiles": [
+    "Reacciones Químicas/Masa molar.md",
+    "Reacciones Químicas/Formula empírica.md",
+    "Reacciones Químicas/Ley de composición constante.md",
+    "Reacciones Químicas/Ley de las proporciones múltiples.md",
+    "Reacciones Químicas/Masa atómica.md",
+    "Reacciones Químicas/Ley de conservación de la masa.md",
     "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
+    "Reacciones Químicas",
     "Untitled.md",
     "img/Presión.png",
     "img/Presión de vapor.png",
@@ -179,20 +199,13 @@
     "Teoría de los Orbitales Moleculares/Mediciones magnéticas.md",
     "Enlaces/Tipos de enlaces químicos.md",
     "Enlaces/Teoría de Lewis.md",
-    "Enlaces/Polaridad del enlace covalente.md",
-    "Enlaces/Orden de enlace.md",
-    "Teoría de los Orbitales Moleculares/Orden de enlace.md",
     "Teoría de los Orbitales Moleculares",
-    "Isómeros/Estereoisomería.md",
-    "Isómeros/Isómeros estructural.md",
-    "Isómeros/Isómeros.md",
     "Isómeros",
     "Hibridación",
     "Geometría molecular/Geometría con enlaces covalentes",
     "Física moderna/Untitled",
     "Geometría molecular",
     "Enlaces",
-    "Tabla periódica",
-    "Números cuánticos"
+    "Tabla periódica"
   ]
 }
