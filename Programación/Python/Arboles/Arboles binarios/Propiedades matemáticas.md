@@ -22,3 +22,7 @@ Si se tienen $n$ nodos indistiguibles, se llama $a_n$ al número de árbooles bi
 
 $$a_n = \sum^{}_{0\leq k\leq n-1}a_ka_{n-k-1}$$ 
 Con la condición inicial $a_0 = 1$ 
+
+De igual forma, se puede llegar que: 
+
+$$a_n = \frac{1}{n+1}\begin{pmatrix}2n \\ n \end{pmatrix}$$ 

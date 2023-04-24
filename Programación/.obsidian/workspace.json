@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Arboles binarios/Propiedades matemáticas.md",
+                "file": "Python/Arboles/Arboles binarios/Propiedades matemáticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44b627e13d1e7a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Arboles/Arboles cardinales/Árboles cardinales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f532c32e17e07493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Arboles/Árboles ordinales/Árboles ordinales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Arboles binarios/Propiedades matemáticas.md",
+                "file": "Python/Arboles/Árboles ordinales/Árboles ordinales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Arboles binarios/Propiedades matemáticas.md",
+                "file": "Python/Arboles/Árboles ordinales/Árboles ordinales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Arboles binarios/Propiedades matemáticas.md"
+                "file": "Python/Arboles/Árboles ordinales/Árboles ordinales.md"
               }
             }
           }
@@ -146,12 +172,20 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "da615dee94f0e721",
+  "active": "1c8e510f5649ba2c",
   "lastOpenFiles": [
+    "img/ArbolOrdinal.png",
+    "Python/Arboles/Arboles cardinales/Árboles cardinales.md",
+    "Python/Arboles/Árboles ordinales/Árboles ordinales.md",
+    "Python/Arboles/Árboles ordinales/Untitled",
+    "Python/Arboles/Árboles ordinales",
+    "img/Arboles cardinales.png",
+    "Python/Arboles/Arboles binarios/Propiedades matemáticas.md",
+    "Python/Arboles/Arboles binarios",
+    "Python/Arboles/Arboles cardinales",
     "Python/Arboles binarios/Untitled.md",
-    "Python/Arboles binarios/Propiedades matemáticas.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
-    "Python/Arboles binarios",
+    "Python/Arboles",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
     "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
@@ -178,15 +212,8 @@
     "Python/Algoritmos/Busqueda/Busqueda binaria.md",
     "Python/Algoritmos/Ordenamiento/Merge Sort.md",
     "Python/Algoritmos/Evaluación de funciones.md",
-    "Python/Algoritmos/Descomposición binaria.md",
     "Python/Algoritmos/Ordenamiento",
     "Python/Algoritmos/Busqueda",
-    "Python/Estructuras de control/Bucles.md",
-    "Python/Estructuras de control/Condicionales.md",
-    "Python/Data Science from Scratch/Capítulo 1",
-    "Python/Data Science from Scratch/Introduccion.py",
-    "Python/Data Science from Scratch/Capitulo1.py",
-    "Python/Algoritmos/QuickSort.py",
     "img/degreeCentrality.png",
     "img/FindingKeyConnectors.png"
   ]
