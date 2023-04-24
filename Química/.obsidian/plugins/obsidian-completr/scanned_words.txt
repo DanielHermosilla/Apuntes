@@ -1265,6 +1265,7 @@ intramolecular
 intermolecular
 inverso
 independiente
+indica
 Refutando
 Rd
 RIU
@@ -1659,6 +1660,7 @@ nxf
 nJH
 normalmente
 nitrogeno
+necesariamente
 ticas
 tomo
 tiene
@@ -2609,6 +2611,7 @@ mica
 mismas
 masas
 muestra
+molecula
 Dalton
 DZ
 Dm
