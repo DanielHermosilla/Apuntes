@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8de8b838ca99914",
+            "id": "da615dee94f0e721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ca706adcd4d6600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5176b86f07768227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4830fca28894ff8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
+                "file": "Python/Arboles binarios/Propiedades matemáticas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
+                "file": "Python/Arboles binarios/Propiedades matemáticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
+                "file": "Python/Arboles binarios/Propiedades matemáticas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md"
+                "file": "Python/Arboles binarios/Propiedades matemáticas.md"
               }
             }
           }
@@ -183,10 +146,13 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "4830fca28894ff8f",
+  "active": "da615dee94f0e721",
   "lastOpenFiles": [
-    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md",
+    "Python/Arboles binarios/Untitled.md",
+    "Python/Arboles binarios/Propiedades matemáticas.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
+    "Python/Arboles binarios",
+    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
     "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes",
@@ -217,13 +183,10 @@
     "Python/Algoritmos/Busqueda",
     "Python/Estructuras de control/Bucles.md",
     "Python/Estructuras de control/Condicionales.md",
-    "Python/Tipos de datos/Booleanos.md",
-    "Python/Funciones/Argumento de funciones.md",
     "Python/Data Science from Scratch/Capítulo 1",
     "Python/Data Science from Scratch/Introduccion.py",
     "Python/Data Science from Scratch/Capitulo1.py",
     "Python/Algoritmos/QuickSort.py",
-    "Python/Algoritmos/MergeSort.py",
     "img/degreeCentrality.png",
     "img/FindingKeyConnectors.png"
   ]

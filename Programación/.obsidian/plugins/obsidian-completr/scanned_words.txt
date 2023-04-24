@@ -125,6 +125,9 @@ deseado
 despu
 deben
 define
+denotado
+denota
+distancias
 predefinidos
 procesan
 partir
@@ -199,6 +202,7 @@ place
 pone
 problema
 polinomios
+propiedad
 como
 complejo
 caso
@@ -310,6 +314,7 @@ cota
 combinar
 cosa
 casillero
+caminos
 enteros
 en
 el
@@ -384,6 +389,7 @@ estados
 eficiencia
 entonces
 ecuaci
+externos
 los
 lenguaje
 lograr
@@ -434,6 +440,7 @@ llamarlas
 len
 llenando
 lleno
+loga
 int
 inmutable
 imaginaria
@@ -501,6 +508,7 @@ iteraciones
 ignoran
 ineficiente
 implicando
+internos
 bool
 booleanos
 backslash
@@ -958,6 +966,7 @@ resolverlos
 resolverlo
 reescribir
 recursivas
+rbol
 Suma
 Se
 Si
@@ -978,6 +987,7 @@ SciPy
 Scikit
 Siempre
 Sean
+Sea
 Funcionan
 Funciones
 Fk
@@ -1063,6 +1073,8 @@ Lineal
 Librer
 Learn
 Lista
+LCI
+LCE
 Al
 Adem
 Ahora
@@ -1116,6 +1128,7 @@ herramientas
 hipot
 hace
 har
+hojas
 Index
 In
 IN
@@ -1161,6 +1174,7 @@ Rc
 Rm
 Realiza
 Retorna
+Relaci
 WEBPVP
 Wq
 WR
