@@ -308,6 +308,8 @@ cosas
 cumplir
 cota
 combinar
+cosa
+casillero
 enteros
 en
 el
@@ -430,6 +432,8 @@ llamado
 lenguajes
 llamarlas
 len
+llenando
+lleno
 int
 inmutable
 imaginaria
@@ -604,6 +608,7 @@ subdividir
 sub
 soluciones
 simplificar
+ste
 fueran
 flotantes
 float
@@ -716,6 +721,7 @@ alg
 antes
 acordes
 acompa
+arreglo
 jupyter
 jk
 jfv
@@ -872,6 +878,7 @@ ntesis
 numpy
 notar
 notaci
+necesite
 un
 una
 utilizan
