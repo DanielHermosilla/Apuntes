@@ -71,27 +71,11 @@
         }
       }
     },
-    "Tabla periódica moderna": {
-      "Tabla periódica moderna": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679320118345
-        }
-      }
-    },
     "Configuración electrónica": {
       "Configuración electrónica": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680271836593
-        }
-      }
-    },
-    "Carga nuclear efectiva": {
-      "Carga nuclear efectiva": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679320371180
+          "count": 3,
+          "lastUpdated": 1682371452969
         }
       }
     },
@@ -138,8 +122,8 @@
     "Enlace covalente": {
       "Enlace covalente": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679926147466
+          "count": 2,
+          "lastUpdated": 1682371673337
         }
       }
     },
@@ -204,6 +188,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1681485636993
+        }
+      }
+    },
+    "Tabla periódica moderna": {
+      "Tabla periódica moderna": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682370881690
+        }
+      }
+    },
+    "Enlace metálico": {
+      "Enlace metálico": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682371743831
         }
       }
     }

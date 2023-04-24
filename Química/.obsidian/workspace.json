@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reacciones Químicas/Masa molar.md",
+                "file": "Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reacciones Químicas/Formula empírica.md",
+                "file": "Enlaces/Tipos de enlaces químicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb6cbfa49833170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enlaces/Enlaces metálicos/Enlace metálico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +62,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reacciones Químicas/Formula empírica.md",
+                "file": "Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reacciones Químicas/Formula empírica.md",
+                "file": "Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reacciones Químicas/Formula empírica.md"
+                "file": "Resumen Control 1.md"
               }
             }
           }
@@ -159,9 +170,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc99044fd07e87e9",
+  "active": "3d72ec0ae0319bb2",
   "lastOpenFiles": [
+    "Captura de pantalla 2023-04-24 a la(s) 17.46.46.png",
+    "Captura de pantalla 2023-04-24 a la(s) 17.43.27.png",
+    "Captura de pantalla 2023-04-24 a la(s) 17.41.33.png",
+    "img/cubicacentrada.png",
+    "Captura de pantalla 2023-04-24 a la(s) 17.36.28.png",
+    "Resumen Control 1.md",
+    "img/cubicasimple.png",
     "Reacciones Químicas/Masa molar.md",
+    "Enlaces/Tipos de enlaces químicos.md",
+    "Enlaces/Enlaces metálicos/Enlace metálico.md",
+    "Enlaces/Enlace iónico.md",
+    "Tabla periódica/Configuración electrónica.md",
+    "Enlaces/Teoría de Lewis.md",
+    "Teoría de los Orbitales Moleculares/Mediciones magnéticas.md",
+    "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
+    "Teoría de los Orbitales Moleculares/Orden de enlace.md",
+    "Tabla periódica/Electronegatividad.md",
+    "Tabla periódica/Metales, metaloides y no metales.md",
+    "Tabla periódica/Afinidad electrónica.md",
+    "Tabla periódica/Energía de ionización.md",
+    "Tabla periódica/Carga nuclear efectiva.md",
+    "Tabla periódica/Tabla periódica moderna.md",
+    "Tabla periódica/Radio atómico.md",
     "Reacciones Químicas/Formula empírica.md",
     "Reacciones Químicas/Ley de composición constante.md",
     "Reacciones Químicas/Ley de las proporciones múltiples.md",
@@ -169,36 +202,14 @@
     "Reacciones Químicas/Ley de conservación de la masa.md",
     "Enlaces/Enlaces metálicos/Fuerza intermoleculares.md",
     "Reacciones Químicas",
-    "Untitled.md",
     "img/Presión.png",
     "img/Presión de vapor.png",
     "img/CambioFase.png",
     "img/Cohesión y adhesión.png",
     "img/Tensión superficial.png",
-    "img/AguaHidrogeno.png",
-    "img/EbulliciónHidrogeno.png",
     "Enlaces/Enlaces metálicos/Semiconductores.md",
-    "img/Semiconductor banda valencia.png",
     "Enlaces/Enlaces metálicos/Teoría de bandas.md",
-    "img/ImpurezaAceptora.png",
-    "img/Dopar.png",
-    "Enlaces/Enlaces metálicos/Enlace metálico.md",
-    "Teoría del campo cristalino.md",
     "Enlaces/Enlaces metálicos",
-    "Geometría molecular/Estructura cristalinas.md",
-    "Geometría molecular/Celda unitaria.md",
-    "Geometría molecular/Red cristalina.md",
-    "Geometría molecular/Empaquetamiento de esferas.md",
-    "Geometría molecular/Redes cristalinas cúbicas.md",
-    "Geometría molecular/Índice de coordinación.md",
-    "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md",
-    "Números cuánticos/Numero cúantico del momento angular (l).md",
-    "Números cuánticos/Número cuántico magnético (m).md",
-    "Enlaces/Enlace de coordinación.md",
-    "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
-    "Teoría de los Orbitales Moleculares/Mediciones magnéticas.md",
-    "Enlaces/Tipos de enlaces químicos.md",
-    "Enlaces/Teoría de Lewis.md",
     "Teoría de los Orbitales Moleculares",
     "Isómeros",
     "Hibridación",
