@@ -47,30 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "\\frac{1}{x}": {
-      "\\frac{1}{x}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679586434024
-        }
-      }
-    },
-    "\\begin{cases}": {
-      "\\begin{cases}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679587208287
-        }
-      }
-    },
-    "\\frac{1}{z}": {
-      "\\frac{1}{z}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679588796370
-        }
-      }
-    },
     "Lipschitz": {
       "Lipschitz": {
         "internalLink": {
@@ -192,6 +168,22 @@
         "currentFile": {
           "count": 3,
           "lastUpdated": 1682011646895
+        }
+      }
+    },
+    "ejemplo": {
+      "ejemplo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682443121719
+        }
+      }
+    },
+    "C_1-2C_0": {
+      "C_1-2C_0": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682443417123
         }
       }
     }

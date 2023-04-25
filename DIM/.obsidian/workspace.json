@@ -4,79 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8738323c49c4dca8",
+        "id": "ab8b5a57da840948",
         "type": "tabs",
         "children": [
           {
-            "id": "bb717e1a87990460",
+            "id": "12b0c5e71fff5fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de coeficiente variables.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e2284ed48919ef07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b472e399d61f3e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Abel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c4896f815a2dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d241a32c75ac910b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Teorema de Existencia y Unicidad de Orden 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "205e35b6e5edf89c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -143,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,35 +150,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2284ed48919ef07",
+  "active": "12b0c5e71fff5fc0",
   "lastOpenFiles": [
-    "Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
+    "Ecuaciones Diferenciales Ordinarias/Untitled.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
+    "Álgebra Lineal/Espacios vectoriales/generador.md",
+    "Álgebra Lineal/Espacios vectoriales/dependencia.md",
     "Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
+    "Álgebra Lineal/Espacios vectoriales/propiedad compacta.md",
+    "Álgebra Lineal/Espacios vectoriales/escalares.md",
+    "Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de coeficiente variables.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
+    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Abel.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Teorema de Existencia y Unicidad de Orden 2.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
+    "Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
     "Álgebra Lineal/Matrices/matriz.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
-    "IMG_777AC196966E-1.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
     "Cálculo en Varias Variables/Resumen Control 1.md",
     "Cálculo en Varias Variables/Pregunta.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad.md",
-    "Álgebra Lineal/Valores y vectores propios/Espectro de una matriz simétrica.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Lipschitz.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teoría de Existencia y Unicidad Global.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Teorema del punto fijo de Banach.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Aproximaciones al problema de Cauchy mediante métodos discretos.md",
-    "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad/Método de Euler.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
-    "Cálculo Diferencial e Integral/Derivadas/Teorema del Valor Medio.md",
-    "Álgebra Lineal/Espacios vectoriales/dependencia.md",
-    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sobre amortiguado.jpeg",

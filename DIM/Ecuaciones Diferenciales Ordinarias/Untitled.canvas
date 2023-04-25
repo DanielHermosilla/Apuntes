@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"Resonancia","id":"bc30b5159657e4c6","x":-360,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"No resonante, cuando $\\lambda_0 \\neq \\lambda_i$, con $\\lambda_i$ algun valor característico de la EDO homogénea","id":"5b707e0052db88aa","x":-60,"y":-300,"width":350,"height":100},
+		{"id":"805226ec87a8b40c","x":-720,"y":-150,"width":250,"height":80,"color":"6","type":"text","text":"[[Método de constantes indeterminadas]]"},
+		{"type":"text","text":"Resonante, cuando $\\lambda_0 = \\lambda_i$ con $\\lambda_i$ algún valor característico de la EDO homogénea","id":"596a6d8ee7ef710f","x":-60,"y":0,"width":350,"height":100}
+	],
+	"edges":[
+		{"id":"6a8f5c87372377cb","fromNode":"5b707e0052db88aa","fromSide":"bottom","toNode":"bc30b5159657e4c6","toSide":"right","toEnd":"none"},
+		{"id":"3cd6d384616fd774","fromNode":"596a6d8ee7ef710f","fromSide":"top","toNode":"bc30b5159657e4c6","toSide":"right","toEnd":"none"},
+		{"id":"4d8c4f9cfb744c35","fromNode":"805226ec87a8b40c","fromSide":"right","toNode":"bc30b5159657e4c6","toSide":"left"}
+	]
+}
