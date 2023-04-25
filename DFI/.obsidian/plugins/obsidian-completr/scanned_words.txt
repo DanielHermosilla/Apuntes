@@ -1295,6 +1295,7 @@ ib
 iRRn
 imponen
 indeterminaci
+impone
 no
 neo
 ngulo
