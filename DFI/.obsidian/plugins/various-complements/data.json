@@ -63,27 +63,11 @@
         }
       }
     },
-    "Velocidad": {
-      "Velocidad": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679409293330
-        }
-      }
-    },
-    "ejemplo": {
-      "ejemplo": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679579690832
-        }
-      }
-    },
     "Partícula": {
       "Partícula": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1680185687518
+          "count": 4,
+          "lastUpdated": 1682432448224
         }
       }
     },
@@ -140,6 +124,14 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1682002612528
+        }
+      }
+    },
+    "Coordenadas polares": {
+      "Coordenadas polares": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682432471254
         }
       }
     }

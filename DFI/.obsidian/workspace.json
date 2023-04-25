@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c1a046b1c9a8613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecánica/Dinámica/Péndulo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Dinámica/Resonancia.md",
+                "file": "Mecánica/Dinámica/Péndulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Dinámica/Resonancia.md",
+                "file": "Mecánica/Dinámica/Péndulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Dinámica/Resonancia.md"
+                "file": "Mecánica/Dinámica/Péndulo.md"
               }
             }
           }
@@ -159,13 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd316ddf938fe6ad",
+  "active": "2d8d32f31af482e9",
   "lastOpenFiles": [
+    "Mecánica/img/Péndulo.jpeg",
+    "Mecánica/Dinámica/Resonancia.md",
+    "Mecánica/Dinámica/Péndulo.md",
     "Mecánica/Dinámica/Fuerzas de restitución.md",
     "Mecánica/Dinámica/Fuerza roce.md",
     "Mecánica/Dinámica/Momentum lineal.md",
     "Mecánica/Dinámica/Problemas de Dinámica.md",
-    "Mecánica/Dinámica/Resonancia.md",
     "Mecánica/Dinámica/Dinámica.md",
     "Mecánica/Dinámica/Atracción gravitacional.md",
     "Mecánica/img/Ejemplo piston.jpeg",
@@ -199,8 +213,6 @@
     "Mecánica/Sistema de partículas",
     "Mecánica/Cinemática",
     "Introducción a la Física Moderna/Formulario.md",
-    "Introducción a la Física Moderna/cantidad de movimiento.md",
-    "Métodos Experimentales/Circuitos eléctricos/Corriente eléctrica.md",
-    "Métodos Experimentales/Circuitos eléctricos/Diferencia de potencial.md"
+    "Introducción a la Física Moderna/cantidad de movimiento.md"
   ]
 }
