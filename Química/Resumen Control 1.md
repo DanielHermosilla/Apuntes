@@ -111,3 +111,44 @@ En este caso, los pares libres $B$ en el ejemplo anterior, sería los $n=\dots$.
 Mientras más enlaces hay, implica una mayor fuerza de enlace. Por el otro lado, esto indica una menor longitud de enlace que depende del tamaño del átomo. El [[Teoría de los Orbitales Moleculares/Orden de enlace|orden de enlace]], determina el número de pares de electrones compartidos entre átomos de un enlace. Por lo tanto, se cumple lo siguiente en **longitud**: 
 
 $$\text{Triple enlace}\ <\ \text{Doble enlace}\ <\ \text{Enlace simple}$$ 
+## Enlaces covalentes 
+
+Entre los [[Enlace covalente|enlaces covalentes]], que son los enlaces entre no metales, existen los enlaces **polares** y **no polares**. 
+
+- Polares: Existe una distribución asimétrica de los electrones. El enlace posee un polo $+$ y un polo $-$, o bien, un *dipolo*
+- No polares: Existe una distribución simétrica de los electrones. 
+
+El grado de polaridad lo determinará la diferencia de [[Electronegatividad|electronegatividad]] entre los átomos.
+
+### Formación de orbitales híbridos 
+
+Al hacer enlaces covalentes ocurre una compartición de electrones, por lo tanto, se tienen que solapar **orbitales híbridos** con **orbitales atómicos**, o bien, solapar entre dos **orbitales híbridos**. 
+
+#### Ejemplo 
+
+$$BeCl_2 = \begin{cases}
+Be &  1s^22s^22p^63s^2\color{red}3p^0\\
+ Cl & 1s^22s^22p^63s^2\color{red}3p^5
+\end{cases}
+$$
+
+![[Pasted image 20230425170347.png|center]]
+
+
+Lo que ocurre acá es que el $Be$ hace orbitales híbridos y llega a hacer dos orbitales $sp$, es decir, para hacer enlaces baja a una orbita molecular *híbrida* que le permite hacer el enlace. 
+
+#### Ejemplo 
+
+$$CH_4 = \begin{cases}
+C & 1s^22s^22p^2 \\ 
+H & 1s^1 \end{cases}$$ 
+Por lo tanto, el carbono para poder enlazar hace **cuatro orbitales híbridos** de la forma $sp^3$. 
+
+#### Ejemplo 
+
+$$NH_3 = \begin{cases}
+N & 1s^22s^22p^3 \\ 
+H & 1s^1 
+\end{cases}$$ 
+El nitrógeno tiene que hacer tres orbitales híbridos para enlazar con el hidrógeno, por lo tanto, es de la forma **sp**. 
+
