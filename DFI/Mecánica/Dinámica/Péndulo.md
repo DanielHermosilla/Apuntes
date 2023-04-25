@@ -22,3 +22,10 @@ $$\int_{\frac{v_0}{L}}^{\dot{\theta}}\dot{\theta} = \int_{\theta_0}^{\theta}\fra
 Lo que se llega que: 
 
 $$\dot{\theta}^2 = \left[(\frac{V_0}{L})^2-\frac{2g\cos(\theta)}{L}\right] + \frac{2g}{L}\cos(\theta)$$ 
+Notemos que si $L\ddot{\theta}$ se podría tratar de resolver al resolver la EDO anterior. Pero se va a llegar a una solución **no analítica**. Pero, si es válido en ángulos chicos, donde $\sin(\theta)\approx\theta$. Se llega que: 
+
+$$L\ddot{\theta} = g\theta$$ 
+Donde la solución de la EDO es: 
+
+$$C\cos(\omega_0t + \phi)$$ 
+Con $\omega_0 = \frac{2\pi}{T}\implies T(\text{Período})=2\pi\sqrt{\frac{L}{g}}$ 
