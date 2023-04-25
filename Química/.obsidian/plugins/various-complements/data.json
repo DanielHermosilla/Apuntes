@@ -138,8 +138,8 @@
     "Repulsión de los pares de electrones de la capa de valencia": {
       "Repulsión de los pares de electrones de la capa de valencia": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681138379787
+          "count": 3,
+          "lastUpdated": 1682387240599
         }
       }
     },
@@ -204,6 +204,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682371743831
+        }
+      }
+    },
+    "Orden de enlace": {
+      "Orden de enlace": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682387789484
         }
       }
     }

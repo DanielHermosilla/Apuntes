@@ -82,3 +82,32 @@ Ahora, para calcular el volumen de los **huecos de una estructura** se utiliza l
 
 $$f_v = \frac{\text{Volumen de esferas en la celda unidad}}{\text{Volumen de la celda unidad}}$$ 
 Considerando un radio de átomo $r$ y el volumen de una esfera $\frac{4}{3}\pi r^3$, entonces se podría llegar a construir el la fórmula a partir de la arista de la arista del cubo, que lo determinaría en el denominador. 
+
+
+# Geometría molecular 
+
+La forma molecular de una molécula está determinada por la **distancia de enlace** y el **ángulo de enlace**. Por ende, la geometría se predice basándonos en la **Teoría de Repulsión de los Pares de Electrones de la Capa de Valencia**. Los orbitales que contienen $e^-$ se orientan de forma de que queden lo más alejados que puedan uno de otros. Estas [[Repulsión de los pares de electrones de la capa de valencia|repulsiones]] maximisan espacio que cada átomo tiene alrededor del átomo central. 
+
+Por lo tanto, se podría definir cinco fórma moleculares de mínima energía según número de regiones electrónicas. 
+
+- $n=2$: Lineal 
+- $n=3$: Triangular plana 
+- $n=4$: Tetraédrica
+- $n=5$: Bipiramide trigonal 
+- $n=6$: Octaédrica 
+
+![[FuerzasRepulsion.png|center]]
+
+La forma anterior era para los casos de enlaces simples, pero para el caso de enlaces se concentra más la densidad electrónica. Por lo tanto, se ha hecho una clasificación de la geometría molecular según los pares libres y pares compartidos. 
+
+$$AB_{\text{Pares libres}}E_{\text{Pares compartidos}}$$ 
+En este caso, los pares libres $B$ en el ejemplo anterior, sería los $n=\dots$. Entonces, se hace la siguiente tabla: 
+
+![[geometriamolecular2.png|center]]
+
+
+## Fuerza de enlace 
+
+Mientras más enlaces hay, implica una mayor fuerza de enlace. Por el otro lado, esto indica una menor longitud de enlace que depende del tamaño del átomo. El [[Teoría de los Orbitales Moleculares/Orden de enlace|orden de enlace]], determina el número de pares de electrones compartidos entre átomos de un enlace. Por lo tanto, se cumple lo siguiente en **longitud**: 
+
+$$\text{Triple enlace}\ <\ \text{Doble enlace}\ <\ \text{Enlace simple}$$ 
