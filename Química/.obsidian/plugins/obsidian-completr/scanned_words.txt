@@ -786,6 +786,7 @@ pql
 pyn
 polo
 polaridad
+permite
 que
 qy
 qe
@@ -1431,6 +1432,7 @@ oOH
 oLZ
 onD
 oIz
+orbita
 ir
 inicialmente
 iCCPICC
@@ -1939,6 +1941,7 @@ biL
 btW
 bSM
 bridos
+brida
 ndose
 nicamente
 nK
@@ -2138,6 +2141,7 @@ nuC
 nYg
 nyA
 nDi
+nitr
 ticas
 tomo
 tiene
