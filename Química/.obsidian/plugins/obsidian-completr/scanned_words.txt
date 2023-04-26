@@ -542,6 +542,7 @@ lCI
 lXb
 lYp
 lwq
+lejano
 postula
 pueden
 pasando
@@ -787,6 +788,7 @@ pyn
 polo
 polaridad
 permite
+produce
 que
 qy
 qe
@@ -1239,6 +1241,7 @@ eKbt
 env
 eqv
 eVV
+esquina
 orbitales
 oQt
 ox
@@ -1433,6 +1436,7 @@ oLZ
 onD
 oIz
 orbita
+oxidaci
 ir
 inicialmente
 iCCPICC
@@ -2531,6 +2535,7 @@ gTH
 gRaAM
 gXr
 gpgi
+germanio
 alrededor
 an
 aU
@@ -2734,6 +2739,10 @@ apc
 aii
 aee
 asim
+aluminio
+aleaci
+alta
+aumenta
 del
 de
 densa
@@ -3830,6 +3839,7 @@ ENJ
 EoW
 Enlaces
 Existe
+Energ
 centro
 contiene
 cula
@@ -4299,6 +4309,7 @@ PVO
 PcP
 PUE
 Polares
+Primero
 vive
 vj
 vI
@@ -5467,6 +5478,7 @@ hKd
 hWp
 hecho
 hacer
+hidruros
 BW
 Bx
 BE
@@ -5904,6 +5916,7 @@ NDGz
 Nfv
 NKM
 NcOi
+Notemos
 QT
 QF
 Qr
@@ -6706,6 +6719,7 @@ VhC
 VoZ
 VRRVV
 Ven
+Verdadero
 wje
 wQC
 wul
@@ -7796,6 +7810,7 @@ FSq
 FNGM
 FDR
 Formaci
+Falso
 UE
 UC
 Ui
@@ -8857,6 +8872,7 @@ MEK
 MLB
 MKg
 Mtx
+Mientr
 sSO
 sJ
 sq
@@ -9072,6 +9088,8 @@ sTP
 sjdv
 sim
 solapar
+semiconducci
+superior
 äYE
 äd
 ßN

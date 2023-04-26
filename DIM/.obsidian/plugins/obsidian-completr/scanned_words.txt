@@ -538,6 +538,7 @@ complejas
 construcci
 comutativos
 convertir
+complejo
 su
 ser
 se
@@ -762,6 +763,8 @@ metros
 multiplicidad
 mover
 multiplcidad
+multiplica
+modifiquemos
 que
 qu
 queda
@@ -1486,6 +1489,7 @@ espacios
 externas
 exponenciales
 ee
+entretenido
 formas
 fin
 forall
@@ -1683,6 +1687,8 @@ anulando
 agregar
 aumentar
 agregan
+aparece
+amortiguamiento
 bajo
 bola
 binomio
@@ -2196,6 +2202,8 @@ reflejado
 reescribiendo
 resonantes
 resonante
+resonancia
+reagrupando
 orden
 otras
 observaci
@@ -2263,6 +2271,7 @@ operadores
 omega
 obtenida
 operaciones
+oscilador
 Analizando
 Ahora
 Aca
@@ -2578,6 +2587,7 @@ Oss
 Oo
 OG
 Ocupando
+Oscilador
 Gram
 Gs
 Gw
@@ -2734,6 +2744,7 @@ jvr
 ju
 jSi
 jh
+juntan
 QcO
 QN
 Qea

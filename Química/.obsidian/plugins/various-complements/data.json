@@ -79,14 +79,6 @@
         }
       }
     },
-    "Núcleo": {
-      "Núcleo": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1679867132666
-        }
-      }
-    },
     "Átomo": {
       "Átomo": {
         "internalLink": {
@@ -100,14 +92,6 @@
         "internalLink": {
           "count": 11,
           "lastUpdated": 1681741681857
-        }
-      }
-    },
-    "Afinidad electrónica": {
-      "Afinidad electrónica": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679866536422
         }
       }
     },
@@ -212,6 +196,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682387789484
+        }
+      }
+    },
+    "Radio atómico": {
+      "Radio atómico": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682511960465
+        }
+      }
+    },
+    "Energía de ionización": {
+      "Energía de ionización": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682513585291
         }
       }
     }
