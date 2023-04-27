@@ -4,19 +4,19 @@ Acordándonos de las [[EDO de orden superior lineal]] y [[EDO de coeficiente var
 $$y^{(n)} + \bar{a_{n+1}}y^{(n-1)} + \dots + \bar{a_1}y' + \bar{a_0}y = \bar{Q}(x)$$ 
 Donde se busca primero la solución homogénea con el [[polinomio característico]], y se encuentra una [[Base|base]] linealmente [[dependencia|independiente]]:
 
-$$\langle e^{\lambda_1x}, xe^{\lambda_1x}, \dots, e^{\sigma x}\cos(\omega x), xe^{\sigma x}\cos(\omega x), \dots, e^{\sigma x}\sin(\omega x), xe^{\sigma x}\sin(\omega x), \dots, \rangle = H$$ 
+$$\langle e^{\lambda_1x},xe^{\lambda_1x},\dots,e^{\sigma x}\cos(\omega x),xe^{\sigma x}\cos(\omega x),\dots,e^{\sigma x}\sin(\omega x), xe^{\sigma x}\sin(\omega x),\dots,\rangle = H$$ 
 Entonces, si se busca una solución partícular ($\bar{Q}$) para la homogénea, se buscaban anuladores, donde:
 
-$$\bar{Q} = e^{\lambda_0 x}\ \dots\ (D-\lambda_0)e^{\lambda_0 x} = 0$$ 
-$$\bar{Q} = xe^{\lambda_0 x}\dots (D-\lambda_0)^2 xe^{\lambda_0 x} = 0$$ $$\bar{Q} = (A_0 + A_1x + A_2x^2 + A_3x^3 + \dots + A_kx^k)e^{\lambda_0 x}, \ (D-\lambda_0)^{k+1}\bar{Q}=0$$ 
+$$\bar{Q} = e^{\lambda_0 x}\ \dots\ (D-\lambda_0)e^{\lambda_0 x} = 0$$
+$$\bar{Q} = xe^{\lambda_0 x}\dots (D-\lambda_0)^2 xe^{\lambda_0 x} = 0$$ $$\bar{Q} = (A_0 + A_1x + A_2x^2 + A_3x^3 + \dots + A_kx^k)e^{\lambda_0 x},\ (D \lambda_0)^{k+1}\bar{Q}=0$$ 
 Por lo tanto, si se tiene una solución de la siguiente forma: 
 
-$$\bar{Q(x)} = q(x)e^{\lambda_0 x}\ \ \exists \lambda_0\in\mathbb{C}$$ 
+$$\bar{Q(x)} = q(x)e^{\lambda_0x}\;\ \exists\lambda_0\in\mathbb{C}$$ 
 Con $q$ un polinomio de grado $k$. Esto se obtiene al ir anulando las exponenciales.
 
 Entonces, lo que propone *Euler* es aplicar un anulador a la ecuación diferencial, es decir: 
 
-$$(D-\lambda_1)^{m_1}(D-\lambda_2)^{m_2}\dots(D-\lambda_l)^{m_l}y = q(x)e^{\lambda_0 x}\ \ \ \ \ \backslash\ (D-\lambda_0)^{k+1}, \ \ k=\text{Grado de q}$$ 
+$$(D-\lambda_1)^{m_1}(D-\lambda_2)^{m_2}\dots(D-\lambda_l)^{m_l}y = q(x)e^{\lambda_0x}\;\;\;\;\ \backslash\;(D-\lambda_0)^{k+1},\;\ k=\text{Grado de q}$$ 
 Entonces lo que se va a hacer es agregar una solución a la EDO y **se va a convertir en una EDO homogenea**. 
 
 $$(D-\lambda_0)^{k+1}(D-\lambda_1)^{m_1}(D-\lambda_2)^{m_2}\dots(D-\lambda_l)^{m_l}y = 0$$ 
@@ -26,7 +26,7 @@ $$e^{\lambda_0 x} + xe^{\lambda_0 x} + x^2e^{\lambda_0 x} + \dots x^ke^{\lambda_
 Por lo tanto, la solución particular llegaría a ser: 
 
 $$y_p \in \langle e^{\lambda_0 x} + xe^{\lambda_0 x} + x^2e^{\lambda_0 x} + \dots x^ke^{\lambda_0 x}\rangle $$
-$$y_p = e^{\lambda_0 x}(C_0 + C_1x + \dots + C_kx^k)\ \ C_0,\dots,C_k\ \text{a determinar}$$ 
+$$y_p = e^{\lambda_0x}(C_0 + C_1x +\dots + C_kx^k)\;\;C_0,\dots,C_k\ \text{a determinar}$$ 
 Si $\lambda_0\neq \lambda_i$ se llaman casos resonantes, es decir, **todas las soluciones llegan a ser nuevas**. 
 
 ## Caso resonante 
@@ -46,8 +46,8 @@ Por ende, $y_p = x^{m_i}e^{\lambda_0 x}(C_0 + C_1x + \dots + C_k x^k)$
 $$(D-1)^2(D+2)^3y = (1+x^2)e^{-x}$$ 
 Aquí se tendría que: 
 
-1. $\lambda_1 = 1, \  \ m_1=2$ 
-2. $\lambda_2 = -2, \ \ m_2 = 3$ 
+1. $\lambda_1 = 1,\;\ m_1=2$ 
+2. $\lambda_2 = -2,\;\ m_2 = 3$ 
 
 Y por último, $\lambda_0 = -1$, por lo tanto, es **no resonante**. 
 
@@ -61,8 +61,8 @@ Entonces se agregan tres soluciones, donde $y_p = e^{-x}(C_0 + C_1x + C_2x^2)$ c
 $$(D-1)^2(D+2)^3y = (1+x^2)e^{-2x}$$ 
 Aquí se tendría que: 
 
-1. $\lambda_1 = 1, \  \ m_1=2$ 
-2. $\lambda_2 = -2, \ \ m_2 = 3$ 
+1. $\lambda_1 = 1,\;\ m_1=2$ 
+2. $\lambda_2 = -2,\;\ m_2 = 3$ 
 
 Pero, $\lambda_0 = -2$, es decir, se tiene un caso **resonante**. Entonces se multiplica por $(D+2)^3$ y se agregan las soluciones: 
 
@@ -98,7 +98,7 @@ En el caso no resonante,  es decir, $\lambda_0 = \lambda_1\lor\lambda_2$ que a l
 $$y_p = t(C\cos(\omega_0t) + D\sin(\omega_0 t))$$ 
 Ahora, si buscamos las soluciones homogeneas: 
 
-$$\lambda^2 + a\lambda + b = 0 \implies \lambda_{1,2} = -\frac{a}{2}\pm\sqrt{(\frac{a}{2})^2-b}$$ 
+$$\lambda^2 + a\lambda + b = 0\implies\lambda_{1,2} = -\frac{a}{2}\pm\sqrt{(\frac{a}{2})^2-b}$$ 
 Para *hacer más entretenido* el ejemplo, modifiquemos el oscilador: 
 
 $$y'' + ay' + by = A\sin(\omega_0 t)e^{\sigma_0t}$$ 
@@ -110,17 +110,17 @@ Y por el otro lado,
 $$y_p = e^{\sigma_0t}t(C\cos(\omega_0t) + D\sin(\omega_0 t))$$ 
 Y de nuevo, buscando soluciones homogeneas de la misma forma que antes, 
 
-$$\lambda^2 + a\lambda + b = 0 \implies \lambda_{1,2} = -\frac{a}{2}\pm\sqrt{(\frac{a}{2})^2-b}\ \implies \omega_0 = \sqrt{b-(\frac{a}{2})^2}\ \ \ \ \ \text{Hay resonancia}$$
+$$\lambda^2 + a\lambda + b = 0 \implies \lambda_{1,2} = -\frac{a}{2}\pm\sqrt{(\frac{a}{2})^2-b}\ \implies \omega_0=\sqrt{b-(\frac{a}{2})^2}\;\;\;\;\;\text{Hay resonancia}$$
 
 
 ### ejemplo 
 
 Se tiene la siguiente ecuación 
 
-$$(D+1)(D-2)y =xe^x, \ \lambda_1 = -1, m_1 = 1, \ \lambda_2 = 2, m_2 = 1 \ \lambda_0 = 1, k = 1$$ 
+$$(D+1)(D-2)y =xe^x,\ \lambda_1 = -1, m_1 = 1,\ \lambda_2 = 2, m_2 = 1\ \lambda_0 = 1, k = 1$$ 
 Por lo tanto, la solución homogenea es: 
 
-$$y_h\in\langle e^{-x}, e^{2x}\rangle\ \land\ y_p=e^x(C_0 + C_1x)$$ 
+$$y_h\in\langle e^{-x}, e^{2x}\rangle\ \land\ y_p=e^x(C_0 + C_1x)$$ 
 Reemplazando, 
 
 $$(D+1)(D-2)e^x(C_0 + C_1x)$$ $$(D+1)(e^xC_1 - 2e^x(C_0 + C_1x))$$ $$(D+1)(e^x(C_1-2C_0)-2C_1xe^x)$$ $$(D+1)(e^x(C_1 - 2C_0)-2e^xC1x)$$ $$e^x(C_1 - 2C_0) - 2C_1(x+1)e^x + e^x(C_1-2C_0) - 2C_1xe^x$$ 
@@ -130,6 +130,4 @@ $$e^x(-4C_0) + xe^x(-4C_1) = 0·e^x + xe^x$$
 Por ende, se llega a lo siguiente: 
 
 $$\begin{cases}
--4C_0 = 0 \\ 
--4C_1 = 1
-\end{cases}\implies C_0 = 0, C_1=-\frac{1}{4}$$ 
+-4C_0 = 0\\-4C_1 = 1\end{cases}\implies C_0 = 0, C_1=-\frac{1}{4}$$ 

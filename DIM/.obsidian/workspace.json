@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12b0c5e71fff5fc0",
+  "active": "0b19607c87a39be4",
   "lastOpenFiles": [
     "Ecuaciones Diferenciales Ordinarias/Untitled.canvas",
     "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",

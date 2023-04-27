@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Auxiliar Pre Control 1.md",
+                "file": "Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Auxiliar Pre Control 1.md",
+                "file": "Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Auxiliar Pre Control 1.md",
+                "file": "Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auxiliar Pre Control 1.md"
+                "file": "Resumen Control 1.md"
               }
             }
           }
@@ -163,13 +162,13 @@
   },
   "active": "5a5c34f23499420b",
   "lastOpenFiles": [
-    "Tabla periódica/Energía de ionización.md",
-    "Auxiliar Pre Control 1.md",
+    "Teoría del campo cristalino.md",
     "Resumen Control 1.md",
+    "Auxiliar Pre Control 1.md",
+    "Tabla periódica/Energía de ionización.md",
     "img/Captura de pantalla 2023-04-24 a la(s) 17.36.28.png",
     "Enlaces/Enlaces metálicos/Enlace metálico.md",
     "Enlaces/Tipos de enlaces químicos.md",
-    "Teoría del campo cristalino.md",
     "img/Pasted image 20230425170347.png",
     "img/geometriamolecular2.png",
     "img/Captura de pantalla 2023-04-24 a la(s) 17.46.46.png",
