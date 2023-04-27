@@ -29,3 +29,38 @@ Que se llega que:
 
 $$\int_{S_1}^{S_2}F_s\ ds$$ 
 A ese término se le llama **trabajo**, que es la fuerza neta ejercida a lo largo de la trayectoria.
+
+Si para una [[Partícula|partícula]] cualquiera se le define su vector de fuerza conservativa, se puede llegar a lo siguiente: 
+
+$$F_c · d\vec{r} = -dV$$ 
+Por lo tanto, 
+
+$$\int dV = \int mgdz$$ $$\implies V(z) = mgz + C$$ 
+Y por el otro lado, se tiene que la variación de la energía cinética es la siguiente: 
+
+$$dK = \vec{F}·d\vec{r} = -dV$$
+
+Y como $dK + dV = 0$, entonces $d(K+V)=0$. Por ende, 
+
+$$K + V(x,y,z) = E_0$$ 
+Por lo tanto, para saber el cambio de $V$ en función de sus variables: 
+
+$$V(x,y,z) = \frac{\partial V}{\partial x}dx + \frac{\partial V}{\partial y}dy + \frac{\partial V}{\partial z}dz$$ 
+Dado que $V:\mathbb{R}^3\rightarrow\mathbb{R}$, es decir, es escalar .
+
+Ahora notemos que: 
+
+$$\vec{F}·d\vec{r} = f_xdx + f_ydy + f_zdz$$ 
+Entonces, volviendo a la igualdad anterior, se llega que: 
+
+$$f_xdx + f_ydy + f_zdz = -\left[\frac{\partial V}{\partial x}dx + \frac{\partial V}{\partial y}dy + \frac{\partial V}{\partial z}dz\right]$$
+
+$$\implies\begin{cases} 
+f_x = \frac{-\partial V}{\partial x} \\ 
+\\
+f_y = \frac{-\partial V}{\partial y} \\ 
+\\
+f_z = \frac{-\partial V}{\partial z}
+\end{cases}$$ 
+
+Además, se define lo siguiente $\nabla\times\vec{F_c} = 0$, el **rotor de $\vec{F_c}$.**  Por definición, el rotor de una fuerza conservativa es 0. 

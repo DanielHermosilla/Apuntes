@@ -55,19 +55,11 @@
         }
       }
     },
-    "Posición": {
-      "Posición": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1680011265835
-        }
-      }
-    },
     "Partícula": {
       "Partícula": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1682432448224
+          "count": 5,
+          "lastUpdated": 1682605800947
         }
       }
     },
@@ -148,6 +140,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682435066257
+        }
+      }
+    },
+    "fuerza centrípeta": {
+      "fuerza centrípeta": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682605823914
         }
       }
     }
