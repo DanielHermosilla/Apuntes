@@ -49,10 +49,6 @@
   "selectionHistoryTree": {
     "Lipschitz": {
       "Lipschitz": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680019512637
-        },
         "currentFile": {
           "count": 1,
           "lastUpdated": 1680189240403
@@ -184,6 +180,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682443417123
+        }
+      }
+    },
+    "\\frac{1}{2}e^t": {
+      "\\frac{1}{2}e^t": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682616108570
         }
       }
     }

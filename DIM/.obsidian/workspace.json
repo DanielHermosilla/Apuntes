@@ -11,15 +11,31 @@
             "id": "12b0c5e71fff5fc0",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
+                "viewState": {
+                  "x": -52.83085846815739,
+                  "y": -499.79917681135584,
+                  "zoom": -0.8029663128157462
+                }
+              }
+            }
+          },
+          {
+            "id": "bedf036c20c1e57a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md"
               }
             }
           },
@@ -155,9 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b19607c87a39be4",
+  "active": "bedf036c20c1e57a",
   "lastOpenFiles": [
-    "Ecuaciones Diferenciales Ordinarias/Untitled.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Abel.md",
     "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
     "Álgebra Lineal/Espacios vectoriales/generador.md",
@@ -172,9 +190,7 @@
     "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Abel.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Teorema de Existencia y Unicidad de Orden 2.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
     "Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
     "Álgebra Lineal/Matrices/matriz.md",
@@ -183,7 +199,6 @@
     "Cálculo en Varias Variables/Resumen Control 1.md",
     "Cálculo en Varias Variables/Pregunta.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sobre amortiguado.jpeg",

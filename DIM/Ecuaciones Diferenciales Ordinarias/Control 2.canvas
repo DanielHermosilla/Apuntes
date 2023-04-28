@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[EDO lineal de orden n]]","id":"4cb856f624f2e580","x":-1020,"y":-620,"width":260,"height":60},
+		{"type":"text","text":"Homogenea","id":"855e7f921753c2ff","x":-720,"y":-800,"width":250,"height":60},
+		{"type":"text","text":"No resonante, cuando $\\lambda_0 \\neq \\lambda_i$, con $\\lambda_i$ algun valor característico de la EDO homogénea","id":"5b707e0052db88aa","x":-350,"y":-80,"width":350,"height":100},
+		{"type":"text","text":"[[Método de constantes indeterminadas]]","id":"805226ec87a8b40c","x":-1010,"y":70,"width":250,"height":80,"color":"6"},
+		{"type":"text","text":"Resonancia","id":"bc30b5159657e4c6","x":-650,"y":80,"width":250,"height":60},
+		{"type":"text","text":"Resonante, cuando $\\lambda_0 = \\lambda_i$ con $\\lambda_i$ algún valor característico de la EDO homogénea","id":"596a6d8ee7ef710f","x":-350,"y":220,"width":350,"height":100},
+		{"type":"text","text":"No homogenea","id":"6f315fd51c09f79a","x":-720,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"[[EDO de coeficiente variables]]","id":"ddfc50a594257743","x":-350,"y":-360,"width":250,"height":60},
+		{"type":"text","text":"Edo coeficientes constantes","id":"7df5c7e18f9aff6e","x":-350,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"Edo coeficientes constantes","id":"87f618406cdb0b63","x":-350,"y":-900,"width":250,"height":60},
+		{"type":"text","text":"[[EDO de coeficiente variables]]","id":"9c3d57e91fd526e9","x":-350,"y":-720,"width":250,"height":60},
+		{"type":"text","text":"[[Base]] del [[polinomio característico]] y valores característicos","id":"cccf6d3411523187","x":20,"y":-920,"width":250,"height":100},
+		{"type":"text","text":"Método de [[Fórmula de Luiville|Luiville]] y [[Fórmula de Abel|Abel]]","id":"17465088d637e6f2","x":20,"y":-742,"width":250,"height":105},
+		{"type":"text","text":"Constantes indeterminadas","id":"c142db434774395b","x":20,"y":-562,"width":250,"height":105},
+		{"type":"text","text":"Cambio de variable de Euler","id":"51835db6d6ca52e6","x":20,"y":-382,"width":250,"height":105}
+	],
+	"edges":[
+		{"id":"6a8f5c87372377cb","fromNode":"5b707e0052db88aa","fromSide":"bottom","toNode":"bc30b5159657e4c6","toSide":"right","toEnd":"none"},
+		{"id":"3cd6d384616fd774","fromNode":"596a6d8ee7ef710f","fromSide":"top","toNode":"bc30b5159657e4c6","toSide":"right","toEnd":"none"},
+		{"id":"4d8c4f9cfb744c35","fromNode":"805226ec87a8b40c","fromSide":"right","toNode":"bc30b5159657e4c6","toSide":"left"},
+		{"id":"b6c2243afab63925","fromNode":"4cb856f624f2e580","fromSide":"right","toNode":"6f315fd51c09f79a","toSide":"left"},
+		{"id":"e195d6b141fadc44","fromNode":"4cb856f624f2e580","fromSide":"right","toNode":"855e7f921753c2ff","toSide":"left"},
+		{"id":"6e9cf5164fb1d978","fromNode":"6f315fd51c09f79a","fromSide":"right","toNode":"7df5c7e18f9aff6e","toSide":"left"},
+		{"id":"e917ebaaf3c2a788","fromNode":"6f315fd51c09f79a","fromSide":"right","toNode":"ddfc50a594257743","toSide":"left"},
+		{"id":"861afbf1020096a6","fromNode":"855e7f921753c2ff","fromSide":"right","toNode":"87f618406cdb0b63","toSide":"left"},
+		{"id":"d58a263a63c0366d","fromNode":"855e7f921753c2ff","fromSide":"right","toNode":"9c3d57e91fd526e9","toSide":"left"},
+		{"id":"07cbfe7fddf453e3","fromNode":"7df5c7e18f9aff6e","fromSide":"right","toNode":"c142db434774395b","toSide":"left"},
+		{"id":"835d8692abd72376","fromNode":"ddfc50a594257743","fromSide":"right","toNode":"51835db6d6ca52e6","toSide":"left"},
+		{"id":"89572322230a7449","fromNode":"9c3d57e91fd526e9","fromSide":"right","toNode":"17465088d637e6f2","toSide":"left"},
+		{"id":"2f7a008007143759","fromNode":"87f618406cdb0b63","fromSide":"right","toNode":"cccf6d3411523187","toSide":"left"}
+	]
+}
