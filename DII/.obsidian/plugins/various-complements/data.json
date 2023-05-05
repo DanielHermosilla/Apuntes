@@ -95,8 +95,8 @@
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 35,
-          "lastUpdated": 1681736223364
+          "count": 36,
+          "lastUpdated": 1682687660963
         }
       }
     },
@@ -105,22 +105,6 @@
         "internalLink": {
           "count": 12,
           "lastUpdated": 1681735841510
-        }
-      }
-    },
-    "Cardinalidad": {
-      "Cardinalidad": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1679918998187
-        }
-      }
-    },
-    "Función Utilidad": {
-      "Función Utilidad": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679519323304
         }
       }
     },
@@ -145,22 +129,6 @@
         "currentFile": {
           "count": 3,
           "lastUpdated": 1681739353215
-        }
-      }
-    },
-    "1}^{\\infty}P": {
-      "1}^{\\infty}P": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679658887699
-        }
-      }
-    },
-    "reemplazo": {
-      "reemplazo": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679917708976
         }
       }
     },
@@ -319,8 +287,8 @@
     "Esperanza": {
       "Esperanza": {
         "internalLink": {
-          "count": 8,
-          "lastUpdated": 1682084489856
+          "count": 9,
+          "lastUpdated": 1682688562397
         }
       }
     },
@@ -343,8 +311,8 @@
     "Varianza": {
       "Varianza": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682080973168
+          "count": 4,
+          "lastUpdated": 1682688838176
         }
       }
     },
@@ -409,6 +377,38 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681739053201
+        }
+      }
+    },
+    "Continuidad": {
+      "Continuidad": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682686099789
+        }
+      }
+    },
+    "x\\in\\mathbb{R}": {
+      "x\\in\\mathbb{R}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682687334151
+        }
+      }
+    },
+    "\\int_{-\\infty}^{x}f_x": {
+      "\\int_{-\\infty}^{x}f_x": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682687401402
+        }
+      }
+    },
+    "Variable aleatoria continua": {
+      "Variable aleatoria continua": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682688845308
         }
       }
     }

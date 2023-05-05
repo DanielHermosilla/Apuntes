@@ -11,32 +11,18 @@ Entonces *¿Cuanto vale $W'$?*
 
 Se tendría una matríz de la siguiente forma: 
 
-$$W = \begin{bmatrix}
-y_1 & y_2 & \dots & y_n \\ 
-y_1' & y_2 ' & \dots & y_n' \\ 
-\vdots & \vdots & \vdots & \vdots \\ 
-y_{1}^{n-1} & y_{2}^{n-1} & \dots & y_{n}^{n-1}\end{bmatrix}$$ 
+$$W = \begin{bmatrix}y_1&y_2&\dots& y_n\\y_1'&y_2'&\dots&y_n'\\\vdots&\vdots&\vdots&\vdots\\y_{1}^{n-1}&y_{2}^{n-1}&\dots&y_{n}^{n-1}\end{bmatrix}$$ 
 El caso de la derivada de una matriz $2\times 2$ sería: 
 
-$$\begin{bmatrix}
-a & b \\ 
-c & d \end{bmatrix}' = (ad-bc)' = a'd + ad' - b'c - bc' = \begin{bmatrix} a' & b' \\ 
-c & d\end{bmatrix} + \begin{bmatrix} a & b \\ c' & d'\end{bmatrix}$$ 
+$$\begin{bmatrix}a&b\\c&d\end{bmatrix}'=(ad-bc)'= a'd + ad' - b'c - bc' =\begin{bmatrix}a'&b'\\c&d\end{bmatrix}+\begin{bmatrix}a&b\\c'&d'\end{bmatrix}$$ 
 Esto se extrapola al caso *n-esimo*. Entonces, se llega que la derivada es: 
 
 $$W' = \begin{bmatrix}
-y_1' & y_2' & \dots & y_n' \\ 
-y_1' & y_2 ' & \dots & y_n' \\ 
-\vdots & \vdots & \vdots & \vdots \\ 
-y_{1}^{n-1} & y_{2}^{n-1} & \dots & y_{n}^{n-1}\end{bmatrix} + \begin{bmatrix}
-y_1 & y_2 & \dots & y_n \\ 
-y_1'' & y_2'' & \dots & y_n' \\ 
-\vdots & \vdots & \vdots & \vdots \\ 
-y_{1}^{n-1} & y_{2}^{n-1} & \dots & y_{n}^{n-1}\end{bmatrix} + \dots + \begin{bmatrix}
-y_1 & y_2 & \dots & y_n \\ 
-y_1' & y_2 ' & \dots & y_n' \\ 
-\vdots & \vdots & \vdots & \vdots \\ 
-y_{1}^{n} & y_{2}^{n} & \dots & y_{n}^{n}\end{bmatrix}$$ 
+y_1'&y_2'&\dots&y_n'\\ 
+y_1'&y_2 '&\dots&y_n'\\\vdots&\vdots&\vdots&\vdots\\y_{1}^{n-1}&y_{2}^{n-1}&\dots&y_{n}^{n-1}\end{bmatrix} + \begin{bmatrix}
+y_1 & y_2 &\dots& y_n\\ 
+y_1''&y_2''&\dots&y_n'\\\vdots&\vdots&\vdots&\vdots\\y_{1}^{n-1}&y_{2}^{n-1}&\dots&y_{n}^{n-1}\end{bmatrix} + \dots + \begin{bmatrix}y_1 & y_2 &\dots& y_n\\ 
+y_1' & y_2'&\dots&y_n'\\\vdots&\vdots&\vdots&\vdots\\y_{1}^{n} & y_{2}^{n}&\dots&y_{n}^{n}\end{bmatrix}$$ 
 Notemos que se forman [[dependencia|dependencias]] lineales entre las filas, entonces el [[determinante]] de cada uno es $0$ a excepción del último donde son linealmente independiente. 
 
 Notemos que de la solución de la ecuación diferencial sale que: 
@@ -49,18 +35,12 @@ $$y_i^{(n)} = -\sum^{n-1}_{j=0}\bar{a_j}(x)y_i^{(j)}\;\;\;y_1\in H\;\;\;i=1,2,3,
 Entonces, esto se puede reemplazar en la derivada de la matriz: 
 
 $$W' = \begin{bmatrix}
-y_1 & y_2 & \dots & y_n \\ 
-y_1' & y_2 ' & \dots & y_n' \\ 
-\vdots & \vdots & \vdots & \vdots \\ 
--\sum^{n-1}_{j=0}\bar{a_j}(x)y_1^{(j)} & -\sum^{n-1}_{j=0}\bar{a_j}(x)y_2^{(j)} & \dots & -\sum^{n-1}_{j=0}\bar{a_j}(x)y_n^{(j)}\end{bmatrix}$$
+y_1&y_2&\dots&y_n\\y_1'&y_2'&\dots&y_n'\\\vdots&\vdots&\vdots&\vdots\\-\sum^{n-1}_{j=0}\bar{a_j}(x)y_1^{(j)}&-\sum^{n-1}_{j=0}\bar{a_j}(x)y_2^{(j)}&\dots&-\sum^{n-1}_{j=0}\bar{a_j}(x)y_n^{(j)}\end{bmatrix}$$
 
 Por linealidad de la constante, se puede reescribir como: 
 
 $$W' = -\sum^{n-1}_{j=0}\bar{a_j}(x)\begin{bmatrix}
-y_1 & y_2 & \dots & y_n \\ 
-y_1' & y_2 ' & \dots & y_n' \\ 
-\vdots & \vdots & \vdots & \vdots \\ 
-y_{1}^{j} & y_{2}^{j} & \dots & y_{n}^{j}\end{bmatrix}$$ 
+y_1&y_2&\dots&y_n\\y_1'&y_2'&\dots&y_n'\\\vdots&\vdots&\vdots&\vdots\\y_{1}^{j}&y_{2}^{j}&\dots&y_{n}^{j}\end{bmatrix}$$ 
 Notemos que cuando $j=0$, entonces se tiene la primera fila y una [[dependencia]] lineal, cuando $j=1$ pasa lo mismo con la segunda fila, y así sucesivamente. Notemos que el único caso donde no se anula es cuando se tiene la última suma. Por ende, se llega a lo siguiente: 
 
 $$W' = -\bar{a_{n-1}}(x)W$$ 

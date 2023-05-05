@@ -1,20 +1,25 @@
 {
 	"nodes":[
 		{"type":"text","text":"[[EDO lineal de orden n]]","id":"4cb856f624f2e580","x":-1020,"y":-620,"width":260,"height":60},
-		{"type":"text","text":"Homogenea","id":"855e7f921753c2ff","x":-720,"y":-800,"width":250,"height":60},
-		{"type":"text","text":"No resonante, cuando $\\lambda_0 \\neq \\lambda_i$, con $\\lambda_i$ algun valor característico de la EDO homogénea","id":"5b707e0052db88aa","x":-350,"y":-80,"width":350,"height":100},
-		{"type":"text","text":"[[Método de constantes indeterminadas]]","id":"805226ec87a8b40c","x":-1010,"y":70,"width":250,"height":80,"color":"6"},
-		{"type":"text","text":"Resonancia","id":"bc30b5159657e4c6","x":-650,"y":80,"width":250,"height":60},
-		{"type":"text","text":"Resonante, cuando $\\lambda_0 = \\lambda_i$ con $\\lambda_i$ algún valor característico de la EDO homogénea","id":"596a6d8ee7ef710f","x":-350,"y":220,"width":350,"height":100},
-		{"type":"text","text":"No homogenea","id":"6f315fd51c09f79a","x":-720,"y":-440,"width":250,"height":60},
-		{"type":"text","text":"[[EDO de coeficiente variables]]","id":"ddfc50a594257743","x":-350,"y":-360,"width":250,"height":60},
-		{"type":"text","text":"Edo coeficientes constantes","id":"7df5c7e18f9aff6e","x":-350,"y":-540,"width":250,"height":60},
-		{"type":"text","text":"Edo coeficientes constantes","id":"87f618406cdb0b63","x":-350,"y":-900,"width":250,"height":60},
-		{"type":"text","text":"[[EDO de coeficiente variables]]","id":"9c3d57e91fd526e9","x":-350,"y":-720,"width":250,"height":60},
-		{"type":"text","text":"[[Base]] del [[polinomio característico]] y valores característicos","id":"cccf6d3411523187","x":20,"y":-920,"width":250,"height":100},
-		{"type":"text","text":"Método de [[Fórmula de Luiville|Luiville]] y [[Fórmula de Abel|Abel]]","id":"17465088d637e6f2","x":20,"y":-742,"width":250,"height":105},
-		{"type":"text","text":"Constantes indeterminadas","id":"c142db434774395b","x":20,"y":-562,"width":250,"height":105},
-		{"type":"text","text":"Cambio de variable de Euler","id":"51835db6d6ca52e6","x":20,"y":-382,"width":250,"height":105}
+		{"type":"text","text":"Homogenea","id":"855e7f921753c2ff","x":-720,"y":-960,"width":250,"height":60},
+		{"type":"text","text":"No resonante, cuando $\\lambda_0 \\neq \\lambda_i$, con $\\lambda_i$ algun valor característico de la EDO homogénea","id":"5b707e0052db88aa","x":-295,"y":240,"width":350,"height":100},
+		{"type":"text","text":"[[Método de constantes indeterminadas]]","id":"805226ec87a8b40c","x":-955,"y":390,"width":250,"height":80,"color":"6"},
+		{"type":"text","text":"Resonancia","id":"bc30b5159657e4c6","x":-595,"y":400,"width":250,"height":60},
+		{"type":"text","text":"Resonante, cuando $\\lambda_0 = \\lambda_i$ con $\\lambda_i$ algún valor característico de la EDO homogénea","id":"596a6d8ee7ef710f","x":-295,"y":540,"width":350,"height":100},
+		{"type":"text","text":"No homogenea","id":"6f315fd51c09f79a","x":-720,"y":-298,"width":250,"height":60},
+		{"type":"text","text":"[[Base]] del [[polinomio característico]] y valores característicos","id":"cccf6d3411523187","x":20,"y":-1180,"width":250,"height":100},
+		{"type":"text","text":"Edo coeficientes constantes","id":"87f618406cdb0b63","x":-350,"y":-1160,"width":250,"height":60},
+		{"type":"text","text":"Edo coeficientes constantes","id":"7df5c7e18f9aff6e","x":-350,"y":-498,"width":250,"height":60},
+		{"type":"text","text":"Constantes indeterminadas","id":"c142db434774395b","x":20,"y":-520,"width":250,"height":105},
+		{"type":"text","text":"[[EDO de coeficiente variables]]","id":"ddfc50a594257743","x":-350,"y":-98,"width":250,"height":60},
+		{"type":"text","text":"Cambio de variable de Euler","id":"51835db6d6ca52e6","x":20,"y":-120,"width":250,"height":105},
+		{"type":"text","text":"[[EDO de coeficiente variables]]","id":"9c3d57e91fd526e9","x":-350,"y":-758,"width":250,"height":60},
+		{"type":"text","text":"Método de [[Fórmula de Luiville|Luiville]] y [[Fórmula de Abel|Abel]]","id":"17465088d637e6f2","x":20,"y":-780,"width":250,"height":105},
+		{"type":"text","text":"**Raices reales y distintas:**\n$y_h(x) = Ae^{\\lambda_1x} + Be^{\\lambda_2x}$","id":"58a7e8151b8906fc","x":420,"y":-1440,"width":300,"height":100,"color":"6"},
+		{"type":"text","text":"**Raices reales e iguales:**\n$y_h(x) = Ae^{\\lambda x} + Bxe^{\\lambda x}$","id":"76d326a836d05d87","x":426,"y":-1180,"width":300,"height":100,"color":"6"},
+		{"type":"text","text":"**Raices complejas:**\nSea $\\lambda_1=\\gamma + i\\omega$ y $\\lambda_2 = \\gamma - i\\omega$ \n\n$y_h(x) = e^{\\gamma x}(A\\cos(\\omega x)+B\\sin(\\omega x))$","id":"ce58c8b4066c195f","x":426,"y":-940,"width":300,"height":100,"color":"6"},
+		{"type":"text","text":"**Wronskiano:**\n$$\\begin{bmatrix} y_1(x) & y_2(x) \\\\ y_1'(x) & y_2'(x)\\end{bmatrix}$$\n$y_1(x)y_{2}^{'}(x) + y_{1}^{'}(x)y_2(x)$","id":"92907abd283d350d","x":426,"y":-537,"width":250,"height":138,"color":"2"},
+		{"id":"64f2747c2b7929ae","x":800,"y":-526,"width":462,"height":118,"color":"2","type":"text","text":"**Solución particular**:\n$$y_p(x) = -y_1(x)\\int\\frac{\\bar{Q(x)}y_2(x)}{W(x)}dx + y_2(x)\\int\\frac{\\bar{Q(x)}y_1(x)}{W(x)}dx$$ "}
 	],
 	"edges":[
 		{"id":"6a8f5c87372377cb","fromNode":"5b707e0052db88aa","fromSide":"bottom","toNode":"bc30b5159657e4c6","toSide":"right","toEnd":"none"},
@@ -29,6 +34,11 @@
 		{"id":"07cbfe7fddf453e3","fromNode":"7df5c7e18f9aff6e","fromSide":"right","toNode":"c142db434774395b","toSide":"left"},
 		{"id":"835d8692abd72376","fromNode":"ddfc50a594257743","fromSide":"right","toNode":"51835db6d6ca52e6","toSide":"left"},
 		{"id":"89572322230a7449","fromNode":"9c3d57e91fd526e9","fromSide":"right","toNode":"17465088d637e6f2","toSide":"left"},
-		{"id":"2f7a008007143759","fromNode":"87f618406cdb0b63","fromSide":"right","toNode":"cccf6d3411523187","toSide":"left"}
+		{"id":"2f7a008007143759","fromNode":"87f618406cdb0b63","fromSide":"right","toNode":"cccf6d3411523187","toSide":"left"},
+		{"id":"ff2f5836a7518994","fromNode":"cccf6d3411523187","fromSide":"right","toNode":"58a7e8151b8906fc","toSide":"left"},
+		{"id":"861b6af37a8798ed","fromNode":"cccf6d3411523187","fromSide":"right","toNode":"76d326a836d05d87","toSide":"left"},
+		{"id":"66796f6e50f282bb","fromNode":"cccf6d3411523187","fromSide":"right","toNode":"ce58c8b4066c195f","toSide":"left"},
+		{"id":"c9d5282951004691","fromNode":"c142db434774395b","fromSide":"right","toNode":"92907abd283d350d","toSide":"left"},
+		{"id":"f9d349787ab73b1f","fromNode":"92907abd283d350d","fromSide":"right","toNode":"64f2747c2b7929ae","toSide":"left"}
 	]
 }

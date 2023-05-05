@@ -15,8 +15,8 @@
               "state": {
                 "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
                 "viewState": {
-                  "x": -52.83085846815739,
-                  "y": -499.79917681135584,
+                  "x": -59.32108544937505,
+                  "y": -713.9766671915398,
                   "zoom": -0.8029663128157462
                 }
               }
@@ -26,9 +26,24 @@
             "id": "bedf036c20c1e57a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
+                "viewState": {
+                  "x": 729.383195631159,
+                  "y": -375.5304693395939,
+                  "zoom": -0.41575867430263336
+                }
+              }
+            }
+          },
+          {
+            "id": "b8ce6c7b67ee58cb",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas"
               }
             }
           },
@@ -172,33 +187,34 @@
   },
   "active": "bedf036c20c1e57a",
   "lastOpenFiles": [
+    "Captura de pantalla 2023-05-01 a la(s) 16.17.05.png",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
     "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Apuntes Control 2.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Abel.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Teorema de Existencia y Unicidad de Orden 2.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de coeficiente variables.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
     "Ecuaciones Diferenciales Ordinarias/Método de constantes indeterminadas.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuación de Ricatti.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
     "Álgebra Lineal/Espacios vectoriales/generador.md",
     "Álgebra Lineal/Espacios vectoriales/dependencia.md",
     "Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
     "Álgebra Lineal/Espacios vectoriales/propiedad compacta.md",
     "Álgebra Lineal/Espacios vectoriales/escalares.md",
     "Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de coeficiente variables.md",
     "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones reductibles.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación homogénea.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuación de Bernoulli.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Teorema de Existencia y Unicidad de Orden 2.md",
     "Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
     "Álgebra Lineal/Matrices/matriz.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
-    "Cálculo en Varias Variables/Resumen Control 1.md",
-    "Cálculo en Varias Variables/Pregunta.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sobre amortiguado.jpeg",

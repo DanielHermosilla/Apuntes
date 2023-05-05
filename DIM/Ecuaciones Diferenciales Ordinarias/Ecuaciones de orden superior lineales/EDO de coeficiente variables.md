@@ -21,16 +21,7 @@ $$y'' + \bar{a_1}(x)y' + \bar{a_0}(x)y = 0)$$
 
 Notemos que se puede representar [[matriz|matricialmente]]: 
 
-$$\begin{bmatrix}
-y \\ 
-y'
-\end{bmatrix}' = \begin{bmatrix}
-0 & 1 \\ 
--\bar{a_0}(x) & -\bar{a_1}(x)
-\end{bmatrix} \begin{bmatrix}
-y \\ 
-y'
-\end{bmatrix}$$ 
+$$\begin{bmatrix}y\\y'\end{bmatrix}'=\begin{bmatrix}0&1\\-\bar{a_0}(x)&-\bar{a_1}(x)\end{bmatrix}\begin{bmatrix}y\\y'\end{bmatrix}$$ 
 Si se desarrolla el producto, se tiene que: 
 1. $y' = y'$
 2. $y'' = -\bar{a_0}y - \bar{a_1}y'$ 
@@ -40,9 +31,7 @@ Por lo tanto, se llega que: $Y' = A(x)·Y$. Además, si se imponen las [[Condici
 Por lo tanto, se llega a un [[Teoría de Existencia y Unicidad|problema de Cauchy]], donde: 
 
 $$\text{Problema de Cauchy} = \begin{cases}
-Y' = A(x)·Y \\
-\\
-Y(x_0) = \begin{bmatrix}
+Y' = A(x)·Y\\\\Y(x_0) = \begin{bmatrix}
 y(x_0) \\ 
 y'(x_0)
 \end{bmatrix}\end{cases}$$ 
@@ -55,27 +44,23 @@ Por lo tanto, se podría conseguir una [[Base|base]] a partir de la ecuación, d
 Sea la misma ecuación de antes; $y'' + \bar{a_1}(x)y' + \bar{a_0}(x)y = 0$, entonces se puede imponer lo siguiente: 
 
 $$\text{Base} = \begin{cases} 
-y'' + \bar{a_1}(x)y' + \bar{a_0}(x)y = 0) \\
-\\
-y_1(x_0) = 1,\ y_{1}^{'}(x_0) = 0\end{cases}\implies \exists! y_1\in C^2
-\ \land\ \begin{cases}
+y'' + \bar{a_1}(x)y' + \bar{a_0}(x)y = 0)\\\\y_1(x_0) = 1,\;y_{1}^{'}(x_0) = 0\end{cases}\implies\exists!y_1\in C^2
+\;\land\;\begin{cases}
 y'' + \bar{a_1}(x)y' + \bar{a_0}(x)y = 0) \\ 
 \\ 
-y_2(x_0) = 0, \ y_{2}' = 1\end{cases}\implies \exists! y\in C^2$$
+y_2(x_0) = 0,\;y_{2}'=1\end{cases}\implies\exists! y\in C^2$$
 
 Ahora, veamos que si son linealmente [[dependencia|independientes]]: 
 
 $$\begin{bmatrix}
 y_1(x) & y_2(x) \\
 y_1'(x) & y_2'(x)
-\end{bmatrix} \begin{bmatrix}
-\alpha \\ 
-\beta 
+\end{bmatrix} \begin{bmatrix}\alpha \\\beta 
 \end{bmatrix} = \begin{bmatrix}
 0 \\ 
 0
 \end{bmatrix}$$ 
-En $x_0$ queda la [[matriz|matriz identidad]], entonces $\alpha = \beta = 0$, y es linealmente independiente. Para llegar a ser [[Base|base]], $\lbrace y_1, y_2\rbrace$ debe generar $H$. Es decir $<\lbrace y_1,y_2 \rbrace>$ = $H$. 
+En $x_0$ queda la [[matriz|matriz identidad]], entonces $\alpha=\beta =0$, y es linealmente independiente. Para llegar a ser [[Base|base]], $\lbrace y_1, y_2\rbrace$ debe generar $H$. Es decir $<\lbrace y_1,y_2 \rbrace>$ = $H$. 
 
 Sea $y_1\in H$, encontremos $\alpha, \beta, \in \mathbb{R}$ tal que $y_h = \alpha y_1 + \beta y_1$ y $y_h' = \alpha y_1 + \beta y_2$. Es decir: 
 
@@ -83,9 +68,7 @@ $$\begin{bmatrix}
 y_1(x) & y_2(x) \\
 y_1'(x) & y_2'(x)
 \end{bmatrix} \begin{bmatrix}
-\alpha \\ 
-\beta 
-\end{bmatrix} = \begin{bmatrix}
+\alpha \\\beta\end{bmatrix} = \begin{bmatrix}
 y_h(x)\\ 
 y_h'(x)
 \end{bmatrix}$$

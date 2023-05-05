@@ -27,24 +27,7 @@ Pero, nuevamente, $(\alpha y_1 '' + \beta y_2 '') = 0$ pues es solución del sis
 Entonces, 
 
 $$\begin{bmatrix}
-
-y_1(x) & y_2(x) \\ 
-y_1'(x) & y_2'(x)
-
-\end{bmatrix}
-\begin{bmatrix}
-
-\alpha' \\ 
-\beta'
-
-\end{bmatrix}
-=
-\begin{bmatrix}
-
-0 \\ 
-Q'
-
-\end{bmatrix}$$
+y_1(x) & y_2(x)\\ y_1'(x) & y_2'(x)\end{bmatrix}\begin{bmatrix}\alpha'\\\beta'\end{bmatrix}=\begin{bmatrix}0\\Q'\end{bmatrix}$$
 
 Donde $\alpha ' = \frac{-y_2 \bar{Q}}{W}$ y $\beta' = \frac{y_1\bar{Q}}{W}$. Por último, basta integrar para obtener $\alpha$ y $\beta$, es decir: 
 
@@ -63,8 +46,7 @@ $$y_h = \alpha\cos(kx) + \beta\sin(kx)$$
 Por lo tanto, la [[Matriz Wronskiana]] llegaría a ser: 
 
 $$W = \begin{bmatrix}
-\cos(kx) & \sin(kx)\\ 
-k\sin(kx) & k\cos(kx)
+\cos(kx)&\sin(kx)\\k\sin(kx)&k\cos(kx)
 \end{bmatrix}$$ 
 Con el valor del determinante siendo $W=k$. Por lo tanto, la solución no homogénea sería: 
 
@@ -75,10 +57,10 @@ Ocupando las fórmulas:
 
 Entonces, 
 
-$$\frac{1}{2}\left[ \cos(\alpha-\beta) -\cos(\alpha + \beta)\right] = \sin(\alpha)\sin(\beta)\ \land \ \frac{1}{2}\left[\sin(\alpha-\beta) + \sin(\alpha + \beta)\right] = \sin(\alpha)\cos(\beta)$$ 
+$$\frac{1}{2}\left[\cos(\alpha-\beta)-\cos(\alpha +\beta)\right]=\sin(\alpha)\sin(\beta)\;\land\;\frac{1}{2}\left[\sin(\alpha-\beta)+\sin(\alpha+\beta)\right]=\sin(\alpha)\cos(\beta)$$ 
 Por lo tanto, la función queda como: 
 
-$$y_p = \frac{-\cos(kx)}{2k}\int\left[ \cos(\omega_0 - k)x - \cos(\omega_0 + k)x \right] + \frac{\sin(kx)}{2k}\int\left[ \sin(\omega_0 - k)x + \sin(\omega_0 + k)x \right] - \frac{\cos(kx)}{2k}\left[\frac{1}{\omega_0 - k}\sin((\omega_0-k)x)-\frac{1}{\omega_0 + k}\sin(\omega_0 + k)x\right] + \frac{\sin(kx)}{2k}\left[\frac{-1}{\omega_0-k}\cos((\omega_0-k)x)-\frac{1}{\omega_0 + k}\cos((\omega_0 + k)x)\right]$$ 
+$$y_p = \frac{-\cos(kx)}{2k}\int\left[\cos(\omega_0 - k)x-\cos(\omega_0 +k)x\right]+\frac{\sin(kx)}{2k}\int\left[\sin(\omega_0 - k)x + \sin(\omega_0+k)x\right]-\frac{\cos(kx)}{2k}\left[\frac{1}{\omega_0- k}\sin((\omega_0-k)x)-\frac{1}{\omega_0+k}\sin(\omega_0 + k)x\right] + \frac{\sin(kx)}{2k}\left[\frac{-1}{\omega_0-k}\cos((\omega_0-k)x)-\frac{1}{\omega_0+k}\cos((\omega_0+k)x)\right]$$ 
 
 Resolviendo todo esto queda: 
 

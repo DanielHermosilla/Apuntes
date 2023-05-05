@@ -1,11 +1,6 @@
 Se define como la siguiente [[matriz]]:
 
-$$\begin{bmatrix}
-
-y_1(x) & y_2(x) \\ 
-y_1'(x) & y_2'(x)
-
-\end{bmatrix}$$ 
+$$\begin{bmatrix} y_1(x) & y_2(x) \\ y_1'(x) & y_2'(x)\end{bmatrix}$$ 
 Los determinantes son lineales por filas o por columnas de una [[matriz]] **Wronskiana**, por lo tanto, se puede sacar del [[determinante]] un factor común. 
 
 ### Definición 
@@ -22,22 +17,7 @@ $$\alpha y_1'(x) + \beta y_2'(x) = 0$$
 
 Por lo tanto, la matriz wronskiana nos asegura que es invertible y por lo tanto, $\alpha=\beta=0$: 
 
-$$\begin{bmatrix}
-
-y_1(x) & y_2(x) \\ 
-y_1'(x) & y_2'(x)
-
+$$\begin{bmatrix}y_1(x) & y_2(x) \\ y_1'(x) & y_2'(x)
 \end{bmatrix}
 \begin{bmatrix}
-
-\alpha \\ 
-\beta
-
-\end{bmatrix}
-=
-\begin{bmatrix}
-
-0 \\ 
-0
-
-\end{bmatrix}$$ 
+\alpha \\\beta\end{bmatrix}=\begin{bmatrix}0 \\0\end{bmatrix}$$ 
