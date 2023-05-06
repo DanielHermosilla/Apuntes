@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md"
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md"
               }
             }
           }
@@ -197,12 +197,12 @@
   },
   "active": "030abbe62460dc45",
   "lastOpenFiles": [
-    "Probabilidades/Variable aleatoria continua/Curtosis.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
+    "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
     "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+    "Probabilidades/Variable aleatoria continua/Curtosis.md",
     "Probabilidades/Variable aleatoria continua/Asimetría (Skewness).md",
     "Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
-    "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
     "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
     "Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
     "Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
