@@ -5,6 +5,14 @@ Si $X$ es una [[Variable aleatoria continua|variable aleatoria continnua]] y $g:
 
 $$f_y(y) = f_x(g^{-1}(y))·\frac{1}{\bigg\vert g'(g^{-1}(y))\bigg\vert}$$
 
+## Generalización 
+
+El caso cuando el [[Cambio de variable|cambio de variable]] no es monótona y se tiene una partición de intervalo en los reales $\lbrace I_i\rbrace_{i=1}^{N}$ donde $g$ es estricamente monótona y derivable en el interior de cada uno de dichos intervalos. Entonces $Y = g(X)$ tiene densidad: 
+
+$$f_Y(y)=\sum_{i=1}^{N}f_x(g_{i}^{-1}(y))·\bigg\vert\frac{d}{dy}g_{i}^{-1}(y)\bigg\vert$$ 
+Donde $g_i(x) = g(x)$ para todo $x\in I_i$. 
+
+
 ### Ejemplo 
 
 Sea $X$ una [[Variable aleatoria continua|variable aleatoria continua]] con una [[Función de Densidad de Probabilidad (PDF)|densidad]]: 
