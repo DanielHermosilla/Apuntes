@@ -5,7 +5,7 @@ $$F_x(x)=\int_{-\infty}^{x}f_x(x)dx$$
 O de otra forma: 
 
 $$f_x(x) = \frac{dF_x(x)}{dx}$$ 
-En todos los $x\in\mathbb{R}$ donde $F_x(x)$ es diferenciable. 
+En todos los $x\in\mathbb{R}$ donde $F_x(x)$ es diferenciable, es decir, la [[Derivada|derivada]] de la [[Función de Distribución Acumulada|acumulada]]. 
 
 ### Propiedades 
 

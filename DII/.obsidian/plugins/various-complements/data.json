@@ -60,27 +60,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Conjuntos": {
-      "Conjuntos": {
-        "internalLink": {
-          "count": 17,
-          "lastUpdated": 1680541438418
-        }
-      }
-    },
     "Derivada": {
       "Derivada": {
         "internalLink": {
           "count": 6,
           "lastUpdated": 1681145552371
-        }
-      }
-    },
-    "Economía": {
-      "Economía": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680539433368
         }
       }
     },
@@ -108,14 +92,6 @@
         }
       }
     },
-    "Juego": {
-      "Juego": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1680539966735
-        }
-      }
-    },
     "Independencia": {
       "Independencia": {
         "internalLink": {
@@ -132,123 +108,11 @@
         }
       }
     },
-    "Equilibrio de Nash": {
-      "Equilibrio de Nash": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680539524308
-        }
-      }
-    },
-    "Curva de Lorenz": {
-      "Curva de Lorenz": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680224059917
-        }
-      }
-    },
-    "Distribución Pareto-Eficiente": {
-      "Distribución Pareto-Eficiente": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680224154139
-        }
-      }
-    },
-    "\\begin{vmatrix}": {
-      "\\begin{vmatrix}": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1680264247027
-        }
-      }
-    },
-    "\\end{vmatrix}": {
-      "\\end{vmatrix}": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1680264253888
-        }
-      }
-    },
-    "0}^{n}\\begin{vmatrix}": {
-      "0}^{n}\\begin{vmatrix}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680264239792
-        }
-      }
-    },
-    "k \\end{vmatrix}": {
-      "k \\end{vmatrix}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680264245301
-        }
-      }
-    },
-    "0}^{n}\\begin{pmatrix}": {
-      "0}^{n}\\begin{pmatrix}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680264865559
-        }
-      }
-    },
-    "Propiedades": {
-      "Propiedades": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680471099762
-        }
-      }
-    },
-    "Ley uniforme discreta": {
-      "Ley uniforme discreta": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680471113827
-        }
-      }
-    },
-    "Desigualdad": {
-      "Desigualdad": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680539997262
-        }
-      }
-    },
-    "partes": {
-      "partes": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680541227445
-        }
-      }
-    },
-    "Asignaciones factibles": {
-      "Asignaciones factibles": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680541546222
-        }
-      }
-    },
     "Función de costos": {
       "Función de costos": {
         "internalLink": {
           "count": 2,
           "lastUpdated": 1681146131716
-        }
-      }
-    },
-    "\\frac{\\delta}{\\epsilon}": {
-      "\\frac{\\delta}{\\epsilon}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680716955406
         }
       }
     },
@@ -407,8 +271,64 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
+          "count": 3,
+          "lastUpdated": 1683550120870
+        }
+      }
+    },
+    "\\text{si}\\": {
+      "\\text{si}\\": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1682688845308
+          "lastUpdated": 1683549520540
+        }
+      }
+    },
+    "\\frac{1}{5}": {
+      "\\frac{1}{5}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683549831082
+        }
+      }
+    },
+    "Esperanza de una variable continua": {
+      "Esperanza de una variable continua": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683550118185
+        }
+      }
+    },
+    "\\begin{cases}\\frac{1}{2}&\\": {
+      "\\begin{cases}\\frac{1}{2}&\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683550147157
+        }
+      }
+    },
+    "-\\sqrt{y}": {
+      "-\\sqrt{y}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683550417423
+        }
+      }
+    },
+    "\\frac{1}{2}\\mathbb{1}_{sqrt{y}\\in": {
+      "\\frac{1}{2}\\mathbb{1}_{sqrt{y}\\in": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683550653808
+        }
+      }
+    },
+    "\\int_{-\\infty}^{\\infty}g": {
+      "\\int_{-\\infty}^{\\infty}g": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683551133866
         }
       }
     }
