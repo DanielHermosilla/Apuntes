@@ -44,43 +44,19 @@
             }
           },
           {
-            "id": "bd316ddf938fe6ad",
+            "id": "39a4a3799e82448f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Dinámica/Resonancia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c1a046b1c9a8613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Dinámica/Péndulo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b16b549688b8605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Energía/Trabajo.md",
+                "file": "Mecánica/Reclamo 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Energía/Puntos de equilibrios.md",
+                "file": "Mecánica/Reclamo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Energía/Puntos de equilibrios.md",
+                "file": "Mecánica/Reclamo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Energía/Puntos de equilibrios.md"
+                "file": "Mecánica/Reclamo 1.md"
               }
             }
           }
@@ -207,19 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c449b4b552bbc49e",
+  "active": "39a4a3799e82448f",
   "lastOpenFiles": [
-    "Mecánica/Dinámica/Untitled.md",
     "Mecánica/Energía/Puntos de equilibrios.md",
+    "Mecánica/Dinámica/Péndulo.md",
+    "Mecánica/Reclamo 1.md",
+    "Mecánica/Dinámica/Resonancia.md",
+    "Mecánica/Dinámica/Untitled.md",
     "Mecánica/Sistema de referencia.md",
     "Mecánica/Partícula.md",
     "Mecánica/Energía/Trabajo.md",
     "Mecánica/Energía/Fuerzas de repulsión.md",
     "Mecánica/Dinámica/Fuerzas de restitución.md",
     "Mecánica/Energía",
-    "Mecánica/Dinámica/Péndulo.md",
     "Mecánica/img/Péndulo.jpeg",
-    "Mecánica/Dinámica/Resonancia.md",
     "Mecánica/Dinámica/Fuerza roce.md",
     "Mecánica/Dinámica/Momentum lineal.md",
     "Mecánica/Dinámica/Problemas de Dinámica.md",
@@ -246,7 +223,6 @@
     "Mecánica/Cinemática/Cinemática.md",
     "Mecánica/Cinemática/Coordenadas polares.md",
     "Mecánica/Cinemática/Vector tangencial.md",
-    "Introducción a la Física Moderna/Física Cuántica/La ecuación de Schrödinger.md",
     "Mecánica/img",
     "Mecánica/Sistema de referencias",
     "Mecánica/Sistema de partículas",

@@ -50,19 +50,40 @@
             "id": "b8ce6c7b67ee58cb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
-                "viewState": {
-                  "x": 677.1198077135472,
-                  "y": -1034.3930146392468,
-                  "zoom": 0.14582704402582006
-                }
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70d9022ea007cb6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "140a83021456b7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -129,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Control 2.canvas"
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md"
               }
             }
           },
@@ -198,11 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8ce6c7b67ee58cb",
+  "active": "140a83021456b7a8",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
     "Ecuaciones Diferenciales Ordinarias/Control 2.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones",
@@ -227,7 +249,6 @@
     "Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
     "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Método de separación de variables.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",

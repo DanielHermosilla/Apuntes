@@ -329,6 +329,7 @@ dY
 dPv
 dzv
 dT
+diverger
 un
 una
 uni
@@ -373,6 +374,7 @@ uwj
 uUx
 uCO
 uvv
+unicidad
 corresponde
 calculado
 como
@@ -616,6 +618,7 @@ cTX
 cG
 ceU
 cT
+converger
 su
 ser
 se
@@ -765,6 +768,7 @@ sL
 sxF
 sIu
 sumando
+saca
 magnitud
 medio
 menor
@@ -1229,6 +1233,7 @@ Pn
 Pc
 Pz
 Pl
+Phi
 goras
 general
 geom
@@ -1741,6 +1746,7 @@ ej
 eeyY
 eL
 eguu
+establece
 formas
 fin
 forall
@@ -1823,6 +1829,7 @@ fuwL
 fF
 fI
 fC
+frobenius
 an
 amos
 aquello
@@ -2764,6 +2771,7 @@ Ay
 At
 AtVj
 Anular
+Ae
 Basicamente
 Bola
 Bolas
@@ -2798,6 +2806,8 @@ Btg
 Bs
 Bg
 Buscar
+Be
+BA
 Justamente
 JW
 Jw

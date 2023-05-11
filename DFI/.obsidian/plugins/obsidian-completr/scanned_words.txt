@@ -134,6 +134,7 @@ dentro
 definiendo
 derecho
 definici
+determinar
 fuerza
 forma
 fijar
@@ -280,6 +281,9 @@ arm
 amplitudes
 ambos
 aparece
+atada
+analizamos
+anal
 por
 para
 pan
@@ -377,6 +381,7 @@ postivo
 poner
 posibles
 producto
+plantear
 unidad
 una
 uno
@@ -489,6 +494,7 @@ rect
 respectivamente
 rmino
 rotor
+reposo
 Por
 Puede
 Producto
@@ -642,6 +648,9 @@ ti
 tl
 tienen
 traves
+torno
+tensa
+the
 se
 su
 sale
@@ -724,6 +733,7 @@ sumatoria
 sistemas
 subamortiguada
 simplifica
+similar
 como
 cuerpos
 comprimirla
@@ -869,6 +879,11 @@ convergen
 constantes
 cumpla
 cualquiera
+concavidad
+convexidad
+cuerda
+condici
+chicos
 Notemos
 Nos
 Newton
@@ -1018,6 +1033,10 @@ expandir
 ese
 ejercida
 escalar
+estable
+encuentra
+evaluar
+ecuaciones
 modificar
 masa
 mira
@@ -1311,6 +1330,9 @@ imponen
 indeterminaci
 impone
 intr
+inestable
+integra
+inicio
 no
 neo
 ngulo
@@ -1570,6 +1592,7 @@ oeei
 otras
 original
 ocupan
+oscilar
 borde
 buena
 busca
@@ -1789,6 +1812,7 @@ Ic
 ISC
 Ia
 Ix
+Imponiendo
 Joule
 JFIF
 Jx
