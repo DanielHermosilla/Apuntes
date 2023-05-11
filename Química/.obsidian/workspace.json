@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b021bcfb6bcc44ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reacciones Químicas/Reacciones en medios acuosos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cadd247bd809acde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reacciones Químicas/Saturación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5b391741aa623c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reacciones Químicas/Disolución.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reacciones Químicas/Rendimiento de una reacción.md",
+                "file": "Reacciones Químicas/Saturación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reacciones Químicas/Rendimiento de una reacción.md",
+                "file": "Reacciones Químicas/Saturación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reacciones Químicas/Rendimiento de una reacción.md"
+                "file": "Reacciones Químicas/Saturación.md"
               }
             }
           }
@@ -160,10 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dde309e65b0fc7d8",
+  "active": "cadd247bd809acde",
   "lastOpenFiles": [
-    "Reacciones Químicas/Formula empírica.md",
+    "Reacciones Químicas/Reacciones en medios acuosos.md",
+    "Reacciones Químicas/Saturación.md",
+    "img/Electrolito.png",
+    "Reacciones Químicas/Soluciones.md",
+    "Reacciones Químicas/Disolución.md",
     "Reacciones Químicas/Rendimiento de una reacción.md",
+    "Reacciones Químicas/Formula empírica.md",
     "Resumen Control 1.md",
     "Teoría del campo cristalino.md",
     "Auxiliar Pre Control 1.md",
@@ -192,13 +233,8 @@
     "Tabla periódica/Carga nuclear efectiva.md",
     "Tabla periódica/Tabla periódica moderna.md",
     "Tabla periódica/Radio atómico.md",
-    "Reacciones Químicas/Ley de composición constante.md",
-    "Reacciones Químicas/Ley de las proporciones múltiples.md",
-    "Reacciones Químicas/Masa atómica.md",
-    "Reacciones Químicas/Ley de conservación de la masa.md",
     "Reacciones Químicas",
     "img/Presión.png",
-    "img/Presión de vapor.png",
     "Enlaces/Enlaces metálicos",
     "Teoría de los Orbitales Moleculares",
     "Isómeros",

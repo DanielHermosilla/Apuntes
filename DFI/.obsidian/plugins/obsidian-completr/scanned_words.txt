@@ -487,6 +487,7 @@ reemplazando
 rect
 respectivamente
 rmino
+rotor
 Por
 Puede
 Producto
@@ -569,6 +570,7 @@ lW
 lV
 lado
 llamamos
+lculo
 tanto
 tratar
 tender
@@ -1199,6 +1201,7 @@ VkI
 Vz
 VWQ
 VI
+Veamos
 generalizaci
 gido
 graduada

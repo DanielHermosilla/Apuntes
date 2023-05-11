@@ -789,6 +789,7 @@ polo
 polaridad
 permite
 produce
+puras
 que
 qy
 qe
@@ -3352,6 +3353,7 @@ mFv
 mgv
 mxO
 mBv
+mezcla
 Dalton
 DZ
 Dm
@@ -5479,6 +5481,7 @@ hWp
 hecho
 hacer
 hidruros
+homog
 BW
 Bx
 BE
@@ -9090,6 +9093,9 @@ sim
 solapar
 semiconducci
 superior
+sustancias
+soluto
+solvente
 äYE
 äd
 ßN

@@ -764,6 +764,7 @@ ss
 sL
 sxF
 sIu
+sumando
 magnitud
 medio
 menor
@@ -1337,6 +1338,8 @@ ErJ
 Eu
 Ez
 EI
+ERF
+Exponential
 Norma
 No
 Notemos
@@ -2430,6 +2433,7 @@ SF
 Sga
 SmMM
 Sj
+Sistema
 Donde
 Demostraci
 Diferencial
@@ -2759,6 +2763,7 @@ AYD
 Ay
 At
 AtVj
+Anular
 Basicamente
 Bola
 Bolas
@@ -2792,6 +2797,7 @@ BG
 Btg
 Bs
 Bg
+Buscar
 Justamente
 JW
 Jw
@@ -3068,6 +3074,7 @@ Rr
 RbF
 RSS
 RaO
+Response
 kappa
 kcM
 kj
@@ -3308,6 +3315,7 @@ FX
 FM
 FxQ
 FY
+Formula
 XO
 Xd
 Xmr

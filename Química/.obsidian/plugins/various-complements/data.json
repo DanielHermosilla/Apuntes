@@ -95,14 +95,6 @@
         }
       }
     },
-    "Polaridad del enlace covalente": {
-      "Polaridad del enlace covalente": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680271135942
-        }
-      }
-    },
     "Enlace covalente": {
       "Enlace covalente": {
         "internalLink": {
@@ -111,59 +103,11 @@
         }
       }
     },
-    "valencia": {
-      "valencia": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679926452705
-        }
-      }
-    },
     "Repulsión de los pares de electrones de la capa de valencia": {
       "Repulsión de los pares de electrones de la capa de valencia": {
         "internalLink": {
           "count": 3,
           "lastUpdated": 1682387240599
-        }
-      }
-    },
-    "Tipos de enlaces químicos": {
-      "Tipos de enlaces químicos": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680531631739
-        }
-      }
-    },
-    "\\sigma_{1s}": {
-      "\\sigma_{1s}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680533587509
-        }
-      }
-    },
-    "\\sigma_{1s}^{\\star}": {
-      "\\sigma_{1s}^{\\star}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680534352815
-        }
-      }
-    },
-    "e_{\\text{enlace}^{-}": {
-      "e_{\\text{enlace}^{-}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680533765976
-        }
-      }
-    },
-    "Mediciones magnéticas": {
-      "Mediciones magnéticas": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680533870538
         }
       }
     },
@@ -212,6 +156,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682513585291
+        }
+      }
+    },
+    "solución": {
+      "solución": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683560081652
+        }
+      }
+    },
+    "Disolución": {
+      "Disolución": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683560204902
         }
       }
     }
