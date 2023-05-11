@@ -47,51 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Aceleración": {
-      "Aceleración": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680013948673
-        }
-      }
-    },
     "Partícula": {
       "Partícula": {
         "internalLink": {
           "count": 5,
           "lastUpdated": 1682605800947
-        }
-      }
-    },
-    "cantidad de movimiento": {
-      "cantidad de movimiento": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680013417271
-        }
-      }
-    },
-    "Dinámica": {
-      "Dinámica": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680182877943
-        }
-      }
-    },
-    "Sistema de referencia": {
-      "Sistema de referencia": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680185954938
-        }
-      }
-    },
-    "Cinemática": {
-      "Cinemática": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680622456192
         }
       }
     },
@@ -148,6 +108,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682605823914
+        }
+      }
+    },
+    "energía potencial": {
+      "energía potencial": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683817433796
         }
       }
     }

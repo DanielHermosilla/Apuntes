@@ -133,6 +133,7 @@ dejar
 dentro
 definiendo
 derecho
+definici
 fuerza
 forma
 fijar
@@ -867,6 +868,7 @@ casos
 convergen
 constantes
 cumpla
+cualquiera
 Notemos
 Nos
 Newton
@@ -1015,6 +1017,7 @@ esta
 expandir
 ese
 ejercida
+escalar
 modificar
 masa
 mira
@@ -1356,6 +1359,7 @@ ntoticamente
 ngulos
 nsecas
 neta
+notemos
 homog
 haber
 hay
