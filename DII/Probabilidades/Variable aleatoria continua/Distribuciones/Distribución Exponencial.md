@@ -51,3 +51,5 @@ $$=\frac{1-F(x+a)}{1-F(a)}$$ $$=e^{-\lambda x}$$ $$=1 - F_x(x) = \mathbb{P}(X>x)
 
 
 
+
+

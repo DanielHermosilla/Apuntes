@@ -10,7 +10,7 @@ $$f_z(z) = \frac{1}{\sqrt{2\pi}}e^{-\frac{z^2}{2}}$$
 
 Esta definida sobre todos los reales, donde se cumple lo siguiente: 
 
-![[Captura de pantalla 2023-05-12 a la(s) 09.12.40.png|center|500]]
+![[DistribuciónNormal.png|center|500]]
 
 
 Por lo tanto, 
@@ -30,5 +30,5 @@ Ahora, si se define la [[Variable aleatoria continua|variable aleatoria]] como $
 
 Dado que no se puede calcular la [[Función de Densidad de Probabilidad (PDF)|CDF]], se puede ocupar una tabla normal, donde $z$ se forma con su **primer valor decimal** denominado por la fila y el **segundo valor decimal** con la columna. 
 
-![[Captura de pantalla 2023-05-12 a la(s) 09.20.34.png|center|500]]
+![[TablaNormal.png|center|500]]
 
