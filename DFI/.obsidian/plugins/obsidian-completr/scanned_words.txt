@@ -135,6 +135,7 @@ definiendo
 derecho
 definici
 determinar
+dot
 fuerza
 forma
 fijar
@@ -382,6 +383,7 @@ poner
 posibles
 producto
 plantear
+phi
 unidad
 una
 uno
@@ -495,6 +497,7 @@ respectivamente
 rmino
 rotor
 reposo
+rho
 Por
 Puede
 Producto
@@ -937,6 +940,7 @@ qo
 qx
 qyv
 qa
+quiere
 en
 es
 el
@@ -1126,6 +1130,7 @@ mo
 mI
 mv
 mismos
+mr
 va
 volumen
 vamente
@@ -1333,6 +1338,7 @@ intr
 inestable
 integra
 inicio
+iff
 no
 neo
 ngulo
@@ -1680,6 +1686,7 @@ FH
 FM
 Fm
 Fw
+Ft
 Que
 Qa
 Qy
@@ -1858,6 +1865,7 @@ RG
 RrX
 RN
 RE
+Reemplazando
 zado
 zoom
 zE
