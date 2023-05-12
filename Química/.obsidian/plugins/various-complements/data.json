@@ -63,14 +63,6 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Spin": {
-      "Spin": {
-        "internalLink": {
-          "count": 5,
-          "lastUpdated": 1681138977542
-        }
-      }
-    },
     "Configuración electrónica": {
       "Configuración electrónica": {
         "internalLink": {
@@ -172,6 +164,46 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1683560204902
+        }
+      }
+    },
+    "2NO_{3}^{-}": {
+      "2NO_{3}^{-}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683903212572
+        }
+      }
+    },
+    "carbonatos": {
+      "carbonatos": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683903515619
+        }
+      }
+    },
+    "Teoría del campo cristalino": {
+      "Teoría del campo cristalino": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683903556508
+        }
+      }
+    },
+    "Dipróticos": {
+      "Dipróticos": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683903832403
+        }
+      }
+    },
+    "Reacción": {
+      "Reacción": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683904304350
         }
       }
     }

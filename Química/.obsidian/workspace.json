@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reacciones Químicas/Dilución.md",
+                "file": "Reacciones Químicas/Reacción Redox.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reacciones Químicas/Dilución.md",
+                "file": "Reacciones Químicas/Reacción Redox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reacciones Químicas/Dilución.md",
+                "file": "Reacciones Químicas/Reacción Redox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reacciones Químicas/Dilución.md"
+                "file": "Reacciones Químicas/Reacción Redox.md"
               }
             }
           }
@@ -205,12 +205,15 @@
   },
   "active": "cadd247bd809acde",
   "lastOpenFiles": [
-    "Reacciones Químicas/Formula empírica.md",
+    "Reacciones Químicas/Soluciones Acuosas.md",
+    "Reacciones Químicas/Reacción Redox.md",
+    "Reacciones Químicas/Reacción de Precipitación.md",
     "Reacciones Químicas/Dilución.md",
-    "Reacciones Químicas/Reacciones en medios acuosos.md",
-    "Reacciones Químicas/Soluciones.md",
-    "Reacciones Químicas/Disolución.md",
     "Reacciones Químicas/Saturación.md",
+    "Reacciones Químicas/Disolución.md",
+    "Reacciones Químicas/Soluciones.md",
+    "Reacciones Químicas/Formula empírica.md",
+    "Reacciones Químicas/Reacciones en medios acuosos.md",
     "img/Electrolito.png",
     "Reacciones Químicas/Rendimiento de una reacción.md",
     "Resumen Control 1.md",
@@ -237,9 +240,6 @@
     "Teoría de los Orbitales Moleculares/Orden de enlace.md",
     "Tabla periódica/Electronegatividad.md",
     "Tabla periódica/Metales, metaloides y no metales.md",
-    "Tabla periódica/Afinidad electrónica.md",
-    "Tabla periódica/Carga nuclear efectiva.md",
-    "Tabla periódica/Tabla periódica moderna.md",
     "Reacciones Químicas",
     "img/Presión.png",
     "Enlaces/Enlaces metálicos",
