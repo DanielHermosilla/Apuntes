@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8f47acf29c7dfd02",
+        "id": "3301eae3dcfd96d7",
         "type": "tabs",
         "children": [
           {
-            "id": "3d72ec0ae0319bb2",
+            "id": "e3c7cf9ce59e0447",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reacciones Químicas/Formula empírica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde309e65b0fc7d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reacciones Químicas/Rendimiento de una reacción.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b021bcfb6bcc44ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reacciones Químicas/Reacciones en medios acuosos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadd247bd809acde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reacciones Químicas/Reacción Redox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b5b391741aa623c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reacciones Químicas/Disolución.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reacciones Químicas/Reacción Redox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reacciones Químicas/Reacción Redox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reacciones Químicas/Reacción Redox.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,19 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cadd247bd809acde",
+  "active": "e3c7cf9ce59e0447",
   "lastOpenFiles": [
-    "Reacciones Químicas/Soluciones Acuosas.md",
+    "Reacciones Químicas/Disolución.md",
+    "Reacciones Químicas/Equilibrio.md",
+    "Reacciones Químicas/Reacciones en medios acuosos.md",
+    "Reacciones Químicas/Rendimiento de una reacción.md",
+    "Reacciones Químicas/Formula empírica.md",
     "Reacciones Químicas/Reacción Redox.md",
+    "Reacciones Químicas/Soluciones Acuosas.md",
     "Reacciones Químicas/Reacción de Precipitación.md",
     "Reacciones Químicas/Dilución.md",
     "Reacciones Químicas/Saturación.md",
-    "Reacciones Químicas/Disolución.md",
     "Reacciones Químicas/Soluciones.md",
-    "Reacciones Químicas/Formula empírica.md",
-    "Reacciones Químicas/Reacciones en medios acuosos.md",
     "img/Electrolito.png",
-    "Reacciones Químicas/Rendimiento de una reacción.md",
     "Resumen Control 1.md",
     "Teoría del campo cristalino.md",
     "Auxiliar Pre Control 1.md",
@@ -239,7 +183,6 @@
     "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
     "Teoría de los Orbitales Moleculares/Orden de enlace.md",
     "Tabla periódica/Electronegatividad.md",
-    "Tabla periódica/Metales, metaloides y no metales.md",
     "Reacciones Químicas",
     "img/Presión.png",
     "Enlaces/Enlaces metálicos",
