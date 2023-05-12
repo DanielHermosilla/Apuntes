@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reacciones Químicas/Saturación.md",
+                "file": "Reacciones Químicas/Dilución.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reacciones Químicas/Saturación.md",
+                "file": "Reacciones Químicas/Dilución.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reacciones Químicas/Saturación.md",
+                "file": "Reacciones Químicas/Dilución.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reacciones Químicas/Saturación.md"
+                "file": "Reacciones Químicas/Dilución.md"
               }
             }
           }
@@ -206,13 +205,14 @@
   },
   "active": "cadd247bd809acde",
   "lastOpenFiles": [
+    "Reacciones Químicas/Formula empírica.md",
+    "Reacciones Químicas/Dilución.md",
     "Reacciones Químicas/Reacciones en medios acuosos.md",
-    "Reacciones Químicas/Saturación.md",
-    "img/Electrolito.png",
     "Reacciones Químicas/Soluciones.md",
     "Reacciones Químicas/Disolución.md",
+    "Reacciones Químicas/Saturación.md",
+    "img/Electrolito.png",
     "Reacciones Químicas/Rendimiento de una reacción.md",
-    "Reacciones Químicas/Formula empírica.md",
     "Resumen Control 1.md",
     "Teoría del campo cristalino.md",
     "Auxiliar Pre Control 1.md",
@@ -240,7 +240,6 @@
     "Tabla periódica/Afinidad electrónica.md",
     "Tabla periódica/Carga nuclear efectiva.md",
     "Tabla periódica/Tabla periódica moderna.md",
-    "Tabla periódica/Radio atómico.md",
     "Reacciones Químicas",
     "img/Presión.png",
     "Enlaces/Enlaces metálicos",

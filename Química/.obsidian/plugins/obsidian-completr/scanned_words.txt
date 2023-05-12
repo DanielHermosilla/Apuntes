@@ -793,6 +793,7 @@ permite
 produce
 puras
 preparar
+probable
 que
 qy
 qe
@@ -1246,6 +1247,9 @@ env
 eqv
 eVV
 esquina
+electrolitos
+electricidad
+electrolito
 orbitales
 oQt
 ox
@@ -1950,6 +1954,8 @@ btW
 bSM
 bridos
 brida
+buen
+bil
 ndose
 nicamente
 nK
@@ -2150,6 +2156,7 @@ nYg
 nyA
 nDi
 nitr
+nicos
 ticas
 tomo
 tiene
@@ -2988,6 +2995,10 @@ disoluciones
 disolvente
 disoluci
 disueltos
+disuelve
+disuelvan
+distingue
+disociado
 forma
 fO
 fg
@@ -3367,6 +3378,7 @@ mBv
 mezcla
 molar
 moles
+muy
 Dalton
 DZ
 Dm
@@ -3856,6 +3868,8 @@ EoW
 Enlaces
 Existe
 Energ
+Ejemplos
+Electrolito
 centro
 contiene
 cula
@@ -4503,6 +4517,7 @@ vNrl
 vfB
 veu
 vtz
+viene
 IHDR
 Ia
 IWO
@@ -4854,6 +4869,7 @@ CYj
 Concentraciones
 Concentraci
 Cumple
+Compuestos
 Zxk
 ZI
 ZD
@@ -8900,6 +8916,7 @@ Mtx
 Mientr
 Molaridad
 Moles
+Mol
 sSO
 sJ
 sq
@@ -9122,6 +9139,9 @@ soluto
 solvente
 saturada
 supersaturada
+similar
+solubles
+solventes
 äYE
 äd
 ßN
