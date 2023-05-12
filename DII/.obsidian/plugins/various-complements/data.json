@@ -60,14 +60,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Derivada": {
-      "Derivada": {
-        "internalLink": {
-          "count": 6,
-          "lastUpdated": 1681145552371
-        }
-      }
-    },
     "Espacio muestral": {
       "Espacio muestral": {
         "internalLink": {
@@ -79,8 +71,8 @@
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 36,
-          "lastUpdated": 1682687660963
+          "count": 39,
+          "lastUpdated": 1683896875319
         }
       }
     },
@@ -108,43 +100,11 @@
         }
       }
     },
-    "Función de costos": {
-      "Función de costos": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681146131716
-        }
-      }
-    },
-    "Monopolio": {
-      "Monopolio": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681086344847
-        }
-      }
-    },
     "Variable aleatoria discreta": {
       "Variable aleatoria discreta": {
         "internalLink": {
           "count": 9,
           "lastUpdated": 1682085126062
-        }
-      }
-    },
-    "\\sum_{x\\in": {
-      "\\sum_{x\\in": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681132763659
-        }
-      }
-    },
-    "isobeneficio": {
-      "isobeneficio": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681146148484
         }
       }
     },
@@ -263,8 +223,8 @@
     "\\int_{-\\infty}^{x}f_x": {
       "\\int_{-\\infty}^{x}f_x": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682687401402
+          "count": 2,
+          "lastUpdated": 1683896174011
         }
       }
     },
@@ -295,8 +255,8 @@
     "Esperanza de una variable continua": {
       "Esperanza de una variable continua": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683550118185
+          "count": 2,
+          "lastUpdated": 1683896152719
         }
       }
     },
@@ -337,6 +297,62 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1683553180976
+        }
+      }
+    },
+    "e^{-\\lambda": {
+      "e^{-\\lambda": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683896852583
+        }
+      }
+    },
+    "\\begin{cases}\\lambda": {
+      "\\begin{cases}\\lambda": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683896087567
+        }
+      }
+    },
+    "\\int_{0}^{x}\\lambda": {
+      "\\int_{0}^{x}\\lambda": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683896195990
+        }
+      }
+    },
+    "\\frac{\\mathbb{P}": {
+      "\\frac{\\mathbb{P}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683896802605
+        }
+      }
+    },
+    "Densidad": {
+      "Densidad": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683897117670
+        }
+      }
+    },
+    "Distribución Normal": {
+      "Distribución Normal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683897976735
+        }
+      }
+    },
+    "Desviación estandar": {
+      "Desviación estandar": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683898168088
         }
       }
     }

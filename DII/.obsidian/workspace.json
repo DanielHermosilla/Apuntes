@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,12 +77,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "e114b264b8770ebc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -98,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Cambio de variable.md"
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md"
               }
             }
           }
@@ -161,10 +170,21 @@
   },
   "active": "b6fe17999c253478",
   "lastOpenFiles": [
-    "Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
-    "Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
     "Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
+    "Captura de pantalla 2023-05-12 a la(s) 09.20.34.png",
+    "Captura de pantalla 2023-05-12 a la(s) 09.12.40.png",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
+    "img/Distribución exponencial.png",
+    "img/Uniforme.png",
+    "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones",
+    "Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
+    "Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
     "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
     "Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
     "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
@@ -182,12 +202,6 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
     "Probabilidades/Variable aleatoria continua",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
     "img/Binomialnegativo.png",
     "Captura de pantalla 2023-04-21 a la(s) 09.48.31.png",
     "img/Poisson.png",
@@ -196,16 +210,11 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
     "Probabilidades/Variable aleatoria discreta/Esperanza",
     "img/Pasted image 20230410131047.png",
-    "img/CurvaDemanda.png",
-    "img/RelacionCostoMedioMarginal.png",
-    "img/CostoMedio.png",
-    "img/Funcion costo.png",
     "Economía/La firma y sus clientes",
     "Probabilidades/Variable aleatoria discreta",
     "Economía/Monopolios",
     "Economía/Métodos de asignación",
     "Economía/Criterios de asignación",
-    "Probabilidades/Conteo",
-    "Economía/Teoría de juegos"
+    "Probabilidades/Conteo"
   ]
 }
