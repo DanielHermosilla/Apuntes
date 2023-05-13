@@ -21,3 +21,17 @@ Bajo estos, **los productores siempre estarán mejor**. En general, este tipo de
 2. Discriminación de segundo grado: Se da cuando existen muchos compradores dentro de un [[Mercado|mercado]] y hay diferencias entre ellos. Por ejemplo, un ticket de concierto cuesta más un día antes que 2 meses de anticipación. 
 
 3. Discriminación de tercer grado: Segmentación de consumidores utilizando alguna señal. Implica cobrar un precio distinto en cada mercado separado espacialmente. 
+
+#### Ejemplo 
+
+Si se tiene lo siguiente: 
+- $p_1 = 151 - q_1$ 
+- $p_2 = 120-q_2$
+- $CT = 100 + 8q + q^2$ 
+
+Entonces, se tiene lo siguiente si no se pudiera discriminar entre precios:
+
+$$q=\begin{cases}151-p&\text{si}\;p>120\\\\271-2p&\text{si}\;p<120\end{cases}$$ 
+Donde. el precio de corte lo define el menor precio. Si no se pudiera discriminar por precios, uno se ubicaría en el tramo que más beneficios acomode.  
+
+Si se tuviera una discriminación de tercer grado, y costos marginales nulos, se llega a la máxima utilidad si $IMG_1 = IMG_2$. 
