@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/La firma y sus clientes/Discriminación de precios.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/La firma y sus clientes/Discriminación de precios.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/La firma y sus clientes/Discriminación de precios.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/La firma y sus clientes/Discriminación de precios.md"
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md"
               }
             }
           }
@@ -157,6 +156,8 @@
   },
   "active": "0bd0e02380b5a71f",
   "lastOpenFiles": [
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
+    "Economía/La firma y sus clientes/Discriminación de precios.md",
     "Economía/La firma y sus clientes/Untitled.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
@@ -181,13 +182,11 @@
     "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
     "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Coeficiente de Variación.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
     "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
     "Probabilidades/Variable aleatoria continua/Curtosis.md",
     "Probabilidades/Variable aleatoria continua/Asimetría (Skewness).md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
     "Probabilidades/Variable aleatoria continua",
     "img/Binomialnegativo.png",
     "Captura de pantalla 2023-04-21 a la(s) 09.48.31.png",

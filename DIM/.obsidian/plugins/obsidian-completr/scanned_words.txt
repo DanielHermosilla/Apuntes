@@ -1067,6 +1067,7 @@ pfW
 pD
 pZG
 ps
+proponemos
 trav
 teorema
 ticas
@@ -1592,6 +1593,7 @@ vC
 vDy
 vF
 vsd
+verlo
 el
 estudio
 en
@@ -1747,6 +1749,8 @@ eeyY
 eL
 eguu
 establece
+evaluando
+evoluci
 formas
 fin
 forall
@@ -1977,6 +1981,7 @@ aI
 azS
 abd
 ae
+ante
 bajo
 bola
 binomio
