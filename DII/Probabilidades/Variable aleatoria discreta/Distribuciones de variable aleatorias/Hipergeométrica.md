@@ -1,7 +1,7 @@
 
 Se define con tres variables, siendo $N=\text{tamaño población}$, $k=\text{casos positivos o exitos}$ y $n =\text{tamaño de muestra}$ y $K=\text{numero de pasos positivos en la muestra}$. Por lo tanto, su fórmula es la siguiente: 
 
-$$p_x(k)=\frac{\begin{pmatrix} N \\ k \end{pmatrix}\begin{pmatrix}N-K \\ n-k\end{pmatrix}}{\begin{pmatrix}N \\ n \end{pmatrix}}$$
+$$p_x(k)=\frac{\begin{pmatrix} K \\ k \end{pmatrix}\begin{pmatrix}N-K \\ n-k\end{pmatrix}}{\begin{pmatrix}N \\ n \end{pmatrix}}$$
 
 ## Esperanza 
 

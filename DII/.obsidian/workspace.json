@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Elasticidad precio-demanda.md"
+                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md"
               }
             }
           }
@@ -156,32 +156,32 @@
   },
   "active": "0bd0e02380b5a71f",
   "lastOpenFiles": [
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
+    "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
+    "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+    "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+    "Probabilidades/Resumen Caso 1.md",
+    "Economía/Elasticidad precio-demanda.md",
     "Economía/La firma y sus clientes/Discriminación de precios.md",
     "Economía/La firma y sus clientes/Medición del excedente.md",
     "Economía/La firma y sus clientes/Ingreso marginal.md",
     "Economía/Métodos de asignación/Negociación.md",
     "Economía/Métodos de asignación/Curva de eficiencia de Pareto.md",
-    "Economía/Elasticidad precio-demanda.md",
     "Economía/Clase y módulo 1.md",
     "Economía/Teoría de juegos/Estrategia.md",
     "Economía/Teoría de juegos/Free riding.md",
     "Economía/Teoría de juegos/Equilibrio de Nash.md",
     "Economía/Monopolios/Ineficiencia del monopolio.md",
-    "Economía/Monopolios/Margen de Lerner Monopólico.md",
-    "Economía/Modelos matemáticos en la economía/Función de costos.md",
-    "Economía/Conceptos claves/Economía cerrada.md",
-    "Economía/Conceptos claves/Trabajo.md",
-    "Economía/Conceptos claves/Mercado.md",
-    "Economía/Conceptos claves/Sistemas económicos y políticos.md",
-    "Economía/Criterios de asignación/Desigualdad.md",
-    "Economía/Escasez/Efecto sustitución e ingreso.md",
-    "Economía/Escasez/Optimizar decisiones.md",
-    "Economía/Escasez/Función Utilidad.md",
-    "Economía/Escasez/Preferencias.md",
-    "Economía/Escasez/Costo de oportunidad.md",
-    "Economía/Escasez/Tasa marginal de sustitución.md",
-    "Economía/Escasez/Problema del consumidor.md",
-    "Economía/La firma y sus clientes/Curva Isobeneficio.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
     "img/Distribución exponencial.png",
