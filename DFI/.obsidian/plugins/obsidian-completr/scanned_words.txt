@@ -136,6 +136,7 @@ derecho
 definici
 determinar
 dot
+demostrado
 fuerza
 forma
 fijar
@@ -285,6 +286,7 @@ aparece
 atada
 analizamos
 anal
+adem
 por
 para
 pan
@@ -498,6 +500,7 @@ rmino
 rotor
 reposo
 rho
+respecto
 Por
 Puede
 Producto
@@ -654,6 +657,7 @@ traves
 torno
 tensa
 the
+torque
 se
 su
 sale
@@ -887,6 +891,7 @@ convexidad
 cuerda
 condici
 chicos
+central
 Notemos
 Nos
 Newton
@@ -1388,6 +1393,7 @@ ngulos
 nsecas
 neta
 notemos
+nulo
 homog
 haber
 hay

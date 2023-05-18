@@ -50,8 +50,8 @@
     "Partícula": {
       "Partícula": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1682605800947
+          "count": 7,
+          "lastUpdated": 1684422085465
         }
       }
     },
@@ -60,14 +60,6 @@
         "currentFile": {
           "count": 3,
           "lastUpdated": 1681830350470
-        }
-      }
-    },
-    "-\\omega_0\\sin": {
-      "-\\omega_0\\sin": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681227875266
         }
       }
     },
@@ -114,8 +106,16 @@
     "energía potencial": {
       "energía potencial": {
         "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684420345371
+        }
+      }
+    },
+    "Momentum Angular": {
+      "Momentum Angular": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1683817433796
+          "lastUpdated": 1684422105935
         }
       }
     }
