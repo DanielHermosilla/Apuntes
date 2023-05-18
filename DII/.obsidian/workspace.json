@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
+                "file": "Economía/Elasticidad precio-demanda.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
+                "file": "Economía/Elasticidad precio-demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
+                "file": "Economía/Elasticidad precio-demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md"
+                "file": "Economía/Elasticidad precio-demanda.md"
               }
             }
           }
@@ -156,37 +156,37 @@
   },
   "active": "0bd0e02380b5a71f",
   "lastOpenFiles": [
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
     "Economía/La firma y sus clientes/Discriminación de precios.md",
-    "Economía/La firma y sus clientes/Untitled.md",
+    "Economía/La firma y sus clientes/Medición del excedente.md",
+    "Economía/La firma y sus clientes/Ingreso marginal.md",
+    "Economía/Métodos de asignación/Negociación.md",
+    "Economía/Métodos de asignación/Curva de eficiencia de Pareto.md",
+    "Economía/Elasticidad precio-demanda.md",
+    "Economía/Clase y módulo 1.md",
+    "Economía/Teoría de juegos/Estrategia.md",
+    "Economía/Teoría de juegos/Free riding.md",
+    "Economía/Teoría de juegos/Equilibrio de Nash.md",
+    "Economía/Monopolios/Ineficiencia del monopolio.md",
+    "Economía/Monopolios/Margen de Lerner Monopólico.md",
+    "Economía/Modelos matemáticos en la economía/Función de costos.md",
+    "Economía/Conceptos claves/Economía cerrada.md",
+    "Economía/Conceptos claves/Trabajo.md",
+    "Economía/Conceptos claves/Mercado.md",
+    "Economía/Conceptos claves/Sistemas económicos y políticos.md",
+    "Economía/Criterios de asignación/Desigualdad.md",
+    "Economía/Escasez/Efecto sustitución e ingreso.md",
+    "Economía/Escasez/Optimizar decisiones.md",
+    "Economía/Escasez/Función Utilidad.md",
+    "Economía/Escasez/Preferencias.md",
+    "Economía/Escasez/Costo de oportunidad.md",
+    "Economía/Escasez/Tasa marginal de sustitución.md",
+    "Economía/Escasez/Problema del consumidor.md",
+    "Economía/La firma y sus clientes/Curva Isobeneficio.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
-    "Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
     "img/Distribución exponencial.png",
     "img/Uniforme.png",
-    "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones",
-    "Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
-    "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
-    "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Coeficiente de Variación.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
-    "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
-    "Probabilidades/Variable aleatoria continua/Curtosis.md",
-    "Probabilidades/Variable aleatoria continua/Asimetría (Skewness).md",
     "Probabilidades/Variable aleatoria continua",
     "img/Binomialnegativo.png",
     "Captura de pantalla 2023-04-21 a la(s) 09.48.31.png",
