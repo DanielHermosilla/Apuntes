@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md"
               }
             }
           },
@@ -164,6 +164,8 @@
   },
   "active": "b8ce6c7b67ee58cb",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1 1.jpeg",
@@ -193,8 +195,6 @@
     "Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
     "Álgebra Lineal/Espacios vectoriales/propiedad compacta.md",
     "Álgebra Lineal/Espacios vectoriales/escalares.md",
-    "Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
-    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
