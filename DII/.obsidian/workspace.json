@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md"
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md"
               }
             }
           }
@@ -156,6 +156,24 @@
   },
   "active": "0bd0e02380b5a71f",
   "lastOpenFiles": [
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
+    "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+    "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
+    "Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
+    "Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
+    "Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
+    "Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
+    "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+    "Probabilidades/Variable aleatoria continua/Curtosis.md",
+    "Probabilidades/Variable aleatoria continua/Asimetría (Skewness).md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
@@ -164,24 +182,6 @@
     "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
-    "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
-    "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
-    "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
-    "Probabilidades/Resumen Caso 1.md",
-    "Economía/Elasticidad precio-demanda.md",
-    "Economía/La firma y sus clientes/Discriminación de precios.md",
-    "Economía/La firma y sus clientes/Medición del excedente.md",
-    "Economía/La firma y sus clientes/Ingreso marginal.md",
-    "Economía/Métodos de asignación/Negociación.md",
-    "Economía/Métodos de asignación/Curva de eficiencia de Pareto.md",
-    "Economía/Clase y módulo 1.md",
-    "Economía/Teoría de juegos/Estrategia.md",
-    "Economía/Teoría de juegos/Free riding.md",
-    "Economía/Teoría de juegos/Equilibrio de Nash.md",
-    "Economía/Monopolios/Ineficiencia del monopolio.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
     "img/Distribución exponencial.png",
