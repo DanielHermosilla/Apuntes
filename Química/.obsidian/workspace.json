@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md",
+                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md",
+                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md",
+                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md"
+                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "3493405697025121",
   "lastOpenFiles": [
-    "Equilibrio Ácido Base/Fuerza de las Bases.md",
     "Equilibrio Ácido Base/Fuerza de los ácidos.md",
+    "Equilibrio Ácido Base/Porcentaje de ionización.md",
+    "Equilibrio Ácido Base/Fuerza de las Bases.md",
     "Equilibrio Ácido Base/pH.md",
     "Equilibrio Ácido Base/Auto disociación del agua.md",
     "Equilibrio Ácido Base/Teoría de Lewis.md",
@@ -191,7 +192,6 @@
     "img/cubicacentrada.png",
     "img/cubicasimple.png",
     "Reacciones Químicas/Masa molar.md",
-    "Enlaces/Enlace iónico.md",
     "Reacciones Químicas",
     "img/Presión.png",
     "Enlaces/Enlaces metálicos",
