@@ -361,6 +361,7 @@ rica
 rendimiento
 reactivos
 reactivas
+rreos
 la
 los
 las
@@ -556,6 +557,7 @@ lYp
 lwq
 lejano
 litro
+limitada
 postula
 pueden
 pasando
@@ -812,6 +814,7 @@ producir
 proton
 pierde
 productos
+parcial
 que
 qy
 qe
@@ -1670,6 +1673,7 @@ iiO
 iRR
 insoluble
 ionizan
+inorg
 Refutando
 Rd
 RIU
@@ -1985,6 +1989,7 @@ bil
 bicarbonatos
 bases
 balance
+biles
 ndose
 nicamente
 nK
@@ -2794,6 +2799,7 @@ agrio
 acuosa
 amargo
 aceptar
+alcalinos
 del
 de
 densa
@@ -3227,6 +3233,7 @@ fDH
 fica
 formaci
 favorece
+fuertes
 masiva
 ml
 mI
@@ -5743,6 +5750,7 @@ BYT
 BcY
 Bases
 Bronsted
+Base
 Lu
 La
 LI
@@ -6516,6 +6524,7 @@ xwj
 xUa
 xima
 xido
+xidos
 WF
 WD
 WeOw
@@ -7935,6 +7944,7 @@ FNGM
 FDR
 Formaci
 Falso
+Fuerte
 UE
 UC
 Ui

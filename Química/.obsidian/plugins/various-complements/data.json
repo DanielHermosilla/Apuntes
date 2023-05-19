@@ -71,22 +71,6 @@
         }
       }
     },
-    "Átomo": {
-      "Átomo": {
-        "internalLink": {
-          "count": 10,
-          "lastUpdated": 1681486151361
-        }
-      }
-    },
-    "Electronegatividad": {
-      "Electronegatividad": {
-        "internalLink": {
-          "count": 11,
-          "lastUpdated": 1681741681857
-        }
-      }
-    },
     "Enlace covalente": {
       "Enlace covalente": {
         "internalLink": {
@@ -100,14 +84,6 @@
         "internalLink": {
           "count": 3,
           "lastUpdated": 1682387240599
-        }
-      }
-    },
-    "Estructura cristalinas": {
-      "Estructura cristalinas": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681485636993
         }
       }
     },
@@ -204,6 +180,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1683904304350
+        }
+      }
+    },
+    "H_3O^+": {
+      "H_3O^+": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1684507993871
         }
       }
     }

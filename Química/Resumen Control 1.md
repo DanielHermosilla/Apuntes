@@ -24,7 +24,7 @@ Actualmente la [[Configuración electrónica|configuración electrónica]] es la
 
 Existen tres tipos de enlaces principales que se irán abordando en mayor profundidad: 
 
-- [[Enlace covalente]]: Corresponde a los enlaces entre los no metales. Por lo general, se hacen compartiendo pares de electrones y cumpliendo la regla del octeto de [[Teoría de Lewis|Lewis]]. 
+- [[Enlace covalente]]: Corresponde a los enlaces entre los no metales. Por lo general, se hacen compartiendo pares de electrones y cumpliendo la regla del octeto de [[Enlaces/Teoría de Lewis|Lewis]]. 
 
 - [[Enlace iónico]]: Corresponde al enlace entre un no metal y metal. Normalmente estos compuestos forman cristales. 
 

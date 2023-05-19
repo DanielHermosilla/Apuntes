@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3301eae3dcfd96d7",
+        "id": "dc9ac10dd9a28362",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c7cf9ce59e0447",
+            "id": "3493405697025121",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equilibrio Ácido Base/Fuerza de los ácidos.md"
+              }
             }
           }
         ]
@@ -146,8 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3c7cf9ce59e0447",
+  "active": "3493405697025121",
   "lastOpenFiles": [
+    "Equilibrio Ácido Base/Fuerza de las Bases.md",
+    "Equilibrio Ácido Base/Fuerza de los ácidos.md",
+    "Equilibrio Ácido Base/pH.md",
+    "Equilibrio Ácido Base/Auto disociación del agua.md",
+    "Equilibrio Ácido Base/Teoría de Lewis.md",
+    "Equilibrio Ácido Base/Teoría de Bronsted-Lowry.md",
+    "Equilibrio Ácido Base",
     "Reacciones Químicas/Disolución.md",
     "Reacciones Químicas/Equilibrio.md",
     "Reacciones Químicas/Reacciones en medios acuosos.md",
@@ -177,12 +192,6 @@
     "img/cubicasimple.png",
     "Reacciones Químicas/Masa molar.md",
     "Enlaces/Enlace iónico.md",
-    "Tabla periódica/Configuración electrónica.md",
-    "Enlaces/Teoría de Lewis.md",
-    "Teoría de los Orbitales Moleculares/Mediciones magnéticas.md",
-    "Teoría de los Orbitales Moleculares/Teoría de los Orbitales Moleculares.md",
-    "Teoría de los Orbitales Moleculares/Orden de enlace.md",
-    "Tabla periódica/Electronegatividad.md",
     "Reacciones Químicas",
     "img/Presión.png",
     "Enlaces/Enlaces metálicos",
@@ -192,7 +201,6 @@
     "Geometría molecular/Geometría con enlaces covalentes",
     "Física moderna/Untitled",
     "Geometría molecular",
-    "Enlaces",
-    "Tabla periódica"
+    "Enlaces"
   ]
 }
