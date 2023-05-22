@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md"
+                "file": "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "74be7c9bc7ebf24b",
   "lastOpenFiles": [
+    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
     "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
     "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
     "Economía/Competencia perfecta/Curva de oferta.md",
@@ -184,7 +185,6 @@
     "Probabilidades/Probabilidad conjunta",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
