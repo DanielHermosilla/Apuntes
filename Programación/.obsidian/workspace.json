@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Pilas.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,13 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3b8e3a9c5bb53ff1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Pilas.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Pilas.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Pilas.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md"
               }
             }
           }
@@ -149,21 +156,25 @@
   },
   "active": "799583e2cd88fcd5",
   "lastOpenFiles": [
-    "img/Pilas.png",
-    "Python/Arboles/Árboles ordinales/Árboles ordinales.md",
+    "Python/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+    "Python/Tipos de datos abstractos/Arboles/Rotación.md",
+    "img/Arbol rotación.png",
+    "Python/Tipos de datos abstractos/Arboles/Arboles cardinales/Árboles cardinales.md",
+    "Python/Tipos de datos abstractos/Arboles/Arboles binarios/Propiedades matemáticas.md",
     "Python/Tipos de datos abstractos/Pilas.md",
+    "img/Pilas.png",
+    "Python/Tipos de datos abstractos/Arboles/Árboles ordinales/Árboles ordinales.md",
     "Python/Tipos de datos abstractos",
     "img/ArbolOrdinal.png",
-    "Python/Arboles/Arboles cardinales/Árboles cardinales.md",
     "Python/Arboles/Árboles ordinales/Untitled",
-    "Python/Arboles/Árboles ordinales",
+    "Python/Tipos de datos abstractos/Arboles/Árboles ordinales",
     "img/Arboles cardinales.png",
-    "Python/Arboles/Arboles binarios/Propiedades matemáticas.md",
-    "Python/Arboles/Arboles binarios",
-    "Python/Arboles/Arboles cardinales",
+    "Python/Tipos de datos abstractos/Arboles/Arboles binarios",
+    "Python/Tipos de datos abstractos/Arboles/Arboles cardinales",
     "Python/Arboles binarios/Untitled.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
-    "Python/Arboles",
+    "Python/Tipos de datos abstractos/Arboles",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
     "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
@@ -187,8 +198,6 @@
     "Python/Estructuras de control/Invariantes.md",
     "Python/Algoritmos/Ordenamiento/Insertion sort.md",
     "img/Seleccion.png",
-    "Python/Algoritmos/Busqueda/Busqueda binaria.md",
-    "Python/Algoritmos/Ordenamiento/Merge Sort.md",
     "Python/Algoritmos/Ordenamiento",
     "img/degreeCentrality.png",
     "img/FindingKeyConnectors.png"

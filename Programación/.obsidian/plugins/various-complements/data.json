@@ -47,19 +47,19 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Python": {
-      "Python": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680722181391
-        }
-      }
-    },
     "Pilas": {
       "Pilas": {
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682365928342
+        }
+      }
+    },
+    "Busqueda binaria": {
+      "Busqueda binaria": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684780885694
         }
       }
     }
