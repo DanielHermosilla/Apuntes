@@ -255,8 +255,8 @@
     "Preferencias": {
       "Preferencias": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683909824561
+          "count": 2,
+          "lastUpdated": 1684775320865
         }
       }
     },
@@ -305,6 +305,30 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1684763723436
+        }
+      }
+    },
+    "Equilibrio de Nash": {
+      "Equilibrio de Nash": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684773388992
+        }
+      }
+    },
+    "Demanda": {
+      "Demanda": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684774284263
+        }
+      }
+    },
+    "Innovación tecnológica": {
+      "Innovación tecnológica": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684775107677
         }
       }
     }

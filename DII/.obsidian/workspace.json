@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
+                "file": "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
+                "file": "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
+                "file": "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md"
+                "file": "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md"
               }
             }
           }
@@ -157,15 +157,25 @@
   },
   "active": "74be7c9bc7ebf24b",
   "lastOpenFiles": [
-    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
+    "Economía/Competencia perfecta/Curva de oferta.md",
+    "Economía/Competencia perfecta/Factores que afectan el equilibrio/Tipo de bienes.md",
+    "Economía/Competencia perfecta/Firmas tomadoras de precios.md",
+    "Economía/Competencia perfecta/Factores que afectan el equilibrio",
+    "img/Firmas tomadoras de precios.png",
+    "Economía/Competencia perfecta/Precio de equilibrio.md",
+    "img/PrecioEquilibrio.png",
+    "img/Oferta.png",
+    "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
+    "Economía/Competencia perfecta",
+    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
     "Untitled.canvas",
-    "Captura de pantalla 2023-05-22 a la(s) 08.48.00.png",
+    "img/Captura de pantalla 2023-05-22 a la(s) 08.48.00.png",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/PDF marginal.md",
     "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad Conjunta.md",
-    "Captura de pantalla 2023-05-22 a la(s) 09.00.57.png",
-    "Captura de pantalla 2023-05-22 a la(s) 08.38.48.png",
+    "img/Captura de pantalla 2023-05-22 a la(s) 09.00.57.png",
+    "img/Captura de pantalla 2023-05-22 a la(s) 08.38.48.png",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua",
     "Probabilidades/Probabilidad conjunta",
@@ -184,24 +194,15 @@
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
     "Probabilidades/Variable aleatoria continua/Cambio de variable.md",
     "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
-    "Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
-    "Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
     "img/Distribución exponencial.png",
     "img/Uniforme.png",
     "Probabilidades/Variable aleatoria continua/Distribuciones",
     "Probabilidades/Variable aleatoria continua",
-    "img/Binomialnegativo.png",
-    "Captura de pantalla 2023-04-21 a la(s) 09.48.31.png",
-    "img/Poisson.png",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
     "Probabilidades/Variable aleatoria discreta/Esperanza",
     "Economía/La firma y sus clientes",
-    "Probabilidades/Variable aleatoria discreta",
-    "Economía/Monopolios",
-    "Economía/Métodos de asignación"
+    "Probabilidades/Variable aleatoria discreta"
   ]
 }
