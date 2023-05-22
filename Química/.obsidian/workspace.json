@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md",
+                "file": "Equilibrio Ácido Base/Hidrólisis de sales.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md",
+                "file": "Equilibrio Ácido Base/Hidrólisis de sales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md",
+                "file": "Equilibrio Ácido Base/Hidrólisis de sales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equilibrio Ácido Base/Porcentaje de ionización.md"
+                "file": "Equilibrio Ácido Base/Hidrólisis de sales.md"
               }
             }
           }
@@ -156,8 +157,10 @@
   },
   "active": "3493405697025121",
   "lastOpenFiles": [
-    "Equilibrio Ácido Base/Fuerza de los ácidos.md",
+    "Equilibrio Ácido Base/Reacciones de Neutralización.md",
+    "Equilibrio Ácido Base/Hidrólisis de sales.md",
     "Equilibrio Ácido Base/Porcentaje de ionización.md",
+    "Equilibrio Ácido Base/Fuerza de los ácidos.md",
     "Equilibrio Ácido Base/Fuerza de las Bases.md",
     "Equilibrio Ácido Base/pH.md",
     "Equilibrio Ácido Base/Auto disociación del agua.md",
@@ -188,10 +191,8 @@
     "img/Captura de pantalla 2023-04-24 a la(s) 17.46.46.png",
     "img/Captura de pantalla 2023-04-24 a la(s) 17.43.27.png",
     "img/Captura de pantalla 2023-04-24 a la(s) 17.41.33.png",
-    "Geometría molecular/Geometría con enlaces covalentes/Repulsión de los pares de electrones de la capa de valencia.md",
     "img/cubicacentrada.png",
     "img/cubicasimple.png",
-    "Reacciones Químicas/Masa molar.md",
     "Reacciones Químicas",
     "img/Presión.png",
     "Enlaces/Enlaces metálicos",
