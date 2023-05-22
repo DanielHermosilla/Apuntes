@@ -40,7 +40,7 @@ Por lo tanto, se sabe que $\mathbb{P}(X=1) = 0.2$ y $\mathbb{P}(X=0) = 0.8$.
 
 ### Ejemplo 
 
-Supongamos que se tienen 10 vehículos y $0.2$ es la probabilidad de siniestro de cada uno. Además, cada siniestro es [[Independencia|independiente]]. En adición, se supone que los vehículos tienen un pago de $2\$$ a la aseguradora y $6\$$ es el costo de la aseguradora por siniestro. 
+Supongamos que se tienen 10 vehículos y $0.2$ es la probabilidad de siniestro de cada uno. Además, cada siniestro es [[Probabilidades/Probabilidad condicional e independencia/Independencia|independiente]]. En adición, se supone que los vehículos tienen un pago de $2\$$ a la aseguradora y $6\$$ es el costo de la aseguradora por siniestro. 
 
 Se define la [[Variable aleatoria discreta|variable aleatoria]] $X$ el número de vehículos que tienen siniestros. El rango de $X$ sería $[0,10]$. Por otra parte, se define $A_i$ el [[Evento|evento]] que el vehiculo $i$ sufra un accidente.   
 
@@ -50,7 +50,7 @@ $$\mathbb{P}(X=3)=\sum_{i<j<k}\mathbb{P}(A_i,A_j,A_k,A_{l}^{c})\ \ \forall l\no
 Es lo mismo que decir que: 
 
 $$\sum_{i<j<k}(A_1,A_2,A_3,A_{4}^{c},\dots,A_{10}^{c})$$ 
-Equivalente a tener $\begin{pmatrix} 10 \\ 3\end{pmatrix}$. Entonces, aplicando [[Independencia|independencia]], se tiene que: 
+Equivalente a tener $\begin{pmatrix} 10 \\ 3\end{pmatrix}$. Entonces, aplicando [[Probabilidades/Probabilidad condicional e independencia/Independencia|independencia]], se tiene que: 
 
 $$\mathbb{P}(X=3) = \begin{pmatrix} 10 \\ 3\end{pmatrix} \mathbb{P}(A_1)·\mathbb{P}(A_2)·\mathbb{P}(A_3)·\mathbb{P}(A_{4}^{c})\dots\mathbb{P}(A_10))$$     
 Esto se denomina como [[Distribución binomial]]. Por lo tanto, la [[Esperanza|esperanza]] del costo sería: 

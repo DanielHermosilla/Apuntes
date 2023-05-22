@@ -95,8 +95,8 @@
     "Continuidad": {
       "Continuidad": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682686099789
+          "count": 3,
+          "lastUpdated": 1684763580367
         }
       }
     },
@@ -119,8 +119,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 7,
-          "lastUpdated": 1684761626741
+          "count": 8,
+          "lastUpdated": 1684763564408
         }
       }
     },
@@ -271,8 +271,8 @@
     "\\in\\mathbb{R}^2": {
       "\\in\\mathbb{R}^2": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684760597879
+          "count": 2,
+          "lastUpdated": 1684763751721
         }
       }
     },
@@ -297,6 +297,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1684761677871
+        }
+      }
+    },
+    "Independencia": {
+      "Independencia": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684763723436
         }
       }
     }

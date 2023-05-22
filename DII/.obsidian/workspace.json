@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bd0e02380b5a71f",
+            "id": "74be7c9bc7ebf24b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "74be7c9bc7ebf24b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Captura de pantalla 2023-05-22 a la(s) 08.48.00.png"
               }
             }
           }
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md"
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md"
               }
             }
           }
@@ -165,12 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bd0e02380b5a71f",
+  "active": "74be7c9bc7ebf24b",
   "lastOpenFiles": [
-    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/PDF marginal.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
-    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
+    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
+    "Untitled.canvas",
     "Captura de pantalla 2023-05-22 a la(s) 08.48.00.png",
+    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/PDF marginal.md",
+    "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad Conjunta.md",
     "Captura de pantalla 2023-05-22 a la(s) 09.00.57.png",
     "Captura de pantalla 2023-05-22 a la(s) 08.38.48.png",
@@ -196,8 +188,6 @@
     "Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
     "Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
     "Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
-    "Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
-    "Probabilidades/Variable aleatoria continua/Curtosis.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
     "img/Distribución exponencial.png",
