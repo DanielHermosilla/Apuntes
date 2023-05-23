@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Torque.md",
+                "file": "Mecánica/Dinámica/Fuerzas centrales.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cecab2d3ec24f180",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Dinámica/Leyes de Kepler.md",
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Dinámica/Leyes de Kepler.md",
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Dinámica/Leyes de Kepler.md"
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md"
               }
             }
           }
@@ -180,13 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8d32f31af482e9",
+  "active": "2d0e879fe790992b",
   "lastOpenFiles": [
-    "IMG_1CDBBB5FE82E-1.jpeg",
     "Mecánica/Dinámica/Fuerzas centrales.md",
-    "Mecánica/Dinámica/Leyes de Kepler.md",
-    "Mecánica/Momentum Angular y Torque/Torque.md",
+    "Mecánica/Dinámica/Fuerzas de restitución.md",
+    "Mecánica/Energía/Energía para fuerzas centrales.md",
     "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+    "Mecánica/Dinámica/Leyes de Kepler.md",
+    "IMG_F0BCAF00492C-1.jpeg",
+    "IMG_E923FFEF6838-1.jpeg",
+    "Mecánica/Momentum Angular y Torque/Torque.md",
+    "Mecánica/img/IMG_1CDBBB5FE82E-1.jpeg",
     "Mecánica/Momentum Angular y Torque/Relación entre el Momento Angular y Torque.md",
     "Mecánica/Momentum Angular y Torque",
     "Mecánica/Energía/Pozo de potencial.md",
@@ -202,7 +205,6 @@
     "Mecánica/Sistema de referencia.md",
     "Mecánica/Partícula.md",
     "Mecánica/Energía/Fuerzas de repulsión.md",
-    "Mecánica/Dinámica/Fuerzas de restitución.md",
     "Mecánica/Energía",
     "Mecánica/img/Péndulo.jpeg",
     "Mecánica/Dinámica/Fuerza roce.md",
@@ -217,9 +219,6 @@
     "Mecánica/Cinemática/Posición.md",
     "Mecánica/Cinemática/Ecuación itinerario.md",
     "Mecánica/Cinemática/Curva odógrafa.md",
-    "Mecánica/img/resorte.jpeg",
-    "Mecánica/img/IMG_1E7AF8D69B9B-1.jpeg",
-    "Mecánica/img/AtracciónGravitacional 2.jpeg",
     "Mecánica/Dinámica",
     "Mecánica/img",
     "Mecánica/Sistema de referencias",

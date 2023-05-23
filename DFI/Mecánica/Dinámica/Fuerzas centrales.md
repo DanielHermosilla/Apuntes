@@ -26,3 +26,33 @@ Por ende, se llega a lo siguiente:
 
 $$E_0 = \frac{1}{2}m(\dot{\rho}^2 + \rho^2\dot{\theta}^2)+V(\rho)$$ 
 A partir de esto, se descubre la **ley de Kepler**. 
+
+
+## Ejemplo 
+
+Sea una plataforma horizontal  que está sometido a una fuerza central y sometida a una fuerza que tira hacia abajo: 
+
+![[IMG_E923FFEF6838-1.jpeg|center]]
+
+Por lo tanto, 
+
+$$\vec{F_c}=-T\hat{\rho}$$ 
+Notemos que $\dot{\rho}=V_1$
+
+Posteriormente se tiene una velocidad hacia arriba. 
+
+![[IMG_F0BCAF00492C-1.jpeg|center]]
+
+Por definición, esto sería que la velocidad sea: 
+
+$$\vec{v}=\dot{\rho}\hat{\rho}+\rho\dot{\theta}\hat{\theta}$$ 
+Por conservación del [[Momentum Angular|momentum angular]], se tiene que $h=\rho_0 v_\theta$. Si se reemplaza $v_\theta$ se llega que: 
+
+$$v_\theta=\frac{\rho_0 v_0}{\rho}$$ 
+Entonces, $\vert\vec{v}\vert$ para $\rho=\frac{\rho_0}{2}$. Si se reemplaza todo en la velocidad final: 
+
+$$\vec{v}=(-v_1)\hat{\rho}+2v_0\hat{\theta}$$ 
+$$\vert\vec{v}\vert=\sqrt{v_{1}^{2}+4v_{0}^{2}}$$ 
+Ahora, para encontrar la tensión, se ocupa la ecuación de movimiento en la dirección radial: 
+
+$$m(\ddot{\rho}-\rho\dot{\theta}^2)=-T$$ $$T=m\rho\dot{\theta}^2 = m(\rho\dot{\theta})\dot{\theta}$$ 

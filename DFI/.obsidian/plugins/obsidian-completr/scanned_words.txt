@@ -33,6 +33,7 @@ CW
 Cg
 Cuya
 Consiste
+Conservaci
 de
 define
 decir
@@ -137,6 +138,7 @@ definici
 determinar
 dot
 demostrado
+descubre
 fuerza
 forma
 fijar
@@ -190,6 +192,7 @@ fR
 final
 fluido
 ficos
+fico
 aplicada
 al
 aplicar
@@ -287,6 +290,7 @@ atada
 analizamos
 anal
 adem
+arriba
 por
 para
 pan
@@ -386,6 +390,7 @@ posibles
 producto
 plantear
 phi
+plataforma
 unidad
 una
 uno
@@ -501,6 +506,9 @@ rotor
 reposo
 rho
 respecto
+reescribimos
+recordando
+reemplaza
 Por
 Puede
 Producto
@@ -658,6 +666,7 @@ torno
 tensa
 the
 torque
+tira
 se
 su
 sale
@@ -741,6 +750,8 @@ sistemas
 subamortiguada
 simplifica
 similar
+sometida
+sea
 como
 cuerpos
 comprimirla
@@ -892,6 +903,8 @@ cuerda
 condici
 chicos
 central
+conservaci
+conserva
 Notemos
 Nos
 Newton
@@ -1046,6 +1059,7 @@ estable
 encuentra
 evaluar
 ecuaciones
+equivalencia
 modificar
 masa
 mira
@@ -1436,6 +1450,7 @@ hRRj
 hN
 homogeneo
 hipotenusa
+horizontal
 Est
 Es
 Esto
@@ -1605,6 +1620,7 @@ otras
 original
 ocupan
 oscilar
+ocupa
 borde
 buena
 busca
@@ -1625,6 +1641,7 @@ bqMky
 bM
 bj
 bgJ
+barrido
 Ya
 Yn
 YTr
@@ -2041,6 +2058,7 @@ KMZ
 KB
 KHG
 KU
+Kepler
 XExif
 XeF
 Xk
