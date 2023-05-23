@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md"
+                "file": "Mecánica/Energía/Energía para fuerzas centrales.md"
               }
             }
           }
@@ -181,10 +181,10 @@
   },
   "active": "2d0e879fe790992b",
   "lastOpenFiles": [
+    "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
     "Mecánica/Energía/Energía para fuerzas centrales.md",
     "Mecánica/Dinámica/Fuerzas centrales.md",
     "Mecánica/Dinámica/Fuerzas de restitución.md",
-    "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
     "Mecánica/Dinámica/Leyes de Kepler.md",
     "IMG_F0BCAF00492C-1.jpeg",
     "IMG_E923FFEF6838-1.jpeg",

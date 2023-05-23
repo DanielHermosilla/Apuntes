@@ -3,6 +3,11 @@ Si la [[Fuerzas centrales|fuerza central]] se define como $\vec{F_c}=f(\rho)\hat
 
 $$f(\rho)\hat{\rho}\cdot(dp\hat{\rho}+\rho d\theta\hat{\rho})=f(\rho)d\rho$$ 
 $$\implies V=-\int f(\rho)d\rho + C$$ 
+
+Notemos que la energía potencial en función de $\rho$ queda de la siguiente forma 
+
+$$V^*(\rho)=V(\rho)+\frac{mh^2}{2\rho^2}$$ 
+
 ### Ejemplo
 
 Si tenemos la fuerza gravitatoria, se llega que: 
