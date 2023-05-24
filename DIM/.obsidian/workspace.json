@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
+                "file": "Cálculo en Varias Variables/Ejercicios Control 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 526
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
+                "file": "Cálculo en Varias Variables/Ejercicios Control 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
+                "file": "Cálculo en Varias Variables/Ejercicios Control 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md"
+                "file": "Cálculo en Varias Variables/Ejercicios Control 2.md"
               }
             }
           },
@@ -164,6 +164,11 @@
   },
   "active": "b8ce6c7b67ee58cb",
   "lastOpenFiles": [
+    "Cálculo en Varias Variables/Pregunta 2.md",
+    "Cálculo en Varias Variables/Ejercicios Control 2.md",
+    "Cálculo en Varias Variables/Diferenciabilidad/Diferenciabilidad.md",
+    "Ecuaciones Diferenciales Ordinarias/Forma de Jordan.md",
+    "Álgebra Lineal/Valores y vectores propios/multiplicidad geométrica.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
@@ -190,11 +195,6 @@
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Método de constantes indeterminadas.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación de Bernoulli.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación homogénea.md",
-    "Álgebra Lineal/Espacios vectoriales/generador.md",
-    "Álgebra Lineal/Espacios vectoriales/dependencia.md",
-    "Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
-    "Álgebra Lineal/Espacios vectoriales/propiedad compacta.md",
-    "Álgebra Lineal/Espacios vectoriales/escalares.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",

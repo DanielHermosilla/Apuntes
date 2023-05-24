@@ -771,6 +771,7 @@ sxF
 sIu
 sumando
 saca
+subloque
 magnitud
 medio
 menor
@@ -875,6 +876,7 @@ mKo
 moo
 msk
 min
+multiplicidades
 que
 qu
 queda
@@ -1070,6 +1072,7 @@ pD
 pZG
 ps
 proponemos
+pude
 trav
 teorema
 ticas
@@ -1292,6 +1295,7 @@ gZuAL
 gL
 gwI
 gP
+gamma
 Ejemplo
 En
 Es
@@ -1489,6 +1493,7 @@ lI
 lww
 lx
 lxh
+letra
 Matem
 Matriz
 MY
@@ -1985,6 +1990,7 @@ azS
 abd
 ae
 ante
+admitir
 bajo
 bola
 binomio
@@ -2049,6 +2055,8 @@ bLr
 bUa
 bB
 bK
+bloques
+bloque
 hay
 hacemos
 ha
@@ -2250,6 +2258,7 @@ isT
 iQrJ
 iBt
 iMuMz
+intentara
 Vamos
 Voy
 Veamos
@@ -2645,6 +2654,7 @@ rR
 rfDxX
 rC
 rjP
+repetidos
 orden
 otras
 observaci
@@ -2857,6 +2867,7 @@ JCC
 Jzz
 JxX
 JGT
+Jordan
 Integral
 Intersecci
 IHDR
