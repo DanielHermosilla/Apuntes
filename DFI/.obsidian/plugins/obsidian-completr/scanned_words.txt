@@ -139,6 +139,7 @@ determinar
 dot
 demostrado
 descubre
+derivamos
 fuerza
 forma
 fijar
@@ -291,6 +292,8 @@ analizamos
 anal
 adem
 arriba
+alcance
+acord
 por
 para
 pan
@@ -421,6 +424,7 @@ usm
 uU
 ugQ
 unido
+unos
 rea
 relacionado
 refiere
@@ -509,6 +513,8 @@ respecto
 reescribimos
 recordando
 reemplaza
+regi
+rodea
 Por
 Puede
 Producto
@@ -592,6 +598,8 @@ lV
 lado
 llamamos
 lculo
+logra
+llegue
 tanto
 tratar
 tender
@@ -752,6 +760,7 @@ simplifica
 similar
 sometida
 sea
+salir
 como
 cuerpos
 comprimirla
@@ -905,6 +914,8 @@ chicos
 central
 conservaci
 conserva
+contrarresta
+conseguir
 Notemos
 Nos
 Newton
@@ -1150,6 +1161,8 @@ mI
 mv
 mismos
 mr
+momentum
+multiplicar
 va
 volumen
 vamente
@@ -1358,6 +1371,8 @@ inestable
 integra
 inicio
 iff
+infinita
+imagen
 no
 neo
 ngulo
@@ -1408,6 +1423,9 @@ nsecas
 neta
 notemos
 nulo
+necesita
+ndonos
+nueva
 homog
 haber
 hay
@@ -1642,6 +1660,7 @@ bM
 bj
 bgJ
 barrido
+buscando
 Ya
 Yn
 YTr
@@ -1710,6 +1729,7 @@ FM
 Fm
 Fw
 Ft
+Factorizando
 Que
 Qa
 Qy
@@ -1889,6 +1909,7 @@ RrX
 RN
 RE
 Reemplazando
+Recordar
 zado
 zoom
 zE
@@ -2099,6 +2120,7 @@ BN
 BB
 BQ
 Bp
+Binet
 Zu
 ZM
 ZZ

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "202fdf0c3c75544f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
+          },
+          {
             "id": "70d9022ea007cb6b",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8ce6c7b67ee58cb",
+  "active": "202fdf0c3c75544f",
   "lastOpenFiles": [
     "Cálculo en Varias Variables/Pregunta 2.md",
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
