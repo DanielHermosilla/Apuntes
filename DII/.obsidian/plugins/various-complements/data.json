@@ -68,19 +68,11 @@
         }
       }
     },
-    "Variable aleatoria discreta": {
-      "Variable aleatoria discreta": {
-        "internalLink": {
-          "count": 9,
-          "lastUpdated": 1682085126062
-        }
-      }
-    },
     "Esperanza": {
       "Esperanza": {
         "internalLink": {
-          "count": 9,
-          "lastUpdated": 1682688562397
+          "count": 10,
+          "lastUpdated": 1685107392853
         }
       }
     },
@@ -119,8 +111,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 8,
-          "lastUpdated": 1684763564408
+          "count": 10,
+          "lastUpdated": 1685105279231
         }
       }
     },
@@ -231,8 +223,8 @@
     "Distribución Normal": {
       "Distribución Normal": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683897976735
+          "count": 2,
+          "lastUpdated": 1685106481156
         }
       }
     },
@@ -329,6 +321,46 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1684775107677
+        }
+      }
+    },
+    "Linealidad de la esperanza": {
+      "Linealidad de la esperanza": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685105175000
+        }
+      }
+    },
+    "\\text{Cov}": {
+      "\\text{Cov}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685106500460
+        }
+      }
+    },
+    "\\sum_{i": {
+      "\\sum_{i": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685106254012
+        }
+      }
+    },
+    "PDF marginal": {
+      "PDF marginal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685107471866
+        }
+      }
+    },
+    "\\int_{0}^{\\infty}\\int_{1}^{2}x\\cdot": {
+      "\\int_{0}^{\\infty}\\int_{1}^{2}x\\cdot": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685107481854
         }
       }
     }
