@@ -39,6 +39,7 @@ Lw
 LtEh
 LO
 LwWg
+Laplace
 norma
 nada
 nuevas
@@ -144,6 +145,7 @@ nj
 nN
 nF
 nB
+ntota
 de
 del
 definici
@@ -330,6 +332,7 @@ dPv
 dzv
 dT
 diverger
+desplazada
 un
 una
 uni
@@ -1759,6 +1762,7 @@ establece
 evaluando
 evoluci
 estado
+escal
 formas
 fin
 forall
@@ -2259,6 +2263,7 @@ iQrJ
 iBt
 iMuMz
 intentara
+indicatriz
 Vamos
 Voy
 Veamos
@@ -2655,6 +2660,7 @@ rfDxX
 rC
 rjP
 repetidos
+relacionado
 orden
 otras
 observaci
@@ -3002,6 +3008,8 @@ Tc
 Tjj
 TBm
 Tz
+Transformada
+Transformadas
 ximo
 xf
 xR
@@ -3186,6 +3194,7 @@ HMp
 Hu
 Hm
 Hh
+Heavside
 Ortogonalidad
 Ortonormalidad
 OUC
