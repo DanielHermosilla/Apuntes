@@ -387,6 +387,30 @@
           "lastUpdated": 1685377685536
         }
       }
+    },
+    "Subsidio": {
+      "Subsidio": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1685380345845
+        }
+      }
+    },
+    "Negociación": {
+      "Negociación": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685380325587
+        }
+      }
+    },
+    "Impuestos": {
+      "Impuestos": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685380328422
+        }
+      }
     }
   }
 }
