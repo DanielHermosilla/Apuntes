@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF Marginal.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,13 +86,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF Marginal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF Marginal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md"
+                "file": "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF Marginal.md"
               }
             }
           }
@@ -171,8 +169,11 @@
   },
   "active": "10b1546853511a99",
   "lastOpenFiles": [
-    "Probabilidades/Probabilidad conjunta/Correlación.md",
+    "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF conjunto.md",
+    "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF Marginal.md",
     "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+    "Probabilidades/Probabilidad conjunta/Probabilidad discreta",
+    "Probabilidades/Probabilidad conjunta/Correlación.md",
     "Probabilidades/Probabilidad conjunta/Covarianza.md",
     "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
@@ -206,8 +207,6 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
     "img/Distribución exponencial.png",
@@ -216,7 +215,6 @@
     "Probabilidades/Variable aleatoria continua",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
     "Probabilidades/Variable aleatoria discreta/Esperanza",
-    "Economía/La firma y sus clientes",
-    "Probabilidades/Variable aleatoria discreta"
+    "Economía/La firma y sus clientes"
   ]
 }
