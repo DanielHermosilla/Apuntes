@@ -35,9 +35,11 @@
             "id": "dc11fa4e9a3194d4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md"
+                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md"
               }
             }
           }
@@ -179,6 +182,10 @@
   },
   "active": "dc11fa4e9a3194d4",
   "lastOpenFiles": [
+    "Economía/Competencia perfecta/Externalidades/Subsidio.md",
+    "Economía/Competencia perfecta/Externalidades/Impuestos.md",
+    "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
+    "Economía/Competencia perfecta/Externalidades",
     "Probabilidades/Probabilidad conjunta/Correlación.md",
     "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Probabilidades/Probabilidad conjunta/Covarianza.md",
@@ -196,7 +203,6 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
     "Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
-    "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
     "Economía/Competencia perfecta/Curva de oferta.md",
     "Economía/Competencia perfecta/Factores que afectan el equilibrio/Tipo de bienes.md",
     "Economía/Competencia perfecta/Firmas tomadoras de precios.md",
@@ -215,8 +221,6 @@
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua",
     "Probabilidades/Probabilidad conjunta",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
     "img/Distribución exponencial.png",
@@ -224,7 +228,6 @@
     "Probabilidades/Variable aleatoria continua/Distribuciones",
     "Probabilidades/Variable aleatoria continua",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
-    "Probabilidades/Variable aleatoria discreta/Esperanza",
-    "Economía/La firma y sus clientes"
+    "Probabilidades/Variable aleatoria discreta/Esperanza"
   ]
 }

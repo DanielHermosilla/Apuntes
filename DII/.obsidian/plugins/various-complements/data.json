@@ -76,27 +76,11 @@
         }
       }
     },
-    "Varianza": {
-      "Varianza": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1682688838176
-        }
-      }
-    },
     "Continuidad": {
       "Continuidad": {
         "internalLink": {
           "count": 3,
           "lastUpdated": 1684763580367
-        }
-      }
-    },
-    "x\\in\\mathbb{R}": {
-      "x\\in\\mathbb{R}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682687334151
         }
       }
     },
@@ -239,8 +223,8 @@
     "Mercado": {
       "Mercado": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1683910076873
+          "count": 3,
+          "lastUpdated": 1685376514355
         }
       }
     },
