@@ -371,6 +371,22 @@
           "lastUpdated": 1685327322327
         }
       }
+    },
+    "Precio de equilibrio": {
+      "Precio de equilibrio": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685377601208
+        }
+      }
+    },
+    "Salarios": {
+      "Salarios": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685377685536
+        }
+      }
     }
   }
 }

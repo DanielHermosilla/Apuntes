@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md",
+                "file": "Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md",
+                "file": "Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md",
+                "file": "Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Competencia perfecta/Externalidades/Impuestos.md"
+                "file": "Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md"
               }
             }
           }
@@ -182,8 +182,11 @@
   },
   "active": "dc11fa4e9a3194d4",
   "lastOpenFiles": [
-    "Economía/Competencia perfecta/Externalidades/Subsidio.md",
-    "Economía/Competencia perfecta/Externalidades/Impuestos.md",
+    "img/FijacionDePrecios.png",
+    "Economía/Competencia perfecta/Factores que afectan el equilibrio/Impuestos.md",
+    "Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md",
+    "img/Pasted image 20230529122506.png",
+    "Economía/Competencia perfecta/Factores que afectan el equilibrio/Subsidio.md",
     "Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
     "Economía/Competencia perfecta/Externalidades",
     "Probabilidades/Probabilidad conjunta/Correlación.md",
@@ -217,14 +220,11 @@
     "Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
     "img/Captura de pantalla 2023-05-22 a la(s) 09.00.57.png",
     "img/Captura de pantalla 2023-05-22 a la(s) 08.38.48.png",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua",
     "Probabilidades/Probabilidad conjunta",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "img/TablaNormal.png",
     "img/DistribuciónNormal.png",
     "img/Distribución exponencial.png",
-    "img/Uniforme.png",
     "Probabilidades/Variable aleatoria continua/Distribuciones",
     "Probabilidades/Variable aleatoria continua",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
