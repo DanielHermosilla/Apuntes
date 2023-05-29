@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e441531f48ce9fdd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3493405697025121",
+  "active": "e441531f48ce9fdd",
   "lastOpenFiles": [
     "Equilibrio Ácido Base/Efecto del ion común en los equilibrios ácido-base.md",
     "Equilibrio Ácido Base/Titulación.md",

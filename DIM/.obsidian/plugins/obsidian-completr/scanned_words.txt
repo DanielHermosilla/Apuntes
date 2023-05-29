@@ -775,6 +775,7 @@ sIu
 sumando
 saca
 subloque
+shift
 magnitud
 medio
 menor
@@ -3010,6 +3011,8 @@ TBm
 Tz
 Transformada
 Transformadas
+Transformaci
+Traslaci
 ximo
 xf
 xR
