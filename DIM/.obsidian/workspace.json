@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 255,
+    "collapsed": true
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md"
               }
             }
           },
@@ -156,9 +157,10 @@
   },
   "active": "a3ae2c4771970a57",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Funciones discontinuas y Heavside.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Orden exponencial.md",
-    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace",
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
     "Cálculo en Varias Variables/Pregunta 2.md",
@@ -187,7 +189,6 @@
     "Ecuaciones Diferenciales Ordinarias/img/Captura de pantalla 2023-05-01 a la(s) 16.17.05.png",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Apuntes Control 2.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Abel.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Teorema de Existencia y Unicidad de Orden 2.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
