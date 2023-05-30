@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Energía/Pozo de potencial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Dinámica/Fuerzas centrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Dinámica/Fuerzas centrales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md"
+                "file": "Mecánica/Dinámica/Fuerzas centrales.md"
               }
             }
           }
@@ -179,45 +178,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d0e879fe790992b",
+  "active": "cacb57063b5962ed",
   "lastOpenFiles": [
-    "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
-    "IMG_47CBAC655B06-1.jpeg",
-    "IMG_A94C81DE0AA2-1.jpeg",
-    "IMG_396909361349-1.jpeg",
+    "IMG_BCD9AE8DD204-1.jpeg",
+    "IMG_8E5FD8A652B8-1.jpeg",
+    "IMG_D1C1C5C3D7D9-1.jpeg",
+    "Mecánica/Dinámica/Fuerzas de restitución.md",
+    "Mecánica/Energía/Fuerzas de repulsión.md",
+    "Mecánica/Energía/Pozo de potencial.md",
+    "Mecánica/Energía/Energía para fuerzas centrales.md",
+    "Mecánica/Dinámica/Fuerzas centrales.md",
+    "Mecánica/Energía/Puntos de equilibrios.md",
+    "Mecánica/Momentum Angular y Torque/Relación entre el Momento Angular y Torque.md",
     "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
     "Mecánica/Dinámica/Leyes de Kepler.md",
+    "Mecánica/img/IMG_D1C1C5C3D7D9-1.jpeg",
+    "Mecánica/img/IMG_CFF6A81E167F-1.jpeg",
+    "Mecánica/img/IMG_C5FE8BC58AE6-1.jpeg",
+    "Mecánica/img/ElipseRho.jpeg",
+    "Mecánica/Dinámica/Fuerza roce.md",
+    "Mecánica/Dinámica/Dinámica.md",
+    "Mecánica/Dinámica/Atracción gravitacional.md",
+    "Mecánica/img/IMG_B9AD03BADD60-1.jpeg",
+    "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
+    "Mecánica/img/IMG_47CBAC655B06-1.jpeg",
+    "Mecánica/img/IMG_A94C81DE0AA2-1.jpeg",
+    "Mecánica/img/IMG_396909361349-1.jpeg",
     "Mecánica/Cinemática/Curva odógrafa.md",
     "Mecánica/Cinemática/Ecuación itinerario.md",
     "Mecánica/Cinemática/Posición.md",
     "Mecánica/Cinemática/Radio de curvatura del circulo osculador.md",
-    "Mecánica/Dinámica/Dinámica.md",
     "Mecánica/Cinemática/Velocidad.md",
     "Mecánica/Cinemática/Vector tangencial.md",
     "Mecánica/Cinemática/Coordenadas esféricas.md",
     "Mecánica/Cinemática/Aceleración.md",
     "Mecánica/Cinemática/Cinemática.md",
-    "Mecánica/Dinámica/Atracción gravitacional.md",
-    "Mecánica/Dinámica/Fuerzas centrales.md",
-    "Mecánica/Energía/Energía para fuerzas centrales.md",
-    "Mecánica/Energía/Fuerzas de repulsión.md",
-    "Mecánica/Energía/Pozo de potencial.md",
-    "Mecánica/Energía/Puntos de equilibrios.md",
-    "Mecánica/Momentum Angular y Torque/Relación entre el Momento Angular y Torque.md",
     "Mecánica/Momentum Angular y Torque/Torque.md",
-    "Mecánica/Dinámica/Fuerzas de restitución.md",
-    "Mecánica/img/IMG_F0BCAF00492C-1.jpeg",
-    "Mecánica/img/IMG_E923FFEF6838-1.jpeg",
-    "Mecánica/img/IMG_1CDBBB5FE82E-1.jpeg",
     "Mecánica/Momentum Angular y Torque",
-    "Mecánica/img/pozopotencial.png",
-    "Mecánica/img/Pozopotencial.jpeg",
     "Mecánica/Energía/Trabajo.md",
     "borrar.md",
-    "Mecánica/Dinámica/Resonancia.md",
     "Mecánica/Energía",
-    "Mecánica/img/Péndulo.jpeg",
-    "Mecánica/img/Ejemplo piston.jpeg",
     "Mecánica/Dinámica",
     "Mecánica/img",
     "Mecánica/Sistema de referencias",

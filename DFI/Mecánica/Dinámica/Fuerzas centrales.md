@@ -56,3 +56,29 @@ $$\vert\vec{v}\vert=\sqrt{v_{1}^{2}+4v_{0}^{2}}$$
 Ahora, para encontrar la tensión, se ocupa la ecuación de movimiento en la dirección radial: 
 
 $$m(\ddot{\rho}-\rho\dot{\theta}^2)=-T$$ $$T=m\rho\dot{\theta}^2 = m(\rho\dot{\theta})\dot{\theta}$$ 
+## Fuerza efectiva 
+
+Se define de la siguiente forma: 
+
+$$\begin{align}
+
+m\ddot{\rho}&=f^*(\rho)\\\\
+&=f(\rho)+\frac{mh^2}{\rho^3}\\\\
+&\iff V^*(\rho)= V(\rho) + \frac{mh^2}{2\rho^2}\\\\
+\end{align}$$
+
+Entonces, se se llega a las siguientes equivalencias: 
+
+$$\frac{1}{2}mv^2 + V(\rho)=E_0=\frac{1}{2}m\dot{\rho}^2 + V^*(\rho)$$ $$m\ddot{\rho}=\frac{-dV^*}{d\rho}$$ 
+Entonces, se llega a un [[Pozo de potencial|pozo de potencial]].  Cuando se aumenta la energía cinética se produce el siguiente efecto: 
+
+![[IMG_8E5FD8A652B8-1.jpeg|center]]
+
+Donde empieza a oscilar entre el [[Pozo de potencial|pozo de potencial]]. Esto es equivalente a que oscile **dentro del radio**, es decir, en la dirección radial. 
+
+![[IMG_BCD9AE8DD204-1.jpeg|center]]
+
+Y se llega a un movimiento armónico simple a partir de una [[Movimiento a partir de una fuerza central|fuerza central]], donde la frecuencía sería: 
+
+$$T=2\pi\sqrt{\frac{m}{\frac{d^2V}{d\rho^2}}}$$ 
+Notemos que el período depende de la segunda derivada del potencial, lo que hace sentido, pues nos da la excentricidad del pozo. 

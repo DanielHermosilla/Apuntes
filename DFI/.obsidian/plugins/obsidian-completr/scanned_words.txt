@@ -140,6 +140,7 @@ dot
 demostrado
 descubre
 derivamos
+dividir
 fuerza
 forma
 fijar
@@ -675,6 +676,7 @@ tensa
 the
 torque
 tira
+truco
 se
 su
 sale
@@ -1071,6 +1073,8 @@ encuentra
 evaluar
 ecuaciones
 equivalencia
+elipse
+efectiva
 modificar
 masa
 mira

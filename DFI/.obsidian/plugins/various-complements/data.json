@@ -55,38 +55,6 @@
         }
       }
     },
-    "Coordenadas polares": {
-      "Coordenadas polares": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682432471254
-        }
-      }
-    },
-    "\\frac{d}{dt}": {
-      "\\frac{d}{dt}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682435004084
-        }
-      }
-    },
-    "\\frac{1}{2}mv^2": {
-      "\\frac{1}{2}mv^2": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682435066257
-        }
-      }
-    },
-    "fuerza centrípeta": {
-      "fuerza centrípeta": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682605823914
-        }
-      }
-    },
     "energía potencial": {
       "energía potencial": {
         "internalLink": {
@@ -132,6 +100,46 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1685027537474
+        }
+      }
+    },
+    "\\frac{h}{2}": {
+      "\\frac{h}{2}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685456932520
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685457026390
+        }
+      }
+    },
+    "\\end{align}": {
+      "\\end{align}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685457084998
+        }
+      }
+    },
+    "\\frac{1}{2}m": {
+      "\\frac{1}{2}m": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685459033039
+        }
+      }
+    },
+    "Pozo de potencial": {
+      "Pozo de potencial": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685459476803
         }
       }
     }

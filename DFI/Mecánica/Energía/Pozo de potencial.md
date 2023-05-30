@@ -12,3 +12,4 @@ Es decir, la fuerza contrarresta el movimiento.
 
 
 En la siguiente imagen se puede ver que para poder salir de los puntos $\chi_1$  y $\chi_2$ se necesita una [[energía potencial]] mayor que $E$ tal que el potencial llegue al plano. 
+
