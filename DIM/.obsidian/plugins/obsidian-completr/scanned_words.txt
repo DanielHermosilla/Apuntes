@@ -40,6 +40,8 @@ LtEh
 LO
 LwWg
 Laplace
+Linealidad
+Lerch
 norma
 nada
 nuevas
@@ -333,6 +335,9 @@ dzv
 dT
 diverger
 desplazada
+distribuye
+dad
+denota
 un
 una
 uni
@@ -624,6 +629,10 @@ cT
 converger
 concluye
 can
+corresponda
+convoluci
+conmuta
+cf
 su
 ser
 se
@@ -776,6 +785,7 @@ sumando
 saca
 subloque
 shift
+salvo
 magnitud
 medio
 menor
@@ -1077,6 +1087,7 @@ pZG
 ps
 proponemos
 pude
+pedazos
 trav
 teorema
 ticas
@@ -1192,6 +1203,10 @@ tW
 tl
 tz
 tcy
+transformada
+traslaci
+temporal
+trasladar
 Pit
 Para
 Por
@@ -1356,6 +1371,7 @@ Ez
 EI
 ERF
 Exponential
+Espacio
 Norma
 No
 Notemos
@@ -1764,6 +1780,9 @@ evaluando
 evoluci
 estado
 escal
+eb
+eaf
+eaba
 formas
 fin
 forall
@@ -1847,6 +1866,7 @@ fF
 fI
 fC
 frobenius
+ffd
 an
 amos
 aquello
@@ -1996,6 +2016,10 @@ abd
 ae
 ante
 admitir
+absolutamente
+antitransformada
+af
+acbb
 bajo
 bola
 binomio
@@ -2265,6 +2289,7 @@ iBt
 iMuMz
 intentara
 indicatriz
+ingresar
 Vamos
 Voy
 Veamos
@@ -2528,6 +2553,7 @@ DFD
 DL
 DEF
 DeS
+Definiciones
 responder
 representa
 rmino
@@ -2931,6 +2957,7 @@ IB
 IAA
 Is
 It
+Intercambiar
 Un
 Uni
 Una
@@ -3013,6 +3040,7 @@ Transformada
 Transformadas
 Transformaci
 Traslaci
+Traslaciones
 ximo
 xf
 xR

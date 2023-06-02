@@ -46,3 +46,23 @@ Esto se puede demostrar por [[Teorema Fundamental del Cálculo|TFC]].
 
 $$L[f(t-a)H_a](s)=e^{-sa}L[f](s)$$ 
 Esto se llama shift en tiempo. 
+
+6. Si $f$ es $T$-periódica y acotada, es decir: 
+
+$$f(t)=f(t+T),\;\forall t\geq 0,\;\vert f(t)\vert\leq M$$
+
+Para algún $M>0$, entonces: 
+
+$$\mathbb{L}[f](s)=\frac{1}{1-e^{-st}}\int^{T}_{0}e^{-st}f(t)dt$$ 
+7. Se tiene lo siguiente para las derivadas: 
+
+$$\frac{d^n}{ds^n}\mathbb{L}[f](s)=(-1)^n\mathbb{L}[t^nf(t)](s)$$ 
+8. La integral de la transformada de Laplace: 
+
+$$\begin{align}\int^{s}_{0}\mathbb{L}[f](u)du &= -\mathbb{L}[\frac{f(t)}{t}](s)+\int^{\infty}_{0}\frac{f(t)}{t}dt
+
+\end{align}$$ 
+Y se cumple que: 
+
+$$\int^{\infty}_{0}\mathbb{L}[f](u)du=\int^{\infty}_{0}\frac{f(t)}{t}dt$$
+

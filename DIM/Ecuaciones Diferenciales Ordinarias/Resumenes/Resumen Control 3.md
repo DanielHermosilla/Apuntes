@@ -1,4 +1,28 @@
 
+## Sistema lineales de EDO's 
+
+Ocurre cuando se tiene más de una ecuación diferencial a resolver. Se pueden representar de forma matriciales de la siguiente forma: 
+
+$$\begin{align}
+\dot{x_1} &= x_1 + x_2 \\ 
+\dot{x_2} &= 4x_1 + x_2
+\end{align}$$ 
+La solución se saca obteniendo los vectores propios y valores propios, es decir: 
+
+$$x(t)=Ve^{\lambda t}$$ 
+Donde $V$ corresponde al vector asociado al valor propio $\lambda$. La **solución general** corresponde a la suma de las soluciones, es decir: 
+
+$$x(t) = AVe^{\lambda t} + BVe^{\lambda t}$$
+
+Donde $x_1$ corresponde a la primera fila y $x_2$ a la segunda, es decir: 
+
+$$\begin{align}
+\text{Sea}\; x(t) &= A\begin{pmatrix}\textcolor{red}{a}\\\textcolor{blue}{b}\end{pmatrix}e^{\lambda_1 t} + B\begin{pmatrix}\textcolor{red}{c}\\\textcolor{blue}{d}\end{pmatrix}e^{\lambda_2 t}\\\\
+x_1 &= A\textcolor{red}{a}e^{\lambda_1 t} + B\textcolor{red}{c}e^{\lambda_2 t}\\\\
+x_2 &= A\textcolor{blue}{b}e^{\lambda_1 t} + B\textcolor{blue}{d}e^{\lambda_2 t}\end{align}$$ 
+
+
+
 
 # Transformada de Laplace 
 

@@ -11,6 +11,21 @@
             "id": "a3ae2c4771970a57",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "ce1da24793847f5d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
@@ -19,7 +34,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255,
+    "width": 280,
     "collapsed": true
   },
   "right": {
@@ -155,12 +171,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3ae2c4771970a57",
+  "active": "ce1da24793847f5d",
   "lastOpenFiles": [
-    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Convolución.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Convergencia uniforme.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformada.md",
+    "Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+    "Ecuaciones Diferenciales Ordinarias/Funciones generalizadas y Dirac.md",
+    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Aplicaciones a EDOs a coeficientes constantes.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md",
-    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Funciones discontinuas y Heavside.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Orden exponencial.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Funciones discontinuas y Heavside.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace",
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
     "Cálculo en Varias Variables/Pregunta 2.md",
@@ -180,15 +204,8 @@
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Ecuación de Euler.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO lineal de orden n.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de coeficiente variables.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO de orden superior lineal.md",
     "Ecuaciones Diferenciales Ordinarias/img/Captura de pantalla 2023-05-01 a la(s) 16.17.05.png",
-    "Ecuaciones Diferenciales Ordinarias/Resumenes/Apuntes Control 2.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Abel.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
