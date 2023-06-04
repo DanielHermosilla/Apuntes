@@ -11,14 +11,11 @@
             "id": "a3ae2c4771970a57",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280,
-    "collapsed": true
+    "width": 279
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -102,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md"
               }
             }
           },
@@ -173,6 +169,14 @@
   },
   "active": "ce1da24793847f5d",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+    "Ecuaciones Diferenciales Ordinarias/Consulta.md",
+    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Convolución.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Convergencia uniforme.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformada.md",
@@ -183,27 +187,18 @@
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Transformada de Laplace.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Orden exponencial.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Funciones discontinuas y Heavside.md",
-    "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
-    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace",
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
     "Cálculo en Varias Variables/Pregunta 2.md",
     "Cálculo en Varias Variables/Diferenciabilidad/Diferenciabilidad.md",
     "Ecuaciones Diferenciales Ordinarias/Forma de Jordan.md",
     "Álgebra Lineal/Valores y vectores propios/multiplicidad geométrica.md",
-    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
-    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
-    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1 1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
-    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuaciones reductibles.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuación de Ricatti.md",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/EDO no homogénea de orden superior.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Fórmula de Luiville.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones",
     "Ecuaciones Diferenciales Ordinarias/img/Captura de pantalla 2023-05-01 a la(s) 16.17.05.png",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",

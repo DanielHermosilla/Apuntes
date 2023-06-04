@@ -148,6 +148,7 @@ nN
 nF
 nB
 ntota
+neas
 de
 del
 definici
@@ -633,6 +634,7 @@ corresponda
 convoluci
 conmuta
 cf
+contribuci
 su
 ser
 se
@@ -786,6 +788,8 @@ saca
 subloque
 shift
 salvo
+sumado
+sticas
 magnitud
 medio
 menor
@@ -891,6 +895,7 @@ moo
 msk
 min
 multiplicidades
+matriciales
 que
 qu
 queda
@@ -1088,6 +1093,8 @@ ps
 proponemos
 pude
 pedazos
+puedo
+pmatrix
 trav
 teorema
 ticas
@@ -1621,6 +1628,7 @@ vDy
 vF
 vsd
 verlo
+voy
 el
 estudio
 en
@@ -1867,6 +1875,9 @@ fI
 fC
 frobenius
 ffd
+fuente
+final
+fuera
 an
 amos
 aquello
@@ -2020,6 +2031,8 @@ absolutamente
 antitransformada
 af
 acbb
+argumento
+asumimos
 bajo
 bola
 binomio
@@ -2086,6 +2099,7 @@ bB
 bK
 bloques
 bloque
+busco
 hay
 hacemos
 ha
@@ -2290,6 +2304,7 @@ iMuMz
 intentara
 indicatriz
 ingresar
+imaginarias
 Vamos
 Voy
 Veamos
@@ -3144,6 +3159,7 @@ RbF
 RSS
 RaO
 Response
+Resolver
 kappa
 kcM
 kj
@@ -3277,6 +3293,7 @@ OKM
 Ocx
 OLL
 OK
+Ocurre
 Gram
 Gs
 Gw

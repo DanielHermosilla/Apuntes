@@ -21,8 +21,56 @@ $$\begin{align}
 x_1 &= A\textcolor{red}{a}e^{\lambda_1 t} + B\textcolor{red}{c}e^{\lambda_2 t}\\\\
 x_2 &= A\textcolor{blue}{b}e^{\lambda_1 t} + B\textcolor{blue}{d}e^{\lambda_2 t}\end{align}$$ 
 
+Ahora, en el caso donde se tienen raices imaginarias se hace lo siguiente: 
 
+$$\begin{align}
+x(t)&=Re\lbrace ve^{\lambda t}\rbrace + Im\lbrace ve^{\lambda_2 t}\rbrace\end{align}$$ 
+Ahora, lo que ocurre en el caso no homogeneo, es decir de la siguiente forma: 
 
+$$\begin{align}
+\dot{x_1} &= x_1 + x_2 + a \\ 
+\dot{x_2} &= x_1 + x_2 + b
+\end{align}$$
+
+Se ocupa variación de parámetros, bajo el siguiente argumento: 
+
+$$\begin{align}
+\begin{pmatrix}a\\b\end{pmatrix}&=\text{constantes}\\
+\implies\begin{pmatrix}a\\b\end{pmatrix}^{'} &= 0
+\end{align}$$ 
+Entonces se resuelve el siguiente sistema de ecuaciones, donde cada entrada corresponde a los coeficientes de $x_1$ y $x_2$: 
+
+$$\begin{align}
+\begin{pmatrix}0\\0\end{pmatrix}&=\begin{pmatrix}1&1\\1&1\end{pmatrix}\begin{pmatrix}\alpha\\\beta\end{pmatrix} + \begin{pmatrix}a\\b\end{pmatrix}\\\\
+\iff\begin{pmatrix}-a\\-b\end{pmatrix}&=\begin{pmatrix}1&1\\1&1\end{pmatrix}\begin{pmatrix}\alpha\\\beta\end{pmatrix}\end{align}$$
+
+Por lo tanto, se resuelve el sistema de ecuaciones y se obtiene la solución particular. 
+
+Ahora, si la particular no fuera constante, el sistema de ecuación se similar a una variación de parametros normal. 
+
+#### Ejemplo 
+
+$$\begin{align}
+\vec{X'} &= \begin{pmatrix}6&1\\4&3\end{pmatrix}\vec{X} + \begin{pmatrix}6t\\-10t + 4\end{pmatrix}\\\\
+\text{Homogénea}\;&= A\begin{pmatrix}1\\-4\end{pmatrix}e^{2t} + B\begin{pmatrix}1\\1\end{pmatrix}e^{7t}
+\end{align}$$ 
+Entonces, como se tiene la parte no homogénea en función de la variable independiente, asumimos que la solución no homogénea es de la siguiente forma: 
+
+$$\begin{align}
+\vec{X_p}&=\begin{pmatrix}a\\b\end{pmatrix}+\begin{pmatrix}a_2\\b_2\end{pmatrix}t \implies\vec{X_p}=\begin{pmatrix}a_2\\b_2\end{pmatrix}\\\\
+\begin{pmatrix}a_2\\b_2\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\left[\begin{pmatrix}a_1\\b_1\end{pmatrix}+\begin{pmatrix}a_2\\b_2\end{pmatrix}t\right]+\begin{pmatrix}6t\\-10t + 4\end{pmatrix}\end{align}$$ 
+Entonces se puede resolver para cada coeficiente por separado, es decir, en este caso, resolviendo para $t$: 
+
+$$\begin{align}
+\begin{pmatrix}0\\0\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_2\\b_2\end{pmatrix}+\begin{pmatrix}6\\-10\end{pmatrix}\\\\
+\begin{pmatrix}-6\\10\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_2\\b_2\end{pmatrix}\\\\a_2&=-2\\\\b_2&=6
+\end{align}$$
+
+Ahora para las constantes: 
+
+$$\begin{align}
+\begin{pmatrix}a_2\\b_2\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_1\\b_1\end{pmatrix}+\begin{pmatrix}0\\4\end{pmatrix}\\\\\begin{pmatrix}-2\\6\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_1\\b_1\end{pmatrix}+\begin{pmatrix}0\\4\end{pmatrix}\\\\\begin{pmatrix}-2\\2\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_1\\b_1\end{pmatrix}\\\\a_1&=-\frac{4}{7}\\\\b_1&=\frac{10}{7}
+\end{align}$$ 
 
 # Transformada de Laplace 
 
@@ -74,3 +122,18 @@ $$\mathbb{L}[\mathbb{1}_{(t-a)}f(t-a)](s)=e^{-sa}\mathbb{L}[f(t)](s)$$
 De la misma forma, una traslación corresponde a un factor exponencial en el dominio temporal: 
 
 $$\mathbb{L}[f(t)](s-a) = \mathbb{L}[e^{at}f(t)](s)$$ 
+## Transformadas conocidas 
+
+1. Transformada de una constante: 
+
+$$\mathbb{L}[a] = \frac{a}{s}$$ 
+2. Transformada de una exponencial: 
+
+$$\mathbb{L}[e^{at}]=\frac{1}{s-a}\;\;\;\; s>a$$
+
+3. Transformada del $\sin(at)$. 
+
+$$\mathbb{L}[\sin(at)]=\frac{a}{s^2 + a^2}$$ 
+4. Transformada del $\cos(at)$: 
+
+$$\mathbb{L}[\cos(at)] = \frac{s}{s^2 + a^2}$$ 

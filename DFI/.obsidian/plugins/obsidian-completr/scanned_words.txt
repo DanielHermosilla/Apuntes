@@ -195,6 +195,7 @@ final
 fluido
 ficos
 fico
+frecuenc
 aplicada
 al
 aplicar
@@ -395,6 +396,8 @@ producto
 plantear
 phi
 plataforma
+pues
+pozo
 unidad
 una
 uno
@@ -1075,6 +1078,7 @@ ecuaciones
 equivalencia
 elipse
 efectiva
+excentricidad
 modificar
 masa
 mira
@@ -1643,6 +1647,7 @@ original
 ocupan
 oscilar
 ocupa
+oscile
 borde
 buena
 busca
