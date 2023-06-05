@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+                "file": "Economía/Elección social/Paradoja de Condorcet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+                "file": "Economía/Elección social/Paradoja de Condorcet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+                "file": "Economía/Elección social/Paradoja de Condorcet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de Gammas.md"
+                "file": "Economía/Elección social/Paradoja de Condorcet.md"
               }
             }
           }
@@ -156,10 +156,14 @@
   },
   "active": "631e0699bad67a59",
   "lastOpenFiles": [
-    "Probabilidades/Probabilidad conjunta/Convolución.md",
+    "Economía/Elección social/Regla de Mayoría Simple.md",
+    "Economía/Elección social/Paradoja de Condorcet.md",
+    "Economía/Elección social/Regla de agregación.md",
     "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+    "Economía/Elección social",
+    "Probabilidades/Probabilidad conjunta/Convolución.md",
     "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
-    "Pasted image 20230605092327.png",
+    "img/Pasted image 20230605092327.png",
     "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Probabilidades/Probabilidad conjunta/Distribuciones/Normal Multivariada.md",
     "img/Pasted image 20230602092930.png",
@@ -188,9 +192,6 @@
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/PDF marginal.md",
-    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad Conjunta.md",
-    "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF Marginal.md",
-    "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF conjunto.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad discreta",
     "Economía/Competencia perfecta/Factores que afectan el equilibrio",
     "img/Firmas tomadoras de precios.png",
@@ -201,7 +202,6 @@
     "img/Captura de pantalla 2023-05-22 a la(s) 08.48.00.png",
     "img/Captura de pantalla 2023-05-22 a la(s) 09.00.57.png",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua",
-    "Probabilidades/Probabilidad conjunta",
-    "Probabilidades/Variable aleatoria continua/Distribuciones"
+    "Probabilidades/Probabilidad conjunta"
   ]
 }
