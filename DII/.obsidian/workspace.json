@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
+                "file": "Probabilidades/Probabilidad conjunta/Convolución.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
+                "file": "Probabilidades/Probabilidad conjunta/Convolución.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
+                "file": "Probabilidades/Probabilidad conjunta/Convolución.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md"
+                "file": "Probabilidades/Probabilidad conjunta/Convolución.md"
               }
             }
           }
@@ -158,6 +157,8 @@
   "active": "631e0699bad67a59",
   "lastOpenFiles": [
     "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
+    "Probabilidades/Probabilidad conjunta/Convolución.md",
+    "Pasted image 20230605092327.png",
     "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Probabilidades/Probabilidad conjunta/Distribuciones/Normal Multivariada.md",
     "img/Pasted image 20230602092930.png",
@@ -191,7 +192,6 @@
     "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF conjunto.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad discreta",
     "Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
-    "Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
     "Economía/Competencia perfecta/Factores que afectan el equilibrio",
     "img/Firmas tomadoras de precios.png",
     "img/PrecioEquilibrio.png",
@@ -200,7 +200,6 @@
     "Untitled.canvas",
     "img/Captura de pantalla 2023-05-22 a la(s) 08.48.00.png",
     "img/Captura de pantalla 2023-05-22 a la(s) 09.00.57.png",
-    "img/Captura de pantalla 2023-05-22 a la(s) 08.38.48.png",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua",
     "Probabilidades/Probabilidad conjunta",
     "Probabilidades/Variable aleatoria continua/Distribuciones"

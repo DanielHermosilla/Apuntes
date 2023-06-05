@@ -20,3 +20,17 @@ Sea $X\sim\text{Binomial}(n,p)$ y $Y\sim\text{Binomial}(m,p)$ variables aleatori
 **Hint**: Identidad de Valdelmort: 
 
 $$\begin{pmatrix}n+m\\z\end{pmatrix}=\sum_{y=0}^{n}\begin{pmatrix}n\\z-y\end{pmatrix}\begin{pmatrix}m\\y\end{pmatrix}$$ 
+## Caso de Distribución Uniforme 
+
+Sean dos variables aleatorias con [[Distribución Uniforme]], entonces, se tiene lo siguiente: 
+
+$$\begin{align}
+W &= U + V
+\end{align}$$ 
+Esta tiene la siguiente PMF: 
+
+$$f_w(w)=\begin{cases}w&\text{si}\;w\in[0,1]\\\\2-w&\text{si}\;w\in(1,2]\\\\0&\text{si no}\end{cases}$$ 
+Tendría el siguiente gráfico: 
+
+![[Pasted image 20230605092327.png|center]]
+
