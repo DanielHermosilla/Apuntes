@@ -141,6 +141,10 @@ demostrado
 descubre
 derivamos
 dividir
+disminuir
+delo
+dio
+determine
 fuerza
 forma
 fijar
@@ -196,6 +200,9 @@ fluido
 ficos
 fico
 frecuenc
+fotones
+fot
+fue
 aplicada
 al
 aplicar
@@ -296,6 +303,10 @@ adem
 arriba
 alcance
 acord
+at
+absorci
+aumentar
+ato
 por
 para
 pan
@@ -398,6 +409,11 @@ phi
 plataforma
 pues
 pozo
+postul
+parcialmente
+pueda
+peta
+pequen
 unidad
 una
 uno
@@ -519,6 +535,13 @@ recordando
 reemplaza
 regi
 rodea
+rbitas
+representaban
+rbita
+retomando
+rapideces
+relo
+reemplazamos
 Por
 Puede
 Producto
@@ -604,6 +627,10 @@ llamamos
 lculo
 logra
 llegue
+liberaban
+letra
+longitudes
+luz
 tanto
 tratar
 tender
@@ -680,6 +707,9 @@ the
 torque
 tira
 truco
+ticos
+transiciones
+tomos
 se
 su
 sale
@@ -766,6 +796,8 @@ similar
 sometida
 sea
 salir
+saltar
+sabiendo
 como
 cuerpos
 comprimirla
@@ -921,6 +953,16 @@ conservaci
 conserva
 contrarresta
 conseguir
+circulaban
+circulas
+cleo
+capturaban
+centr
+cuantizada
+cuantizar
+cua
+compa
+comparamos
 Notemos
 Nos
 Newton
@@ -1079,6 +1121,13 @@ equivalencia
 elipse
 efectiva
 excentricidad
+electr
+exitoso
+escribe
+entero
+enteros
+equivalen
+electro
 modificar
 masa
 mira
@@ -1171,6 +1220,13 @@ mismos
 mr
 momentum
 multiplicar
+mico
+modelaba
+modelo
+multielectr
+metor
+meros
+muy
 va
 volumen
 vamente
@@ -1223,6 +1279,7 @@ vuelve
 viscocidad
 viendo
 vale
+veces
 An
 Al
 Ampere
@@ -1242,6 +1299,7 @@ Aoy
 AH
 Ak
 ARX
+Algunas
 Viene
 Valor
 Voltaje
@@ -1303,6 +1361,7 @@ gq
 gVP
 gl
 gr
+griega
 introduce
 igual
 independiente
@@ -1381,6 +1440,7 @@ inicio
 iff
 infinita
 imagen
+imponiendo
 no
 neo
 ngulo
@@ -1434,6 +1494,8 @@ nulo
 necesita
 ndonos
 nueva
+nicos
+nalogo
 homog
 haber
 hay
@@ -1507,6 +1569,9 @@ Eu
 EW
 Exn
 EE
+Estas
+Emisi
+Encuentre
 ya
 yK
 yJ
@@ -1587,6 +1652,7 @@ Dr
 DJ
 Dx
 Dado
+Debido
 objeto
 otro
 obtenci
@@ -1648,6 +1714,9 @@ ocupan
 oscilar
 ocupa
 oscile
+orbitas
+orbitales
+obtenemos
 borde
 buena
 busca
@@ -1670,6 +1739,7 @@ bj
 bgJ
 barrido
 buscando
+baja
 Ya
 Yn
 YTr
@@ -1739,6 +1809,7 @@ Fm
 Fw
 Ft
 Factorizando
+Fuerzas
 Que
 Qa
 Qy
@@ -1775,6 +1846,7 @@ LRHu
 LS
 LVc
 LD
+Luego
 Operaci
 Otra
 Ocupando
@@ -1795,6 +1867,7 @@ OP
 Oi
 Ox
 Og
+Ocupamos
 Minimizaci
 Michael
 Mientras
@@ -1826,6 +1899,7 @@ MJ
 MG
 Mj
 MoS
+Modelo
 Un
 Una
 UiT
@@ -1919,6 +1993,9 @@ RN
 RE
 Reemplazando
 Recordar
+Radio
+Rapideces
+Resoluci
 zado
 zoom
 zE
@@ -2130,6 +2207,7 @@ BB
 BQ
 Bp
 Binet
+Bohr
 Zu
 ZM
 ZZ
