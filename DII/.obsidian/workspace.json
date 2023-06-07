@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9239f9baac431904",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "631e0699bad67a59",
+  "active": "9239f9baac431904",
   "lastOpenFiles": [
     "Economía/Elección social/Regla de Mayoría Simple.md",
     "Economía/Elección social/Paradoja de Condorcet.md",

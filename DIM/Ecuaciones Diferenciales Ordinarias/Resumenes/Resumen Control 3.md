@@ -137,3 +137,16 @@ $$\mathbb{L}[\sin(at)]=\frac{a}{s^2 + a^2}$$
 4. Transformada del $\cos(at)$: 
 
 $$\mathbb{L}[\cos(at)] = \frac{s}{s^2 + a^2}$$ 
+
+5. Transformada de un término en función de $t$: 
+
+$$\frac{d^n}{ds^n}\mathbb{L}[f(t)](s)=(-1)^n\mathbb{L}[t^nf(t)](s)$$ 
+
+Queremos calcular $\mathbb{L}[t\sin(3t)]$, entonces, para poder ocupar la propiedad, tenemos el término $t$ elevado a $1$, entonces $n=1$. Por ende, para poder forzar la propiedad: 
+
+
+$$\begin{align} 
+\mathbb{L}[t\sin(3t)] &= -\left[-\mathbb{L}[t\sin(3t)]\right]\\\\ 
+&=-[\frac{d^n}{ds^n}\mathbb{L}[\sin(3t)](s)]\\\\
+&\;\;\;\;\;\;\;\;\;\;\;\;\vdots \\\\
+&=\frac{\textcolor{red}{+}6s}{(s^2+9)^2}\end{align}$$ 

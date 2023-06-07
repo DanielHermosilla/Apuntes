@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Consulta.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "ce1da24793847f5d",
   "lastOpenFiles": [
-    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
     "Ecuaciones Diferenciales Ordinarias/Consulta.md",
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
