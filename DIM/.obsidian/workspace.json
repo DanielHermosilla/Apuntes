@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a83c6df0ea08163d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,12 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce1da24793847f5d",
+  "active": "a83c6df0ea08163d",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
     "Ecuaciones Diferenciales Ordinarias/Consulta.md",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
-    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",

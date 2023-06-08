@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "ff2492272cf61a9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "2d0e879fe790992b",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dabebcc1043d7d6f",
+  "active": "ff2492272cf61a9e",
   "lastOpenFiles": [
     "Introducción a la Física Moderna/Física Cuántica/modelo atómico de Bohr.md",
     "Mecánica/Momentum Angular y Torque/Momentum Angular.md",

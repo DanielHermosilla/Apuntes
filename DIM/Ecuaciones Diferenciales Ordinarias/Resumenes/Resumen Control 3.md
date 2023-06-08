@@ -72,6 +72,18 @@ $$\begin{align}
 \begin{pmatrix}a_2\\b_2\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_1\\b_1\end{pmatrix}+\begin{pmatrix}0\\4\end{pmatrix}\\\\\begin{pmatrix}-2\\6\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_1\\b_1\end{pmatrix}+\begin{pmatrix}0\\4\end{pmatrix}\\\\\begin{pmatrix}-2\\2\end{pmatrix}&=\begin{pmatrix}6&1\\4&3\end{pmatrix}\begin{pmatrix}a_1\\b_1\end{pmatrix}\\\\a_1&=-\frac{4}{7}\\\\b_1&=\frac{10}{7}
 \end{align}$$ 
 
+
+###  Matriz Fundamental 
+
+Cuando se tienen las soluciones homogeneas, se define la matriz fundamental como la siguiente matriz: 
+
+$$\begin{align}
+\text{Sea}\; x(t) &= A\begin{pmatrix}\textcolor{red}{a}\\\textcolor{blue}{b}\end{pmatrix}e^{\lambda_1 t} + B\begin{pmatrix}\textcolor{red}{c}\\\textcolor{blue}{d}\end{pmatrix}e^{\lambda_2 t}\\\\
+\Phi(t)&=\begin{bmatrix}ae^{\lambda_1 t}&ce^{\lambda_2 t}\\be^{\lambda_1 t}&de^{\lambda_2t}\end{bmatrix}\end{align}$$
+
+O, lo mismo a tener la multiplicación de los vectores propios por la identidad de los valores propios en forma exponencial. 
+
+
 # Transformada de Laplace 
 
 Se define como transformada de Laplace a la siguiente función: 
