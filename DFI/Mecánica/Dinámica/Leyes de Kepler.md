@@ -62,7 +62,7 @@ a-\rho_0 &= \frac{\rho_0}{1-e}-\rho_0\\\\
 
 Por lo tanto, se llega a la siguiente equivalencia: 
 
-![[IMG_D1C1C5C3D7D9-1.jpeg|center|600]]
+![[IMG_D1C1C5C3D7D9-1 1.jpeg|center|600]]
 
 Entonces, por pitágoras, se llega a lo siguiente: 
 
