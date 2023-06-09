@@ -139,3 +139,39 @@ $$\zeta(\theta)=A\cos(\theta-\delta)+\frac{C}{h^2}$$
 Ahora, deshaciendo el cambio de variable $\zeta=\frac{1}{r}$, la trayectoria es: 
 
 $$r(\theta)=\frac{1}{\frac{C}{h^2}+A\cos(\theta-\delta)}$$ 
+
+### Ecuación física de la trayectoria 
+
+Ahora, tratando de despejar la constante $A$, se puede aprovechar de la definición anterior de $\epsilon$ como la energía mecánica por unidad de masa. 
+
+$$\epsilon = \frac{1}{2}v^2 + V(r)$$ 
+
+Donde $V(r)$ es la energía potencial por unidad de masa asociada a la fuerza de atracción gravitacional: 
+
+$$V(r)=-\frac{GM}{r}=-\frac{C}{r}$$ 
+Entonces, la energía mecánica por unidad de masa queda expresado por lo siguiente (reemplazando la definición de velocidad en polares):
+
+$$\epsilon=\frac{1}{2}\left(\dot{r}^2+(r\dot{\theta})^2\right)-\frac{C}{r}$$ 
+Nuevamente, se puede ocupar la siguiente igualdad: 
+
+$$\textcolor{green}{h= r^2\dot{\theta}}$$ 
+Entonces, la energía mecánica queda como: 
+
+$$\epsilon=\frac{1}{2}\dot{r}^2 + \frac{1}{2}\frac{h^2}{r^2}-\frac{C}{r}$$ 
+Entonces, se llega a la energía potencial (que es siempre constante) en función del radio. En específico, si se elige evaluar en $r_0$ (punto de trayectoria más cercano al origen) de forma conveniente (ya que $\dot{r}(r_0)=0$). De esta forma: 
+
+$$\epsilon=\frac{1}{2}\;\frac{h^2}{r_{0}^{2}}-\frac{C}{r_0}$$ 
+Y el radio mínimo se obtiene por la ecuación de la trayectoria:
+
+$$r_0 =\frac{1}{\frac{C}{h^2}+A}$$ 
+Juntando toda esta información, se puede despejar la constante $A$: 
+
+$$A=\frac{C}{h^2}\sqrt{1+\frac{2\epsilon h^2}{C^2}}$$ 
+Entonces, con la información completa, se llega que **la ecuación de la trayectoria** es la siguiente: 
+
+$$r(\theta)=\frac{\frac{h^2}{C}}{1+\sqrt{1+\frac{2\epsilon h^2}{C^2}}\cos(\theta-\delta)}$$ 
+Se llega al siguiente esquema: 
+
+![[Captura de pantalla 2023-06-09 a la(s) 11.58.51.png|center]]
+
+
