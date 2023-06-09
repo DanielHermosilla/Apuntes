@@ -95,24 +95,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 14,
-          "lastUpdated": 1685971844864
-        }
-      }
-    },
-    "\\text{si}\\": {
-      "\\text{si}\\": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683549520540
-        }
-      }
-    },
-    "\\frac{1}{5}": {
-      "\\frac{1}{5}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683549831082
+          "count": 16,
+          "lastUpdated": 1686314897758
         }
       }
     },
@@ -121,46 +105,6 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1683896152719
-        }
-      }
-    },
-    "\\begin{cases}\\frac{1}{2}&\\": {
-      "\\begin{cases}\\frac{1}{2}&\\": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683550147157
-        }
-      }
-    },
-    "-\\sqrt{y}": {
-      "-\\sqrt{y}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683550417423
-        }
-      }
-    },
-    "\\frac{1}{2}\\mathbb{1}_{sqrt{y}\\in": {
-      "\\frac{1}{2}\\mathbb{1}_{sqrt{y}\\in": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683550653808
-        }
-      }
-    },
-    "\\int_{-\\infty}^{\\infty}g": {
-      "\\int_{-\\infty}^{\\infty}g": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683551133866
-        }
-      }
-    },
-    "Cambio de variable": {
-      "Cambio de variable": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683553180976
         }
       }
     },
@@ -327,8 +271,8 @@
     "\\sum_{i": {
       "\\sum_{i": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1685712727846
+          "count": 5,
+          "lastUpdated": 1686315341513
         }
       }
     },
@@ -433,6 +377,78 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1685973531413
+        }
+      }
+    },
+    "\\frac{1}{3}\\\\\\\\": {
+      "\\frac{1}{3}\\\\\\\\": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1686316606368
+        }
+      }
+    },
+    "Distribución Uniforme": {
+      "Distribución Uniforme": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1686314742198
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1686316583627
+        }
+      }
+    },
+    "\\end{align}": {
+      "\\end{align}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686315066002
+        }
+      }
+    },
+    "\\mathbb{E}": {
+      "\\mathbb{E}": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1686316403227
+        }
+      }
+    },
+    "e^{sX}": {
+      "e^{sX}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686315076303
+        }
+      }
+    },
+    "Derivada": {
+      "Derivada": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1686315265434
+        }
+      }
+    },
+    "}\\mathbb{E}": {
+      "}\\mathbb{E}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686315385374
+        }
+      }
+    },
+    "Función Generadora de Momento": {
+      "Función Generadora de Momento": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1686316804558
         }
       }
     }
