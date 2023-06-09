@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+                "file": "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "binet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,12 +183,14 @@
   },
   "active": "ff2492272cf61a9e",
   "lastOpenFiles": [
-    "Captura de pantalla 2023-06-08 a la(s) 10.49.25.png",
-    "Mecánica/img/IMG_8E5FD8A652B8-1.jpeg",
+    "Mecánica/Energía/Pozo de potencial.md",
+    "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
     "Mecánica/Resumen/Resumen Control 3.md",
+    "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
+    "Mecánica/img/Ecuación Binet.png",
+    "Mecánica/img/IMG_8E5FD8A652B8-1.jpeg",
     "Mecánica/Resumen",
     "Introducción a la Física Moderna/Física Cuántica/modelo atómico de Bohr.md",
-    "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
     "Mecánica/Energía/Puntos de equilibrios.md",
     "Mecánica/Momentum Angular y Torque/Torque.md",
     "Mecánica/Dinámica/Fuerzas centrales.md",
@@ -195,7 +198,6 @@
     "Mecánica/img/IMG_D1C1C5C3D7D9-1 1.jpeg",
     "Mecánica/Dinámica/Fuerzas de restitución.md",
     "Mecánica/Energía/Fuerzas de repulsión.md",
-    "Mecánica/Energía/Pozo de potencial.md",
     "Mecánica/Energía/Energía para fuerzas centrales.md",
     "Mecánica/Momentum Angular y Torque/Relación entre el Momento Angular y Torque.md",
     "Mecánica/Dinámica/Leyes de Kepler.md",
@@ -207,9 +209,7 @@
     "Mecánica/Dinámica/Dinámica.md",
     "Mecánica/Dinámica/Atracción gravitacional.md",
     "Mecánica/img/IMG_B9AD03BADD60-1.jpeg",
-    "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
     "Mecánica/img/IMG_47CBAC655B06-1.jpeg",
-    "Mecánica/img/IMG_A94C81DE0AA2-1.jpeg",
     "Mecánica/Cinemática/Curva odógrafa.md",
     "Mecánica/Cinemática/Ecuación itinerario.md",
     "Mecánica/Cinemática/Posición.md",

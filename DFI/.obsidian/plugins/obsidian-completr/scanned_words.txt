@@ -45,6 +45,7 @@ Cz
 Cw
 Cwew
 Cs
+Centrales
 de
 define
 decir
@@ -163,6 +164,8 @@ dO
 dF
 dQ
 dXn
+directriz
+despejar
 fuerza
 forma
 fijar
@@ -230,6 +233,7 @@ fr
 fX
 fT
 fjP
+focal
 aplicada
 al
 aplicar
@@ -343,6 +347,10 @@ ae
 az
 aa
 aO
+acordamos
+arbitraria
+actuando
+aquel
 por
 para
 pan
@@ -463,6 +471,11 @@ pI
 pb
 py
 pK
+polar
+ptica
+parecer
+porque
+paralelos
 unidad
 una
 uno
@@ -620,6 +633,10 @@ rp
 rN
 rc
 rI
+rbola
+rotaci
+rotando
+representan
 Por
 Puede
 Producto
@@ -728,6 +745,8 @@ lM
 lX
 lf
 lZ
+llamaremos
+ltima
 tanto
 tratar
 tender
@@ -810,6 +829,7 @@ tomos
 tg
 tb
 tu
+toque
 se
 su
 sale
@@ -910,6 +930,11 @@ sU
 sBP
 sfwY
 sS
+secci
+solamente
+ste
+significa
+sticas
 como
 cuerpos
 comprimirla
@@ -1081,6 +1106,12 @@ ceg
 cki
 cU
 cwe
+cual
+cartesianas
+concluir
+centrales
+conservativas
+cuya
 Notemos
 Nos
 Newton
@@ -1112,6 +1143,7 @@ NO
 NgV
 NVn
 Np
+Nuevamente
 que
 queda
 quisiera
@@ -1285,6 +1317,8 @@ ee
 ei
 eY
 ewX
+enfocamos
+extrapolar
 modificar
 masa
 mira
@@ -1400,6 +1434,9 @@ mK
 ms
 mp
 mq
+maneras
+mantiene
+mantienen
 va
 volumen
 vamente
@@ -1493,6 +1530,9 @@ Agc
 AI
 AT
 AOO
+Angular
+Aun
+Acord
 Viene
 Valor
 Voltaje
@@ -1684,6 +1724,7 @@ iQ
 iQM
 iT
 il
+imponemos
 no
 neo
 ngulo
@@ -1757,6 +1798,8 @@ nok
 nk
 nU
 ng
+nicas
+notorio
 homog
 haber
 hay
@@ -1814,6 +1857,7 @@ he
 hwx
 hxG
 hO
+hip
 Est
 Es
 Esto
@@ -1942,6 +1986,7 @@ Sq
 SN
 SD
 SoE
+Secciones
 Donde
 Diferencia
 Dispositivo
@@ -1976,6 +2021,7 @@ Dp
 DT
 Di
 DbQ
+Dada
 objeto
 otro
 obtenci
@@ -2056,6 +2102,7 @@ oG
 oj
 oB
 oQ
+observando
 borde
 buena
 busca
@@ -2085,6 +2132,7 @@ bb
 biZUc
 bDx
 bU
+bola
 Ya
 Yn
 YTr
@@ -2149,6 +2197,7 @@ TW
 Tc
 Ta
 TJ
+Torque
 Frecuencia
 Faradios
 Faraday
@@ -2326,6 +2375,7 @@ MS
 Mjj
 MSJ
 Ms
+Momento
 Un
 Una
 UiT
@@ -2675,6 +2725,7 @@ jxX
 jE
 jvE
 jH
+justamente
 Kv
 KkG
 Kk

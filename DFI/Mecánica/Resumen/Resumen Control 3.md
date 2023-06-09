@@ -3,7 +3,7 @@
 
 Notemos que la rotación de una partícula no solamente depende del momentum $\vec{p}$ de la partícula, si no también del punto respecto del cual se está observando.
 
-![[Captura de pantalla 2023-06-08 a la(s) 10.49.25.png|center|500]]
+![[Ecuación Binet.png|center|500]]
 
 
 Por ejemplo, en $A$ la partícula no está rotando, en cambio, en $B$ y $C$ si existe una rotación. 
@@ -78,3 +78,64 @@ $$\begin{align}
 Las fuerzas centrales también representan la características de ser **fuerzas conservativas,** es decir, la partícula conserva su energía mecánica total. Por lo tanto, también se puede definir su energía mecánica por unidad de masa: 
 
 $$\epsilon=\frac{E_M}{m}$$ 
+## Ecuación de Binet 
+
+Dada las condiciones iniciales, se tiene que la ecuación de movimiento de la partícula en la dirección radial es: 
+
+$$m(\ddot{r}-r\dot{\theta}^2)=F(r)$$ 
+Ahora, si consideramos únicamente su aceleración en la dirección radial, se llega que: 
+
+$$\ddot{r}-r\dot{\theta}^2=a_r$$ 
+Acordándonos de la definición de $h$, donde $\textcolor{green}{h=r^2\dot{\theta}}$, se puede despejar el ángulo $\theta$ (acordándonos de que imponemos que $h$ es constante):
+
+$$\begin{align}
+\dot{\theta}&=\frac{h}{r^2}\\\\
+\implies\ddot{r}-\frac{h^2}{r^3}&=a_t
+\end{align}$$ 
+Se llega a una ecuación diferencial, cuya solución es la siguiente, haciendo el cambio de variable $\zeta=\frac{1}{r}$. 
+
+$$-h^2\zeta^2(\frac{d^2\zeta}{d\theta^2}+\zeta)=a_t$$ 
+Es importante considerar esta ecuación ya que se ocupará después para el análisis de cónicas. 
+
+## Orbitas gravitacionales 
+
+Un caso particular de una fuerza central es la de atracción gravitacional, definida como: 
+
+$$F(r)=-\frac{GMm}{r^2}$$ 
+Acordándonos del cambio de variable anterior, donde $\zeta=\frac{1}{r}$, se puede llegar que la aceleración resulta ser: 
+
+$$a_t(\zeta)=-GM\zeta^2$$ 
+Dado que tenemos la ecuación gravitacional, se puede reemplazar la aceleración en la ecuación de Binet: 
+
+$$\frac{d^2\zeta}{d\theta^2} + \zeta = \frac{C}{h^2}$$ 
+Donde $C=GM$. Nuevamente se llega a una ecuación diferencial. Se puede resolver rápidamente, donde se llega a lo siguiente: 
+
+- Homogénea: 
+
+$$\begin{align}
+\frac{d^2\zeta}{d\theta^2}+\zeta &= 0\\\\
+\lambda^2 + 1 &= 0\\\\ 
+\implies\lambda_{1,2}&\pm i
+\end{align}$$ 
+Por lo tanto la solución homogénea es la siguiente: 
+
+$$A\cos(\theta)+B\sin(\theta) = 0$$ 
+Aquí las ecuaciones se pueden sobreponer, donde se llega que: 
+
+$$A\cos(\theta-\delta) = 0$$ 
+- Particular: 
+
+Ocupando coeficientes indeterminados, imponemos lo siguiente: 
+
+$$\begin{align}
+At + B &= \frac{C}{h^2}\\\\
+\implies A &= \left(\frac{C}{h^2}\right)'=0
+\end{align}$$
+
+
+Por lo tanto, la solución general sería la suma de ambas soluciones donde se llega que: 
+
+$$\zeta(\theta)=A\cos(\theta-\delta)+\frac{C}{h^2}$$ 
+Ahora, deshaciendo el cambio de variable $\zeta=\frac{1}{r}$, la trayectoria es: 
+
+$$r(\theta)=\frac{1}{\frac{C}{h^2}+A\cos(\theta-\delta)}$$ 
