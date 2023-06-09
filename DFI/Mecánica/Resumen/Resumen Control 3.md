@@ -175,3 +175,30 @@ Se llega al siguiente esquema:
 ![[Captura de pantalla 2023-06-09 a la(s) 11.58.51.png|center]]
 
 
+
+# Movimiento Relativo 
+
+Ocurre cuando el sistema de referencia está en movimiento en relación a la partícula en estudio
+
+![[Captura de pantalla 2023-06-09 a la(s) 15.00.34.png|center|600]]
+
+
+Para describir un sistema de referencia no inercial,  hay que describir de forma precisa su no inercialidad con respecto a un sistema de referencia inercial. Supongamos, entonces, que este sistema se va a denominar $\textcolor{#4A72A8}{S}$, respecto al cual se va a describir el movimiento de una partícula en $\textcolor{#39A251}{S'}$. La forma en que puede moverse $\textcolor{#39A251}{S'}$ incluye **rotación** y **traslación**. 
+
+La traslación se describirá con el vector $\vec{R_0}(t)=O\vec{O}'$. Es decir, el vector posición del origen $O'$ referido al punto de origen del sistema inercial. 
+
+Por el otro lado, la rotación sera medida mediante una velocidad angular, $\vec{\Omega_e}(t)$ , que es la velocidad angular de los ejes de $\textcolor{#39A251}{S'}$ respecto direcciones fijas del sistema $\textcolor{#4A72A8}{S}$. Por último, si esta rotación cambia con respecto al tiempo, se denomina el vector de aceleración angular $\vec{\alpha_e}=\dot{\vec{\Omega}_e}$. 
+
+![[Captura de pantalla 2023-06-09 a la(s) 15.14.33.png|center|600]]
+
+
+Para analizar los sistemas no inerciales, es bueno partir con dos ejemplos particulares. En el caso a) el origen $O'$ rota en torno al origen con velocidad angular constante pero los ejes de $S'$ no giran. Entonces: 
+
+$$\begin{align}
+\vec{A_0}&=-R\omega_{0}^{2}\hat{u}\;\;\;\text{(Velocidad angular)}\\\\\vec{\Omega_e} &= \vec{0}\\\\\vec{\alpha_e}&=\vec{0}\end{align}$$
+
+Ahora, para el caso de b), se tiene una rotación, por lo tanto: 
+
+$$\begin{align}
+\vec{A_0}&=-R\omega_{0}^{2}\hat{u}\;\;\;\text{(Velocidad angular)}\\\\\vec{\Omega_e} &= \omega_0\hat{k}\\\\\vec{\alpha_e}&=\vec{0}\end{align}$$
+

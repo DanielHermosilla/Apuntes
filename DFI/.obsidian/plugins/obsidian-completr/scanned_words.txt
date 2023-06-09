@@ -166,6 +166,8 @@ dQ
 dXn
 directriz
 despejar
+despu
+deshaciendo
 fuerza
 forma
 fijar
@@ -351,6 +353,8 @@ acordamos
 arbitraria
 actuando
 aquel
+aprovechar
+asociada
 por
 para
 pan
@@ -476,6 +480,7 @@ ptica
 parecer
 porque
 paralelos
+pidamente
 unidad
 una
 uno
@@ -637,6 +642,7 @@ rbola
 rotaci
 rotando
 representan
+resulta
 Por
 Puede
 Producto
@@ -679,6 +685,7 @@ PP
 Pk
 PH
 Pl
+Particular
 lo
 los
 lidos
@@ -830,6 +837,8 @@ tg
 tb
 tu
 toque
+tratando
+toda
 se
 su
 sale
@@ -935,6 +944,7 @@ solamente
 ste
 significa
 sticas
+sobreponer
 como
 cuerpos
 comprimirla
@@ -1112,6 +1122,10 @@ concluir
 centrales
 conservativas
 cuya
+coeficientes
+cercano
+conveniente
+completa
 Notemos
 Nos
 Newton
@@ -1319,6 +1333,9 @@ eY
 ewX
 enfocamos
 extrapolar
+espec
+elige
+esquema
 modificar
 masa
 mira
@@ -1533,6 +1550,7 @@ AOO
 Angular
 Aun
 Acord
+Aqu
 Viene
 Valor
 Voltaje
@@ -1627,6 +1645,7 @@ gV
 gY
 go
 gh
+gravitacionales
 introduce
 igual
 independiente
@@ -1725,6 +1744,8 @@ iQM
 iT
 il
 imponemos
+indeterminados
+informaci
 no
 neo
 ngulo
@@ -2331,6 +2352,7 @@ Oqq
 OdmnX
 OO
 Or
+Orbitas
 Minimizaci
 Michael
 Mientras
@@ -2472,6 +2494,7 @@ Jti
 JqR
 JS
 Jj
+Juntando
 RC
 Resistencia
 Recordando
@@ -2630,6 +2653,7 @@ Hx
 Hr
 HOY
 Hm
+Homog
 kL
 kx
 kilos
