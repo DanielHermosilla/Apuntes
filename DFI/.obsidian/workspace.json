@@ -42,6 +42,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9df71d5251bbb7b4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -183,10 +191,10 @@
   },
   "active": "ff2492272cf61a9e",
   "lastOpenFiles": [
+    "Mecánica/Resumen/Resumen Control 3.md",
     "Captura de pantalla 2023-06-09 a la(s) 15.14.33.png",
     "Captura de pantalla 2023-06-09 a la(s) 15.00.34.png",
     "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
-    "Mecánica/Resumen/Resumen Control 3.md",
     "Captura de pantalla 2023-06-09 a la(s) 11.58.51.png",
     "Mecánica/Energía/Pozo de potencial.md",
     "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
@@ -207,7 +215,6 @@
     "Mecánica/img/IMG_D1C1C5C3D7D9-1.jpeg",
     "Mecánica/img/IMG_CFF6A81E167F-1.jpeg",
     "Mecánica/img/IMG_C5FE8BC58AE6-1.jpeg",
-    "Mecánica/img/ElipseRho.jpeg",
     "Mecánica/Dinámica/Fuerza roce.md",
     "Mecánica/Dinámica/Dinámica.md",
     "Mecánica/Dinámica/Atracción gravitacional.md",

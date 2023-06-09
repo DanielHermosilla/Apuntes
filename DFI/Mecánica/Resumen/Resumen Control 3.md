@@ -197,8 +197,11 @@ Para analizar los sistemas no inerciales, es bueno partir con dos ejemplos parti
 $$\begin{align}
 \vec{A_0}&=-R\omega_{0}^{2}\hat{u}\;\;\;\text{(Velocidad angular)}\\\\\vec{\Omega_e} &= \vec{0}\\\\\vec{\alpha_e}&=\vec{0}\end{align}$$
 
+Notemos que $\ddot{R_0}=\vec{A_0}$ existe a pesar que la magnitud de $R$ siempre es igual, ya que la dirección va cambiando. 
+
 Ahora, para el caso de b), se tiene una rotación, por lo tanto: 
 
 $$\begin{align}
 \vec{A_0}&=-R\omega_{0}^{2}\hat{u}\;\;\;\text{(Velocidad angular)}\\\\\vec{\Omega_e} &= \omega_0\hat{k}\\\\\vec{\alpha_e}&=\vec{0}\end{align}$$
 
+Ahora, en este caso, existe rotación **constante**, por eso mismo $\vec{\Omega}_e$ tiene magnitud pero $\vec{\alpha}=0$.  Eso si, cuando existen rotación, hay que estudiar los ejes del sistema  $\textcolor{#39A251}{S'}$. 

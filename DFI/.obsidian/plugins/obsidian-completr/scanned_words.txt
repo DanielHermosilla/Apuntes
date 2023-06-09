@@ -168,6 +168,7 @@ directriz
 despejar
 despu
 deshaciendo
+denominar
 fuerza
 forma
 fijar
@@ -236,6 +237,7 @@ fX
 fT
 fjP
 focal
+fijas
 aplicada
 al
 aplicar
@@ -481,6 +483,9 @@ parecer
 porque
 paralelos
 pidamente
+precisa
+particulares
+pesar
 unidad
 una
 uno
@@ -643,6 +648,8 @@ rotaci
 rotando
 representan
 resulta
+referido
+rota
 Por
 Puede
 Producto
@@ -839,6 +846,7 @@ tu
 toque
 tratando
 toda
+traslaci
 se
 su
 sale
@@ -945,6 +953,7 @@ ste
 significa
 sticas
 sobreponer
+sera
 como
 cuerpos
 comprimirla
@@ -1336,6 +1345,9 @@ extrapolar
 espec
 elige
 esquema
+estudio
+ejes
+ejemplos
 modificar
 masa
 mira
@@ -1454,6 +1466,7 @@ mq
 maneras
 mantiene
 mantienen
+mediante
 va
 volumen
 vamente
@@ -1646,6 +1659,7 @@ gY
 go
 gh
 gravitacionales
+giran
 introduce
 igual
 independiente
@@ -1746,6 +1760,9 @@ il
 imponemos
 indeterminados
 informaci
+inercialidad
+incluye
+inerciales
 no
 neo
 ngulo
@@ -2008,6 +2025,7 @@ SN
 SD
 SoE
 Secciones
+Supongamos
 Donde
 Diferencia
 Dispositivo
@@ -2154,6 +2172,7 @@ biZUc
 bDx
 bU
 bola
+bueno
 Ya
 Yn
 YTr
@@ -2353,6 +2372,7 @@ OdmnX
 OO
 Or
 Orbitas
+Ocurre
 Minimizaci
 Michael
 Mientras
@@ -2398,6 +2418,7 @@ Mjj
 MSJ
 Ms
 Momento
+Movimiento
 Un
 Una
 UiT
@@ -2539,6 +2560,7 @@ Rp
 Rq
 RMF
 RU
+Relativo
 zado
 zoom
 zE
