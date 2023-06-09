@@ -23,9 +23,11 @@
             "id": "9239f9baac431904",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economía/Elección social/Paradoja de Condorcet.md",
+                "file": "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economía/Elección social/Paradoja de Condorcet.md",
+                "file": "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economía/Elección social/Paradoja de Condorcet.md"
+                "file": "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md"
               }
             }
           }
@@ -167,15 +169,18 @@
   },
   "active": "9239f9baac431904",
   "lastOpenFiles": [
+    "Probabilidades/Probabilidad conjunta/Covarianza.md",
+    "Probabilidades/Probabilidad conjunta/Correlación.md",
+    "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+    "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+    "Probabilidades/Probabilidad conjunta/Convolución.md",
+    "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
+    "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
     "Economía/Elección social/Regla de Mayoría Simple.md",
     "Economía/Elección social/Paradoja de Condorcet.md",
     "Economía/Elección social/Regla de agregación.md",
-    "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Economía/Elección social",
-    "Probabilidades/Probabilidad conjunta/Convolución.md",
-    "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "img/Pasted image 20230605092327.png",
-    "Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Probabilidades/Probabilidad conjunta/Distribuciones/Normal Multivariada.md",
     "img/Pasted image 20230602092930.png",
     "Probabilidades/Probabilidad conjunta/Distribuciones/Distribución Multinomial.md",
@@ -197,9 +202,6 @@
     "img/Pasted image 20230529122506.png",
     "Economía/Competencia perfecta/Factores que afectan el equilibrio/Subsidio.md",
     "Economía/Competencia perfecta/Externalidades",
-    "Probabilidades/Probabilidad conjunta/Correlación.md",
-    "Probabilidades/Probabilidad conjunta/Covarianza.md",
-    "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/PDF marginal.md",

@@ -62,3 +62,19 @@ $$\begin{align}\frac{d\vec{l_0}}{dt}&=\vec{\tau_0}\\\\
 Es decir, **el momento angular es constante cuando el torque es nulo**. Por esto mismo, se puede llegar a concluir que esto ocurre cuando los vectores de posición **se mantienen en el mismo plano de la trayectoria**.  Por esto mismo, el movimiento de la partícula deja de ser tridimensional. Por ende, acordándonos de la definición del torque en coordenadas polares se llega que: 
 
 $$mr^2\dot{\theta}=\text{cte}$$ 
+# Fuerzas Centrales 
+
+A partir del caso anterior, se introduce el concepto de fuerzas centrales, donde se tiene el movimiento de una masa sometida a una acción de una fuerza central única: 
+
+$$\vec{F}=F(r)\hat{r}$$ 
+Es decir, a partir de un sistema polar de coordenadas, la fuerza tiene una magnitud que sólo depende de la distancia de la partícula al centro de la fuerza y tiene dirección radial. Nuevamente, el torque es nulo, el momento angular se conserva. Por lo tanto, se introduce el nuevo concepto de $h$, que significa la magnitud del momento angular por unidad de masa: 
+
+$$\begin{align}
+\vec{l_0}&=mr^2\dot{\theta}\hat{k}=\text{constante}\\\\
+\textcolor{green}{h}&=\textcolor{green}{r^2\dot{\theta}}\\\\
+\vec{l_0}&=m\textcolor{green}{h}\hat{k}
+\end{align}$$ 
+
+Las fuerzas centrales también representan la características de ser **fuerzas conservativas,** es decir, la partícula conserva su energía mecánica total. Por lo tanto, también se puede definir su energía mecánica por unidad de masa: 
+
+$$\epsilon=\frac{E_M}{m}$$ 
