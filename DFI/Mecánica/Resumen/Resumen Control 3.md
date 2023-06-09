@@ -46,3 +46,19 @@ Y, justamente, la suma de cada una de estas componentes es el **torque** de una 
 $$\begin{align}
 \tau_i &= \vec{r}\times\vec{F_i}\\\\
 \frac{d\vec{l_0}}{dt}&=\sum^{}_{i}\vec{\tau}=\vec{\tau_{\text{Neto}}}\end{align}$$ 
+
+# Torque 
+
+A partir del análisis anterior, se puede llegar a analizar que el toque es aquel que hace cambiar el movimiento angular de una partícula. Por lo tanto, se puede definir de las siguientes dos maneras: 
+
+$$\begin{align}\vec{\tau_0}&=\vec{r}\times\vec{F}\\\\\vert\vec{\tau_0}\vert&=\vert\vec{r}\vert\;\vert\vec{F}\vert\sin(\alpha)\end{align}$$ 
+
+# Momento angular constante 
+
+Notemos que el caso más notorio del momento angular es cuando éste se mantiene constante. Notemos que por la ecuación anterior, se había llegado a lo siguiente: 
+
+$$\begin{align}\frac{d\vec{l_0}}{dt}&=\vec{\tau_0}\\\\
+\implies\vert\vec{\tau_0}\vert&=0\end{align}$$ 
+Es decir, **el momento angular es constante cuando el torque es nulo**. Por esto mismo, se puede llegar a concluir que esto ocurre cuando los vectores de posición **se mantienen en el mismo plano de la trayectoria**.  Por esto mismo, el movimiento de la partícula deja de ser tridimensional. Por ende, acordándonos de la definición del torque en coordenadas polares se llega que: 
+
+$$mr^2\dot{\theta}=\text{cte}$$ 
