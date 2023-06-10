@@ -208,6 +208,8 @@ pila
 push
 podemos
 punteros
+peor
+perfectamente
 como
 complejo
 caso
@@ -401,6 +403,7 @@ extremo
 extrae
 empty
 espacios
+eliminaci
 los
 lenguaje
 lograr
@@ -523,6 +526,8 @@ implicando
 internos
 is
 indistiguibles
+inserci
+ideal
 bool
 booleanos
 backslash
@@ -549,6 +554,7 @@ bucle
 bloque
 break
 binarios
+balanceado
 Es
 Ejemplo
 El
@@ -751,6 +757,7 @@ arriba
 apila
 arios
 ario
+arboles
 jupyter
 jk
 jfv
@@ -910,6 +917,7 @@ numpy
 notar
 notaci
 necesite
+nace
 un
 una
 utilizan
@@ -1120,6 +1128,7 @@ Arnaldo
 Aun
 Algebra
 Algoritmo
+AVL
 Count
 Cuando
 Consisten
@@ -1191,6 +1200,7 @@ garantizar
 general
 gu
 generalizar
+garantizadamente
 Un
 Uy
 UR
