@@ -205,3 +205,16 @@ $$\begin{align}
 \vec{A_0}&=-R\omega_{0}^{2}\hat{u}\;\;\;\text{(Velocidad angular)}\\\\\vec{\Omega_e} &= \omega_0\hat{k}\\\\\vec{\alpha_e}&=\vec{0}\end{align}$$
 
 Ahora, en este caso, existe rotación **constante**, por eso mismo $\vec{\Omega}_e$ tiene magnitud pero $\vec{\alpha}=0$.  Eso si, cuando existen rotación, hay que estudiar los ejes del sistema  $\textcolor{#39A251}{S'}$. 
+
+
+## Análisis de Movimiento 
+
+Ahora, si se quisiera hacer el análisis analítico de este tipo de sistemas, hay que fijarnos en la siguiente figura: 
+
+![[Captura de pantalla 2023-06-10 a la(s) 13.23.22.png|center|500]]
+
+
+Lo primero a notar es que el movimiento *real* o que interesa estudiar es, en realidad, una suma vectorial entre el movimiento del sistema no inercial y de la partícula. Es decir, la ecuación de la trayectoria llegaría a ser la siguiente:
+
+$$\vec{r}(t)=\vec{R_0}(t) + \vec{r'(t)}$$
+

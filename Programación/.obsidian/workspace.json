@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md"
+                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "799583e2cd88fcd5",
   "lastOpenFiles": [
-    "Python/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+    "Python/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
     "Python/Tipos de datos abstractos/Arboles/Rotación.md",
     "img/Arbol rotación.png",
     "Python/Tipos de datos abstractos/Arboles/Arboles cardinales/Árboles cardinales.md",
