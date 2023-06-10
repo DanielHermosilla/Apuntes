@@ -157,7 +157,7 @@ Nuevamente, se puede ocupar la siguiente igualdad:
 $$\textcolor{green}{h= r^2\dot{\theta}}$$ 
 Entonces, la energía mecánica queda como: 
 
-$$\epsilon=\frac{1}{2}\dot{r}^2 + \frac{1}{2}\frac{h^2}{r^2}-\frac{C}{r}$$ 
+$$\epsilon=\frac{1}{2}\dot{r}^2+\frac{1}{2}\frac{h^2}{r^2}\frac{C}{r}$$ 
 Entonces, se llega a la energía potencial (que es siempre constante) en función del radio. En específico, si se elige evaluar en $r_0$ (punto de trayectoria más cercano al origen) de forma conveniente (ya que $\dot{r}(r_0)=0$). De esta forma: 
 
 $$\epsilon=\frac{1}{2}\;\frac{h^2}{r_{0}^{2}}-\frac{C}{r_0}$$ 
@@ -218,3 +218,13 @@ Lo primero a notar es que el movimiento *real* o que interesa estudiar es, en re
 
 $$\vec{r}(t)=\vec{R_0}(t) + \vec{r'(t)}$$
 
+Ahora, intuitivamente para analizar la velocidad se tendría que derivar la trayectoria. Por lo tanto, se llega a lo siguiente: 
+
+$$\vec{v}=\textcolor{#8639A2}{\vec{V_0}}+\textcolor{#397FA2}{\frac{d\vec{r}'}{dt}}$$ 
+Donde $\textcolor{#8639A2}{\vec{V_0}}$ representa la velocidad del sistema de referencia nuevo en función del actual. Por el otro lado, $\textcolor{#397FA2}{d\vec{r}'/dt}$ sería la velocidad de la partícula en el nuevo sistema de referencia.  Eso si, hay que tener mucho cuidado en lo que realmente representa $\textcolor{#397FA2}{d\vec{r}'/dt}$, ya que se está derivando un vector cuyas abscisas **podrían estar en movimiento** en caso de tener rotación. Por lo tanto, los vectores unitarios ya no tendrían una derivada nula. Teniendo esto en consideración, se llega al siguiente cálculo: 
+
+$$\begin{align}\textcolor{#397FA2}{\frac{d\vec{r}'}{dt}}=\dot{\begin{pmatrix}\dot{x}\\\dot{y}\\\dot{z}\end{pmatrix}}&=\dot{x}'\dot{\hat{x'}} + \dot{y}'\dot{\hat{y'}} + \dot{z}'\dot{\hat{z'}}\\\\&=\textcolor{#3AB9BD}{\dot{x}'\hat{x'} + \dot{y}'\hat{y'} + \dot{z}'\hat{z'}} + \textcolor{#3EBD3A}{ x'\dot{\hat{x'}} + y'\dot{\hat{y'}} + z\dot{\hat{z'}}}\end{align}$$
+
+Por lo tanto, ya que derivamos un vector, notemos que todos los términos en $\textcolor{#3AB9BD}{azul}$ corresponderían, justamente, a la velocidad de la partícula en función del nuevo sistema de referencia. Por lo tanto, toda esa suma de términos se le podría denominar por $\textcolor{#3AB9BD}{\vec{V'}}$. 
+
+Por el otro lado, los sumandos asociados al color $\textcolor{#3EBD3A}{verde}$ son aquellos términos asociados a la derivada de los $\textcolor{#3EBD3A}{\text{ejes del nuevo sistema de referencia}}$. Por eso mismo, dado que esto representa la rotación, se podría denominar por $\textcolor{#3EBD3A}{\Omega_e\times\vec{r}'}$. Por ende, volviendo a la ecuación original, se llega a lo siguiente: 
