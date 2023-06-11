@@ -291,4 +291,4 @@ $\frac{-GMm}{3R}+\frac{1}{2}m$
 
 $\frac{-GMm}{R}+\frac{m3GM}{8R}$ 
 
-$\frac{Km + h^2}{\rho^2m}=m\ddot{\rho}$  
+$=m\ddot{\rho}$  
