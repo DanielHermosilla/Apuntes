@@ -284,3 +284,9 @@ Al fijarnos en cada ecuación, podemos ver que se *crean* cuatro fuerzas nuevas.
 - **Fuerza Centrífuga**:  Corresponde a la fuerza $\vec{F_{cf}}=-m\vec{\Omega_e}\times(\vec{\Omega_e}\times\vec{r'})$ . Esta fuerza existe cuando ocurre una rotación dentro de los ejes del sistema inercial.  Si se efectúan los productos correspondientes se llega que la magnitud es $\vert\vec{F_{cf}}\vert=md\Omega_{e}^{2}$, donde $d$ es la distancia entre la partícula y el eje de rotación. 
 
 - **Fuerza Transversal:** Corresponde a la fuerza $\vec{F_T}=-m\vec{\alpha_e}\times\vec{r}$.  Esta fuerza existe cuando los ejes del sistema de referencia no inercial tiene una rotación no constante. 
+
+
+
+$\frac{-GMm}{3R}+\frac{1}{2}m$ 
+
+$\frac{-GMm}{R}+\frac{m3GM}{8R}$ 
