@@ -227,4 +227,23 @@ $$\begin{align}\textcolor{#397FA2}{\frac{d\vec{r}'}{dt}}=\dot{\begin{pmatrix}\do
 
 Por lo tanto, ya que derivamos un vector, notemos que todos los términos en $\textcolor{#3AB9BD}{azul}$ corresponderían, justamente, a la velocidad de la partícula en función del nuevo sistema de referencia. Por lo tanto, toda esa suma de términos se le podría denominar por $\textcolor{#3AB9BD}{\vec{V'}}$. 
 
-Por el otro lado, los sumandos asociados al color $\textcolor{#3EBD3A}{verde}$ son aquellos términos asociados a la derivada de los $\textcolor{#3EBD3A}{\text{ejes del nuevo sistema de referencia}}$. Por eso mismo, dado que esto representa la rotación, se podría denominar por $\textcolor{#3EBD3A}{\Omega_e\times\vec{r}'}$. Por ende, volviendo a la ecuación original, se llega a lo siguiente: 
+Por el otro lado, los sumandos asociados al color $\textcolor{#3EBD3A}{\text{verde}}$ son aquellos términos asociados a la derivada de los $\textcolor{#3EBD3A}{\text{ejes del nuevo sistema de referencia}}$. Por eso mismo, dado que esto representa la rotación, se podría denominar por $\textcolor{#3EBD3A}{\Omega_e\times\vec{r}'}$. Por ende, volviendo a la ecuación original, se llega a lo siguiente: 
+
+$$\vec{v} = \vec{V_0} + \vec{v'} + \vec{\Omega_e}\times\vec{r'}$$ 
+Ahora, para obtener la aceleración se hace el mismo procedimiento anterior. Para derivar un producto cruz se hace como si fuera una multiplicación. Acordándonos que la derivada de la rotación se denotaba como $\alpha$, se llega a lo siguiente: 
+
+$$\vec{a}=\vec{A_0} + \vec{a'} + 2\vec{\Omega_e}\times\vec{v'}+\vec{\Omega_e}\times\left(\vec{\Omega_e}\times\vec{r'}\right)+\vec{\alpha_e}\times\vec{r'}$$ 
+Ahora, si se multiplica esta ecuación por la masa de la partícula se puede llegar a la segunda ley de Newton: 
+
+$$\begin{align}\vec{F^{\text{neta}}}&=m\vec{A_0}+m\vec{a'}+2m\vec{\Omega_e}\times\vec{v'}+m\vec{\Omega_e}\times\left(\vec{\Omega_e}\times\vec{r'}\right)+m\vec{\alpha_e}\times\vec{r'}\\\\\implies m\vec{a'}&=\vec{F^{\text{neta}}}-m\vec{A_0}-2m\vec{\Omega_e}\times\vec{v'}-m\vec{\Omega_e}\times\left(\vec{\Omega_e}\times\vec{r'}\right)-m\vec{\alpha_e}\times\vec{r'}\end{align}$$ 
+Esta ecuación nos dice, por lo tanto, que al obtener una ecuación de movimiento de una partícula ocupando un sistema de referencia no inercial, entonces se debe corregir la ecuación de movimiento agregando fuerzas "reales", que son las que conforman $\vec{F^{\text{neta}}}$ .
+
+Al fijarnos en cada ecuación, podemos ver que se *crean* cuatro fuerzas nuevas. Cada una tiene su respectiva clasificación y esta asociada a los componentes $\vec{A_0}$, $\vec{\Omega_e}$ y $\vec{\alpha_e}$. 
+
+- **Fuerza inercial por aceleración de O:** Corresponde a la fuerza $\vec{F_0}=-m\vec{A_0}$. Notar que esta fuerza depende únicamente entre la cinemática del sistema de referencia original y el nuevo. 
+
+- **Fuerza de Coriolis**: Corresponde a la fuerza $\vec{F_{co}}=-2m\vec{\Omega_e}\times\vec{v }$. Esta fuerza existe cuando los ejes del sistema inercial rotan y la partícula se mueve dentro de este sistema. Si la partícula está en reposo, la fuerza de Coriolis que ella "siente" es nula. 
+
+- **Fuerza Centrífuga**:  Corresponde a la fuerza $\vec{F_{cf}}=-m\vec{\Omega_e}\times(\vec{\Omega_e}\times\vec{r'})$ . Esta fuerza existe cuando ocurre una rotación dentro de los ejes del sistema inercial.  Si se efectúan los productos correspondientes se llega que la magnitud es $\vert\vec{F_{cf}}\vert=md\Omega_{e}^{2}$, donde $d$ es la distancia entre la partícula y el eje de rotación. 
+
+- **Fuerza Transversal:** Corresponde a la fuerza $\vec{F_T}=-m\vec{\alpha_e}\times\vec{r}$.  Esta fuerza existe cuando los ejes del sistema de referencia no inercial tiene una rotación no constante. 
