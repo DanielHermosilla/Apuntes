@@ -170,7 +170,9 @@ $$A=\frac{C}{h^2}\sqrt{1+\frac{2\epsilon h^2}{C^2}}$$
 Entonces, con la información completa, se llega que **la ecuación de la trayectoria** es la siguiente: 
 
 $$r(\theta)=\frac{\frac{h^2}{C}}{1+\sqrt{1+\frac{2\epsilon h^2}{C^2}}\cos(\theta-\delta)}$$ 
-Se llega al siguiente esquema: 
+### Análisis geométrico 
+
+La trayectoria que se llego anteriormente describe una curva cónica. Es decir, se define geométricamente a partir de un foco y una recta llamada directriz: 
 
 ![[Captura de pantalla 2023-06-09 a la(s) 11.58.51.png|center]]
 
