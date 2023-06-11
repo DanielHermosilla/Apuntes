@@ -211,6 +211,78 @@ $$\begin{align}
 r_0&=\frac{h^2/C}{1+\sqrt{1+\frac{2\epsilon h^2}{C^2}}}\\\\e&=\sqrt{1+\frac{2\epsilon h^2}{C^2}}
 \end{align}$$
  
+Por lo tanto, a partir de esto, se pueden reconocer los siguientes tipos de órbitas: 
+
+#### Órbita circular 
+
+En una órbita circular de radio $R$ el radio se mantiene constante. Por lo tanto, se debe cumplir que: 
+
+$$\begin{align}
+\sqrt{1+\frac{2\epsilon h^2}{C^2}}
+ &= 0\\\\e&=0\end{align}$$
+
+Por lo tanto, haciendo relación con la energía mecánica por unidad de masa $\epsilon$, el momentum angular por unidad de masa $h$, se puede hacer la relación de la energía mecánica total en función de $R$: 
+
+$$\begin{align}
+\epsilon &=-\frac{C}{2R}\;\;\;\;\text{(Energía mecánica por unidad de masa)}\\\\\implies V &= -\frac{C}{R}\;\;\;\;\text{(Energía potencial por unidad de masa)}\\\\ 
+\implies K&=\frac{C}{2R}\;\;\;\;\text{(Energía cinética por unidad de masa)}
+\end{align}$$
+
+#### Orbita elíptica 
+
+Para tener una órbita elíptica, se debe cumplir que la excentricidad sea menor que 1. En este caso, la partícula se relaciona entre un radio mínimo y máximo por la siguiente ecuación: 
+
+$$r_{\max}=r_0\frac{1+e}{1-e}$$ 
+Además, se establece que la energía mecánica debe ser menor a cero. Muchas veces, en el análisis elíptico, se busca realizar el análisis según los semi-ejes de la elipse: 
+
+![[Captura de pantalla 2023-06-11 a la(s) 14.37.44.png|center]]
+
+Por lo tanto, se llega a lo siguiente: 
+
+$$\text{Semiejes de la elipse}=\begin{cases}a=\frac{r_0}{1-e}&\text{(Semieje mayor)}\\\\ b=r_0\sqrt{\frac{1+e}{1-e}}&\text{(Semieje menor)}\end{cases}$$ 
+
+#### Orbita parabólica 
+
+Para tener una órbita parabólica se debe cumplir que $e=1$ y $\epsilon=0$.  Por ende, la fórmula del movimiento llega a ser la siguiente: 
+
+$$r(\theta)=\frac{2r_0}{1+\cos(\theta)}$$ Descrito por la siguiente imagen: 
+
+![[Captura de pantalla 2023-06-11 a la(s) 14.44.09.png|center|500]]
+
+Lo importante de estas orbitas es su definición de **órbitas de escape**, es decir, cuando una partícula está en una órbita cerrada (ya sea circular o elíptica) y se le da un impulso tal que su energía $\epsilon=0$, entonces la partícula adoptaría una órbita parabólica que determinaría la velocidad mínima de escape. Donde se llega a lo siguiente: 
+
+$$v_e=\sqrt{\frac{2C}{R}}$$ 
+#### Orbita hiperbólica 
+
+Corresponde a las órbitas que cumplen las condiciones $e>1$ y $\epsilon>0$. Estas órbitas son abiertas y se aproximan asintoticamente a rectas cuando el radio tiene a infinito: 
+
+![[Captura de pantalla 2023-06-11 a la(s) 14.47.10.png|center|550]]
+
+### Diagramas paramétricos 
+
+En la sección anterior se hizo un gran análisis a los distintos tipos de órbitas según sus características físicas. Pero, el análisis se hizo para el caso puntual de una fuerza gravitatoria. Ahora, si se extrapola a un análisis general, se puede obtener el tipo de trayectoria según los distintos parámetros. 
+
+- **Excentricidad**: Para saber el tipo de órbita a partir de la excentricidad se cumple lo siguiente: 
+
+![[Captura de pantalla 2023-06-11 a la(s) 14.51.29.png|center|550]]
+
+- **Energía y momento angular**: Dado una energía mecánica $\epsilon$ y un momentum angular $h$ se puede encontrar el tipo de órbita según el siguiente diagrama: 
+
+![[Captura de pantalla 2023-06-11 a la(s) 14.53.22.png|center|550]]
+
+Donde se llega a lo siguiente: 
+
+$$\begin{align}
+\epsilon&=-\frac{C^2}{2h^2}&\text{(Órbita circular)}\\\\\epsilon&<0&\text{(Órbita elíptica)}\\\\\epsilon&=0&\text{(Órbita parabólica)}\\\\\epsilon&>0&\text{(Órbita hiperbólica)}
+\end{align}$$
+
+- **Potencial efectivo**: Para el caso de las fuerzas gravitacionales, se tiene que el potencial efectivo es el siguiente: 
+
+$$V_*(r)=\frac{h^2}{2r^2}-\frac{C}{r}$$ 
+Acordándonos de lo que significa en sí el potencial efectivo, sabemos que ante una órbita circular y elíptica la partícula no puede escapar del pozo de potencial. La órbita parabólica nos indicaba la condición de velocidad mínima para escapar de este pozo y la órbita hiperbólica llegaría a ser cuando se escapa por completo del pozo. Entonces se llega al siguiente diagrama: 
+
+![[Captura de pantalla 2023-06-11 a la(s) 15.01.03.png|center|600]]
+
 
 
 # Movimiento Relativo 
@@ -285,10 +357,3 @@ Al fijarnos en cada ecuación, podemos ver que se *crean* cuatro fuerzas nuevas.
 
 - **Fuerza Transversal:** Corresponde a la fuerza $\vec{F_T}=-m\vec{\alpha_e}\times\vec{r}$.  Esta fuerza existe cuando los ejes del sistema de referencia no inercial tiene una rotación no constante. 
 
-
-
-$\frac{-GMm}{3R}+\frac{1}{2}m$ 
-
-$\frac{-GMm}{R}+\frac{m3GM}{8R}$ 
-
-$=m\ddot{\rho}$  

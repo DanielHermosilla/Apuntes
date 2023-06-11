@@ -170,8 +170,8 @@
     "0\\\\\\\\": {
       "0\\\\\\\\": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1686322758640
+          "count": 2,
+          "lastUpdated": 1686507928419
         }
       }
     },
@@ -194,8 +194,8 @@
     "}\\\\\\\\\\vec{\\Omega_e}": {
       "}\\\\\\\\\\vec{\\Omega_e}": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1686440321634
+          "count": 3,
+          "lastUpdated": 1686508766355
         }
       }
     },
@@ -204,6 +204,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1686450298646
+        }
+      }
+    },
+    "\\sqrt{1+\\frac{2\\epsilon": {
+      "\\sqrt{1+\\frac{2\\epsilon": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686507913931
         }
       }
     }

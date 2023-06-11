@@ -176,6 +176,8 @@ derivando
 denotaba
 domina
 determinan
+ddot
+dt
 fuerza
 forma
 fijar
@@ -374,6 +376,7 @@ abscisas
 aquellos
 agregando
 acuerdo
+align
 por
 para
 pan
@@ -506,6 +509,9 @@ pesar
 primero
 procedimiento
 productos
+ptico
+parab
+pmatrix
 unidad
 una
 uno
@@ -678,6 +684,9 @@ reales
 respectiva
 rotan
 relaciones
+reconocer
+relaciona
+right
 Por
 Puede
 Producto
@@ -790,6 +799,8 @@ lZ
 llamaremos
 ltima
 llego
+lica
+left
 tanto
 tratar
 tender
@@ -877,6 +888,8 @@ tratando
 toda
 traslaci
 tipo
+tipos
+textcolor
 se
 su
 sale
@@ -986,6 +999,7 @@ sobreponer
 sera
 sumandos
 siente
+semi
 como
 cuerpos
 comprimirla
@@ -1181,6 +1195,9 @@ clasificaci
 cinem
 correspondientes
 cumplir
+circular
+co
+cf
 Notemos
 Nos
 Newton
@@ -1400,6 +1417,7 @@ esa
 ella
 efect
 establece
+end
 modificar
 masa
 mira
@@ -1521,6 +1539,7 @@ mantienen
 mediante
 mucho
 multiplica
+md
 va
 volumen
 vamente
@@ -1584,6 +1603,8 @@ vr
 vkUs
 vk
 vP
+verde
+vert
 An
 Al
 Ampere
@@ -1618,6 +1639,7 @@ Angular
 Aun
 Acord
 Aqu
+AB
 Viene
 Valor
 Voltaje
@@ -1954,6 +1976,7 @@ hwx
 hxG
 hO
 hip
+hat
 Est
 Es
 Esto
@@ -2001,6 +2024,7 @@ EuI
 Ey
 EV
 Eso
+EBD
 ya
 yK
 yJ
@@ -2203,6 +2227,7 @@ oQ
 observando
 ocupara
 orbital
+omega
 borde
 buena
 busca
@@ -2234,6 +2259,7 @@ bDx
 bU
 bola
 bueno
+begin
 Ya
 Yn
 YTr
@@ -2436,6 +2462,8 @@ OO
 Or
 Orbitas
 Ocurre
+Orbita
+Omega
 Minimizaci
 Michael
 Mientras
@@ -2482,6 +2510,7 @@ MSJ
 Ms
 Momento
 Movimiento
+Muchas
 Un
 Una
 UiT
