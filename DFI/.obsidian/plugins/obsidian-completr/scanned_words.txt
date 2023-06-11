@@ -46,6 +46,9 @@ Cw
 Cwew
 Cs
 Centrales
+Cada
+Coriolis
+Centr
 de
 define
 decir
@@ -169,6 +172,8 @@ despejar
 despu
 deshaciendo
 denominar
+derivando
+denotaba
 fuerza
 forma
 fijar
@@ -238,6 +243,10 @@ fT
 fjP
 focal
 fijas
+foco
+fijarnos
+fuera
+fuga
 aplicada
 al
 aplicar
@@ -357,6 +366,10 @@ actuando
 aquel
 aprovechar
 asociada
+actual
+abscisas
+aquellos
+agregando
 por
 para
 pan
@@ -486,6 +499,9 @@ pidamente
 precisa
 particulares
 pesar
+primero
+procedimiento
+productos
 unidad
 una
 uno
@@ -533,6 +549,7 @@ uX
 uk
 uCm
 uZ
+unitarios
 rea
 relacionado
 refiere
@@ -650,6 +667,11 @@ representan
 resulta
 referido
 rota
+real
+realidad
+reales
+respectiva
+rotan
 Por
 Puede
 Producto
@@ -761,6 +783,7 @@ lf
 lZ
 llamaremos
 ltima
+llego
 tanto
 tratar
 tender
@@ -847,6 +870,7 @@ toque
 tratando
 toda
 traslaci
+tipo
 se
 su
 sale
@@ -954,6 +978,8 @@ significa
 sticas
 sobreponer
 sera
+sumandos
+siente
 como
 cuerpos
 comprimirla
@@ -1135,6 +1161,19 @@ coeficientes
 cercano
 conveniente
 completa
+cuidado
+cuyas
+consideraci
+corresponder
+color
+cruz
+corregir
+conforman
+crean
+cuatro
+clasificaci
+cinem
+correspondientes
 Notemos
 Nos
 Newton
@@ -1167,6 +1206,7 @@ NgV
 NVn
 Np
 Nuevamente
+Notar
 que
 queda
 quisiera
@@ -1348,6 +1388,10 @@ esquema
 estudio
 ejes
 ejemplos
+estudiar
+esa
+ella
+efect
 modificar
 masa
 mira
@@ -1467,6 +1511,8 @@ maneras
 mantiene
 mantienen
 mediante
+mucho
+multiplica
 va
 volumen
 vamente
@@ -1763,6 +1809,8 @@ informaci
 inercialidad
 incluye
 inerciales
+interesa
+intuitivamente
 no
 neo
 ngulo
@@ -1838,6 +1886,8 @@ nU
 ng
 nicas
 notorio
+nula
+nuevas
 homog
 haber
 hay
@@ -1942,6 +1992,7 @@ ED
 EuI
 Ey
 EV
+Eso
 ya
 yK
 yJ
@@ -2238,6 +2289,8 @@ Tc
 Ta
 TJ
 Torque
+Teniendo
+Transversal
 Frecuencia
 Faradios
 Faraday

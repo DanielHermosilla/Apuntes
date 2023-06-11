@@ -177,6 +177,25 @@ La trayectoria que se llego anteriormente describe una curva cónica. Es decir, 
 ![[Captura de pantalla 2023-06-09 a la(s) 11.58.51.png|center]]
 
 
+La cónica se forma por los puntos formados a partir de la distancia proporcional entre el foco y la directriz. Esta constante de proporcionalidad se domina excentricidad, $e$. De acuerdo a la figura, se tendría la siguiente ecuación: 
+
+$$\overline{PF}=e\overline{PQ}$$ 
+Si se utilizara un sistema polar, se cumpliría que: 
+
+$$\begin{align}
+\overline{PF}&=r\\\\\overline{PQ}&=d-r\cos(\theta-\delta)
+\end{align}$$
+
+Donde $d$ es la distancia entre el foco y la directriz. 
+
+Entonces, si se ocupara la ecuación del movimiento orbital, se llega a lo siguiente: 
+
+$$r(\theta)=\frac{ed}{1+e\cos(\theta-\delta)}$$ 
+Donde el radio mínimo correspondería cuando $\cos=1$, es decir: 
+
+$$r_0=\frac{ed}{1+e}$$ 
+
+
 
 # Movimiento Relativo 
 

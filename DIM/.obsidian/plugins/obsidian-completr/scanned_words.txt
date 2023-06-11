@@ -3404,6 +3404,7 @@ FM
 FxQ
 FY
 Formula
+Fundamental
 XO
 Xd
 Xmr
