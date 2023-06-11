@@ -114,8 +114,8 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685457026390
+          "count": 2,
+          "lastUpdated": 1686450291305
         }
       }
     },
@@ -196,6 +196,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1686440321634
+        }
+      }
+    },
+    "\\begin{align}\\vec{\\tau_0}&": {
+      "\\begin{align}\\vec{\\tau_0}&": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686450298646
         }
       }
     }

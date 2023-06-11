@@ -195,6 +195,22 @@ Donde el radio mínimo correspondería cuando $\cos=1$, es decir:
 
 $$r_0=\frac{ed}{1+e}$$ 
 
+Por lo tanto, se podría eliminar $d$ en función del ángulo mínimo: 
+
+$$r(\theta)=\frac{r_0(1+e)}{1+e\cos(\theta-\delta)}$$
+
+Ahora, si se establece que $r(\theta=0)=r_0$: 
+
+$$\begin{align}
+r(\theta)&=\frac{h^2/C}{1+\sqrt{1+\frac{2\epsilon h^2}{C^2}}\cos(\theta)}\\\\r(\theta)&=\frac{r_0(1+e)}{1+e\cos(\theta)}
+\end{align}$$
+
+Por ende, las relaciones geométricas y físicas se determinan por las siguientes variables: 
+
+$$\begin{align}
+r_0&=\frac{h^2/C}{1+\sqrt{1+\frac{2\epsilon h^2}{C^2}}}\\\\e&=\sqrt{1+\frac{2\epsilon h^2}{C^2}}
+\end{align}$$
+ 
 
 
 # Movimiento Relativo 
