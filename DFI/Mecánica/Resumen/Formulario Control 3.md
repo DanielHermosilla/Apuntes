@@ -7,6 +7,10 @@ $$w_0=\sqrt{\frac{V''(x_0)}{m}}$$
 - A partir de la energía mecánica: 
 
 $$\omega_{0}^{2}=\frac{V''(u_*)}{\alpha}$$ 
+- A partir del potencial efectivo: 
+
+$$\frac{d^2U^*}{dr^2}=m\omega^2$$ 
+
 ## Momento Angular 
 
 Definición: $$\vec{l_0}=m\vec{r}\times\vec{v}$$ 
