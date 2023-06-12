@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
+                "file": "Mecánica/Resumen/Resumen Control 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,34 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Resumen/Resumen Control 3.md",
+                "file": "Mecánica/Resumen/Formulario Control 3.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2d0e879fe790992b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánica/Energía/Pozo de potencial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9df71d5251bbb7b4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,13 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cecab2d3ec24f180",
@@ -189,23 +166,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff2492272cf61a9e",
+  "active": "dabebcc1043d7d6f",
   "lastOpenFiles": [
-    "Captura de pantalla 2023-06-11 a la(s) 15.01.03.png",
-    "Captura de pantalla 2023-06-11 a la(s) 14.53.22.png",
-    "Captura de pantalla 2023-06-11 a la(s) 14.51.29.png",
-    "Captura de pantalla 2023-06-11 a la(s) 14.47.10.png",
-    "Captura de pantalla 2023-06-11 a la(s) 14.44.09.png",
-    "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
+    "Mecánica/Resumen/Formulario Control 3.md",
     "Mecánica/Resumen/Resumen Control 3.md",
-    "Captura de pantalla 2023-06-11 a la(s) 14.37.44.png",
-    "Captura de pantalla 2023-06-10 a la(s) 13.23.22.png",
-    "Captura de pantalla 2023-06-09 a la(s) 15.14.33.png",
-    "Captura de pantalla 2023-06-09 a la(s) 15.00.34.png",
-    "Captura de pantalla 2023-06-09 a la(s) 11.58.51.png",
+    "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
     "Mecánica/Energía/Pozo de potencial.md",
+    "Mecánica/img/Captura de pantalla 2023-06-11 a la(s) 15.01.03.png",
+    "Mecánica/img/Captura de pantalla 2023-06-11 a la(s) 14.53.22.png",
+    "Mecánica/img/Captura de pantalla 2023-06-11 a la(s) 14.51.29.png",
+    "Mecánica/img/Captura de pantalla 2023-06-11 a la(s) 14.47.10.png",
+    "Mecánica/img/Captura de pantalla 2023-06-11 a la(s) 14.44.09.png",
+    "Mecánica/img/Captura de pantalla 2023-06-11 a la(s) 14.37.44.png",
+    "Mecánica/img/Captura de pantalla 2023-06-10 a la(s) 13.23.22.png",
+    "Mecánica/img/Captura de pantalla 2023-06-09 a la(s) 15.14.33.png",
+    "Mecánica/img/Captura de pantalla 2023-06-09 a la(s) 15.00.34.png",
+    "Mecánica/img/Captura de pantalla 2023-06-09 a la(s) 11.58.51.png",
     "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
-    "Mecánica/img/Ecuación Binet.png",
     "Mecánica/Resumen",
     "Introducción a la Física Moderna/Física Cuántica/modelo atómico de Bohr.md",
     "Mecánica/Energía/Puntos de equilibrios.md",
@@ -227,7 +204,6 @@
     "Mecánica/Cinemática/Vector tangencial.md",
     "Mecánica/Cinemática/Coordenadas esféricas.md",
     "Mecánica/Cinemática/Aceleración.md",
-    "Mecánica/Cinemática/Cinemática.md",
     "Mecánica/Momentum Angular y Torque",
     "Mecánica/Energía",
     "Mecánica/Dinámica",
