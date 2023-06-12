@@ -79,8 +79,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 17,
-          "lastUpdated": 1686575923750
+          "count": 18,
+          "lastUpdated": 1686578288201
         }
       }
     },
@@ -377,6 +377,14 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1686316804558
+        }
+      }
+    },
+    "Esperanza condicional": {
+      "Esperanza condicional": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1686578309141
         }
       }
     }

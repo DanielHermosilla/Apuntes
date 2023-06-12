@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Ley de la Esperanza Total.md",
+                "file": "Probabilidades/Condicionando sobre un evento.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Ley de la Esperanza Total.md",
+                "file": "Probabilidades/Condicionando sobre un evento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Ley de la Esperanza Total.md",
+                "file": "Probabilidades/Condicionando sobre un evento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Ley de la Esperanza Total.md"
+                "file": "Probabilidades/Condicionando sobre un evento.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "9239f9baac431904",
   "lastOpenFiles": [
-    "Probabilidades/Esperanza condicional.md",
     "Probabilidades/Ley de la Esperanza Total.md",
+    "Probabilidades/Condicionando sobre un evento.md",
+    "Probabilidades/Esperanza condicional.md",
     "Probabilidades/Función característica.md",
     "Probabilidades/Función Generadora de Momento de un Vector.md",
     "Probabilidades/Función Generadora de Momento.md",
@@ -189,7 +190,6 @@
     "Economía/Competencia perfecta/Curva de oferta.md",
     "Economía/Competencia perfecta/Precio de equilibrio.md",
     "Economía/Competencia perfecta/Factores que afectan el equilibrio/Importaciones y exportaciones.md",
-    "Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md",
     "img/FijacionDePrecios.png",
     "img/Pasted image 20230529122506.png",
     "Economía/Competencia perfecta/Externalidades",

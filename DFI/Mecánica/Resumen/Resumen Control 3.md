@@ -2,7 +2,31 @@
 
 Corresponde a la variable que hacer cambiar la magnitud del vector de momentum. En este caso, se denominará por la variable $K$, que subyace de la ecuación de Newton: 
 
-$$m\frac{d\vec{v}}{dt} = m\left(\frac{dv}{dt}\hat{t}+\frac{v^2}{\rho}\hat{n}\right)=\vec{F}$$ 
+$$m\frac{d\vec{v}}{dt} = m\left(\frac{dv}{dt}\hat{t}+\frac{v^2}{\rho}\hat{n}\right)=\vec{F}$$
+
+Escribiendo la velocidad en coordenadas naturales, nos conviene ver el cambio de magnitud de la velocidad. Por lo tanto, se hace el producto punto con $\vec{v}=v\hat{t}$. Entonces: 
+
+$$\begin{align}
+mv\frac{dv}{dt}&=\vec{F}\cdot\vec{v}\\\\\implies K&=\frac{1}{2}mv^2&\text{(Integral del término izquierdo)}\\\\\implies\frac{dK}{dt}&=\vec{F}\cdot\vec{v}
+\end{align}$$
+
+De aquí se puede ver que la energía cinética está muy relacionada con el momentum $\vec{p}=m\vec{v}$. 
+
+También, por el otro lado, sabemos que $\vec{v}=\frac{d\vec{r}}{dt}$, entonces es posible hacer un cambio de variable y llegar a lo siguiente:
+
+$$\int^{}_{}\vec{F}\cdot\vec{v}\;dt=\int\vec{F}\cdot d\vec{r}$$
+
+Por lo tanto, se define el trabajo como: 
+
+$$K_f-K_i=W=\int\vec{F}\cdot d\vec{r}$$ 
+# Fuerzas Conservativas 
+
+Se definirán las fuerzas conservativas a aquellas fuerzas cuyo trabajo puede calcularse como la diferencia de una función escalar evaluada en los puntos iniciales y final de la trayectoria.  Es decir, existe una función escalar $V_{\vec{F}}$ tal que: 
+
+$$W=V_{\vec{F}}(\vec{r_i})-V_{\vec{F}}(\vec{r_f})$$ 
+La función $V_\vec{F}$ recibe el nombre de energía potencial. A partir 
+
+
 
 # Momento Angular  
 
