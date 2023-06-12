@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Esperanza condicional.md",
+                "file": "Probabilidades/Ley de la Esperanza Total.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Esperanza condicional.md",
+                "file": "Probabilidades/Ley de la Esperanza Total.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Esperanza condicional.md",
+                "file": "Probabilidades/Ley de la Esperanza Total.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Esperanza condicional.md"
+                "file": "Probabilidades/Ley de la Esperanza Total.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "9239f9baac431904",
   "lastOpenFiles": [
-    "Probabilidades/Función característica.md",
     "Probabilidades/Esperanza condicional.md",
+    "Probabilidades/Ley de la Esperanza Total.md",
+    "Probabilidades/Función característica.md",
     "Probabilidades/Función Generadora de Momento de un Vector.md",
     "Probabilidades/Función Generadora de Momento.md",
     "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
@@ -190,7 +191,6 @@
     "Economía/Competencia perfecta/Factores que afectan el equilibrio/Importaciones y exportaciones.md",
     "Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md",
     "img/FijacionDePrecios.png",
-    "Economía/Competencia perfecta/Factores que afectan el equilibrio/Impuestos.md",
     "img/Pasted image 20230529122506.png",
     "Economía/Competencia perfecta/Externalidades",
     "Probabilidades/Probabilidad conjunta/Probabilidad discreta",

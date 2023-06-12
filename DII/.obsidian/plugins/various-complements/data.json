@@ -60,14 +60,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "\\mathbb{P}": {
-      "\\mathbb{P}": {
-        "currentFile": {
-          "count": 39,
-          "lastUpdated": 1683896875319
-        }
-      }
-    },
     "Esperanza": {
       "Esperanza": {
         "internalLink": {
@@ -84,67 +76,11 @@
         }
       }
     },
-    "\\int_{-\\infty}^{x}f_x": {
-      "\\int_{-\\infty}^{x}f_x": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1683896174011
-        }
-      }
-    },
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 16,
-          "lastUpdated": 1686314897758
-        }
-      }
-    },
-    "Esperanza de una variable continua": {
-      "Esperanza de una variable continua": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1683896152719
-        }
-      }
-    },
-    "e^{-\\lambda": {
-      "e^{-\\lambda": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1683896852583
-        }
-      }
-    },
-    "\\begin{cases}\\lambda": {
-      "\\begin{cases}\\lambda": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683896087567
-        }
-      }
-    },
-    "\\int_{0}^{x}\\lambda": {
-      "\\int_{0}^{x}\\lambda": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683896195990
-        }
-      }
-    },
-    "\\frac{\\mathbb{P}": {
-      "\\frac{\\mathbb{P}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683896802605
-        }
-      }
-    },
-    "Densidad": {
-      "Densidad": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683897117670
+          "count": 17,
+          "lastUpdated": 1686575923750
         }
       }
     },
@@ -153,14 +89,6 @@
         "internalLink": {
           "count": 2,
           "lastUpdated": 1685106481156
-        }
-      }
-    },
-    "Desviación estandar": {
-      "Desviación estandar": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683898168088
         }
       }
     },
