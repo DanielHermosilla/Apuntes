@@ -24,10 +24,64 @@ $$K_f-K_i=W=\int\vec{F}\cdot d\vec{r}$$
 Se definirán las fuerzas conservativas a aquellas fuerzas cuyo trabajo puede calcularse como la diferencia de una función escalar evaluada en los puntos iniciales y final de la trayectoria.  Es decir, existe una función escalar $V_{\vec{F}}$ tal que: 
 
 $$W=V_{\vec{F}}(\vec{r_i})-V_{\vec{F}}(\vec{r_f})$$ 
-La función $V_\vec{F}$ recibe el nombre de energía potencial. A partir 
+La función $V_\vec{F}$ recibe el nombre de energía potencial. Para saber si una fuerza es conservativa se necesita verificar la condición: 
 
+$$\vec{\Delta}\times\vec{F}=\vec{0}$$
 
+Por último, una fuerza conservativa y su potencial asociada también están relacionadas por las ecuaciones: 
 
+$$\vec{F_c}=-\vec{\nabla}V$$ 
+# Equilibrio y Oscilaciones 
+
+Si consideramos un potencial que contiene algún punto de equilibrio, entonces se puede asumir que: 
+
+$$\begin{align}
+V'&=0&\text{Punto de equilibrio}\\\\V''&=0&\text{Condición de estabilidad}\end{align}$$ 
+Por lo tanto, para las pequeñas oscilaciones se pueden hacer **expansiones de Taylor** en función de los potenciales. Por ejemplo, la expansión de Taylor de la función exponencial en torno a $x_0$ es: 
+
+$$V(x)=V(x_0)+V'(x_0)(x-x_0)+\frac{1}{2}V''(x_0)(x-x_0)^2+\dots$$ 
+Ahora, si se considera una expansión de Taylor en torno a un punto de equilibrio $x_0$ donde se sabe que $V'(x_0)=0$, entonces: 
+
+$$V(x)=V(x_0)+\textcolor{red}{\cancel{V'(x_0)(x-x_0)}}+\frac{1}{2}V''(x_0)(x-x_0)^2+\dots$$
+
+Si se tiene una fuerza central como la única fuerza actuando sobre la ecuación de movimiento también se puede hacer otra aproximación de Taylor en torno a $x$ 
+
+$$\begin{align}\vec{F_c}&=-V'(x)=-V''(x_0)(x-x_0)\\\\m\ddot{x}&=-V''(x_0)(x-x_0)\end{align}$$
+
+Esta ecuación es muy parecida a la del resorte, siempre y cuando $V''(x_0)$ sea positivo, es decir, el punto de equilibrio es estable. Por lo tanto, se podría concluir que ante pequeñas perturbaciones se tiene una EDO de la forma sinusoidal, donde la frecuencia está definida por lo siguiente: 
+
+$$w_0=\sqrt{\frac{V''(x_0)}{m}}$$ 
+Notar que en el caso de que se tiene un equilibrio inestable se llega a una EDO exponencial que crece en el tiempo, es decir, algo que se aleja infinitamente: 
+
+$$(x(t)-x_0)=Ae^{\omega_0 t} + Be^{-\omega_0 t}$$ 
+## Potencial Efectivo
+
+A partir de una ecuación diferencial se puede escribir un potencial efectivo: 
+
+$$\begin{align}
+\ddot{u}&=G(u)\\\\V(u)&=\int G(u)\;du\\\\\ddot{u}&=\frac{-dV}{du}
+\end{align}$$
+
+Se podría llegar entonces a la siguiente relación ocupando la ecuación expuesta anteriormente: 
+
+$$\omega_{0}^{2}=\frac{d^2V}{du^2}$$
+
+Esto se debe principalmente que la función $G(u)$ es un caso más general que podría estar compuestas por cualquier tipo de términos, como aceleraciones. 
+
+## Oscilaciones a partir de la Energía Mecánica 
+
+Supongamos que se tiene una partícula que cumple lo siguiente, con su energía mecánica: 
+
+$$EM=\frac{1}{2}\alpha\dot{x}^2+V(x)$$ 
+Notemos que $x$ es la variable posicional, podría llegar a ser un ángulo, un radio, etc. Si se trabaja únicamente con fuerzas conservativas, entonces la Energía Mecánica se conserva, entonces es una constante. Por ende, derivando se llega a lo siguiente: 
+
+$$0 = \alpha\dot{u}\ddot{u}+V'(u)\dot{u}$$ 
+Entonces, se llega a lo siguiente: 
+
+$$\ddot{u}=-\frac{1}{\alpha}\;\frac{dV}{du}$$ 
+Donde los puntos de equilibrios equivalen a los puntos tales que $V'(u)=0$. Por último, se llega que la frecuencia es la siguiente: 
+
+$$\omega_{0}^{2}=\frac{V''(u_*)}{\alpha}$$ 
 # Momento Angular  
 
 Notemos que la rotación de una partícula no solamente depende del momentum $\vec{p}$ de la partícula, si no también del punto respecto del cual se está observando.
