@@ -33,7 +33,7 @@ Cinemática:
 $$\begin{align}
 \vec{r}(t)&=\vec{R_0}(t) + \vec{r'(t)}\\\\\vec{v}(t)&=\vec{V_0} + \vec{v'} + \vec{\Omega_e}\times\vec{r'}\\\\\vec{a}(t)&=\vec{A_0} + \vec{a'} + 2\vec{\Omega_e}\times\vec{v'}+\vec{\Omega_e}\times\left(\vec{\Omega_e}\times\vec{r'}\right)+\vec{\alpha_e}\times\vec{r'}
 \end{align}$$ 
-Donde $\Omega$ es la velocidad angular del eje $S'$ y $\vec{\alpha_e}$ aceleración de la velocidad angular. 
+Donde $\Omega$ es la velocidadx angular del eje $S'$ y $\vec{\alpha_e}$ aceleración de la velocidad angular. 
 
 - **Fuerza inercial:** $$\vec{F_0}=-m\vec{A_0}$$
 - **Fuerza de Coriolis**: $$\vec{F_{co}}=-2m\vec{\Omega_e}\times\vec{v }$$
