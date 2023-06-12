@@ -1,3 +1,8 @@
+# Energía cinética 
+
+Corresponde a la variable que hacer cambiar la magnitud del vector de momentum. En este caso, se denominará por la variable $K$, que subyace de la ecuación de Newton: 
+
+$$m\frac{d\vec{v}}{dt} = m\left(\frac{dv}{dt}\hat{t}+\frac{v^2}{\rho}\hat{n}\right)=\vec{F}$$ 
 
 # Momento Angular  
 
