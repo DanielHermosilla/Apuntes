@@ -50,8 +50,8 @@
     "Partícula": {
       "Partícula": {
         "internalLink": {
-          "count": 7,
-          "lastUpdated": 1684422085465
+          "count": 8,
+          "lastUpdated": 1686666617458
         }
       }
     },
@@ -244,6 +244,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1686592796559
+        }
+      }
+    },
+    "\\vec{R_{\\text{CM}}}": {
+      "\\vec{R_{\\text{CM}}}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1686667559857
+        }
+      }
+    },
+    "\\frac{1}{M}\\sum": {
+      "\\frac{1}{M}\\sum": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686666893753
+        }
+      }
+    },
+    "\\frac{d\\vec{L}}{dt}": {
+      "\\frac{d\\vec{L}}{dt}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1686668877871
         }
       }
     }
