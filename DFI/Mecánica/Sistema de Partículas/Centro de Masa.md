@@ -18,6 +18,10 @@ Donde la sumatoria representa las fuerzas internas del sistema.
 Se define el [[Momentum Angular|momentum angular]] como la siguiente expresión: 
 
 $$\vec{L}=\sum^{n}_{i=1}\vec{l_i}=\sum\vec{r_i}\times m_i\vec{v_i}$$ 
+Otra forma de definirlo es la siguiente: 
+
+$$\vec{L}=R_{\text{CM}}\times M\vec{V_{\text{CM}}}+L_{\text{CM}}$$
+
 Acordándonos que el [[Torque|torque]] es la derivada del momentum angular, se llega que: 
 
 $$\frac{d\vec{L}}{dt}=\vec{\tau_i}=\vec{r_i}\times\vec{F_{i}^{\text{ext}}}+\vec{r_i}\times\sum^{N}_{j=1}\vec{f_i}j$$ 
