@@ -111,3 +111,19 @@ $$\mathbb{P}(X\in A)=\sum_{y_j\in R_y}\mathbb{P}_{X\vert Y}(x\vert y_j)\mathbb{P
 Ahora, este mismo concepto se puede extrapolar al caso de la esperanza. Esto se denomina como **Ley de la Esperanza Total**. 
 
 $$\mathbb{E}[X]=\sum_{y_j\in R_y}\mathbb{E}[X\vert Y=y_j]\cdot\mathbb{P}_Y(y_j)$$ 
+Ahora, notemos que la esperanza condicional puede ser descrita como una función escalar, es decir, se puede formular como $g(Y)=\mathbb{E}[X\vert Y]$. 
+
+
+### Funciones de dos variables aleatorias 
+
+Analizar las funciones de una sola variable es prácticamente lo mismo a analizar una función de una variable. Supongamos que se tienen dos variables aleatorias discretas $X$ e $Y$ y supongamos que $Z=g(X,Y)$, con $g:\mathbb{R}^2\to\mathbb{R}$ entonces, la PMF de $Z$ sería lo siguiente: 
+
+$$\begin{align}
+\mathbb{P}_z(z)&=\mathbb{P}\left(g(X,Y)=z\right)\\\\
+&=\sum_{(x_i,y_j)\in A_z}\mathbb{P}_{XY}(x_i,y_j)&A_z=\lbrace(x_i,y_j)\in R_{XY}:g(x_i,y_j)=z\rbrace
+\end{align}$$ 
+Es decir, la PMF llegaría a ser la suma de todos los valores de la PMF conjunta tal que el resultado sea el valor $z$ que se pide. 
+
+Ahora, para la esperanza $\mathbb{E}[g(X,Y)]$ se puede ocupar directamente el cambio de variable: 
+
+$$\mathbb{E}[g(X,Y)]=\sum_{x_i,y_j\in R_{XY}}g(x_i,y_j)\mathbb{P}_{XY}(x_i, y_j)$$ 
