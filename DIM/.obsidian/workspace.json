@@ -37,10 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d9839459bfdce8be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -94,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 279,
+    "collapsed": true
   },
   "right": {
     "id": "b7ab20b4d87f8e16",
@@ -110,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md"
               }
             }
           },
@@ -181,9 +190,13 @@
   },
   "active": "a83c6df0ea08163d",
   "lastOpenFiles": [
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Módelo Lotka-Volterra.md",
+    "Ecuaciones Diferenciales Ordinarias/img/planodefases.jpg",
+    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
     "Ecuaciones Diferenciales Ordinarias/Consulta.md",
-    "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
     "Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
@@ -209,7 +222,6 @@
     "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1 1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
-    "Ecuaciones Diferenciales Ordinarias/Ecuaciones elementales/Ecuaciones reductibles.md",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones",
     "Ecuaciones Diferenciales Ordinarias/img/Captura de pantalla 2023-05-01 a la(s) 16.17.05.png",
@@ -222,7 +234,6 @@
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
     "Ecuaciones Diferenciales Ordinarias/Resumenes",
     "Ecuaciones Diferenciales Ordinarias/img/Lipschitz local.jpeg",
-    "Ecuaciones Diferenciales Ordinarias/img/ExistenciaYUnicidad.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
