@@ -79,8 +79,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 18,
-          "lastUpdated": 1686578288201
+          "count": 20,
+          "lastUpdated": 1686920935550
         }
       }
     },
@@ -327,8 +327,8 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 14,
-          "lastUpdated": 1686883943617
+          "count": 15,
+          "lastUpdated": 1686920225634
         }
       }
     },
@@ -449,6 +449,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1686885121778
+        }
+      }
+    },
+    "X\\vert": {
+      "X\\vert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686920983441
         }
       }
     }
