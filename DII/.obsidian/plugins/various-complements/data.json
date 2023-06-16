@@ -327,16 +327,16 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 6,
-          "lastUpdated": 1686316583627
+          "count": 14,
+          "lastUpdated": 1686883943617
         }
       }
     },
     "\\end{align}": {
       "\\end{align}": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1686315066002
+          "count": 4,
+          "lastUpdated": 1686884029887
         }
       }
     },
@@ -385,6 +385,70 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1686578309141
+        }
+      }
+    },
+    "\\mathbb{P}": {
+      "\\mathbb{P}": {
+        "currentFile": {
+          "count": 20,
+          "lastUpdated": 1686885438209
+        }
+      }
+    },
+    "\\sum_{": {
+      "\\sum_{": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1686884831915
+        }
+      }
+    },
+    "R_X}\\mathbb{P}_{XY}": {
+      "R_X}\\mathbb{P}_{XY}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686883463859
+        }
+      }
+    },
+    "\\frac{\\mathbb{P}": {
+      "\\frac{\\mathbb{P}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1686884245410
+        }
+      }
+    },
+    "}{\\mathbb{P}": {
+      "}{\\mathbb{P}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1686883985274
+        }
+      }
+    },
+    "}\\\\\\\\": {
+      "}\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686883993745
+        }
+      }
+    },
+    "\\sum_{x_i\\in": {
+      "\\sum_{x_i\\in": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686884921624
+        }
+      }
+    },
+    "\\sum_{i}\\mathbb{P}": {
+      "\\sum_{i}\\mathbb{P}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686885121778
         }
       }
     }
