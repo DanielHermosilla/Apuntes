@@ -327,8 +327,8 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 16,
-          "lastUpdated": 1686926682862
+          "count": 17,
+          "lastUpdated": 1686928859771
         }
       }
     },
@@ -343,8 +343,8 @@
     "\\mathbb{E}": {
       "\\mathbb{E}": {
         "currentFile": {
-          "count": 10,
-          "lastUpdated": 1686927213760
+          "count": 17,
+          "lastUpdated": 1686929248482
         }
       }
     },
@@ -391,8 +391,8 @@
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 24,
-          "lastUpdated": 1686926969381
+          "count": 25,
+          "lastUpdated": 1686928542918
         }
       }
     },
@@ -439,8 +439,8 @@
     "\\sum_{x_i\\in": {
       "\\sum_{x_i\\in": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1686884921624
+          "count": 2,
+          "lastUpdated": 1686928951163
         }
       }
     },
@@ -465,6 +465,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1686921993026
+        }
+      }
+    },
+    "\\mathbb{E}\\left": {
+      "\\mathbb{E}\\left": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686929006514
+        }
+      }
+    },
+    "\\mathbb{R}^2\\to\\mathbb{R}": {
+      "\\mathbb{R}^2\\to\\mathbb{R}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686930141213
         }
       }
     }

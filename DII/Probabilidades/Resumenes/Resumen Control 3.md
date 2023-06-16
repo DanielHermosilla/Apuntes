@@ -111,8 +111,31 @@ $$\mathbb{P}(X\in A)=\sum_{y_j\in R_y}\mathbb{P}_{X\vert Y}(x\vert y_j)\mathbb{P
 Ahora, este mismo concepto se puede extrapolar al caso de la esperanza. Esto se denomina como **Ley de la Esperanza Total**. 
 
 $$\mathbb{E}[X]=\sum_{y_j\in R_y}\mathbb{E}[X\vert Y=y_j]\cdot\mathbb{P}_Y(y_j)$$ 
-Ahora, notemos que la esperanza condicional puede ser descrita como una función escalar, es decir, se puede formular como $g(Y)=\mathbb{E}[X\vert Y]$. 
+Ahora, notemos que la esperanza condicional puede ser descrita como una función escalar, es decir, se puede formular como $g(Y)=\mathbb{E}[X\vert Y]$. Es decir, $g(y)$ es una función cuyo valores puede tomar la esperanza condicional de para distintos valores de $y$: 
 
+
+$$E[X\vert Y]=\begin{cases}\mathbb{E}[X\vert Y=y_1]&\text{con probabilidad}\;\mathbb{P}(Y=y_1)\\\\
+\mathbb{E}[X\vert Y=y_2]&\text{con probabilidad}\;\mathbb{P}(Y=y_2)\\\\
+\vdots&\vdots\end{cases}$$ 
+Por último, se postula la **regla de esperanzas iteradas** donde se llega a lo siguiente, y se puede demostrar por definición: 
+
+$$\mathbb{E}[X]=\mathbb{E}[\mathbb{E}[X\vert Y]]$$ 
+
+### Varianza condicional 
+
+Similarmente al caso de la esperanza, se puede definir la varianza condicional, que corresponde a la varianza de $X$ en el espacio condicional conocido $Y=y$. Nuevamente se puede describir por definición donde: 
+
+$$\begin{align}Var(X\vert Y=y)&=\mathbb{E}\left[(X-\mu_{X\vert Y}(y))^2\vert Y=y\right]\\\\
+&=\sum_{x_i\in R_x}\left(x_i-\mu_{X\vert Y}(y)\right)^2\mathbb{P}_{X\vert Y}(x_i)\\\\
+&=\mathbb{E}\left[X^2\vert Y=y\right]-\mu_{X\vert Y}(y)^2\\\\&=\mathbb{E}\left[X^2\vert Y=y\right]-\left(\mathbb{E}[X\vert Y=y]\right)^2\end{align}$$ 
+Donde $\mu_{X\vert Y}(y)=\mathbb{E}[X\vert Y=y]$. Básicamente, se llega a la misma fórmula de varianza de siempre. Ahora, de la forma anterior con la **Ley de la Esperanza Total**, se puede definir de la misma forma la **Ley de la Varianza Total**, donde: 
+
+$$Var(X)=\mathbb{E}[Var(X\vert Y)]+Var(\mathbb{E}[X\vert Y])$$ 
+La forma intuitiva de ver la Ley de la Varianza Total es pensar en una población dividida en distintos grupos. En particular, en un experimento aleatorio se puede escoger a una persona y ver su altura. Este resultado se denominaría $X$. Por el otro lado, se tiene otra variable $Y$ donde el valor depende del pais de la persona, donde $Y=1,2,3,\dots,n$ el número de países en el mundo. 
+
+Por lo tanto, notemos que $Var(X\vert Y=i)$ es la varianza de $X$, es decir la altura, en un país determinado $i$. Por ende, su esperanza sería el promedio de las varianzas de tal país. 
+
+En el otro término se tendría de la altura en distintos países. 
 
 ### Funciones de dos variables aleatorias 
 
@@ -127,3 +150,24 @@ Es decir, la PMF llegaría a ser la suma de todos los valores de la PMF conjunta
 Ahora, para la esperanza $\mathbb{E}[g(X,Y)]$ se puede ocupar directamente el cambio de variable: 
 
 $$\mathbb{E}[g(X,Y)]=\sum_{x_i,y_j\in R_{XY}}g(x_i,y_j)\mathbb{P}_{XY}(x_i, y_j)$$ 
+## Variables Continuas 
+
+En el caso para las variables continuas se cumple un estandar y similitud bien parecido al de las variables discretas. De hecho, muchas definiciones se extrapolan hacia el otro lado pero reemplazando sumatorias con integrales y así sucesivamente. Por lo tanto, las demostraciones de muchos teoremas o propiedades son en realidad. 
+
+### Joint Probability Density Function (PDF)
+
+Se dice que dos variables aleatorias continuas son conjuntamente continuas si existe una función $f:\mathbb{R}^2\to\mathbb{R}$ tal que para cualquier conjunto $A\in\mathbb{R}^2$ se tiene que: 
+
+$$\mathbb{P}\left((X,Y)\in A\right)=\int\int_{A} f_{XY}(x,y)dxdy$$
+
+La función $f_{XY}(x,y)$ es denominada como la PDF conjunta de $X$ e $Y$. En este caso, el rango se define como el siguiente: 
+
+$$R_{XY}=\lbrace(x,y)\;\vert\;f_{X,Y}(x,y)>0\rbrace$$ 
+Esta definición, al igual que en el caso de las variables aleatorias continuas, deben cumplir lo siguiente: 
+
+$$\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}f_{XY}(x,y)dxdy=1$$ 
+### Marginal Joint Probability Density Function (PDF Marginal)
+
+Es posible encontrar la PDF marginal de las variables aleatorias conjuntas de la misma forma que se explicó en el caso discreto, lo único sería que en vez de definirse en una suma se estaría definiendo sobre una integral: 
+
+$$f_X(x)=\int_{-\infty}^{\infty}f_{XY}(x,y)dy\;\;\;\forall x\in R_{XY}$$ 
