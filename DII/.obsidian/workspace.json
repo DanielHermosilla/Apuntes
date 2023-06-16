@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
+                "file": "Probabilidades/Esperanza condicional.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Ley de la Esperanza Total.md",
+                "file": "Probabilidades/Varianza condicional.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
+                "file": "Probabilidades/Varianza condicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
+                "file": "Probabilidades/Varianza condicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md"
+                "file": "Probabilidades/Varianza condicional.md"
               }
             }
           }
@@ -167,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9239f9baac431904",
+  "active": "d8b39dc1691d2ac6",
   "lastOpenFiles": [
+    "Probabilidades/Esperanza condicional.md",
+    "Probabilidades/Varianza condicional.md",
     "Probabilidades/Ley de la Esperanza Total.md",
     "Probabilidades/Resumenes/Resumen Control 3.md",
-    "Probabilidades/Esperanza condicional.md",
     "Pasted image 20230615223744.png",
     "Probabilidades/Resumenes/Resumen Caso 1.md",
     "Probabilidades/Resumenes",
