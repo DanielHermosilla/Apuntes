@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Resumen/Resumen Control 3.md",
+                "file": "Mecánica/Sistema de Partículas/Centro de Masa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Resumen/Resumen Control 3.md",
+                "file": "Mecánica/Sistema de Partículas/Centro de Masa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Resumen/Resumen Control 3.md"
+                "file": "Mecánica/Sistema de Partículas/Centro de Masa.md"
               }
             }
           }
@@ -166,12 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dabebcc1043d7d6f",
+  "active": "ff2492272cf61a9e",
   "lastOpenFiles": [
+    "Mecánica/Resumen/Resumen Control 3.md",
     "Mecánica/Sistema de Partículas/Centro de Masa.md",
     "Mecánica/Resumen/Formulario Control 3.md",
     "Mecánica/Sistema de Partículas",
-    "Mecánica/Resumen/Resumen Control 3.md",
     "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
     "Mecánica/Energía/Pozo de potencial.md",
     "Mecánica/img/Captura de pantalla 2023-06-11 a la(s) 15.01.03.png",

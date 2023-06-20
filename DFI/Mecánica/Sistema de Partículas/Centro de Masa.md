@@ -31,3 +31,9 @@ $$\frac{d\vec{L}}{dt}=\sum\vec{r_i}\times(\vec{F_{i}^{\text{ext}}}+\vec{F_{i}^{\
 Esto se puede volver a reescribir de la siguiente forma: 
 
 $$\frac{d\vec{L}}{dt} = \sum\vec{r_i}\times\vec{F^{\text{ext}}}=\vec{\tau^{\text{ext}}}$$ 
+
+
+
+Por demostrar que: 
+
+$$\lim_{x\to a}\frac{\sin(x)}{x}\approx 1\;\;\;\; a\in[0,15)$$ 

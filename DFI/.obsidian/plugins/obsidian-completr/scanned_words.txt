@@ -190,6 +190,8 @@ diagrama
 dKA
 dc
 dev
+dictada
+definirlo
 fuerza
 forma
 fijar
@@ -405,6 +407,7 @@ aCk
 aU
 avB
 aV
+argumento
 por
 para
 pan
@@ -551,6 +554,7 @@ ph
 pGZ
 pa
 pk
+ponderaci
 unidad
 una
 uno
@@ -744,6 +748,7 @@ rk
 rY
 rUg
 re
+reescribir
 Por
 Puede
 Producto
@@ -1670,6 +1675,7 @@ md
 mO
 mYqMe
 mTu
+masas
 va
 volumen
 vamente
@@ -2002,6 +2008,7 @@ ixx
 ips
 iD
 it
+internas
 no
 neo
 ngulo
@@ -2087,6 +2094,7 @@ nq
 nO
 nBq
 ni
+ndolo
 homog
 haber
 hay
@@ -2767,6 +2775,7 @@ Mec
 MC
 Mw
 Mh
+Momentum
 Un
 Una
 UiT
@@ -3297,6 +3306,7 @@ BZ
 Bjv
 Bb
 Bcr
+Bajo
 Zu
 ZM
 ZZ
