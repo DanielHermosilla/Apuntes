@@ -171,3 +171,54 @@ $$\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}f_{XY}(x,y)dxdy=1$$
 Es posible encontrar la PDF marginal de las variables aleatorias conjuntas de la misma forma que se explicó en el caso discreto, lo único sería que en vez de definirse en una suma se estaría definiendo sobre una integral: 
 
 $$f_X(x)=\int_{-\infty}^{\infty}f_{XY}(x,y)dy\;\;\;\forall x\in R_{XY}$$ 
+
+### Joint  Cumulative Distribution Function (CDF)
+
+Aplicando la definición de CDF, la CDF en variables conjuntas se define simplemente como lo siguiente: 
+
+$$F_{XY}=\mathbb{P}(X\leq x, Y\leq y)$$ 
+Esto cumple varias propiedades, aun así, la más importante es la de **independencia**: Si $X$ e $Y$ son independientes, entonces $F_{XY}(x,y)=F_X(x)F_Y(y)$
+
+### Condicionales e Independencia 
+
+Nuevamente, si se aplica la definición de independencia, se llega a las siguiente fórmula para la PDF condicional para cierto evento: 
+
+$$f_{X\vert A}(x)=\frac{\partial}{\partial x}\mathbb{P}(X\leq x\vert X\in A)=\begin{cases}\frac{f_X(x)}{\mathbb{P}(X\in A)}&\text{si}\;x\in A\\\\0&\text{si no}\end{cases}$$  
+Y por ende, de la misma forma, se puede definir la PDF condicional de la siguiente forma: 
+
+$$f_{X\vert Y}(x\vert y)=\frac{f_{XY}(x,y)}{f_Y(y)}$$ 
+
+Ahora, para el caso de la CDF, si bien se podría llegar a integrar sobre la PDF, se puede definir de la siguiente forma para una variable $X$ cuyo rango es $R_x = (a,b)$
+
+$$F_{X|A}(x)=\begin{cases}1&x>b\\\\\frac{F_X(x)-F_X(a)}{F_X(b)-F_X(a)}&a\leq x<b\\\\0&x<a\end{cases}$$ 
+Ahora, si se quisiera saber sobre dos variables aleatorias continuas, se tiene lo siguiente:
+
+$$F_{X\vert Y}(x\vert y)=\mathbb{P}(X\leq x\;\vert\; Y=y)=\int_{-\infty}^{x}f_{X\vert Y}(x\vert y)dx$$ 
+Para el caso de la **varianza** y **esperanza** es análogo: 
+
+$$\begin{align}\mathbb{E}[X\vert A]&=\int_{-\infty}^{\infty}xf_{X\vert A}(x)dx\\\\\mathbb{E}[g(X)\vert A]&=\int_{-\infty}^{\infty}g(x)f_{X\vert A}(x)dx\\\\ Var(X\vert A)&=\mathbb{E}[X^2\vert A]-\left(\mathbb{E}[X\vert A]\right)\end{align} $$ 
+Esto se cumple tanto para un evento $A$ dado como con una variable aleatoria. 
+
+Ahora,  para el caso de dos variables continues e independientes se cumple lo siguiente: 
+
+$$\begin{align} 
+f_{XY}(x,y)&=f_X(x)f_Y(y)\\\\F_{XY}(x,y)&=F_X(x)F_Y(y)\\\\\mathbb{E}[XY]&=\mathbb{E}[X]\mathbb{E}[Y]\end{align}$$ 
+
+### Ley de Probabilidades Totales 
+
+Esto es completamente análogo al caso discreto, en específico, se tiene que la probabilidad de un evento $A$ está definido en las variables continuas como: 
+
+$$\mathbb{P}(A)=\int_{-\infty}^{\infty}\mathbb{P}(A\vert X=x)f_X(x)dx$$ 
+Y también esta la **Ley de la Esperanza Total**: 
+
+$$\begin{align}\mathbb{E}[Y]&=\int_{-\infty}^{\infty}\mathbb{E}[Y\vert X=x]f_X(x)dx\\\\&=\mathbb{E}[\mathbb{E}[Y\vert X]]\end{align}$$ 
+Y la **Ley de la Varianza Total**: 
+
+$$Var(Y)=\mathbb{E}[Var(Y\vert X)] + Var(\mathbb{E}[Y\vert X])$$ 
+### Funciones de dos variables aleatorias continuas 
+
+Para la esperanza, el método de resolución sigue siendo el mismo: 
+
+$$\mathbb{E}[g(X,Y)]=\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}g(x,y)f_{XY}(x,y)\;dxdy$$ 
+Ahora, para el caso de las PDF es un poco más engorroso, dado que la función $g$ estaría definida en $\mathbb{R^2}\to\mathbb{R^2}$. Para estudiar tal caso, para dos variables $X,Y$ cualesquiera, se puede ocupar el siguiente razonamiento: 
+
