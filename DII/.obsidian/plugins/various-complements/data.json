@@ -247,8 +247,8 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 21,
-          "lastUpdated": 1687451002834
+          "count": 22,
+          "lastUpdated": 1687456489813
         }
       }
     },
@@ -263,8 +263,8 @@
     "\\mathbb{E}": {
       "\\mathbb{E}": {
         "currentFile": {
-          "count": 25,
-          "lastUpdated": 1687451280707
+          "count": 26,
+          "lastUpdated": 1687457168160
         }
       }
     },
@@ -423,8 +423,24 @@
     "\\int_{-\\infty}^{\\infty}g": {
       "\\int_{-\\infty}^{\\infty}g": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1687451288791
+          "count": 4,
+          "lastUpdated": 1687456730059
+        }
+      }
+    },
+    "\\int_{-\\infty}^{\\infty}\\int_{-\\infty}^{\\infty}g": {
+      "\\int_{-\\infty}^{\\infty}\\int_{-\\infty}^{\\infty}g": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687456568010
+        }
+      }
+    },
+    "A\\in\\mathbb{R}^2": {
+      "A\\in\\mathbb{R}^2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687457708960
         }
       }
     }

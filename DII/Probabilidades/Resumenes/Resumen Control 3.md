@@ -222,3 +222,48 @@ Para la esperanza, el método de resolución sigue siendo el mismo:
 $$\mathbb{E}[g(X,Y)]=\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}g(x,y)f_{XY}(x,y)\;dxdy$$ 
 Ahora, para el caso de las PDF es un poco más engorroso, dado que la función $g$ estaría definida en $\mathbb{R^2}\to\mathbb{R^2}$. Para estudiar tal caso, para dos variables $X,Y$ cualesquiera, se puede ocupar el siguiente razonamiento: 
 
+Sea la función $g(X,Y)=(Z,W)$, una función definida por dos *subfunciones*, es decir: $g(X,Y)=(g_1(X,Y),g_2(X,Y))$. Ahora, si definimos $h=g^{-1}$, es decir, $h(Z,W)=(X,Y)$, entonces $Z$ y $W$ son conjuntas y continuas y su PDF conjunta está dada por: 
+
+$$f_{ZW}(z,w)=f_{XY}(h_1(z,w),h_2(z,w))\cdot\vert J\vert$$ 
+Es decir, la PDF está definida por la **función inversa de cada *subfunción***. Por el otro lado, $J$ llegaría a ser el Jacobiano de la función inversa, definida como: 
+
+$$J=\begin{bmatrix}\frac{\partial h_1}{\partial z}&\frac{\partial h_1}{\partial w}\\\frac{\partial h_2}{\partial z}&\frac{\partial h_2}{\partial w}\end{bmatrix}=\frac{\partial h_1}{\partial z}\cdot\frac{\partial h_2}{\partial w}-\frac{\partial h_2}{\partial z}\cdot\frac{\partial h_1}{\partial w}$$ 
+### Convolución 
+
+La convolución tiene varias aplicaciones en las matemáticas para combinar dos funciones. El [siguiente video](https://www.youtube.com/watch?v=KuXjwB4LzSA) podría ser muy útil para entender bien para qué se ocupa la convolución. En el caso de la probabilidad, se ocupa para la suma de variable aleatorias. Pero antes que nada, primero se define la convolución como: 
+
+$$\begin{align}f_Z(z)&=f_X(z)\ast f_Y(z)\\\\=&\int_{-\infty}^{\infty}f_X(w)f_Y(z-w)dw\iff\int_{-\infty}^{\infty}f_Y(w)f_X(z-w)dw\end{align}$$
+
+Lo que plantea el teorema es que si $X$ e $Y$ son dos variables conjuntamente continuas y $Z=X+Y$, entonces: 
+
+$$f_Z(z)=\int_{-\infty}^{\infty}f_{XY}(w,z-w)dw=\int_{-\infty}^{\infty}f_{XY}(z-w,w)dw$$ 
+Además, si se llegase a tener que $X$ e $Y$ son independientes, entonces: 
+
+$$f_Z(z)=f_X(z)\ast f_Y(z)$$ 
+## Covarianza 
+
+La covarianza sirve para dar información de como $X$ e $Y$ están estadísticamente relacionados. Se define como: 
+
+$$Cov(X,Y)=\mathbb{E}[XY]-\mathbb{E}[X]\cdot\mathbb{E}[Y]$$
+
+La covarianza tiene muchas propiedades, sin embargo, entre las más notables están: 
+
+- $Cov(X,X)=Var(X)$ 
+- Si $X$ e $Y$ son independientes, entonces $Cov(X,Y)=0$ 
+- $Cov(X,Y)=Cov(Y,X)$ 
+- $Cov(aX,Y)=aCov(X,Y)$ 
+- $Cov(X+c,Y)=Cov(X,Y)$ 
+
+## Correlación 
+
+La correlación, denotada por $\rho(X,Y)$ es obtenida al normalizar la covarianza. Esto es especialmente util ya que nos asegura obtener datos entre $-1$ y $1$. Su fórmula es la siguiente: 
+
+$$\rho(X,Y)=\frac{Cov(X,Y)}{\sqrt{Var(X)Var(Y)}}$$ 
+
+# Métodos para más de dos variables aleatorias 
+
+Anteriormente se describió el comportamiento de funciones para dos variables aleatorias. Si bien las distribuciones se extrapolan fácilmente a varias variables, hay algunos conceptos que no son únicos de estos. 
+
+## Distribución Normal Multivariada 
+
+Sea $Z=(Z_1,\dots ,Z_k)$ un vector de variables aleatorias **independientes** con distribución $\text{Normal}\sim(0,1)$ y $\mu\in\mathbb{R}^m, A\in\mathbb{R}^{m\times k}$, entonces se dice que el vector $X = (X_1, \dots, X_m) = AZ + \mu$ es una **Normal Multivariada** de parámetros $\mu, \Sigma = AA^T$. Esto se denota como $X\sim N(\mu,\Sigma)$ 
