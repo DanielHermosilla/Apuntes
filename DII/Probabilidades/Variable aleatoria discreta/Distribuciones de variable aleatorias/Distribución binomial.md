@@ -1,4 +1,4 @@
-
+ 
 Se dice que se tiene una distribución binomial con $n\in\mathbb{Z}_{+}, p\in [0,1], R_x = \lbrace 0,1,\dots,n\rbrace$. 
 
 Entonces: 
