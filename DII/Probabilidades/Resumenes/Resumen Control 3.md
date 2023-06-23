@@ -240,6 +240,8 @@ $$f_Z(z)=\int_{-\infty}^{\infty}f_{XY}(w,z-w)dw=\int_{-\infty}^{\infty}f_{XY}(z-
 Además, si se llegase a tener que $X$ e $Y$ son independientes, entonces: 
 
 $$f_Z(z)=f_X(z)\ast f_Y(z)$$ 
+También existe una forma discreta de ver la convolución, que se ve detallada en el video. 
+
 ## Covarianza 
 
 La covarianza sirve para dar información de como $X$ e $Y$ están estadísticamente relacionados. Se define como: 
@@ -262,8 +264,126 @@ $$\rho(X,Y)=\frac{Cov(X,Y)}{\sqrt{Var(X)Var(Y)}}$$
 
 # Métodos para más de dos variables aleatorias 
 
-Anteriormente se describió el comportamiento de funciones para dos variables aleatorias. Si bien las distribuciones se extrapolan fácilmente a varias variables, hay algunos conceptos que no son únicos de estos. 
+Anteriormente se describió el comportamiento de funciones para dos variables aleatorias. Si bien las distribuciones se extrapolan fácilmente a varias variables, hay algunos conceptos que no son únicos de estos. En consecuencia, muchas veces se trabajaran sobre vectores y matrices. 
+
+## Vectores y matrices aleatorias 
+
+Cuando se ocupan muchas variables aleatorias, muchas veces se es util ocupar vectores y matrices. Un **vector aleatorio** se define como lo siguiente: 
+
+$$\textbf{X}=\begin{pmatrix}X_1\\X_2\\\vdots\\\vdots\\X_n\end{pmatrix}$$ 
+La esperanza de los vectores se define como la esperanza de cada coordenada. Algunas veces se le llama el vector promedio. 
+
+Similarmente se puede definir una matriz aleatoria cuyo elementos son variables aleatorias: 
+
+$$\textbf{M}=\begin{bmatrix}X_{11}&X_{12}&\dots&X_{1n}\\X_{21}&X_{22}&\dots&X_{2n}\\\vdots&\vdots&\vdots&\vdots\\X_{m1}&X_{m2}&\dots&X_{mn}\end{bmatrix}$$ 
+El concepto de esperanza es el mismo a aquel aplicado en el vector de variables aleatorias. 
+
+Una propiedad interesante es que la linealidad de la esperanza **se mantiene** en los vectores y matrices. 
+
+### Matriz de Correlación y Covarianza 
+
+Para un vector $\textbf{X}$ aleatorio se define su matriz de correlación como: 
+
+$$\mathbf{R_X}=\mathbb{E}[\mathbf{XX^T}]=\mathbb{E}\begin{bmatrix}X_{1}^{2}&X_1X_2&\dots&X_1X_n\\X_2X_1&X_{2}^{2}&\dots&X_2X_n\\\vdots&\vdots&\vdots&\vdots\\X_nX_1&X_nX_2&\dots&X_{n}^{2}\end{bmatrix}$$ 
+Por el otro lado, la matriz de covarianza se define como: 
+
+$$\mathbf{C_X}=\mathbb{E}[(X-\mathbb{E}[X])(X-\mathbb{E}[X])^T]=\begin{bmatrix}Var(X_1)&Cov(X_1,X_2)&\dots&Cov(X_1,X_n)\\Cov(X_2,X_1)&Var(X_2)&\dots&Cov(X_2,X_n)\\\vdots&\vdots&\vdots&\vdots\\Cov(X_n,X_1)&Cov(X_n,X_2)&\dots&Var(X_n)\end{bmatrix}$$ 
+La matriz de covarianza es la generalización de la varianza de una variable aleatoria. Se puede reescribir como $\mathbf{R_X}-\mathbb{E}[X]\mathbb{E}[X]^T$ 
+
+## Suma de variables aleatorias 
+
+Muchas veces se trabajaran con suma de variables aleatorias. En particular, siempre se cumple que existe linealidad en la esperanza, y por ende, si definimos la siguiente variable $Y$: 
+
+$$Y=X_1 + X_2 + \dots + X_n$$ 
+Se puede llegar a algunas propiedades interesantes, como la de la varianza: 
+
+$$Var\left(\sum_{i=1}^{n}X_i\right)=\sum_{i=1}^{n}Var(X_i)+2\sum_{i<j}Cov(X_i,X_j)$$ 
+Sabiendo que si todas las variables aleatorias son independientes, entonces la covarianza es nula. 
+
+Similar al caso de dos variables aleatorias, donde se definia la PDF de una suma de dos variables como la convolución entre ellas, se puede encontrar la PDF de una suma finita de variables aleatorias como una multiple convolución: 
+
+$$f_Y(y)=f_{X_1}(y)\ast f_{X_2}\ast\dots\ast f_{X_n}(y)$$ 
+## Función Generadora de Momento 
+
+Las funciones generadoras de momento son utiles por dos cosas principalmente; para calcular los momentos e identificar distribuciones. Los momentos son descripciones de las distribuciones, como la esperanza, varianza, etc. En este caso se va a enfocar en la utilización de esta función para identificar distribuciones, que se define como lo siguiente: 
+
+$$M_X(s)=\mathbb{E}[e^{sX}]$$ 
+Es un concepto muy similar a la Transformada de Laplace y está definida bajo sus mismos preámbulos. 
+
+Sabiendo que los *momentos* de una variable aleatoria son aquellos parámetros que describen la forma de aquellas, se puede mostrar que la función generadora de momento muestra la distribución de una variable aleatoria bajo la siguiente fórmula que se deriva de la serie de Taylor de la función exponencial: 
+
+$$M_x(s)=\mathbb{E}[e^{sX}]=\sum_{k=0}^{\infty}\mathbb{E}[X^k]\frac{s^k}{k!}$$ 
+De esto se concluye que a través de la serie de Taylor se tienen todos los momentos de $X$. 
+
+### Aplicación en Sumas de Variables Aleatorias Independientes
+
+Sea la siguiente variable $Y$ definida como: 
+
+$$Y=X_1 + X_2 + \dots + X_n$$ 
+Entonces, 
+
+$$\begin{align}M_Y(s)&=\mathbb{E}[e^{sY}]\\\\&=\mathbb{E}[e^{s(X_1 + X_2 + \dots + X_n)}]\\\\&=\mathbb{E}[e^{sX_1}]\mathbb{E}[e^{sX_2}]\dots\mathbb{E}[e^{sX_n}]\;\;\;\text{(Independencia de las variables)}\\\\&=M_{X_1}(s)M_{X_2}(s)\dots M_{X_n}(s) \end{align}$$
+
+Por lo tanto, la Función Generadora de Momento de $Y$ muestra la ponderación de los momentos de sus sumandos. 
 
 ## Distribución Normal Multivariada 
 
-Sea $Z=(Z_1,\dots ,Z_k)$ un vector de variables aleatorias **independientes** con distribución $\text{Normal}\sim(0,1)$ y $\mu\in\mathbb{R}^m, A\in\mathbb{R}^{m\times k}$, entonces se dice que el vector $X = (X_1, \dots, X_m) = AZ + \mu$ es una **Normal Multivariada** de parámetros $\mu, \Sigma = AA^T$. Esto se denota como $X\sim N(\mu,\Sigma)$ 
+Se puede decir que dos variables $X$ e $Y$ son **bivariadas** si cumplen que $aX + bY$ siguen una distribución normal para todo $a,b\in\mathbb{R}$. Esta definición se puede extender para $n$ variables aleatorias conjuntas, es decir: 
+
+Las variables $X_1, X_2,\dots, X_n$ se dicen **conjuntamente normales** si para todo $a_1, a_2,\dots, a_n\in\mathbb{R}$ la variable: 
+
+$$a_1X_1 + a_2X_2 + \dots + a_nX_n$$ 
+Es una variable aleatoria con distribución normal. 
+
+Ahora, para el caso de las variables **conjuntamente normales**, se pueden definir bajo un vector que se llamará el **vector normal** o **vector Gaussiano**: 
+
+$$\textbf{X}=\begin{pmatrix}X_1\\X_2\\\vdots\\X_n\end{pmatrix}$$ 
+A partir de esto se puede notar algo muy interesante que se obtiene a partir de la definición de variable conjuntamente normales, ya que si tenemos que se cumple $a_1X_1 + a_2X_2 + \dots + a_nX_n$ para todo valor $a_1,a_2,\dots,a_n\in\mathbb{R}$, entonces el vector Gaussiano es una **combinación lineal**.
+
+Para encontrar la PDF de un vector Normal es conveniente partir por el caso más simple donde cada variable es independiente y tienen la misma distribución; $Z_i\sim N(0,1)$.  Podriamos definirlo como un vector $\textbf{Z}$:
+
+$$\textbf{Z}=\begin{pmatrix}Z_1\\Z_2\\\vdots\\Z_n\end{pmatrix}$$ 
+Sabemos que la PMF conjunta de variable independientes es equivalente a la multiplicación de las PMFs marginales, entonces, se puede llegar a lo siguiente: 
+
+$$\begin{align}f_\textbf{Z}(\textbf{z})&=f_{Z_1,Z_2,\dots,Z_n}(z_1,z_2,\dots,z_n)\\\\&=\prod_{i=1}^{n}f_{Z_i}(z_i)\\\\&=\frac{1}{(2\pi)^{\frac{n}{2}}}exp\left(-\frac{1}{2}\sum_{i=1}^{n}z_{i}^{2}\right)\;\;\;\text{(Definición de multiplicación de Normales)}\\\\&=\frac{1}{(2\pi)^{\frac{n}{2}}}exp\left(-\frac{1}{2}\textbf{z}^T\textbf{z}\right)\end{align}$$
+
+
+Ahora, para extender este concepto para cualquier variable, nos acordamos del siguiente teorema: 
+
+$$Z\sim N(0,1)\implies X=\sigma Z+\mu\sim N(\mu,\sigma^2)$$ 
+Entonces, asumiendo que tenemos un vector Gaussiano $\textbf{X}$ con media $m$ y una matriz covarianza $C$, se puede escribir su distribución como $\textbf{X}\sim N(m,C)$. Sabemos que la matriz covarianza es definida positiva, entonces sabemos que existe una matriz $\textbf{Q}$ que satisface lo siguiente: 
+
+$$\begin{align}QQ^T&=I\\\\C&=QDQ^T\end{align}$$ 
+Donde $D$ es una matriz diagonal. De hecho, se podría definir como sigue, sabiendo que $C$ es positivo: 
+
+$$\begin{align}D&=\begin{bmatrix}d_{11}&0&\dots&0\\0&d_{22}&\dots&0\\\vdots&\vdots&\vdots&\vdots\\0&0&0&d_{nn}\end{bmatrix}\\\\D^{\frac{1}{2}}&=\begin{bmatrix}\sqrt{d_{11}}&0&\dots&0\\0&\sqrt{d_{22}}&\dots&0\\\vdots&\vdots&\vdots&\vdots\\0&0&0&\sqrt{d_{nn}}\end{bmatrix}\end{align}$$ 
+
+Donde se tiene que $D^{\frac{1}{2}}D^{\frac{1}{2}}=\textbf{D}$ y $D^{\frac{1}{2}}=D^{\frac{1}{2}^T}$. Entonces, se puede definir otra matriz auxiliar: 
+
+$$\textbf{A}=QD^{\frac{1}{2}}Q^T$$ 
+Lo que implica lo siguiente: 
+
+$$\mathbf{AA^T}=\mathbf{A^T A}=\mathbf{C}$$  
+Todas estas definiciones son hechas para poder definir una transformación del vector Gaussiano estándar a uno cualquiera de parámetros $m$ y $C$. Por lo tanto, sea $\mathbf{Z}\sim N(0,1)$, se define el vector $\textbf{X}\sim N(m,C)$ como: 
+
+$$\mathbf{X}=\mathbf{AZ} + m$$ 
+Para ver esto, primero notamos que $\textbf{X}$ es una combinación lineal de $\textbf{Z}$ mas una constante, lo que satisface el teorema descrito anteriormente. Faltaría confirmar que $m$ y $C$ efectivamente es la media y la covarianza. 
+
+Para la media, notamos que por linealidad de la esperanza, que se mantiene para los vectores y matrices, lo siguiente: 
+
+$$\begin{align}\mathbb{E}[\mathbf{X}]&=\mathbb{E}[\mathbf{AZ}+m]\\\\&=\mathbf{A}\mathbb{E}[\mathbf{Z}]+m\\\\&=m\;\;\;\text{(Z tiene media cero)}\end{align}$$ 
+Por el otro lado, por definición de covarianza de vectores de la forma $aX + b$ se tiene lo siguiente: 
+
+$$\begin{align}C_X&=AC_ZA^T\\\\&=AA^T\\\\&=C\;\;\;\text{(Z tiene covarianza 1)}\end{align}$$ 
+Esta última definición se puede demostrar ocupando esperanza y definición de covarianza. 
+
+Entonces, se demuestra que la transformación $\mathbf{X}=\mathbf{AZ} + m$ da un vector Gaussiano de media $m$ y una matriz de covarianza $C$. Por lo tanto, dado que se tiene una transformación se puede ocupar el teorema de cambio de variable para escribir la PDF de $\textbf{X}$: 
+
+$$\begin{align}f_\mathbf{X}(\mathbf{x})&=\frac{1}{\vert det(A)\vert}f_\mathbf{Z}\left(A^{-1}(x-m)\right)\end{align} $$ 
+Acordándonos de la definición de PDF de $\mathbf{Z}$ se puede reemplazar: 
+
+$$\begin{align}f_\mathbf{X}(\mathbf{x})&=\frac{1}{(2\pi)^{\frac{1}{2}}\vert det(A)\vert}exp\left(-\frac{1}{2}(A^{-1}(x-m))^T(A^{-1}(x-m))\right)\\\\&\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\vdots\\\\&=\frac{1}{(2\pi)^{\frac{1}{2}}\sqrt{det(C)}}exp\left(-\frac{1}{2}(x-m)^TC^{-1}(x-m)\right)\end{align}$$ 
+
+Por lo tanto, se llega que la PDF de un vector Normal con media $m$ y una matriz covarianza $C$ tiene la siguiente PDF: 
+
+$$f_\mathbf{X}(\mathbf{x})=\frac{1}{(2\pi)^{\frac{1}{2}}\sqrt{det(C)}}exp\left(-\frac{1}{2}(x-m)^TC^{-1}(x-m)\right)$$ 

@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bivar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -168,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1900d8260f02b99b",
+  "active": "d8b39dc1691d2ac6",
   "lastOpenFiles": [
     "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",

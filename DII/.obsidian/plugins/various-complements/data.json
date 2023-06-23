@@ -247,24 +247,24 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 22,
-          "lastUpdated": 1687456489813
+          "count": 28,
+          "lastUpdated": 1687488953504
         }
       }
     },
     "\\end{align}": {
       "\\end{align}": {
         "currentFile": {
-          "count": 8,
-          "lastUpdated": 1687451031844
+          "count": 11,
+          "lastUpdated": 1687489224729
         }
       }
     },
     "\\mathbb{E}": {
       "\\mathbb{E}": {
         "currentFile": {
-          "count": 26,
-          "lastUpdated": 1687457168160
+          "count": 34,
+          "lastUpdated": 1687488212741
         }
       }
     },
@@ -441,6 +441,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1687457708960
+        }
+      }
+    },
+    "\\textbf{X}": {
+      "\\textbf{X}": {
+        "currentFile": {
+          "count": 11,
+          "lastUpdated": 1687488785480
+        }
+      }
+    },
+    "X-\\mathbb{E}": {
+      "X-\\mathbb{E}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687482845587
+        }
+      }
+    },
+    "\\mathbf{R_X}": {
+      "\\mathbf{R_X}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687483011716
+        }
+      }
+    },
+    "\\\\\\\\\\mathbb{E}": {
+      "\\\\\\\\\\mathbb{E}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687485017308
+        }
+      }
+    },
+    "a_n\\in\\mathbb{R}": {
+      "a_n\\in\\mathbb{R}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687485727499
         }
       }
     }
