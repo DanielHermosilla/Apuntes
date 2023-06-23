@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md"
+                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md"
               }
             }
           }
@@ -166,8 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9239f9baac431904",
+  "active": "0500663b42f9dbb9",
   "lastOpenFiles": [
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
     "Probabilidades/Resumenes/Resumen Control 3.md",
@@ -187,15 +196,6 @@
     "Pasted image 20230615223744.png",
     "Probabilidades/Resumenes",
     "Probabilidades/Independencia condicional.md",
-    "Probabilidades/Ley de Bayes.md",
-    "Probabilidades/Ley de Probabilidades Totales.md",
-    "Probabilidades/Teoría de probabilidades.md",
-    "Probabilidades/Condicionando sobre un evento.md",
-    "Probabilidades/Función característica.md",
-    "Probabilidades/Función Generadora de Momento de un Vector.md",
-    "Probabilidades/Función Generadora de Momento.md",
-    "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
-    "Probabilidades/Probabilidad conjunta/Covarianza.md",
     "Economía/Elección social",
     "img/Pasted image 20230605092327.png",
     "img/Pasted image 20230602092930.png",

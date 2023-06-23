@@ -1,4 +1,4 @@
-
+ \
 En una [[Variable aleatoria discreta|variable aleatoria discreta]], se dice una distribución de Poisson ($\lambda$) si $R_x=\lbrace 0,1,2,3,\dots\rbrace$ y su [[Función de Masa de Probabilidad|PMF]] es: 
 
 $$p_x(x) = \begin{cases}
