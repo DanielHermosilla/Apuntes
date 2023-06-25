@@ -391,4 +391,3 @@ $$f_\mathbf{X}(\mathbf{x})=\frac{1}{(2\pi)^{\frac{1}{2}}\sqrt{det(C)}}exp\left(-
 
 
 
-$$\int\frac{x+1}{x^2-2x+10}\; dx$$
