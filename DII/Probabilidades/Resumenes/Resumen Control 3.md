@@ -387,3 +387,8 @@ $$\begin{align}f_\mathbf{X}(\mathbf{x})&=\frac{1}{(2\pi)^{\frac{1}{2}}\vert det(
 Por lo tanto, se llega que la PDF de un vector Normal con media $m$ y una matriz covarianza $C$ tiene la siguiente PDF: 
 
 $$f_\mathbf{X}(\mathbf{x})=\frac{1}{(2\pi)^{\frac{1}{2}}\sqrt{det(C)}}exp\left(-\frac{1}{2}(x-m)^TC^{-1}(x-m)\right)$$ 
+
+
+
+
+$$\int\frac{x+1}{x^2-2x+10}\; dx$$

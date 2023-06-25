@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
+                "file": "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
+                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
+                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md"
+                "file": "Probabilidades/Resumenes/Resumen Control 3.md"
               }
             }
           }
@@ -166,9 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "d8b39dc1691d2ac6",
   "lastOpenFiles": [
+    "Probabilidades/Resumenes/Resumen Caso 1.md",
+    "Probabilidades/Función Generadora de Momento.md",
+    "Probabilidades/Función Generadora de Momento de un Vector.md",
+    "Probabilidades/Resumenes/Resumen Control 3.md",
+    "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
+    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
@@ -179,7 +188,6 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
-    "Probabilidades/Resumenes/Resumen Control 3.md",
     "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/PDF marginal.md",
@@ -187,15 +195,8 @@
     "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "Probabilidades/Probabilidad conjunta/Convolución.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF conjunto.md",
-    "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF Marginal.md",
-    "Probabilidades/Ley de la Esperanza Total.md",
-    "Probabilidades/Resumenes/Resumen Caso 1.md",
-    "Probabilidades/Ley de Varianza Total.md",
-    "Probabilidades/Esperanza condicional.md",
-    "Probabilidades/Varianza condicional.md",
     "Pasted image 20230615223744.png",
     "Probabilidades/Resumenes",
-    "Probabilidades/Independencia condicional.md",
     "Economía/Elección social",
     "img/Pasted image 20230605092327.png",
     "img/Pasted image 20230602092930.png",
