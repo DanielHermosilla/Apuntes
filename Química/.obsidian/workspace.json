@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d29985f376773619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resumen Control 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "605ad82f7c3d9c36",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reddox/Reddox.md",
+                "file": "Resumen Control 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reddox/Reddox.md",
+                "file": "Resumen Control 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reddox/Reddox.md"
+                "file": "Resumen Control 2.md"
               }
             }
           }
@@ -167,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e441531f48ce9fdd",
+  "active": "d29985f376773619",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Pasted image 20230625193339.png",
     "Reddox/Reddox.md",
+    "Resumen Control 2.md",
     "Reddox",
     "Equilibrio Ácido Base/Efecto del ion común en los equilibrios ácido-base.md",
     "Equilibrio Ácido Base/Titulación.md",
@@ -197,7 +211,6 @@
     "Reacciones Químicas/Soluciones.md",
     "img/Electrolito.png",
     "Resumen Control 1.md",
-    "Teoría del campo cristalino.md",
     "img/Captura de pantalla 2023-04-24 a la(s) 17.36.28.png",
     "img/Pasted image 20230425170347.png",
     "img/geometriamolecular2.png",
