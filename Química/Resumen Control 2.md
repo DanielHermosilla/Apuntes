@@ -163,7 +163,30 @@ Notemos, entonces, que el análisis a llevar a partir de la constante de equilib
 
 No obstante, se pueden tener múltiples equilibrios, dependiendo de la fase física en la que estén los compuestos. Por ejemplo, puede ser que se tenga una reacción donde estén actuando solidos y gases. Por eso mismo, se introduce el término $K_C$ que es la concentración molar, vale decir, en medios acuosos, y $K_p$ que determina la constante de equilibrio en gases.
 
-Ambas constantes se pueden relacionar bajo la ecuación $PV = nRT$. 
+Ambas constantes se pueden relacionar bajo la ecuación $PV = nRT$.  Por ejemplo, sea la siguiente reacción: 
+
+$$aA\leftrightharpoons bB$$ 
+Se tienen que sus respectivas constantes son: 
+
+$$K_c = \frac{[B]^b}{[A]^a}\;\;\;\land\;\;\; K_p=\frac{p_{B}^{b}}{p_{A}^{a}}$$ 
+Por lo tanto, conociendo el comportamiento de los gases ideales, se llega que: 
+
+$$p_A=\frac{n_aRT}{V}\;\;\;\land \;\;\; p_B=\frac{n_BRT}{V}$$ 
+Lo que implica lo siguiente: 
+
+$$\begin{align}
+K_p &= \frac{\left(\frac{n_BRT}{V}\right)^b}{\left(\frac{n_aRT}{V}\right)^a}\\\\
+&=\frac{\left(\frac{n_B}{V}\right)^b}{\left(\frac{n_A}{V}\right)^a}\\\\ 
+&=(RT)^{b-a}\end{align}$$ 
+Donde también se sabe que: 
+
+$$[A]=\frac{n_A}{V}\;\;\;\land\;\;\; [B]=\frac{n_B}{V}$$ 
+
+Entonces: 
+
+$$K_p = K_c(RT)^{\Delta n}$$ 
+
+
 
 ### Equilibrios en ácidos bases 
 
