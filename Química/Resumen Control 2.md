@@ -118,3 +118,42 @@ $$Pb(NO_3)_2(ac) + 2Kl(ac)\to PbI_2(s)+KNO_3(ac)$$
 
 Para poder predecir la formación de un precipitado hay que tener en cuenta la **solubilidad** del soluto. 
 
+## Ácido Base 
+
+En la teoría de soluciones en medios acuosos existen una teoría que explica el comportamiento y clasifica la sustancias en **ácidos** o **báses**. 
+
+### Teória de Arrhenius 
+
+> Las sustancias que ionizan en agua para formar iones $H^+$ se denominan ácidos, mientras que las que ionizan para formar iones $OH^-$ son las bases. 
+
+
+### Teoría de Bronsted-Lowry 
+
+> Las sustancias capaz de **donar un protón** son ácidos y aquellas que **aceptan protones** son bases. 
+
+También se define la base conjugada y ácido conjugado. La $\textcolor{red}{\text{base conjugada}}$ resulta cuando un ácido pierde un protón y el  $\textcolor{blue}{\text{ácido conjugado}}$ resulta cuando una base acepta un protón: 
+
+$$HCl + H_2O\to \textcolor{blue}{H_3O^+} + \textcolor{red}{Cl^-}$$ 
+## Reacciones Redox 
+
+Son reacciones asociadas a **transferencias de electrones**, vale decir, cambios en los estados de oxidación. En la reducción se ganan electrones, por el otro lado en la oxidación se pierden electrones. 
+
+## Equilibrio 
+
+Tras varios experimentos que se realizan en laboratorios, se puede observar una especie de relación que siempre es constante. Por ejemplo, la siguiente reacción siempre cumple lo siguiente: 
+
+$$N_2O_4 \rightleftharpoons \textcolor{red}{2}NO_2$$ 
+Donde, independiente de la concentración de $N_2O$ y $2NO_2$, se cumple que la división de ambas concentraciones siempre es constante, vale decir: 
+
+$$K=\frac{[NO_2]^\textcolor{red}{2}}{[N_2O_4]}=4.63\cdot 10^{-3}$$ 
+Donde los corchetes representa la concentración en molaridad. Aca es importante notar que para medir la constante de equilibrio, se pone como numerador a los **productos** y denominador a los **reactantes**. Por lo tanto, se puede generalizar a lo siguiente: 
+
+$$aA + bB \rightleftharpoons cC + dD$$
+
+$$K=\frac{[C]^c[D]^d}{[A]^a[B]^b}$$ 
+Notemos, entonces, que el análisis a llevar a partir de la constante de equilibrio es el siguiente: 
+
+- Caso donde $K>>1$: Se favorece la formación de **productos**. 
+- Caso donde $K<<1$: Se favorece la formación de **reactivos**
+
+No obstante, las constantes de equilibrio 
