@@ -180,3 +180,39 @@ $$\begin{align}
 [H^+]&<[OH^-]\;\;\;\text{(Básica)}
 \end{align}$$ 
 Por lo tanto, a través del $pH$ y $pOH$ se puede saber matemáticamente si un compuesto es una base o un ácido. 
+
+Ahora, también se agrega la definición de **ácido fuerte** y **base fuerte**, que corresponderían a aquellas reacciones que son irreversibles, ionizandose completamente en el agua: 
+
+$$\begin{align}
+HCl + H_2O&\to H_3O^+ + Cl^-\;\;\;\text{(Ácido fuerte)}\\\\\
+NaOH &\to Na^+ + OH^-\;\;\;\text{(Base fuerte)}\end{align}$$ 
+Por el otro lado, los ácidos y bases débiles corresponderían a los electrolites debiles donde se ionizan de forma parcial en el agua: 
+
+$$\begin{align}
+HF+H_2O &\rightleftharpoons H_3O^+ + F^-\;\;\;\text{(Ácido debil)}\\\\
+NH_3 + H_2O &\rightleftharpoons NH_{4}^{+}+OH^-\;\;\;\text{(Base debil)}
+\end{align}$$ 
+Por regla general, si un ácido es fuerte, su base conjugadas son muy débiles, casi ni como si ni se pudieran médir. Por ejemplo, se sabe el $H_3O^+$ es el ácido más fuerte que existe, entonces, se cumple lo siguiente: 
+
+$$\textcolor{red}{HCl} + H_2O\to \textcolor{magenta}{H_3O^+} + Cl^-$$
+
+Claramente en la ecuación, el $\textcolor{red}{HCl}$ es el ácido fuerte, sin embargo, el ácido conjugado $\textcolor{magenta}{H_3O^+}$ es mucho más fuerte, haciendo que el $Cl^-$ sea una base muy debil, casi inmedible. Lo mismo aplica para el concepto de las bases fuertes. 
+
+La fuerza de un ácido o base se mide **cuantitativamente** por una constante de equilibrio. Aquí se introduce la constante $K_a$: 
+
+$$HA + H_2O\rightleftharpoons H_3O^+ + A^-$$ $$K_a=\frac{[A^-][H_3O^+]}{[HA]}$$ $$pK_a = -logK_a$$ 
+Donde por regla general se cumple que mientras mayor es el valor de $K_a$ más fuerte es el ácido, por el contrario, mientras menor es el valor de $pK_a$ mas fuerte es el ácido, pues está definido como un logaritmo **negativo**. 
+
+Lo mismo aplica para las bases, donde se introduce la constante $K_b$: 
+
+$$B + H_2O \leftrightharpoons BH^+ + OH^-$$ $$K_b=\frac{[BH^+][OH^-]}{[B]}$$ $$pK_b = -logK_b$$ 
+Por regla general, mientras mayor es $K_b$ más fuerte es la base, mientras menor es $pK_b$ mas fuerte es la base. 
+
+Por último, se introduce el término de **porcentaje de ionización**. Se sabe que para ácidos-bases debiles las moléculas no se ionizan por completo, entonces se puede calcular su grado de ionización bajo la siguiente fórmula: 
+
+$$HA + H_2O \leftrightharpoons H_3O^+ + A^-$$ $$\text{Grado de ionización}=\frac{[H_3O^+]\;\text{formado}}{[HA]\;\text{original}}$$ 
+Por el otro lado, se introduce el término de **grado de disociación**, que difiere levemente del grado de ionización, pues hace alusión a la **cantidad de sustancia disociada**: 
+
+$$\alpha=\frac{\text{Cantidad de sustancia disociada}}{\text{Cantidad de sustancia inicial}}$$ 
+
+Donde en acidos y bases fuertes, $\alpha\approx 1$, lo que hace sentido, pues normalmente las sustancias se disocian completamente. 
