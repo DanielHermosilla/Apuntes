@@ -245,4 +245,3 @@ Donde en acidos y bases fuertes, $\alpha\approx 1$, lo que hace sentido, pues no
 
 
 
-$$\int_{0}^{2}e^{-st}t\;dt$$ 
