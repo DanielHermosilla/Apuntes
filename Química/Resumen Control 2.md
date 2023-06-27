@@ -242,3 +242,7 @@ Por el otro lado, se introduce el término de **grado de disociación**, que dif
 $$\alpha=\frac{\text{Cantidad de sustancia disociada}}{\text{Cantidad de sustancia inicial}}$$ 
 
 Donde en acidos y bases fuertes, $\alpha\approx 1$, lo que hace sentido, pues normalmente las sustancias se disocian completamente. 
+
+
+
+$$\int_{0}^{2}e^{-st}t\;dt$$ 
