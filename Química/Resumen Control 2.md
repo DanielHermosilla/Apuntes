@@ -185,6 +185,7 @@ $$[A]=\frac{n_A}{V}\;\;\;\land\;\;\; [B]=\frac{n_B}{V}$$
 Entonces: 
 
 $$K_p = K_c(RT)^{\Delta n}$$ 
+En el caso que se tenga una reacción heterogenea (componentes de reacción en distintas fases), la constante de equilibrio solo considera a los gases y acuoso. 
 
 
 
