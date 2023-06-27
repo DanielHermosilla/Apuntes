@@ -134,6 +134,11 @@ En la teoría de soluciones en medios acuosos existen una teoría que explica el
 También se define la base conjugada y ácido conjugado. La $\textcolor{red}{\text{base conjugada}}$ resulta cuando un ácido pierde un protón y el  $\textcolor{blue}{\text{ácido conjugado}}$ resulta cuando una base acepta un protón: 
 
 $$HCl + H_2O\to \textcolor{blue}{H_3O^+} + \textcolor{red}{Cl^-}$$ 
+### Teoría de Lewis 
+
+> Las especies químicas capaz de aceptar un par de electrones son ácidos, mientras que las especies capaz de donar electrones son bases.
+
+
 ## Reacciones Redox 
 
 Son reacciones asociadas a **transferencias de electrones**, vale decir, cambios en los estados de oxidación. En la reducción se ganan electrones, por el otro lado en la oxidación se pierden electrones. 
@@ -156,4 +161,22 @@ Notemos, entonces, que el análisis a llevar a partir de la constante de equilib
 - Caso donde $K>>1$: Se favorece la formación de **productos**. 
 - Caso donde $K<<1$: Se favorece la formación de **reactivos**
 
-No obstante, las constantes de equilibrio 
+No obstante, se pueden tener múltiples equilibrios, dependiendo de la fase física en la que estén los compuestos. Por ejemplo, puede ser que se tenga una reacción donde estén actuando solidos y gases. Por eso mismo, se introduce el término $K_C$ que es la concentración molar, vale decir, en medios acuosos, y $K_p$ que determina la constante de equilibrio en gases.
+
+### Equilibrios en ácidos bases 
+
+A partir del teorema de Arrhenius, Bronsted-Lowry y Lewis se definió lo que era una base y un ácido.  
+
+Ahora, con el fin de saber si una solución es ácida o básica se inventó el concepto de $pH$ y $pOH$:
+
+$$\begin{align}
+pH&=-\log[H_3O^+]\\\\ pOH&=-\log[OH^-]\end{align}$$ 
+
+Por lo tanto, se define ácida si su $pH$ es menor a $0.7$. Por el otro lado, se dice que es básica si es mayor a $0.7$. Se puede aplicar un concepto similar con el $OH^-$: 
+
+$$\begin{align}
+[H^+]&=[OH^-]\;\;\;\text{(Neutra)}\\\\ 
+[H^+]&>[OH^-]\;\;\;\text{(Ácida)}\\\\
+[H^+]&<[OH^-]\;\;\;\text{(Básica)}
+\end{align}$$ 
+Por lo tanto, a través del $pH$ y $pOH$ se puede saber matemáticamente si un compuesto es una base o un ácido. 

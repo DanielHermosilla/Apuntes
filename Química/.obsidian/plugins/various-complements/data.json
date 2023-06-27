@@ -63,131 +63,27 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Configuración electrónica": {
-      "Configuración electrónica": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682371452969
-        }
-      }
-    },
-    "Enlace covalente": {
-      "Enlace covalente": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682371673337
-        }
-      }
-    },
-    "Repulsión de los pares de electrones de la capa de valencia": {
-      "Repulsión de los pares de electrones de la capa de valencia": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682387240599
-        }
-      }
-    },
-    "Tabla periódica moderna": {
-      "Tabla periódica moderna": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682370881690
-        }
-      }
-    },
-    "Enlace metálico": {
-      "Enlace metálico": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682371743831
-        }
-      }
-    },
-    "Orden de enlace": {
-      "Orden de enlace": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682387789484
-        }
-      }
-    },
-    "Radio atómico": {
-      "Radio atómico": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682511960465
-        }
-      }
-    },
-    "Energía de ionización": {
-      "Energía de ionización": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682513585291
-        }
-      }
-    },
-    "solución": {
-      "solución": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683560081652
-        }
-      }
-    },
-    "Disolución": {
-      "Disolución": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683560204902
-        }
-      }
-    },
-    "2NO_{3}^{-}": {
-      "2NO_{3}^{-}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683903212572
-        }
-      }
-    },
-    "carbonatos": {
-      "carbonatos": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683903515619
-        }
-      }
-    },
-    "Teoría del campo cristalino": {
-      "Teoría del campo cristalino": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1683903556508
-        }
-      }
-    },
-    "Dipróticos": {
-      "Dipróticos": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683903832403
-        }
-      }
-    },
-    "Reacción": {
-      "Reacción": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683904304350
-        }
-      }
-    },
     "H_3O^+": {
       "H_3O^+": {
         "currentFile": {
           "count": 4,
           "lastUpdated": 1684507993871
+        }
+      }
+    },
+    "bases": {
+      "bases": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687832424585
+        }
+      }
+    },
+    "}\\\\\\\\": {
+      "}\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687832854474
         }
       }
     }
