@@ -187,6 +187,20 @@ Entonces:
 $$K_p = K_c(RT)^{\Delta n}$$ 
 En el caso que se tenga una reacción heterogenea (componentes de reacción en distintas fases), la constante de equilibrio solo considera a los gases y acuoso. 
 
+Cuando se tiene una reacción química que se puede subdividir en múltiples reacciones, se pueden tener múltiples constantes de equilibrio. Por teorema, se puede saber que la constante de la reacción total es equivalente al producto de cada subreacción: 
+
+$$K_c = K_{c}^{'}\times K_{c}^{''}$$ 
+### Equilibrio Químico 
+
+El equilibrio químico es dinámico y se establece con la igualdad de velocidad donde se producen los procesos opuestos. Es decir, las sustancias reaccionan para formar productos pero al mismo tiempo reaccionan para formar la sustancia original. Por lo tanto, el equilibrio químico se alcanza cuando la concentración de los reactivos y productos se vuelven constantes en el tiempo. Se establece que la velocidad es equivalente en la reacción directa e inversa. 
+
+### Coeficiente de reacción 
+
+Dado que ahora se sabe que las reacciones pasan por distintas fases, se define el coeficiente de reacción $(Q_C)$, lo que equivale a las concentraciones **iniciales** de los reactantes y productos, a diferencia de **$K_c$** que es la concentración en equilibrio. Se puede ver mediante la siguiente imagen. 
+
+![[Pasted image 20230627203741.png|center]]
+
+
 
 
 ### Equilibrios en ácidos bases 

@@ -3,5 +3,6 @@
   "cssTheme": "Fusion",
   "enabledCssSnippets": [
     "Copia de somethingsnippet"
-  ]
+  ],
+  "baseFontSize": 15
 }
