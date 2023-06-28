@@ -52,4 +52,9 @@ Por último, insertando $50$ se llega a lo siguiente:
 ![[IMG_13E90F8407FA-1.jpeg|center|550]]
 
 Donde se tiene como el nodo problemático al $30$, entonces se hace la rotación en torno a los siguientes nodos:
-![[IMG_52B73056BCC4-1.jpeg|center|]]
+
+![[IMG_52B73056BCC4-1.jpeg|center|500]]
+
+Quedando como arbol final: 
+
+![[IMG_337D08A9FCCF-1.jpeg|center|500]]
