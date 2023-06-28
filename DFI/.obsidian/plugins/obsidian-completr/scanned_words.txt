@@ -192,6 +192,7 @@ dc
 dev
 dictada
 definirlo
+demostrar
 fuerza
 forma
 fijar
