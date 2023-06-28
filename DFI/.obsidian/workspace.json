@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecánica/Sistema de Partículas/Centro de Masa.md",
+                "file": "Mecánica/Resumen/Resumen Control 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cecab2d3ec24f180",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecánica/Sistema de Partículas/Centro de Masa.md",
+                "file": "Mecánica/Resumen/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecánica/Sistema de Partículas/Centro de Masa.md",
+                "file": "Mecánica/Resumen/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecánica/Sistema de Partículas/Centro de Masa.md"
+                "file": "Mecánica/Resumen/Resumen Control 3.md"
               }
             }
           }
@@ -169,8 +170,10 @@
   },
   "active": "ff2492272cf61a9e",
   "lastOpenFiles": [
-    "Mecánica/Resumen/Resumen Control 3.md",
+    "Captura de pantalla 2023-06-27 a la(s) 23.19.49.png",
+    "Captura de pantalla 2023-06-27 a la(s) 23.01.47.png",
     "Mecánica/Sistema de Partículas/Centro de Masa.md",
+    "Mecánica/Resumen/Resumen Control 3.md",
     "Mecánica/Resumen/Formulario Control 3.md",
     "Mecánica/Sistema de Partículas",
     "Mecánica/Cinemática/Movimiento a partir de una fuerza central.md",
@@ -184,7 +187,6 @@
     "Mecánica/img/Captura de pantalla 2023-06-10 a la(s) 13.23.22.png",
     "Mecánica/img/Captura de pantalla 2023-06-09 a la(s) 15.14.33.png",
     "Mecánica/img/Captura de pantalla 2023-06-09 a la(s) 15.00.34.png",
-    "Mecánica/img/Captura de pantalla 2023-06-09 a la(s) 11.58.51.png",
     "Mecánica/Momentum Angular y Torque/Momentum Angular.md",
     "Mecánica/Resumen",
     "Introducción a la Física Moderna/Física Cuántica/modelo atómico de Bohr.md",
@@ -206,7 +208,6 @@
     "Mecánica/Cinemática/Velocidad.md",
     "Mecánica/Cinemática/Vector tangencial.md",
     "Mecánica/Cinemática/Coordenadas esféricas.md",
-    "Mecánica/Cinemática/Aceleración.md",
     "Mecánica/Momentum Angular y Torque",
     "Mecánica/Energía",
     "Mecánica/Dinámica",

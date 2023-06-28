@@ -440,3 +440,50 @@ Al fijarnos en cada ecuación, podemos ver que se *crean* cuatro fuerzas nuevas.
 
 - **Fuerza Transversal:** Corresponde a la fuerza $\vec{F_T}=-m\vec{\alpha_e}\times\vec{r}$.  Esta fuerza existe cuando los ejes del sistema de referencia no inercial tiene una rotación no constante. 
 
+
+# Sistemas de varias partículas 
+
+Normalmente en la física se estudia los sistemas como partículas puntuales. En el caso de tener sistemas compuestos por varías partículas, es posible deducir ecuaciones globales para el sistema. 
+
+![[Captura de pantalla 2023-06-27 a la(s) 23.01.47.png|center|350]]
+
+
+
+Antes que nada, al enfrentar varias partículas, lo importante es definir cuales de aquellas conforman el sistema de interés. Esta decisión es completamente arbitraria.  Aquellas interacciones dentro del sistema de las partículas se llamarán **fuerzas internas** y del caso contrario **fuerzas externas**. 
+
+Es importante notar y distinguir bien las fuerzas internas, pues gracias a esto y por Ley de Acción y Reacción, se garantiza que $\vec{F_{PQ}}=-\vec{F_{QP}}$.  Esto garantiza poder simplificar enormemente los movimientos y ecuaciones de los grandes sistemas. 
+
+## Centro de masa 
+
+La primera propiedad global que se define es el centro de masa. Si se considera un sistema de $N$ partículas puntuales de masa $m_i$ y una posición descrita por un vector $\vec{r_i}$. Por lo tanto, se define el centro de masa como: 
+
+$$\vec{R_{CM}}=\sum^{N}_{i=1}\frac{m_i}{M}\vec{r_i}$$ 
+Es decir, una suma ponderada de cada partícula por su masa respectiva y su posición. Nuevamente, el vector de la posición también es arbitrario según el sistema de referencia. A partir de esto, calculando la derivada, es posible obtener la velocidad y aceleración del centro de masa: 
+
+$$\begin{align}
+\vec{V_{CM}}&=\sum^{N}_{i=1}\frac{m_i}{M}\vec{v_i}\\\\
+\vec{A_{CM}}&=\sum^{N}_{i=1}\frac{m_i}{M}\vec{a_i}
+\end{align}$$ 
+
+Y de la misma forma, como para cada partícula se puede definir su ecuación de movimiento de la forma $m_i\vec{a_i}=\vec{F_{i}^{neta}}$. Entonces, reordenando se puede obtener: 
+
+$$M\vec{A_{CM}}=\sum^{N}_{i=1}\vec{F_{i}^{neta}}$$ 
+Nuevamente, por lo dicho anteriormente, en realidad esta fuerza neta está compuesta únicamente por las **fuerzas externas**, dado que por acción y reacción se cancelan las fuerzas internas. 
+
+### Movimiento relativo del Centro de Masa 
+
+Como visto anteriormente, muchas veces es muy conveniente definir el movimiento de un sistema a partir del centro de masa. En tal caso, se puede definir el vector $\vec{\rho_i}$ como la posición de la partícula $i$ relativa a la posición del centro de masa: 
+
+$$\vec{\rho_i}=\vec{r_i}-\vec{R_{CM}}$$ 
+![[Captura de pantalla 2023-06-27 a la(s) 23.19.49.png|center|350]]
+
+
+Dado la definición de centro de masa, se puede definir la ecuación de movimiento de este vector como: 
+
+$$\sum^{N}_{i=1}m_i\vec{\rho_i}=\sum^{N}_{i=1}m_i\vec{r_i}-M\vec{R_{CM}}=0$$ 
+Vale decir, **el promedio ponderado por las masas de las posiciones de las partículas del sistema respecto al centro de masa es nulo**. Nuevamente, se define la velocidad de la partícula como $\dot{\vec{\rho_i}}=\vec{v_i}-\vec{V_{CM}}$, lo equivalente a tener: 
+
+$$\begin{align}
+\sum^{N}_{i=1}m_i\dot{\vec{\rho_i}}&=0\\\\
+\sum^{N}_{i=1}m_i\ddot{\vec{\rho_i}}&=0
+\end{align}$$ 
