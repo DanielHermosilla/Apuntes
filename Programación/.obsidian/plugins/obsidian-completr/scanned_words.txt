@@ -327,6 +327,7 @@ casillero
 caminos
 cual
 creciendo
+clasificar
 enteros
 en
 el
@@ -539,6 +540,7 @@ implementaci
 implementar
 insertar
 izquierdo
+imbalances
 bool
 booleanos
 backslash
@@ -1126,6 +1128,7 @@ Devin
 Dropwhile
 Dado
 Debe
+Dependiendo
 Las
 La
 Los

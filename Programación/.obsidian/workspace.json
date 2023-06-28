@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Rotación.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Rotación.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Rotación.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md"
               }
             }
           }
@@ -168,11 +167,20 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "bae43bdaa08dc64f",
+  "active": "799583e2cd88fcd5",
   "lastOpenFiles": [
+    "IMG_52B73056BCC4-1.jpeg",
+    "IMG_13E90F8407FA-1.jpeg",
+    "IMG_DE41DE9186BA-1.jpeg",
+    "IMG_85E383720818-1.jpeg",
+    "IMG_E94B28BF0713-1.jpeg",
+    "IMG_79E09E60DDFC-1.jpeg",
+    "IMG_35B8E16F3BEF-1.jpeg",
+    "IMG_9DFFA7B478F5-1.jpeg",
+    "IMG_DFBFB5BB086E-1.jpeg",
+    "Python/Tipos de datos abstractos/Arboles/Rotación.md",
     "IMG_3CEE207C96F5-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
-    "Python/Tipos de datos abstractos/Arboles/Rotación.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles ordinales/Árboles ordinales.md",
     "Python/Tipos de datos abstractos/Arboles/Arboles cardinales/Árboles cardinales.md",
     "Python/Algoritmos/Busqueda/Busqueda binaria.md",
@@ -187,12 +195,9 @@
     "img/Arbol rotación.png",
     "Python/Tipos de datos abstractos/Arboles/Arboles binarios/Propiedades matemáticas.md",
     "Python/Tipos de datos abstractos/Pilas.md",
-    "img/Pilas.png",
     "Python/Tipos de datos abstractos",
-    "img/ArbolOrdinal.png",
     "Python/Arboles/Árboles ordinales/Untitled",
     "Python/Tipos de datos abstractos/Arboles/Árboles ordinales",
-    "img/Arboles cardinales.png",
     "Python/Tipos de datos abstractos/Arboles/Arboles binarios",
     "Python/Tipos de datos abstractos/Arboles/Arboles cardinales",
     "Python/Arboles binarios/Untitled.md",
@@ -208,12 +213,7 @@
     "Python/Algoritmos/Diagramas/Diagrama de Estado.md",
     "Python/Algoritmos/Métodos matemáticos",
     "Python/Algoritmos/Diagramas",
-    "img/DiagramaDeEstado.png",
     "Python/Algoritmos/Diagramas/Diagramas de Flujo.md",
-    "img/diagramaFlujo.png",
-    "Python/Estructuras de control/Recursividad a la cola.md",
-    "img/Seleccion.png",
-    "img/degreeCentrality.png",
-    "img/FindingKeyConnectors.png"
+    "Python/Estructuras de control/Recursividad a la cola.md"
   ]
 }
