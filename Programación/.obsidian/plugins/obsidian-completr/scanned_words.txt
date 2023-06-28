@@ -57,6 +57,7 @@ ordenamientos
 ordenados
 ordenaci
 ordenado
+ordinal
 dos
 datos
 decir
@@ -128,6 +129,7 @@ define
 denotado
 denota
 distancias
+derecho
 predefinidos
 procesan
 partir
@@ -210,6 +212,7 @@ podemos
 punteros
 peor
 perfectamente
+pueda
 como
 complejo
 caso
@@ -404,6 +407,8 @@ extrae
 empty
 espacios
 eliminaci
+entra
+edici
 los
 lenguaje
 lograr
@@ -456,6 +461,7 @@ llenando
 lleno
 loga
 llamamos
+ltiples
 int
 inmutable
 imaginaria
@@ -528,6 +534,11 @@ is
 indistiguibles
 inserci
 ideal
+intercambiar
+implementaci
+implementar
+insertar
+izquierdo
 bool
 booleanos
 backslash
@@ -555,6 +566,8 @@ bloque
 break
 binarios
 balanceado
+balanc
+balance
 Es
 Ejemplo
 El
@@ -640,6 +653,8 @@ soluciones
 simplificar
 ste
 stacks
+servir
+sim
 fueran
 flotantes
 float
@@ -676,6 +691,8 @@ filtrando
 fico
 finalizar
 final
+formar
+factor
 asignaciones
 almacena
 analizaremos
@@ -758,6 +775,9 @@ apila
 arios
 ario
 arboles
+altura
+asegurar
+aplicarse
 jupyter
 jk
 jfv
@@ -818,6 +838,7 @@ tico
 termine
 toma
 tope
+trico
 memoria
 matem
 multiplicaci
@@ -866,6 +887,7 @@ multiplicar
 mejor
 multiplicaciones
 muchas
+mejora
 que
 quisiera
 quiere
@@ -880,6 +902,7 @@ quicksort
 quienes
 querer
 quinas
+quede
 ndar
 numero
 neas
@@ -918,6 +941,8 @@ notar
 notaci
 necesite
 nace
+nunca
+nuevo
 un
 una
 utilizan
@@ -1003,6 +1028,12 @@ realizan
 rboles
 rbooles
 rmula
+rotar
+rotaci
+ra
+ramente
+realmente
+rotando
 Suma
 Se
 Si
@@ -1074,6 +1105,7 @@ verdadera
 verificable
 verticalmente
 verdadero
+verlo
 Divisiones
 Del
 Dentro
@@ -1153,6 +1185,7 @@ Combinatorial
 Combinations
 Contiene
 Conocidas
+Cl
 halla
 hacer
 habr
@@ -1171,6 +1204,8 @@ har
 hojas
 hacia
 heredan
+hijo
+hacerlo
 Index
 In
 IN

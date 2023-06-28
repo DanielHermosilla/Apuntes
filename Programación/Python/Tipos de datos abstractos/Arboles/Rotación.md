@@ -94,3 +94,14 @@ class Arbol:
 Esto puede servir para implementar un **nuevo método de inserción en los árboles**. A partir de esto se introduce la inserción en la raiz, donde el elemento que entra **debe estar en la raiz**. 
 
 Una forma de hacerlo es insertar el nodo directamente por un nodo externo. De tal forma, se hace una rotación con el padre y así sucesivamente hasta llegar a la raíz. 
+
+--- 
+
+Otra forma de verlo es que, como dice su nombre, se está rotando un árbol con sus nodos: 
+
+![[IMG_3CEE207C96F5-1.jpeg|center|250]]
+
+
+
+
+

@@ -47,19 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Pilas": {
-      "Pilas": {
+    "Rotación": {
+      "Rotación": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1682365928342
-        }
-      }
-    },
-    "Busqueda binaria": {
-      "Busqueda binaria": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684780885694
+          "lastUpdated": 1687973033969
         }
       }
     }

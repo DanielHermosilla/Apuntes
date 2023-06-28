@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bae43bdaa08dc64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Tipos de datos abstractos/Arboles/Rotación.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Rotación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Rotación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Ordenamiento/Quick Sort.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Rotación.md"
               }
             }
           }
@@ -154,17 +168,26 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "799583e2cd88fcd5",
+  "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
+    "IMG_3CEE207C96F5-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
-    "Python/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
     "Python/Tipos de datos abstractos/Arboles/Rotación.md",
-    "img/Arbol rotación.png",
+    "Python/Tipos de datos abstractos/Arboles/Árboles ordinales/Árboles ordinales.md",
     "Python/Tipos de datos abstractos/Arboles/Arboles cardinales/Árboles cardinales.md",
+    "Python/Algoritmos/Busqueda/Busqueda binaria.md",
+    "Python/Algoritmos/Árboles/Árbol AVL.md",
+    "Python/Algoritmos/Árboles",
+    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+    "Python/Algoritmos/Ordenamiento/Merge Sort.md",
+    "Python/Algoritmos/Ordenamiento/Heap sort.md",
+    "Python/Algoritmos/Ordenamiento/Counting sort.md",
+    "Python/Algoritmos/Ordenamiento/Bubble sort.md",
+    "Python/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
+    "img/Arbol rotación.png",
     "Python/Tipos de datos abstractos/Arboles/Arboles binarios/Propiedades matemáticas.md",
     "Python/Tipos de datos abstractos/Pilas.md",
     "img/Pilas.png",
-    "Python/Tipos de datos abstractos/Arboles/Árboles ordinales/Árboles ordinales.md",
     "Python/Tipos de datos abstractos",
     "img/ArbolOrdinal.png",
     "Python/Arboles/Árboles ordinales/Untitled",
@@ -185,20 +208,11 @@
     "Python/Algoritmos/Diagramas/Diagrama de Estado.md",
     "Python/Algoritmos/Métodos matemáticos",
     "Python/Algoritmos/Diagramas",
-    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
     "img/DiagramaDeEstado.png",
     "Python/Algoritmos/Diagramas/Diagramas de Flujo.md",
     "img/diagramaFlujo.png",
     "Python/Estructuras de control/Recursividad a la cola.md",
-    "Python/Algoritmos/Ordenamiento/Heap sort.md",
-    "Python/Algoritmos/Ordenamiento/Counting sort.md",
-    "Python/Algoritmos/Ordenamiento/Bubble sort.md",
-    "README.md",
-    "Untitled.md",
-    "Python/Estructuras de control/Invariantes.md",
-    "Python/Algoritmos/Ordenamiento/Insertion sort.md",
     "img/Seleccion.png",
-    "Python/Algoritmos/Ordenamiento",
     "img/degreeCentrality.png",
     "img/FindingKeyConnectors.png"
   ]
