@@ -41,3 +41,28 @@ Eso sería una inserción exitosa, y de hecho, es la forma de insertar un elemen
 
 La eliminación es lo contrario a la inserción, en este caso, **para todo elemento** se elimina por la **raiz**. Es contraintuitivo pero hace sentido para no violar los principios de *Heap*. 
 
+Entonces, dado que se eliminan los elementos de la raiz, sea el siguiente árbol donde se quiere eliminar el $50$: 
+
+![[IMG_63D6F5B87A6E-1.jpeg|center]]
+
+Al sacar el $50$ fuera de la raiz, este debe ser inmediatamente reemplazado por el **último elemento**, en este caso, el $16$. 
+
+![[IMG_54649A456EA3-1.jpeg|center]]
+
+El $50$ estaría quedando por ahora, "fuera del array", pero en realidad se swapea con el $16$. Ahora, se tendría un árbol completo pero que viola el principio del orden, entonces se hacen comparaciones hacia abajo para rellenar los vacios: 
+
+![[IMG_298631F87240-1.jpeg|center|650]]
+
+La línea vértical roja que está en el array representa una división. De la izquierda en adelante representa el array perteneciente al árbol. El resto son los elementos que se van eliminando. Por lo tanto, el árbol final sería el siguiente: 
+
+![[IMG_A45FE836DFFA-1.jpeg|center|650]]
+
+Ahora, veamos el siguiente fenómeno que ocurre al seguir eliminando nodos: 
+
+![[IMG_CC841D337B1C-1.jpeg|center]]
+
+Los elementos que van sobrando son elementos **ordenados**. De hecho, esto introduce a lo que llegaría a ser el algoritmo de [[Heap sort]], cuyo algoritmo depende de la cantidad de elementos a ordenar y la altura del árbol, es decir, sería de orden $O(nlog(n))$ 
+
+## Heapify 
+
+Es una forma alternativa de crear un árbol *Heap*. Veamos el siguiente ejemplo de un árbol desordenado: 

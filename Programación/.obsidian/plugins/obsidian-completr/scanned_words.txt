@@ -88,6 +88,9 @@ oö
 ol
 operar
 opere
+original
+ocurre
+obstante
 dos
 datos
 decir
@@ -175,6 +178,7 @@ dE
 db
 dX
 dk
+dado
 predefinidos
 procesan
 partir
@@ -268,6 +272,11 @@ pM
 puntero
 prioridad
 permitidas
+primero
+principio
+padres
+principios
+perteneciente
 como
 complejo
 caso
@@ -398,6 +407,14 @@ cI
 cola
 cabeza
 colas
+completo
+completos
+consiguiente
+contraria
+correspondiente
+casos
+contrario
+contraintuitivo
 enteros
 en
 el
@@ -491,6 +508,13 @@ ekK
 ellos
 extramos
 enlace
+efecto
+err
+embargo
+exitosa
+elimina
+eliminan
+eliminando
 los
 lenguaje
 lograr
@@ -557,6 +581,8 @@ ltT
 lr
 lI
 llegada
+ltura
+llene
 int
 inmutable
 imaginaria
@@ -661,6 +687,8 @@ il
 iz
 ingresan
 introducen
+imagenes
+inmediatamente
 bool
 booleanos
 backslash
@@ -742,6 +770,7 @@ Encolar
 Encola
 Extrae
 Extraer
+Eliminaci
 se
 si
 siguientes
@@ -822,6 +851,13 @@ saliendo
 sugerible
 sta
 sicamente
+swapeando
+siendo
+sentido
+sacar
+swapea
+seguir
+sobrando
 fueran
 flotantes
 float
@@ -870,6 +906,8 @@ fx
 faiqu
 fKa
 fX
+falta
+fen
 asignaciones
 almacena
 analizaremos
@@ -967,6 +1005,11 @@ aspectos
 atendido
 ade
 adicional
+ascendiente
+ah
+arreglarlo
+ahora
+abajo
 jupyter
 jk
 jfv
@@ -1008,6 +1051,7 @@ Tmn
 Tg
 TW
 TPR
+Todas
 tama
 tres
 tipo
@@ -1066,6 +1110,9 @@ tK
 tO
 tIu
 teV
+teor
+ticamente
+tratando
 memoria
 matem
 multiplicaci
@@ -1142,6 +1189,9 @@ mgA
 mb
 mZI
 mV
+muestra
+modelarlo
+meno
 que
 quisiera
 quiere
@@ -1165,6 +1215,7 @@ qmso
 qx
 qq
 qn
+quedando
 ndar
 numero
 neas
@@ -1216,6 +1267,8 @@ nmt
 nK
 niveles
 necesita
+necesidad
+nea
 un
 una
 utilizan
@@ -1261,6 +1314,7 @@ utilizaciones
 uno
 usando
 utilizaci
+uso
 representar
 representada
 representa
@@ -1342,6 +1396,13 @@ rCqq
 rI
 rX
 rea
+representaciones
+recorre
+reemplazado
+realidad
+rellenar
+rtical
+roja
 Suma
 Se
 Si
@@ -1371,6 +1432,7 @@ SK
 SN
 SU
 SX
+Sin
 Funcionan
 Funciones
 Fk
@@ -1444,6 +1506,10 @@ vt
 vzv
 vM
 vale
+violar
+viola
+vacios
+veamos
 Divisiones
 Del
 Dentro
@@ -1616,6 +1682,10 @@ hY
 hj
 hAe
 hwv
+heap
+hay
+hoja
+hacen
 Index
 In
 IN
@@ -1642,6 +1712,7 @@ Ix
 Ij
 Insertar
 Inserta
+Inserci
 gico
 generar
 gran
@@ -1673,6 +1744,7 @@ gG
 gT
 gk
 gld
+garantizada
 Un
 Uy
 UR
@@ -1812,6 +1884,7 @@ NO
 NX
 NT
 Nm
+Notemos
 XE
 XX
 Xx
@@ -1979,6 +2052,7 @@ Hd
 Hm
 HX
 Hu
+Heap
 OPB
 OCX
 Oj
