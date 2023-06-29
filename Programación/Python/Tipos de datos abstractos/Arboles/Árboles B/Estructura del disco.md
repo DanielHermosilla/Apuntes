@@ -21,6 +21,6 @@ Esto se debe dado que el disco, para acceder a la información del diccionario, 
 
 Ahora, un método para optimizar esto es ocupar *pointers*. Es decir, ocupar índices que representen un dato en específico del diccionario. Si se quiere acceder a la entrada número $23$, entonces se preguntaría al *pointer* del índice $23$. Ahora, crear los pointers también ocupan espacios en bloques, pero es mucho menor al espacio de un diccionario. Por ejemplo,  se pueden usar $4$ bloques en pointers que señalen al diccionario de $100$ entradas y $25$ bloques. De tal forma, si se quiere acceder a un dato en específico, sólo se requiere acceder a los *pointers*. 
 
-También se puede tener un *pointer* de un *pointer*. Es decir, supongamos que se tienen $1000$ entradas y los bloques de los índices llegasen a ser demasiados. Además, supongamos que se pueden almacenar a lo más $32$ *pointers* por bloques, entonces se puede hacer un bloque con índices $1,33,65,\dots$ que señalen los *pointers* en aquellos intervalos de información. 
+También se puede tener un *pointer* de un *pointer*. Es decir, supongamos que se tienen $1000$ entradas y los bloques de los índices llegasen a ser demasiados. Además, supongamos que se pueden almacenar a lo más $32$ *pointers* por bloques, entonces se puede hacer un bloque con índices $1,33,65,\dots$ que señalen los *pointers* en aquellos intervalos de información. Esto se llama *sparce index*.  Esta es la idea que origina a los árboles B. 
 
 

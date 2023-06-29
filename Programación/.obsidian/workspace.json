@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md"
               }
             }
           }
@@ -154,12 +154,16 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "bae43bdaa08dc64f",
+  "active": "1c8e510f5649ba2c",
   "lastOpenFiles": [
-    "IMG_AB92CCB8C623-1.jpeg",
-    "IMG_26AD66CE8374-1.jpeg",
-    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
+    "img/IMG_C223C960A175-1.jpeg",
+    "img/IMG_CEDBA8CF83B8-1.jpeg",
+    "img/IMG_572A7AEE8304-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+    "img/IMG_AB92CCB8C623-1.jpeg",
+    "img/IMG_26AD66CE8374-1.jpeg",
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles B",
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
     "img/IMG_0D5CCE7D3FA4-1.jpeg",
@@ -170,9 +174,6 @@
     "img/IMG_739BF130D4DC-1.jpeg",
     "img/IMG_7F207F1E6CF4-1.jpeg",
     "Python/Algoritmos/Ordenamiento/Heap sort.md",
-    "img/IMG_CC841D337B1C-1.jpeg",
-    "img/IMG_A45FE836DFFA-1.jpeg",
-    "img/IMG_298631F87240-1.jpeg",
     "Python/Tipos de datos abstractos/Queues.md",
     "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
     "Python/Tipos de datos abstractos/Lista enlazada",
@@ -200,7 +201,6 @@
     "Python/Tipos de datos abstractos/Arboles",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
-    "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
-    "Python/Algoritmos/Métodos matemáticos/Notación Theta.md"
+    "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md"
   ]
 }
