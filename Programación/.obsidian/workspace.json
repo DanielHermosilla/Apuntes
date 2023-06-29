@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md"
               }
             }
           }
@@ -157,18 +156,20 @@
   },
   "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
+    "img/IMG_0D5CCE7D3FA4-1.jpeg",
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad",
+    "img/IMG_90D68721DFA0-1.jpeg",
+    "img/IMG_E36ADB5A5919-1.jpeg",
+    "img/IMG_4A91DE1360BC-1.jpeg",
+    "img/IMG_739BF130D4DC-1.jpeg",
+    "img/IMG_7F207F1E6CF4-1.jpeg",
     "Python/Algoritmos/Ordenamiento/Heap sort.md",
-    "Python/Tipos de datos abstractos/Arboles/Heap.md",
-    "IMG_CC841D337B1C-1.jpeg",
-    "IMG_A45FE836DFFA-1.jpeg",
-    "IMG_298631F87240-1.jpeg",
-    "IMG_54649A456EA3-1.jpeg",
-    "IMG_63D6F5B87A6E-1.jpeg",
-    "IMG_A2CADD2E9C9B-1.jpeg",
-    "IMG_EFB3AF35A760-1.jpeg",
-    "IMG_1B17493D6DFE-1.jpeg",
-    "img/IMG_D515F37E3507-1.jpeg",
-    "img/IMG_0FBED61D9233-1.jpeg",
+    "img/IMG_CC841D337B1C-1.jpeg",
+    "img/IMG_A45FE836DFFA-1.jpeg",
+    "img/IMG_298631F87240-1.jpeg",
+    "img/IMG_54649A456EA3-1.jpeg",
     "Python/Tipos de datos abstractos/Queues.md",
     "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
     "Python/Tipos de datos abstractos/Lista enlazada",
@@ -199,8 +200,6 @@
     "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes",
     "Python/Algoritmos/Métodos matemáticos/Notación Theta.md",
-    "Python/Algoritmos/Métodos matemáticos/Notación Omega.md",
-    "Python/Algoritmos/Métodos matemáticos/Notación O.md",
-    "Python/Algoritmos/Métodos matemáticos"
+    "Python/Algoritmos/Métodos matemáticos/Notación Omega.md"
   ]
 }

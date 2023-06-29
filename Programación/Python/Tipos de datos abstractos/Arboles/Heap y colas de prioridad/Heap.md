@@ -66,3 +66,29 @@ Los elementos que van sobrando son elementos **ordenados**. De hecho, esto intro
 ## Heapify 
 
 Es una forma alternativa de crear un árbol *Heap*. Veamos el siguiente ejemplo de un árbol desordenado: 
+
+![[IMG_7F207F1E6CF4-1.jpeg]]
+
+Para poder ordenar el árbol sin tener que ir eliminando e insertando, vamos mirando nodo por nodo, partiendo de derecha a izquierda. Es decir, uno se fijaría en el nodo $18$ y verifica si cumple la condición con ser un heap o no.
+
+![[IMG_739BF130D4DC-1.jpeg]]
+
+Si los nodos del $18$ para abajo cumplen con ser *Heap*, entonces se sigue con los elementos a su izquierda: 
+
+![[IMG_4A91DE1360BC-1.jpeg]]
+
+Uno podría notar que trivialmente se cumple que la primera ronda siempre cumpla con ser *heap*. Sin embargo, lo interesante es cuando se sube al nivel de arriba y se verifica si cumple con ser *heap*: 
+
+![[IMG_E36ADB5A5919-1.jpeg|center]]
+
+Se comparan los hijos para ver cual es mayor, y si el hijo mayor es más grande que el padre se hace un intercambio.  Por lo tanto, se sigue recursivamente: 
+
+![[IMG_90D68721DFA0-1.jpeg|center]]
+
+Nuevamente se hace un intercambio con el hijo mayor, hasta llegar a la raíz. 
+
+![[IMG_0D5CCE7D3FA4-1.jpeg|center]]
+
+Claramente $40$ era el mayor de los hijos, entonces se efectua el intercambio. Ahora, comparando con el elemento intercambiado, nuevamente se hace el intercambio. 
+
+En este caso, el algoritmo se demoró $O(n)$ ya que pasó por todos los elementos. Notemos que esto es más eficiente que haber hecho el árbol desde cero, pues hubiera tomado tiempo $O(nlog(n))$.  Este concepto da inicio a lo que son las [[Colas de prioridad|colas de prioridad]]. 
