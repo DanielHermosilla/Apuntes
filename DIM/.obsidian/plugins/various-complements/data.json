@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "f\\in\\mathbb{C}_\\alpha": {
-      "f\\in\\mathbb{C}_\\alpha": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1685395583454
-        }
-      }
-    },
     "du\\\\\\\\": {
       "du\\\\\\\\": {
         "currentFile": {
@@ -84,6 +76,14 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1686845950009
+        }
+      }
+    },
+    "\\vert\\lambda_2\\vert": {
+      "\\vert\\lambda_2\\vert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688058196534
         }
       }
     }
