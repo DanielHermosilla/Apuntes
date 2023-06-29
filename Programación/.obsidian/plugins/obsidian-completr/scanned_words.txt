@@ -29,6 +29,7 @@ PN
 PM
 Pa
 PC
+Prioridad
 ofrece
 ordenador
 ocupa
@@ -85,6 +86,8 @@ oO
 oG
 oö
 ol
+operar
+opere
 dos
 datos
 decir
@@ -262,6 +265,9 @@ px
 pAuk
 pZ
 pM
+puntero
+prioridad
+permitidas
 como
 complejo
 caso
@@ -389,6 +395,9 @@ cC
 cj
 ci
 cI
+cola
+cabeza
+colas
 enteros
 en
 el
@@ -479,6 +488,9 @@ eg
 eO
 ecnd
 ekK
+ellos
+extramos
+enlace
 los
 lenguaje
 lograr
@@ -544,6 +556,7 @@ lB
 ltT
 lr
 lI
+llegada
 int
 inmutable
 imaginaria
@@ -646,6 +659,8 @@ iwq
 ipx
 il
 iz
+ingresan
+introducen
 bool
 booleanos
 backslash
@@ -723,6 +738,10 @@ Ex
 Eus
 ER
 EWFWGP
+Encolar
+Encola
+Extrae
+Extraer
 se
 si
 siguientes
@@ -798,6 +817,11 @@ siyis
 sI
 sksu
 sg
+salen
+saliendo
+sugerible
+sta
+sicamente
 fueran
 flotantes
 float
@@ -939,6 +963,10 @@ ag
 ar
 am
 aq
+aspectos
+atendido
+ade
+adicional
 jupyter
 jk
 jfv
@@ -1186,6 +1214,8 @@ nn
 nX
 nmt
 nK
+niveles
+necesita
 un
 una
 utilizan
@@ -1227,6 +1257,10 @@ uyr
 umR
 upf
 uKl
+utilizaciones
+uno
+usando
+utilizaci
 representar
 representada
 representa
@@ -1307,6 +1341,7 @@ rx
 rCqq
 rI
 rX
+rea
 Suma
 Se
 Si
@@ -1408,6 +1443,7 @@ vP
 vt
 vzv
 vM
+vale
 Divisiones
 Del
 Dentro
@@ -1442,6 +1478,7 @@ DM
 Dn
 DApQw
 Dj
+Desencolar
 Las
 La
 Los
@@ -1499,6 +1536,7 @@ AJ
 Ac
 ASi
 Agi
+Aqu
 Count
 Cuando
 Consisten
@@ -1538,6 +1576,7 @@ Cc
 Ca
 CB
 CE
+Colas
 halla
 hacer
 habr
@@ -1601,6 +1640,8 @@ IG
 IV
 Ix
 Ij
+Insertar
+Inserta
 gico
 generar
 gran
@@ -1984,6 +2025,7 @@ Mr
 MoY
 Mp
 MQ
+Muchas
 yi
 yq
 yF

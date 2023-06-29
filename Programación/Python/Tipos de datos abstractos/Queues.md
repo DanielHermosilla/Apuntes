@@ -58,3 +58,5 @@ Muchas veces, cuando se tiene una cola, no se necesita ser atendido por orden de
 
 - **Insertar**: Inserta un elemento de prioridad en la cola. 
 - **Extraer máximo**: Extrae y retorna el elemento de máxima prioridad de la cola de prioridad. 
+
+Las colas de prioridad son las que introducen el término de [[Heap]] con el respectivo algoritmo [[Heap sort]]. 
