@@ -66,3 +66,15 @@ Que depende de la constante $c$ la trayectoria. Ahora, para saber a que eje son 
 ![[IMG_B07CEE22CAC8-1.jpeg|center]]
 
 En términos simple, va a ser tangente según el valor propio. El valor propio en valor absoluto que sea menor va a ser la recta tangente.
+
+2. Si $\lambda_1$ y $\lambda_2$ son reales de distinto signo, se tendría una hipérbola cuyas asíntotas serían los vectores propios 
+
+![[IMG_B038558365C8-1.jpeg|center]]
+
+La dirección del flujo se puede ver como que el **negativo** atrae al centro y el **positivo** repele, vale decir, se puede ver de la siguiente forma: 
+
+![[IMG_17B3BF13D44B-1.jpeg|center]]
+
+Se puede ver que el vector propio asociado al valor propio negativo va a ser aquel que atrae, lo contrario para el otro vector. 
+
+3. Para el caso del espiral, 
