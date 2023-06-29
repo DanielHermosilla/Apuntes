@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4645b9f4be2a349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md"
               }
             }
           },
@@ -154,10 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a83c6df0ea08163d",
+  "active": "0b19607c87a39be4",
   "lastOpenFiles": [
-    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Módelo Lotka-Volterra.md",
+    "Ecuaciones Diferenciales Ordinarias/img/IMG_6E65B795690C-1.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/img/IMG_82657D097700-1.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/img/IMG_58CCD3AC1FA2-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Módelo Lotka-Volterra.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
+    "Ecuaciones Diferenciales Ordinarias/img/IMG_47A069221933-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
     "Ecuaciones Diferenciales Ordinarias/img/planodefases.jpg",
     "Ecuaciones Diferenciales Ordinarias/Sistema no lineales",
@@ -184,22 +201,17 @@
     "Cálculo en Varias Variables/Diferenciabilidad/Diferenciabilidad.md",
     "Ecuaciones Diferenciales Ordinarias/Forma de Jordan.md",
     "Álgebra Lineal/Valores y vectores propios/multiplicidad geométrica.md",
-    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1 1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1.jpeg",
-    "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones",
     "Ecuaciones Diferenciales Ordinarias/img/Captura de pantalla 2023-05-01 a la(s) 16.17.05.png",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_777AC196966E-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/Criticamente amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/sub amortiguado.jpeg",
-    "Ecuaciones Diferenciales Ordinarias/img/sobre amortiguado.jpeg",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales",
-    "Ecuaciones Diferenciales Ordinarias/img/Aproximación Cauchy.png",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
     "Ecuaciones Diferenciales Ordinarias/Resumenes",
-    "Ecuaciones Diferenciales Ordinarias/img/Lipschitz local.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img",
     "Ecuaciones Diferenciales Ordinarias/Teoría de Existencia y Unicidad",
     "Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",

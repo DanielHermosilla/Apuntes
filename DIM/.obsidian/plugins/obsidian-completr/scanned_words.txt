@@ -646,6 +646,7 @@ conmuta
 cf
 contribuci
 completos
+curvas
 su
 ser
 se
@@ -911,6 +912,7 @@ multiplicidades
 matriciales
 mico
 mencionado
+miran
 que
 qu
 queda
@@ -1235,6 +1237,7 @@ traslaci
 temporal
 trasladar
 trayectoria
+tangentes
 Pit
 Para
 Por
@@ -1827,6 +1830,7 @@ error
 esos
 eval
 espirales
+estabilidad
 formas
 fin
 forall
@@ -2076,6 +2080,7 @@ autonomo
 anulan
 analizando
 amortiguando
+analiza
 bajo
 bola
 binomio
@@ -2351,6 +2356,7 @@ imaginarias
 interesantes
 inestabilidad
 informaci
+inestable
 Vamos
 Voy
 Veamos
@@ -2388,6 +2394,7 @@ VgG
 Vw
 VS
 Vl
+Va
 ya
 ys
 yr
