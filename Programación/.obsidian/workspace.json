@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
+                "file": "Python/Tipos de datos abstractos/Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
+                "file": "Python/Tipos de datos abstractos/Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
+                "file": "Python/Tipos de datos abstractos/Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md"
+                "file": "Python/Tipos de datos abstractos/Queues.md"
               }
             }
           }
@@ -156,10 +156,13 @@
   },
   "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
-    "Pasted image 20230628200157.png",
+    "Pasted image 20230628201157.png",
+    "Pasted image 20230628200732.png",
+    "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
+    "Python/Tipos de datos abstractos/Queues.md",
+    "img/Pasted image 20230628200157.png",
     "img/Pasted image 20230628195718.png",
     "img/IMG_E94B28BF0713-1.jpeg",
-    "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
     "Python/Tipos de datos abstractos/Lista enlazada",
     "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
     "img/IMG_337D08A9FCCF-1.jpeg",
@@ -168,8 +171,6 @@
     "img/IMG_DE41DE9186BA-1.jpeg",
     "img/IMG_85E383720818-1.jpeg",
     "img/IMG_79E09E60DDFC-1.jpeg",
-    "img/IMG_35B8E16F3BEF-1.jpeg",
-    "img/IMG_9DFFA7B478F5-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Rotación.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles ordinales/Árboles ordinales.md",
     "Python/Tipos de datos abstractos/Arboles/Arboles cardinales/Árboles cardinales.md",
@@ -200,7 +201,6 @@
     "Python/Algoritmos/Métodos matemáticos/Notación Omega.md",
     "Python/Algoritmos/Métodos matemáticos/Notación O.md",
     "Python/Algoritmos/Diagramas/Diagrama de Estado.md",
-    "Python/Algoritmos/Métodos matemáticos",
-    "Python/Algoritmos/Diagramas/Diagramas de Flujo.md"
+    "Python/Algoritmos/Métodos matemáticos"
   ]
 }
