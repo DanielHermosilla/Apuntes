@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -154,8 +155,11 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1c8e510f5649ba2c",
+  "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
+    "IMG_A2CADD2E9C9B-1.jpeg",
+    "IMG_EFB3AF35A760-1.jpeg",
+    "IMG_1B17493D6DFE-1.jpeg",
     "img/IMG_D515F37E3507-1.jpeg",
     "img/IMG_0FBED61D9233-1.jpeg",
     "img/IMG_BBDF64BC556F-1.jpeg",
@@ -169,9 +173,6 @@
     "img/IMG_E94B28BF0713-1.jpeg",
     "Python/Tipos de datos abstractos/Lista enlazada",
     "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
-    "img/IMG_337D08A9FCCF-1.jpeg",
-    "img/IMG_52B73056BCC4-1.jpeg",
-    "img/IMG_13E90F8407FA-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Rotación.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles ordinales/Árboles ordinales.md",
     "Python/Tipos de datos abstractos/Arboles/Arboles cardinales/Árboles cardinales.md",
