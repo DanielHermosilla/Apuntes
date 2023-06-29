@@ -16,3 +16,7 @@ Dado un nodo de índice $i$ se cumple que:
 - Su hijo izquierdo está en $2i$ 
 - Su hijo derecho está en $2i + 1$ 
 - Su padre está en $\lfloor\frac{i}{2}\rfloor$ 
+
+Además, si se tiene un arbol completo, su áltura está garantizada de ser $\log(n)$. En el caso de Heap, se ocupará en arboles completos. 
+
+Por consiguiente se define *max heap* y *min heap*, donde el primer arbol está ordenado en orden ascendiente, es decir, como un árbol de busqueda original y en *min heap* se ordena de la forma contraria. 
