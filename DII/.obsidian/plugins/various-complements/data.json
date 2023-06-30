@@ -63,16 +63,16 @@
     "Esperanza": {
       "Esperanza": {
         "internalLink": {
-          "count": 11,
-          "lastUpdated": 1688129189344
+          "count": 12,
+          "lastUpdated": 1688130063009
         }
       }
     },
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 21,
-          "lastUpdated": 1688129064365
+          "count": 22,
+          "lastUpdated": 1688130056845
         }
       }
     },
@@ -311,8 +311,8 @@
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 27,
-          "lastUpdated": 1687450902379
+          "count": 37,
+          "lastUpdated": 1688129843784
         }
       }
     },
@@ -481,6 +481,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1687485727499
+        }
+      }
+    },
+    "Varianza": {
+      "Varianza": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688129473287
+        }
+      }
+    },
+    "}{b^2}\\\\\\\\": {
+      "}{b^2}\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688129781979
+        }
+      }
+    },
+    "\\leq\\frac{E": {
+      "\\leq\\frac{E": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688129867528
         }
       }
     }
