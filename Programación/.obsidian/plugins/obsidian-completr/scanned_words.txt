@@ -226,6 +226,7 @@ dw
 depende
 desordenado
 demor
+descripci
 predefinidos
 procesan
 partir
@@ -337,6 +338,11 @@ pH
 pwVj
 partiendo
 pas
+pointers
+percibir
+primeros
+pregunta
+problem
 como
 complejo
 caso
@@ -491,6 +497,16 @@ cuyo
 cumplen
 comparan
 comparando
+conjuntos
+ciertos
+cuyos
+caer
+costo
+creaci
+crea
+cre
+cualquiera
+consecutivos
 enteros
 en
 el
@@ -610,6 +626,8 @@ eu
 eWVG
 era
 efectua
+estos
+extrapolar
 los
 lenguaje
 lograr
@@ -817,6 +835,10 @@ iVZ
 interesante
 intercambio
 intercambiado
+impuestas
+imponer
+insert
+imbalanceados
 bool
 booleanos
 backslash
@@ -865,6 +887,9 @@ bZ
 bI
 bXc
 bDetWP
+bottom
+balancear
+balancea
 Es
 Ejemplo
 El
@@ -1018,6 +1043,8 @@ sa
 sL
 siempre
 sube
+spliteado
+surge
 fueran
 flotantes
 float
@@ -1086,6 +1113,7 @@ fO
 fz
 fg
 fijar
+filosof
 asignaciones
 almacena
 analizaremos
@@ -1198,6 +1226,12 @@ aFS
 aU
 ahT
 az
+almacenar
+asimila
+alusi
+agregando
+agregar
+adir
 jupyter
 jk
 jfv
@@ -1269,6 +1303,7 @@ TDPY
 TDE
 TD
 TO
+Todos
 tama
 tres
 tipo
@@ -1344,6 +1379,8 @@ te
 tk
 trivialmente
 tomado
+tercera
+torno
 memoria
 matem
 multiplicaci
@@ -1450,6 +1487,10 @@ mC
 muo
 mgGK
 mirando
+mucho
+mucha
+mite
+manda
 que
 quisiera
 quiere
@@ -1491,6 +1532,7 @@ qT
 qvE
 qB
 qok
+qu
 ndar
 numero
 neas
@@ -1557,6 +1599,11 @@ nc
 nV
 nE
 nuevamente
+neo
+nimo
+ndose
+ndo
+normalmente
 un
 una
 utilizan
@@ -1621,6 +1668,7 @@ uMWO
 uxI
 uP
 uko
+up
 representar
 representada
 representa
@@ -1721,6 +1769,8 @@ rK
 rA
 rjk
 ronda
+referencia
+reglas
 Suma
 Se
 Si
@@ -1865,6 +1915,7 @@ ve
 vT
 vk
 verifica
+viole
 Divisiones
 Del
 Dentro
@@ -1911,6 +1962,7 @@ DsD
 Di
 Ddq
 DG
+Donde
 Las
 La
 Los
@@ -1988,6 +2040,7 @@ Aq
 Ay
 AO
 At
+Ante
 Count
 Cuando
 Consisten
@@ -2208,6 +2261,8 @@ gKa
 go
 gv
 grande
+grados
+grado
 Un
 Uy
 UR
@@ -2373,6 +2428,7 @@ QV
 Quek
 QO
 Qw
+Quedando
 YPG
 YPCA
 Ys
@@ -2746,6 +2802,7 @@ Hi
 HL
 Hx
 Heapify
+Haciendo
 OPB
 OCX
 Oj
