@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203
+    "width": 203,
+    "collapsed": true
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Recorridos.md"
               }
             }
           }
@@ -156,9 +157,11 @@
   },
   "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
-    "SoftwareDude - Skip List Explained Advanced Data Structure What is Skip List Data Structure Coding Interview [ol-FaNLXlR0 - 871x490 - 2m22s].png",
-    "Python/Tipos de datos abstractos/Arboles/Tries.md",
+    "recorridoarboles.jpg",
     "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
+    "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
+    "img/SoftwareDude - Skip List Explained Advanced Data Structure What is Skip List Data Structure Coding Interview [ol-FaNLXlR0 - 871x490 - 2m22s].png",
+    "Python/Tipos de datos abstractos/Arboles/Tries.md",
     "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 1m48s].png",
     "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 0m53s].png",
     "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 0m20s].png",
@@ -170,7 +173,6 @@
     "img/IMG_572A7AEE8304-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
     "img/IMG_AB92CCB8C623-1.jpeg",
-    "img/IMG_26AD66CE8374-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles B",
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
@@ -200,7 +202,6 @@
     "Python/Tipos de datos abstractos/Arboles/Arboles cardinales",
     "Python/Arboles binarios/Untitled.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
-    "Python/Tipos de datos abstractos/Arboles",
-    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md"
+    "Python/Tipos de datos abstractos/Arboles"
   ]
 }

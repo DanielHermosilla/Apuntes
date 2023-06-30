@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Jensen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8b39dc1691d2ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Markov.md",
+                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Jensen.md"
+                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md"
               }
             }
           }
@@ -166,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9239f9baac431904",
+  "active": "0500663b42f9dbb9",
   "lastOpenFiles": [
-    "Probabilidades/Desigualdades/Cota de la Unión.md",
     "Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+    "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
+    "Probabilidades/Desigualdades/Cota de la Unión.md",
     "Probabilidades/Desigualdades/Cota de Chernoff.md",
     "Probabilidades/Ley de la Esperanza Total.md",
     "Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
@@ -194,7 +183,6 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
-    "Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "img/Pasted image 20230615223744.png",
     "Probabilidades/Resumenes",
     "Economía/Elección social",
