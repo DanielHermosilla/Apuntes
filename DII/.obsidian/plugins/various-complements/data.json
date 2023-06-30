@@ -71,8 +71,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 22,
-          "lastUpdated": 1688130056845
+          "count": 23,
+          "lastUpdated": 1688132624800
         }
       }
     },
@@ -311,8 +311,8 @@
     "\\mathbb{P}": {
       "\\mathbb{P}": {
         "currentFile": {
-          "count": 37,
-          "lastUpdated": 1688129843784
+          "count": 38,
+          "lastUpdated": 1688131381870
         }
       }
     },
@@ -505,6 +505,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1688129867528
+        }
+      }
+    },
+    "e^{-sa}M_X": {
+      "e^{-sa}M_X": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688131392502
+        }
+      }
+    },
+    "Evento": {
+      "Evento": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688132238119
         }
       }
     }
