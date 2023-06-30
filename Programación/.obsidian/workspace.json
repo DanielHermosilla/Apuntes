@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algoritmos/Busqueda/Busqueda binaria.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d668d531afb32bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Algoritmos/Busqueda/Busqueda binaria.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Algoritmos/Busqueda/Busqueda binaria.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Algoritmos/Busqueda/Busqueda binaria.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md"
               }
             }
           }
@@ -154,11 +167,13 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "bae43bdaa08dc64f",
+  "active": "d668d531afb32bd5",
   "lastOpenFiles": [
+    "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+    "Python/Algoritmos/Busqueda/Busqueda binaria.md",
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
-    "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
     "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
     "recorridoarboles.jpg",
     "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
@@ -183,10 +198,8 @@
     "Python/Tipos de datos abstractos/Arboles/Rotación.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles ordinales.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles cardinales.md",
-    "Python/Algoritmos/Busqueda/Busqueda binaria.md",
     "Python/Algoritmos/Árboles/Árbol AVL.md",
     "Python/Algoritmos/Árboles",
-    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
     "Python/Algoritmos/Ordenamiento/Merge Sort.md",
     "Python/Algoritmos/Ordenamiento/Counting sort.md",
     "Python/Algoritmos/Ordenamiento/Bubble sort.md",
