@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md",
+                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md",
+                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md",
+                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md"
+                "file": "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md"
               }
             }
           }
@@ -156,10 +156,15 @@
   },
   "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
-    "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+    "SoftwareDude - Skip List Explained Advanced Data Structure What is Skip List Data Structure Coding Interview [ol-FaNLXlR0 - 871x490 - 2m22s].png",
     "Python/Tipos de datos abstractos/Arboles/Tries.md",
-    "IMG_6529F8187734-1.jpeg",
-    "IMG_FC74D850E175-1.jpeg",
+    "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
+    "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 1m48s].png",
+    "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 0m53s].png",
+    "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 0m20s].png",
+    "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+    "img/IMG_6529F8187734-1.jpeg",
+    "img/IMG_FC74D850E175-1.jpeg",
     "img/IMG_C223C960A175-1.jpeg",
     "img/IMG_CEDBA8CF83B8-1.jpeg",
     "img/IMG_572A7AEE8304-1.jpeg",
@@ -169,10 +174,7 @@
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles B",
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
-    "img/IMG_0D5CCE7D3FA4-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad",
-    "img/IMG_90D68721DFA0-1.jpeg",
-    "img/IMG_E36ADB5A5919-1.jpeg",
     "Python/Algoritmos/Ordenamiento/Heap sort.md",
     "Python/Tipos de datos abstractos/Queues.md",
     "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
@@ -199,8 +201,6 @@
     "Python/Arboles binarios/Untitled.md",
     "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
     "Python/Tipos de datos abstractos/Arboles",
-    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md",
-    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
-    "Python/Algoritmos/Métodos matemáticos/El teorema Maestro.md"
+    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Memorización.md"
   ]
 }
