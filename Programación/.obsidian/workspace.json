@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
-    "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
     "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
     "recorridoarboles.jpg",
     "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
