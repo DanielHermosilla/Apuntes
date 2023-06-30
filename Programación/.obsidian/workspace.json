@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md"
+                "file": "Python/Tipos de datos abstractos/Arboles/Tries.md"
               }
             }
           }
@@ -156,13 +156,14 @@
   },
   "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
+    "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+    "Python/Tipos de datos abstractos/Arboles/Tries.md",
     "IMG_6529F8187734-1.jpeg",
     "IMG_FC74D850E175-1.jpeg",
     "img/IMG_C223C960A175-1.jpeg",
     "img/IMG_CEDBA8CF83B8-1.jpeg",
     "img/IMG_572A7AEE8304-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
-    "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
     "img/IMG_AB92CCB8C623-1.jpeg",
     "img/IMG_26AD66CE8374-1.jpeg",
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
@@ -172,7 +173,6 @@
     "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad",
     "img/IMG_90D68721DFA0-1.jpeg",
     "img/IMG_E36ADB5A5919-1.jpeg",
-    "img/IMG_4A91DE1360BC-1.jpeg",
     "Python/Algoritmos/Ordenamiento/Heap sort.md",
     "Python/Tipos de datos abstractos/Queues.md",
     "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
