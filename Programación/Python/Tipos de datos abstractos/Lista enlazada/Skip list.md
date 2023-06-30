@@ -3,3 +3,4 @@ Nace de la necesidad de buscar dentro de [[Listas enlazadas|listas enlazadas]] o
 
 ![[SoftwareDude - Skip List Explained Advanced Data Structure What is Skip List Data Structure Coding Interview [ol-FaNLXlR0 - 871x490 - 2m22s].png|center]]
 
+Dentro de las express lanes se pueden añadir muchas mas líneas por arriba, dependiendo del algoritmo que se quiera lograr.

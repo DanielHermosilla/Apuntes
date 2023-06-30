@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
+                "file": "Probabilidades/Desigualdades/Desigualdad de Markov.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
+                "file": "Probabilidades/Desigualdades/Desigualdad de Markov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md",
+                "file": "Probabilidades/Desigualdades/Desigualdad de Markov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Resumenes/Resumen Control 3.md"
+                "file": "Probabilidades/Desigualdades/Desigualdad de Markov.md"
               }
             }
           }
@@ -169,10 +169,12 @@
   },
   "active": "d8b39dc1691d2ac6",
   "lastOpenFiles": [
+    "Probabilidades/Resumenes/Resumen Control 3.md",
+    "Probabilidades/Desigualdades/Desigualdad de Markov.md",
+    "Probabilidades/Desigualdades",
     "Probabilidades/Resumenes/Resumen Caso 1.md",
     "Probabilidades/Función Generadora de Momento.md",
     "Probabilidades/Función Generadora de Momento de un Vector.md",
-    "Probabilidades/Resumenes/Resumen Control 3.md",
     "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
@@ -194,8 +196,7 @@
     "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad Conjunta.md",
     "Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "Probabilidades/Probabilidad conjunta/Convolución.md",
-    "Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF conjunto.md",
-    "Pasted image 20230615223744.png",
+    "img/Pasted image 20230615223744.png",
     "Probabilidades/Resumenes",
     "Economía/Elección social",
     "img/Pasted image 20230605092327.png",
@@ -214,7 +215,6 @@
     "img/Oferta.png",
     "Economía/Competencia perfecta",
     "Untitled.canvas",
-    "img/Captura de pantalla 2023-05-22 a la(s) 08.48.00.png",
-    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua"
+    "img/Captura de pantalla 2023-05-22 a la(s) 08.48.00.png"
   ]
 }
