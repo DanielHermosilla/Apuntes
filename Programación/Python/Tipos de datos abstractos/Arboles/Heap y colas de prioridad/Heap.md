@@ -92,3 +92,4 @@ Nuevamente se hace un intercambio con el hijo mayor, hasta llegar a la raíz.
 Claramente $40$ era el mayor de los hijos, entonces se efectua el intercambio. Ahora, comparando con el elemento intercambiado, nuevamente se hace el intercambio. 
 
 En este caso, el algoritmo se demoró $O(n)$ ya que pasó por todos los elementos. Notemos que esto es más eficiente que haber hecho el árbol desde cero, pues hubiera tomado tiempo $O(nlog(n))$.  Este concepto da inicio a lo que son las [[Colas de prioridad|colas de prioridad]]. 
+
