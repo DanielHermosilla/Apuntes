@@ -57,6 +57,7 @@ Cx
 Cf
 CB
 Cinem
+Centro
 de
 define
 decir
@@ -193,6 +194,11 @@ dev
 dictada
 definirlo
 demostrar
+deducir
+decisi
+distinguir
+descrita
+dicho
 fuerza
 forma
 fijar
@@ -556,6 +562,11 @@ pGZ
 pa
 pk
 ponderaci
+puntuales
+primera
+ponderada
+ponderado
+posiciones
 unidad
 una
 uno
@@ -750,6 +761,8 @@ rY
 rUg
 re
 reescribir
+reordenando
+relativa
 Por
 Puede
 Producto
@@ -879,6 +892,7 @@ lx
 lhL
 lhHD
 lv
+llamar
 tanto
 tratar
 tender
@@ -1098,6 +1112,7 @@ sgY
 sg
 sov
 skf
+simplificar
 como
 cuerpos
 comprimirla
@@ -1307,6 +1322,13 @@ cm
 cb
 cD
 cG
+compuestos
+cuales
+completamente
+contrario
+calculando
+compuesta
+cancelan
 Notemos
 Nos
 Newton
@@ -1551,6 +1573,10 @@ epH
 eN
 eC
 epv
+estudia
+enfrentar
+externas
+enormemente
 modificar
 masa
 mira
@@ -1677,6 +1703,7 @@ mO
 mYqMe
 mTu
 masas
+muchas
 va
 volumen
 vamente
@@ -1747,6 +1774,7 @@ vI
 vPPx
 vm
 vN
+varias
 An
 Al
 Ampere
@@ -1792,6 +1820,8 @@ Ae
 AY
 Aa
 Ay
+Antes
+Acci
 Viene
 Valor
 Voltaje
@@ -1835,6 +1865,7 @@ VV
 VVp
 VK
 Vru
+Vale
 generalizaci
 gido
 graduada
@@ -1894,6 +1925,11 @@ giran
 gk
 gOA
 giu
+globales
+gracias
+garantiza
+grandes
+global
 introduce
 igual
 independiente
@@ -2010,6 +2046,8 @@ ips
 iD
 it
 internas
+inter
+interacciones
 no
 neo
 ngulo
@@ -2318,6 +2356,7 @@ SC
 So
 Sd
 Sh
+Sistemas
 Donde
 Diferencia
 Dispositivo
@@ -2777,6 +2816,7 @@ MC
 Mw
 Mh
 Momentum
+Masa
 Un
 Una
 UiT
@@ -2942,6 +2982,7 @@ RR
 RfO
 Rrw
 RUU
+Reacci
 zado
 zoom
 zE
