@@ -534,4 +534,5 @@ En este caso, el momento angular se define de forma similar al momento angular t
 $$\vec{l_{O_i}}=m_i\vec{r_i}\times\vec{v_i}$$ 
 Donde también se cumple que: 
 
-$$\frac{d\vec{l_{O_i}}}{dt}=\vec{r_i}\times\vec{F_{i}^{neto}}=
+$$\frac{d\vec{l_{O_i}}}{dt}=\vec{r_i}\times\vec{F_{i}^{neto}}=\vec{\tau_{O_i}^{neto}}$$ 
+
