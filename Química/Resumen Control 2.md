@@ -258,4 +258,11 @@ $$\alpha=\frac{\text{Cantidad de sustancia disociada}}{\text{Cantidad de sustanc
 Donde en acidos y bases fuertes, $\alpha\approx 1$, lo que hace sentido, pues normalmente las sustancias se disocian completamente. 
 
 
+## Reacciones de Neutralización 
+
+Son aquellas reacciones entre un ácido y una base dando como resultado sal y agua. 
+
+$$\text{Ácido}\;1 + \text{Base}\;2\leftrightharpoons^{H_2O}\text{Base conjugada}\;1+\text{Ácido conjugado}\;2+H_2O$$ 
+
+Normalmente para poder saber el comportamiento de las concentraciones se ocupa la tabla de ácidos y bases clasificados según su fortaleza. 
 
