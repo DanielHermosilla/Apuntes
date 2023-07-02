@@ -487,3 +487,21 @@ $$\begin{align}
 \sum^{N}_{i=1}m_i\dot{\vec{\rho_i}}&=0\\\\
 \sum^{N}_{i=1}m_i\ddot{\vec{\rho_i}}&=0
 \end{align}$$ 
+## Energía mecánica de un sistema 
+
+Para los sistemas de varias partículas hay que hacer una **grande** distinción entre lo que es la energía cinética y la potencial. La energía cinética **no** se puede calcular a través del centro de masa, no así la energía potencial- 
+
+### Energía cinética 
+
+La energía cinética total de un sistema de partículas es simplemente la suma de la energía cinética de las partículas individuales: 
+
+$$K=\sum^{N}_{i=1}\frac{1}{2}m_i\cdot\vec{v_i}\cdot\vec{v_i}$$
+
+
+Ahora, si se quisiera calcular a partir de la velocidad relativa al centro de masa, es decir, $\dot{\vec{\rho_i}}=\vec{v_i}-\vec{V_{CM}}$, la energía cinética llegaría a ser la siguiente: 
+
+$$K=\frac{1}{2}MV^{2}_{CM}+\sum^{N}_{i=1}\frac{1}{2}m_i\vert\dot{\vec{\rho_i}}\vert^2$$ 
+Es decir, como dicho al inicio del capítulo, se tiene que aplicar un arreglo en la energía cinética. Esto es lo mismo a tener: 
+
+$$K=K_{CM}+K_{REL}$$ 
+

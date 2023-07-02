@@ -55,91 +55,11 @@
         }
       }
     },
-    "energía potencial": {
-      "energía potencial": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1684420345371
-        }
-      }
-    },
-    "Momentum Angular": {
-      "Momentum Angular": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1684852204822
-        }
-      }
-    },
-    "forma": {
-      "forma": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684855034553
-        }
-      }
-    },
-    "Coordenadas cilíndricas": {
-      "Coordenadas cilíndricas": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685024261725
-        }
-      }
-    },
-    "\\frac{GM}{h^2}": {
-      "\\frac{GM}{h^2}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685025491467
-        }
-      }
-    },
-    "Cinemática": {
-      "Cinemática": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685027537474
-        }
-      }
-    },
-    "\\frac{h}{2}": {
-      "\\frac{h}{2}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685456932520
-        }
-      }
-    },
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
           "count": 2,
           "lastUpdated": 1686450291305
-        }
-      }
-    },
-    "\\end{align}": {
-      "\\end{align}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685457084998
-        }
-      }
-    },
-    "\\frac{1}{2}m": {
-      "\\frac{1}{2}m": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685459033039
-        }
-      }
-    },
-    "Pozo de potencial": {
-      "Pozo de potencial": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685459476803
         }
       }
     },
@@ -268,6 +188,22 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1686668877871
+        }
+      }
+    },
+    "\\vec{v_i}-\\vec{V_{CM}}": {
+      "\\vec{v_i}-\\vec{V_{CM}}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1688255302400
+        }
+      }
+    },
+    "\\vec{V_{CM}}&": {
+      "\\vec{V_{CM}}&": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688255307609
         }
       }
     }
