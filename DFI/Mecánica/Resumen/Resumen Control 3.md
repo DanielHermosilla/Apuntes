@@ -536,3 +536,17 @@ Donde también se cumple que:
 
 $$\frac{d\vec{l_{O_i}}}{dt}=\vec{r_i}\times\vec{F_{i}^{neto}}=\vec{\tau_{O_i}^{neto}}$$ 
 
+Por lo tanto, se define el momento angular del sistema de partículas con respecto al origen simplemente como la suma de momentos angulares de todas las partículas que componen el sistema: 
+
+$$\vec{L_O}=\sum^{N}_{i=1}\vec{l_{O_i}}=\sum^{N}_{i=1}m_i\vec{r_i}\times\vec{v_i}$$ 
+De hecho, nuevamente, si notamos que las fuerzas internas se cancelan entre sí, es posible llegar a lo siguiente: 
+
+$$\frac{d\vec{L_O}}{dt}=\vec{\tau_{O}^{ext}}$$
+
+Por ende, lo importante de acá es concluir que **el momento angular es afectado únicamente por el torque de las fuerzas externas**. 
+
+### Momento Angular respecto a otros puntos
+
+Análogo a la demostración anterior, es importante notar que el momento angular respecto a un punto $Q$ cualquiera se puede definir de la forma: 
+
+$$\vec{L_Q}=\sum^{N}_{i=1}m_i(\vec{r_i}-\vec{r_Q})\times\vec{v_i}$$ 
