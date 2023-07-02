@@ -505,4 +505,8 @@ Es decir, como dicho al inicio del capítulo, se tiene que aplicar un arreglo en
 
 $$K=K_{CM}+K_{REL}$$ 
 
-Donde $K_{REL}$ es la energía cinética de las partículas en su movimiento relativo al centro de masa. Se podría interpretar que la energía cinética considera a la energía del centro de masa como el movimiento *de un todo* y el de las partícula
+Donde $K_{REL}$ es la energía cinética de las partículas en su movimiento relativo al centro de masa. Se podría interpretar que la energía cinética considera a la energía del centro de masa como el movimiento *de un todo* y el de las partículas como el movimiento interno. 
+
+### Conservación de energía 
+
+
