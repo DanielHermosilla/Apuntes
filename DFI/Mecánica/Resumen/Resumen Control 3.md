@@ -509,4 +509,18 @@ Donde $K_{REL}$ es la energía cinética de las partículas en su movimiento rel
 
 ### Conservación de energía 
 
+Sacando la conservación de energía de la misma forma que se hizo para demostrar la conservación de energía en una partícula, se llega a lo siguiente para un sistema de dos partículas: 
 
+$$\begin{align}
+\vec{F_{1}^{ext}}\cdot d\vec{r_1}+\vec{F_{12}}\cdot d\vec{r_1}&=dK_1\\\\
+\vec{F_{2}^{ext}}\cdot d\vec{r_2}+\vec{F_{21}}\cdot d\vec{r_2}&=dK_2
+\end{align}$$ 
+Si se suman ambos sistemas, se ocupa la propiedad que $\vec{F_{12}}=\vec{F_{21}}$ y además se considerando los trabajos de las partículas por sí solas, se llega a lo siguiente: 
+
+$$\Delta K=\sum W^{F_{ext}}+\sum W^{F_{int}}$$ 
+De tal forma, considerando la definición de energía potencial, la conservación de energía se define bajo la siguiente ecuación: 
+
+$$\Delta\left(K+\sum V^{int} + \sum V^{ext}\right)=0$$ 
+Y ante la presencia de fuerzas no conservativas, simplemente se definiría como: 
+
+$$\Delta\left(K+\sum V^{int} + \sum V^{ext}\right)=W^{F_{nocon}}$$ 
