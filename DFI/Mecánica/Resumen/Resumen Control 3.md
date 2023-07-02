@@ -524,3 +524,14 @@ $$\Delta\left(K+\sum V^{int} + \sum V^{ext}\right)=0$$
 Y ante la presencia de fuerzas no conservativas, simplemente se definiría como: 
 
 $$\Delta\left(K+\sum V^{int} + \sum V^{ext}\right)=W^{F_{nocon}}$$ 
+
+## Momento Angular del Sistema 
+
+### Momento Angular respecto al Origen 
+
+En este caso, el momento angular se define de forma similar al momento angular tradicional, vale decir, el momento angular de cada partícula se define como: 
+
+$$\vec{l_{O_i}}=m_i\vec{r_i}\times\vec{v_i}$$ 
+Donde también se cumple que: 
+
+$$\frac{d\vec{l_{O_i}}}{dt}=\vec{r_i}\times\vec{F_{i}^{neto}}=
