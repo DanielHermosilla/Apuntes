@@ -266,3 +266,22 @@ $$\text{Ácido}\;1 + \text{Base}\;2\leftrightharpoons^{H_2O}\text{Base conjugada
 
 Normalmente para poder saber el comportamiento de las concentraciones se ocupa la tabla de ácidos y bases clasificados según su fortaleza. 
 
+
+![[Pasted image 20230702132551.png|center|300]]
+
+
+Normalmente esta reacciones son conocidas también como hidrólisis de sales, vale decir, es la reacción con agua de una sal, que procede a disociarse. 
+
+Una sal en presencia de agua se disocia completamente en un anión y un catión. Normalmente la hidrólisis ocurre cuando la **disolución no es neutra**. 
+
+Además, las sales que se formar a partir de bases fuertes y ácidos fuertes por lo general no hidrolizan. 
+
+Por ejemplo, la siguiente reacción no formaría hidrólisis: 
+
+$$NaNO_3\to Na^- + NO_{3}^{-}$$ 
+Inicialmente $NaNO_3$ al reaccionar con agua se descompone en los iones que lo forman, dado que tiene un enlace metálico.  Ahora, si las hacemos reaccionar con agua no habría hidrólisis: 
+
+$$\begin{align}
+Na^- + H_2O&\leftarrow NaOH+H^-\\\\
+NO_{3}^{-}+H_2O&\leftarrow HNO_3 + OH^-
+\end{align}$$ 
