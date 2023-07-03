@@ -286,3 +286,9 @@ Na^- + H_2O&\leftarrow NaOH+H^-\\\\
 NO_{3}^{-}+H_2O&\leftarrow HNO_3 + OH^-
 \end{align}$$ 
 
+## Disoluciones reguladoras 
+
+Soluciones capaces de mantener su pH a pesar de la adición de cantidades moderadas de un ácido o una base. Esto lo consiguen al estar compuesto por un ácido débil con su base conjugada. Cada una tiene su pH óptimo a regular. Se dividen en dos grupos: 
+
+- Disolución amortiguadora de **ácido débil** y la sal de su base conjugada. 
+- Disolución amortiguadora de **base débil** y la sal de su ácido conjugado. 
