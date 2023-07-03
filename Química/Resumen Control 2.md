@@ -296,3 +296,6 @@ Soluciones capaces de mantener su pH a pesar de la adición de cantidades modera
 Se guía por la ecuación de Henderson y Hasselbach: 
 
 $$pH = pKa + log(\frac{[\text{sal}]}{[\text{ácido}]})$$ 
+## Solubilidad 
+
+Son aquellas soluciones donde dan como resultado un precipitado. Se define la constante del producto de solubilidad ($Kps$) como la constante de equilibrio establecido entre el soluto sólido y sus iones en una solución saturada.
