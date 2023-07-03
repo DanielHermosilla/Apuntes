@@ -50,3 +50,12 @@ def Dijkstra(V,E,d,s):
 	return D
 ```
 
+## Algoritmo de Floyd 
+
+Para aplicar este algoritmo, los nodos se numeran arbitrariamente $1,2,\dots,n$. El algoritmo va a ir construyendo una matriz $D$ tal que al final, $D[i,j]$ va a ser el largo del camino más corto que va desde el nodo $i$ hasta el nodo $j$. 
+
+Es decir, como input se recibe una matriz "$d$",  $n\times n$, donde la posición $i,j$ es el largo del arco $(i,j)$ o $+\infty$ si no hay arco. 
+
+Como output, se tiene la matriz de los caminos. 
+
+El invariante es, al comenzar la *k-esima* iteración, con $k=1,2,3,\dots,n$. $D[i,j]$ es el largo más corto desde $i\to j$ que pasa solo por los puntos intermedios de numeración $<K$, en otras palabras, que no pase por puntos intermedios.  
