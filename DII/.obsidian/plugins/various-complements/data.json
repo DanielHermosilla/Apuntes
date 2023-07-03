@@ -71,24 +71,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 24,
-          "lastUpdated": 1688132914474
-        }
-      }
-    },
-    "Distribución Normal": {
-      "Distribución Normal": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1685106481156
-        }
-      }
-    },
-    "Mercado": {
-      "Mercado": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1685376514355
+          "count": 25,
+          "lastUpdated": 1688387780264
         }
       }
     },
@@ -100,22 +84,6 @@
         }
       }
     },
-    "Linealidad de la esperanza": {
-      "Linealidad de la esperanza": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685105175000
-        }
-      }
-    },
-    "\\text{Cov}": {
-      "\\text{Cov}": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1685712719883
-        }
-      }
-    },
     "\\sum_{i": {
       "\\sum_{i": {
         "currentFile": {
@@ -124,99 +92,11 @@
         }
       }
     },
-    "PDF marginal": {
-      "PDF marginal": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685107471866
-        }
-      }
-    },
-    "\\int_{0}^{\\infty}\\int_{1}^{2}x\\cdot": {
-      "\\int_{0}^{\\infty}\\int_{1}^{2}x\\cdot": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685107481854
-        }
-      }
-    },
-    "\\rho_{XY}": {
-      "\\rho_{XY}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685108956984
-        }
-      }
-    },
-    "\\frac{\\text{Cov}": {
-      "\\frac{\\text{Cov}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685108961672
-        }
-      }
-    },
     "Variable aleatoria discreta": {
       "Variable aleatoria discreta": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1685969618727
-        }
-      }
-    },
-    "Precio de equilibrio": {
-      "Precio de equilibrio": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685377601208
-        }
-      }
-    },
-    "Salarios": {
-      "Salarios": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685377685536
-        }
-      }
-    },
-    "Subsidio": {
-      "Subsidio": {
-        "internalLink": {
           "count": 3,
-          "lastUpdated": 1685380345845
-        }
-      }
-    },
-    "Negociación": {
-      "Negociación": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685380325587
-        }
-      }
-    },
-    "Impuestos": {
-      "Impuestos": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685380328422
-        }
-      }
-    },
-    "J_{g^{-1}}\\vert}": {
-      "J_{g^{-1}}\\vert}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685712444972
-        }
-      }
-    },
-    "Covarianza": {
-      "Covarianza": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1685712872725
+          "lastUpdated": 1688388032985
         }
       }
     },
@@ -247,8 +127,8 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 28,
-          "lastUpdated": 1687488953504
+          "count": 30,
+          "lastUpdated": 1688388060934
         }
       }
     },
@@ -521,6 +401,46 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1688132238119
+        }
+      }
+    },
+    "Continuidad": {
+      "Continuidad": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688387836994
+        }
+      }
+    },
+    "Distribución Exponencial": {
+      "Distribución Exponencial": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688387921815
+        }
+      }
+    },
+    "\\begin{cases}1-\\left": {
+      "\\begin{cases}1-\\left": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688387934315
+        }
+      }
+    },
+    "\\lim_{n\\to": {
+      "\\lim_{n\\to": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688387945118
+        }
+      }
+    },
+    "\\lim_{n\\to\\infty}F_{X_n}": {
+      "\\lim_{n\\to\\infty}F_{X_n}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688387963506
         }
       }
     }

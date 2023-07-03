@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md"
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md"
               }
             }
           }
@@ -154,10 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0500663b42f9dbb9",
+  "active": "9239f9baac431904",
   "lastOpenFiles": [
-    "Probabilidades/Desigualdades/Desigualdad de Jensen.md",
     "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
+    "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+    "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias",
+    "Probabilidades/Teorema límites",
+    "Probabilidades/Ley de los grandes números",
+    "Probabilidades/Desigualdades/Desigualdad de Jensen.md",
     "Probabilidades/Desigualdades/Cota de la Unión.md",
     "Probabilidades/Desigualdades/Cota de Chernoff.md",
     "Probabilidades/Ley de la Esperanza Total.md",
@@ -182,7 +187,6 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
-    "Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
     "img/Pasted image 20230615223744.png",
     "Probabilidades/Resumenes",
     "Economía/Elección social",
@@ -195,12 +199,9 @@
     "img/FijacionDePrecios.png",
     "img/Pasted image 20230529122506.png",
     "Economía/Competencia perfecta/Externalidades",
-    "Probabilidades/Probabilidad conjunta/Probabilidad discreta",
-    "Economía/Competencia perfecta/Factores que afectan el equilibrio",
     "img/Firmas tomadoras de precios.png",
     "img/PrecioEquilibrio.png",
     "img/Oferta.png",
-    "Economía/Competencia perfecta",
     "Untitled.canvas",
     "img/Captura de pantalla 2023-05-22 a la(s) 08.48.00.png"
   ]
