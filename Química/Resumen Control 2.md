@@ -285,3 +285,4 @@ $$\begin{align}
 Na^- + H_2O&\leftarrow NaOH+H^-\\\\
 NO_{3}^{-}+H_2O&\leftarrow HNO_3 + OH^-
 \end{align}$$ 
+
