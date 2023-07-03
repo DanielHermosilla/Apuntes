@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d668d531afb32bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
-                "mode": "source",
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203
+    "width": 203,
+    "collapsed": true
   },
   "right": {
     "id": "b095d907bf6625fc",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md"
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md"
               }
             }
           }
@@ -167,12 +155,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "d668d531afb32bd5",
+  "active": "bae43bdaa08dc64f",
   "lastOpenFiles": [
+    "Python/Tipos de datos abstractos/Grafos/Árbol conector mínimo/Algoritmo de Prim.md",
+    "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+    "Python/Tipos de datos abstractos/Grafos/Árbol conec.md",
+    "Python/Tipos de datos abstractos/Grafos/Árbol conector mínimo",
+    "Python/Tipos de datos abstractos/Grafos",
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
     "Python/Algoritmos/Ordenamiento/Quick Sort.md",
     "Python/Algoritmos/Busqueda/Busqueda binaria.md",
-    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
     "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
     "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
     "recorridoarboles.jpg",
@@ -209,10 +202,6 @@
     "Python/Tipos de datos abstractos",
     "Python/Arboles/Árboles ordinales/Untitled",
     "Python/Tipos de datos abstractos/Arboles/Árboles ordinales",
-    "Python/Tipos de datos abstractos/Arboles/Arboles binarios",
-    "Python/Tipos de datos abstractos/Arboles/Arboles cardinales",
-    "Python/Arboles binarios/Untitled.md",
-    "Python/Algoritmos/Diseño de Algoritmos Eficientes/Tabulación.md",
-    "Python/Tipos de datos abstractos/Arboles"
+    "Python/Tipos de datos abstractos/Arboles/Arboles binarios"
   ]
 }
