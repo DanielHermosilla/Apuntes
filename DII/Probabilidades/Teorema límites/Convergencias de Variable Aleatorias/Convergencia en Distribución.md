@@ -23,5 +23,15 @@ $$\begin{align}
 Sea la secuencia de [[Variable aleatoria discreta|vriable aleatorias discretas]] $X_1, X_2, X_3, \dots$ no-negativas definidas en los enteros, es decir, 
 
 $$\begin{align} 
-R_x\subset\lbrace 0,1,2,\dots\rbrace\\\\
-R_
+R_X\subset\lbrace 0,1,2,\dots\rbrace\\\\
+R_{X_n}\subset\lbrace 0,1,2,\dots\rbrace\end{align}$$ 
+Para todo $n\in\mathbb{N}$, entonces $X_n\to X$ si y solo si: 
+
+$$\lim_{n\to\infty}p_{x}=p_x(x)$$
+
+Para $x\in\lbrace 0,1,2,3,\dots\rbrace$. 
+
+## Teorema 2 
+
+Si $\lim_{n\to\infty}M_{X_n}(s)=M_X(s)$ para todo $s\in [-c,c]$, entonces $X_n\to X$ 
+

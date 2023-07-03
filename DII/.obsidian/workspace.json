@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md"
+                "file": "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md"
               }
             }
           }
@@ -157,16 +157,19 @@
   },
   "active": "9239f9baac431904",
   "lastOpenFiles": [
-    "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
+    "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad y Distribución.md",
+    "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
+    "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad.md",
     "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+    "Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
+    "Probabilidades/Desigualdades/Cota de Chernoff.md",
+    "Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
     "Probabilidades/Teorema límites/Convergencias de Variable Aleatorias",
     "Probabilidades/Teorema límites",
     "Probabilidades/Ley de los grandes números",
     "Probabilidades/Desigualdades/Desigualdad de Jensen.md",
     "Probabilidades/Desigualdades/Cota de la Unión.md",
-    "Probabilidades/Desigualdades/Cota de Chernoff.md",
     "Probabilidades/Ley de la Esperanza Total.md",
-    "Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
     "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
     "Probabilidades/Desigualdades/Desigualdad de Markov.md",
     "Probabilidades/Resumenes/Resumen Control 3.md",
@@ -184,9 +187,6 @@
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
     "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
-    "Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
     "img/Pasted image 20230615223744.png",
     "Probabilidades/Resumenes",
     "Economía/Elección social",

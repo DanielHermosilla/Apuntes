@@ -71,8 +71,8 @@
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 25,
-          "lastUpdated": 1688387780264
+          "count": 29,
+          "lastUpdated": 1688389106659
         }
       }
     },
@@ -439,8 +439,56 @@
     "\\lim_{n\\to\\infty}F_{X_n}": {
       "\\lim_{n\\to\\infty}F_{X_n}": {
         "currentFile": {
+          "count": 3,
+          "lastUpdated": 1688388169909
+        }
+      }
+    },
+    "Convergencia en Probabilidad": {
+      "Convergencia en Probabilidad": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1688387963506
+          "lastUpdated": 1688388697082
+        }
+      }
+    },
+    "Espacio muestral": {
+      "Espacio muestral": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1688388987855
+        }
+      }
+    },
+    "\\lim_{n\\to+\\infty}X_n": {
+      "\\lim_{n\\to+\\infty}X_n": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688389061962
+        }
+      }
+    },
+    "\\begin{cases}1&\\text{si}\\": {
+      "\\begin{cases}1&\\text{si}\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688389445425
+        }
+      }
+    },
+    "\\frac{1}{2}+\\frac{1}{n}\\\\\\\\0&\\text{si": {
+      "\\frac{1}{2}+\\frac{1}{n}\\\\\\\\0&\\text{si": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688389460678
+        }
+      }
+    },
+    "X_n\\to^{C": {
+      "X_n\\to^{C": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688389478872
         }
       }
     }
