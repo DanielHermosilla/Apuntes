@@ -292,3 +292,7 @@ Soluciones capaces de mantener su pH a pesar de la adición de cantidades modera
 
 - Disolución amortiguadora de **ácido débil** y la sal de su base conjugada. 
 - Disolución amortiguadora de **base débil** y la sal de su ácido conjugado. 
+
+Se guía por la ecuación de Henderson y Hasselbach: 
+
+$$pH = pKa + log(\frac{[\text{sal}]}{[\text{ácido}]})$$ 
