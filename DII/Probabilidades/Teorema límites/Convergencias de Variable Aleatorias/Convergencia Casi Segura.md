@@ -53,7 +53,7 @@ $$P\left(\lbrace\omega\in\Omega:\lim_{n\to+\infty}X_n(\omega)=X(\omega)\rbrace\r
 
 Se busca que $P(A)=1$ cuando $n\to\infty$. Poniendonos en casos: 
 
-- Para $\omega <\frac{1}{2}$, $X_n(\omega)=X(\omega)=1$. Por lo tanto, $\omega\in [0,\frac{1}{2})\subset A$. 
+- Para $\omega <\frac{1}{2}$, $X_n(\omega)=X(\omega)=1$. Por lo tanto, $\omega\in[0,\frac{1}{2})\subset A$. 
 - Para $\omega>\frac{1}{2}$, $X(\omega)=0$, por lo tanto, $\exists\; m\in\mathbb{N}:\;\forall n>m\; X_n(\omega)=0$. Luego, $(\frac{1}{2},1]\subset A$ 
 - Cuando $\omega = \frac{1}{2}$, $X(\omega)=0$, $X_n(\omega)=\frac{1}{2}$ . En este caso, $\frac{1}{2}\notin A$ 
 

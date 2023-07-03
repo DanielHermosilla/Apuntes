@@ -6,7 +6,7 @@ Para todo $x\in\mathbb{R}$ donde $F_X(x)$ es [[Continuidad|continua]]
 
 ### Ejemplo 
 
-Sea la secuencai de variables aleatorias $X_1, X_2, X_3, \dots$ tal que: 
+Sea la secuencia de variables aleatorias $X_1,X_2,X_3,\dots$ tal que: 
 
 $$F_{X_n}(x)=\begin{cases}1-\left(1-\frac{1}{n}\right)^{nx}&x>0\\\\
 0&x\leq 0\end{cases}$$ 
@@ -20,7 +20,7 @@ $$\begin{align}
 &=1-e^{-x}\end{align}$$ 
 ## Teorema 
 
-Sea la secuencia de [[Variable aleatoria discreta|vriable aleatorias discretas]] $X_1, X_2, X_3, \dots$ no-negativas definidas en los enteros, es decir, 
+Sea la secuencia de [[Variable aleatoria discreta|vriable aleatorias discretas]] $X_1,X_2,X_3,\dots$ no-negativas definidas en los enteros, es decir, 
 
 $$\begin{align} 
 R_X\subset\lbrace 0,1,2,\dots\rbrace\\\\
@@ -33,5 +33,5 @@ Para $x\in\lbrace 0,1,2,3,\dots\rbrace$.
 
 ## Teorema 2 
 
-Si $\lim_{n\to\infty}M_{X_n}(s)=M_X(s)$ para todo $s\in [-c,c]$, entonces $X_n\to X$ 
+Si $\lim_{n\to\infty}M_{X_n}(s)=M_X(s)$ para todo $s\in[-c,c]$, entonces $X_n\to X$ 
 

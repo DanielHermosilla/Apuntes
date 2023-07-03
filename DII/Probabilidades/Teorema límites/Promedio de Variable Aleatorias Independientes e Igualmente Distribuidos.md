@@ -3,7 +3,7 @@ Sea $X_1, X_2,\dots, X_n$ [[Variable aleatoria continua|variable aleatoria]] [[P
 
 # Ley Débil de los Grandes Números (WLLN)
 
-Sean $X_1, X_2, \dots, X_n$ [[Variable aleatoria continua|variables aleatorias]] i.i.d con [[Esperanza|esperanza]] finita, entonces 
+Sean $X_1,X_2,\dots,X_n$ [[Variable aleatoria continua|variables aleatorias]] i.i.d con [[Esperanza|esperanza]] finita, entonces 
 
 $$X_n\to^p\mu$$ 
 O, equivalentemente, 
