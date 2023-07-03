@@ -5,6 +5,10 @@ $$P\left(\lbrace\omega\in\Omega:\lim_{n\to+\infty}X_n(\omega)=X(\omega)\rbrace\r
 A veces se denota como: 
 
 $$P(\lim_{n\to+\infty}X_n=X)=1$$ 
+Ahora, si se tieme una convergencia casi segura, entonces se cumple lo siguiente: 
+
+Si $X_n\to^{C.S}X$ entonces $X_n\to^{p}X$, es decir, [[Convergencia en Probabilidad|converge en probabilidad]] 
+
 ### Ejemplo 
 
 Sea un lanzamiento de una moneda balanceada $\Omega=\lbrace C,S\rbrace$ y definimos la secuencia de [[Variable aleatoria continua|variable aleatorias]]: 
@@ -50,5 +54,7 @@ $$P\left(\lbrace\omega\in\Omega:\lim_{n\to+\infty}X_n(\omega)=X(\omega)\rbrace\r
 Se busca que $P(A)=1$ cuando $n\to\infty$. Poniendonos en casos: 
 
 - Para $\omega <\frac{1}{2}$, $X_n(\omega)=X(\omega)=1$. Por lo tanto, $\omega\in [0,\frac{1}{2})\subset A$. 
-- Para $\omega>\frac{1}{2}$, $X(\omega)=0$, por lo tanto, $\exists\; m\in\mathbb{N}:\;\forall n>m\; X_n(\omega)=0$. Luego, $(\frac{1}{2},]\subset A$ 
+- Para $\omega>\frac{1}{2}$, $X(\omega)=0$, por lo tanto, $\exists\; m\in\mathbb{N}:\;\forall n>m\; X_n(\omega)=0$. Luego, $(\frac{1}{2},1]\subset A$ 
 - Cuando $\omega = \frac{1}{2}$, $X(\omega)=0$, $X_n(\omega)=\frac{1}{2}$ . En este caso, $\frac{1}{2}\notin A$ 
+
+Por lo tanto, $A$ esta definido en $[0,1]\backslash\lbrace\frac{1}{2}\rbrace$, vale decir, $\Omega\backslash\lbrace\frac{1}{2}\rbrace$ 

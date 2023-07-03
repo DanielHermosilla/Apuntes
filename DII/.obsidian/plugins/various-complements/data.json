@@ -63,24 +63,24 @@
     "Esperanza": {
       "Esperanza": {
         "internalLink": {
-          "count": 12,
-          "lastUpdated": 1688130063009
+          "count": 15,
+          "lastUpdated": 1688390925350
         }
       }
     },
     "Variable aleatoria continua": {
       "Variable aleatoria continua": {
         "internalLink": {
-          "count": 29,
-          "lastUpdated": 1688389106659
+          "count": 32,
+          "lastUpdated": 1688390918650
         }
       }
     },
     "Independencia": {
       "Independencia": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1685973040614
+          "count": 4,
+          "lastUpdated": 1688390460890
         }
       }
     },
@@ -367,8 +367,8 @@
     "Varianza": {
       "Varianza": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1688129473287
+          "count": 2,
+          "lastUpdated": 1688390439775
         }
       }
     },
@@ -447,8 +447,8 @@
     "Convergencia en Probabilidad": {
       "Convergencia en Probabilidad": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1688388697082
+          "count": 2,
+          "lastUpdated": 1688390342417
         }
       }
     },
@@ -487,8 +487,24 @@
     "X_n\\to^{C": {
       "X_n\\to^{C": {
         "currentFile": {
+          "count": 2,
+          "lastUpdated": 1688390319512
+        }
+      }
+    },
+    "Convergencia Casi Segura": {
+      "Convergencia Casi Segura": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1688389478872
+          "lastUpdated": 1688390297968
+        }
+      }
+    },
+    "Distribución Normal": {
+      "Distribución Normal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688391024496
         }
       }
     }
