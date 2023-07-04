@@ -124,6 +124,9 @@ oy
 on
 ox
 oY
+origen
+output
+otras
 dos
 datos
 decir
@@ -227,6 +230,9 @@ depende
 desordenado
 demor
 descripci
+distancia
+dirigido
+dem
 predefinidos
 procesan
 partir
@@ -343,6 +349,10 @@ percibir
 primeros
 pregunta
 problem
+ptimos
+pasa
+puntos
+pase
 como
 complejo
 caso
@@ -508,6 +518,13 @@ cre
 cualquiera
 consecutivos
 concepto
+conoce
+cortos
+cambiando
+construyendo
+camino
+corto
+comenzar
 enteros
 en
 el
@@ -629,6 +646,8 @@ era
 efectua
 estos
 extrapolar
+extener
+extendi
 los
 lenguaje
 lograr
@@ -840,6 +859,9 @@ impuestas
 imponer
 insert
 imbalanceados
+iterar
+input
+intermedios
 bool
 booleanos
 backslash
@@ -944,6 +966,7 @@ Eom
 Eikqg
 EM
 Emro
+Encontrar
 se
 si
 siguientes
@@ -1233,6 +1256,10 @@ alusi
 agregando
 agregar
 adir
+aplicaciones
+arco
+alcanzables
+arbitrariamente
 jupyter
 jk
 jfv
@@ -1382,6 +1409,7 @@ trivialmente
 tomado
 tercera
 torno
+trata
 memoria
 matem
 multiplicaci
@@ -1492,6 +1520,9 @@ mucho
 mucha
 mite
 manda
+mantener
+minos
+matriz
 que
 quisiera
 quiere
@@ -1605,6 +1636,10 @@ nimo
 ndose
 ndo
 normalmente
+nima
+ndolos
+numeran
+numeraci
 un
 una
 utilizan
@@ -1772,6 +1807,8 @@ rjk
 ronda
 referencia
 reglas
+resuelve
+resolver
 Suma
 Se
 Si
@@ -1857,6 +1894,7 @@ FIL
 FZ
 Fl
 Fe
+Floyd
 vida
 varios
 vamos
@@ -1917,6 +1955,7 @@ vT
 vk
 verifica
 viole
+variantes
 Divisiones
 Del
 Dentro
@@ -1964,6 +2003,7 @@ Di
 Ddq
 DG
 Donde
+Dijkstra
 Las
 La
 Los
@@ -2102,6 +2142,7 @@ CA
 Caa
 CN
 Claramente
+Considerando
 halla
 hacer
 habr
@@ -2264,6 +2305,7 @@ gv
 grande
 grados
 grado
+grafo
 Un
 Uy
 UR
@@ -2397,6 +2439,7 @@ WJ
 Wo
 WRm
 Wz
+Waze
 Qh
 QG
 QM
