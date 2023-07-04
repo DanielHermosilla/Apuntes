@@ -11,8 +11,12 @@
             "id": "20820e1aa9b79fa2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidades/Probabilidad conjunta/Covarianza.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "31e3aff49c8866cd",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probabilidades/Probabilidad conjunta/Covarianza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probabilidades/Probabilidad conjunta/Covarianza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probabilidades/Probabilidad conjunta/Covarianza.md"
+              }
             }
           }
         ]
@@ -148,6 +157,9 @@
   },
   "active": "20820e1aa9b79fa2",
   "lastOpenFiles": [
+    "Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
+    "Probabilidades/Resumenes/Resumen Control 3.md",
+    "Probabilidades/Resumenes/Resumen Caso 1.md",
     "Probabilidades/Axiomas y propiedades/Teoría de probabilidades.md",
     "Probabilidades/Probabilidad condicional e independencia/Condicionando sobre un evento.md",
     "Probabilidades/Probabilidad conjunta/Función característica.md",
@@ -170,14 +182,11 @@
     "Probabilidades/Ley de los grandes números",
     "Probabilidades/Axiomas y propiedades/Ley de la Esperanza Total.md",
     "Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
-    "Probabilidades/Resumenes/Resumen Control 3.md",
     "Probabilidades/Desigualdades",
-    "Probabilidades/Resumenes/Resumen Caso 1.md",
     "Probabilidades/Función Generadora de Momento de un Vector.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
     "Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
-    "Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
     "img/Pasted image 20230615223744.png",
     "Probabilidades/Resumenes",
     "Economía/Elección social",

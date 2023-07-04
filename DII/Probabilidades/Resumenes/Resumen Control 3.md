@@ -390,4 +390,14 @@ $$f_\mathbf{X}(\mathbf{x})=\frac{1}{(2\pi)^{\frac{1}{2}}\sqrt{det(C)}}exp\left(-
 
 
 
+## Función característica 
 
+Hay algunas variables aleatorias cuyas funciones generadores de momento no existe para ningún intervalo real con largo positivo. Por ejemplo, se puede considerar la variable $X$ que tiene una distribución de Cauchy: 
+
+$$\begin{align}f_x(x)&=\frac{\frac{1}{\pi}}{1+x^2}\;\;\forall x\in\mathbb{R}\\\\
+M_X(s)&=\int_{-\infty}^{\infty}e^{sx}\frac{\frac{1}{\pi}}{1+x^2}dx= \infty\end{align}$$
+
+Si la función característica no existe, se define la **función característica**, definida como: 
+
+$$\phi_X(\omega)=E[e^{j\omega X}]$$ 
+Donde $j=\sqrt{-1}$  y $\omega$ es un número real. 
