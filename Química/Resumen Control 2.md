@@ -298,4 +298,27 @@ Se guía por la ecuación de Henderson y Hasselbach:
 $$pH = pKa + log(\frac{[\text{sal}]}{[\text{ácido}]})$$ 
 ## Solubilidad 
 
-Son aquellas soluciones donde dan como resultado un precipitado. Se define la constante del producto de solubilidad ($Kps$) como la constante de equilibrio establecido entre el soluto sólido y sus iones en una solución saturada.
+Son aquellas soluciones donde dan como resultado un precipitado. Se define la constante del producto de solubilidad ($Kps$) como la constante de equilibrio establecido entre el soluto sólido y sus iones en una solución saturada. Un ejemplo de una solución con solubilidad es aquella que cumple lo siguiente (normalmente tiene un sólido)
+
+$$Pb(NO_3)_2(ac) + 2Kl(ac)\to PbI_2(s)+KNO_3(ac)$$ 
+Bajo este ejemplo, la constante de solubilidad sería aquella entre **el soluto sólido y sus iones**. En el siguient ejemplo, sería: 
+
+$$\begin{align}
+CaSO_4(s)\leftrightharpoons& Ca^{2+}(aq)+SO_{4}^{2-}(aq)\\\\
+K_sp =& [Ca^{2+}][SO_{4}^{2-}]= 9.1\cdot 10^{-6}\end{align}$$ 
+
+
+# Celdas 
+
+## Celda voltaica 
+
+Ocurre en reacciones de redox espontáneas. Vale decir, se produce corriente a partir de dos compuestos. Siempre hay que hacer la relación de que en el ánodo se hace la oxidación y por ende, ahí es donde ocurre el flujo de electrones. Por el otro lado, el en cátodo ocurre la reducción, donde se reciben los electrones. Para calcular la energía producida, se ocupa la siguiente fórmula: 
+
+$$E^o_{cell}=E^{anodo}-E^{catodo}$$ 
+
+## Celda electrolítica 
+
+Aquí ocurre electrólisis, vale decir, el proceso inverso, donde ocurre redox no espontánea. El flujo de electrones también cambia, y se genera una acumulación de masa, dado el cambio. La fórmula para saber aquelo es la siguiente: 
+
+$$m_x(g)=\frac{PM_x}{n}\cdot\frac{Q}{F}$$ 
+Donde $Q$ es la carga eléctrica, también puede ser escrita como $Q=I\cdot t$ 
