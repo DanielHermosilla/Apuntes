@@ -127,8 +127,8 @@
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 31,
-          "lastUpdated": 1688480971498
+          "count": 32,
+          "lastUpdated": 1688487975463
         }
       }
     },
@@ -295,8 +295,8 @@
     "\\begin{align}Var": {
       "\\begin{align}Var": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1687450713861
+          "count": 2,
+          "lastUpdated": 1688487976842
         }
       }
     },
@@ -351,8 +351,8 @@
     "\\\\\\\\\\mathbb{E}": {
       "\\\\\\\\\\mathbb{E}": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1687485017308
+          "count": 2,
+          "lastUpdated": 1688487602139
         }
       }
     },
@@ -505,6 +505,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1688391024496
+        }
+      }
+    },
+    "1\\\\\\\\": {
+      "1\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688488007545
         }
       }
     }

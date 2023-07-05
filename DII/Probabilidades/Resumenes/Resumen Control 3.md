@@ -228,6 +228,28 @@ $$f_{ZW}(z,w)=f_{XY}(h_1(z,w),h_2(z,w))\cdot\vert J\vert$$
 Es decir, la PDF está definida por la **función inversa de cada *subfunción***. Por el otro lado, $J$ llegaría a ser el Jacobiano de la función inversa, definida como: 
 
 $$J=\begin{bmatrix}\frac{\partial h_1}{\partial z}&\frac{\partial h_1}{\partial w}\\\frac{\partial h_2}{\partial z}&\frac{\partial h_2}{\partial w}\end{bmatrix}=\frac{\partial h_1}{\partial z}\cdot\frac{\partial h_2}{\partial w}-\frac{\partial h_2}{\partial z}\cdot\frac{\partial h_1}{\partial w}$$ 
+#### Ejemplo 
+
+Sea $X$ e $Y$ dos funciones independientes con distribución normal estándar. También, se definen los siguientes vectores aleatorios: 
+
+$$\begin{cases}Z=2X-Y\\\\
+W=-X + Y\end{cases}$$ 
+Buscar $f_{ZW}(z,w)$. 
+
+Primero, nos definimos la función $g((X,Y),(X,Y))=(2X-Y),(Y-X)$. Además, resolviendo el sistema inverso, se obtiene lo siguiente para $h$: 
+
+$$\begin{cases}
+x=Z+W=h_1(z,w)\\\\ 
+y=Z+2W=h_2(z,w)\end{cases}$$ 
+Entonces, aplicando el teorema, $f_ZW(z,w)=f_{XY}(h_1(z,w),h_2(x,w))\vert J\vert$. Entonces, definiendo el Jacobiano: 
+
+$$J=\begin{bmatrix}\frac{\partial h_1}{\partial z}&\frac{\partial h_1}{\partial w}\\\frac{\partial h_2}{\partial z}&\frac{\partial h_2}{\partial w}\end{bmatrix}=\begin{bmatrix}1&1\\1&2\end{bmatrix}=1$$ 
+
+Por último, como $X$ e $Y$ son independientes, $f_{XY}=f_{X}(x)\cdot f_{Y}(y)$. Por conclusión: 
+
+$$\begin{align} 
+f_{ZW}(z,w)&=f_{XY}(z+w,z+2w)\cdot 1\\\\ 
+&=\frac{1}{2\pi}exp\left(-\frac{2z^2+5w^2+6zw}{2}\right)\end{align}$$ 
 ### Convolución 
 
 La convolución tiene varias aplicaciones en las matemáticas para combinar dos funciones. El [siguiente video](https://www.youtube.com/watch?v=KuXjwB4LzSA) podría ser muy útil para entender bien para qué se ocupa la convolución. En el caso de la probabilidad, se ocupa para la suma de variable aleatorias. Pero antes que nada, primero se define la convolución como: 

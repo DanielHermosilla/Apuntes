@@ -11,11 +11,14 @@
             "id": "a83c6df0ea08163d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
-                "mode": "source",
-                "source": false
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas",
+                "viewState": {
+                  "x": -17.494540515805248,
+                  "y": -168.2767753798724,
+                  "zoom": -0.5065278482437134
+                }
               }
             }
           },
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md"
+                "file": "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas"
               }
             }
           },
@@ -166,22 +169,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b19607c87a39be4",
+  "active": "a83c6df0ea08163d",
   "lastOpenFiles": [
+    "IMG_D76035D04222-1 1.jpeg",
+    "IMG_D76035D04222-1.jpeg",
+    "IMG_A9B1A6B99FAA-1.jpeg",
+    "IMG_76E394659C23-1 1.jpeg",
+    "IMG_76E394659C23-1.jpeg",
+    "IMG_D222240FE77B-1.jpeg",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Casos degenerados.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Principio de Linealización.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
+    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_17B3BF13D44B-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_B038558365C8-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_B07CEE22CAC8-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_234C005AC5D7-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/img/IMG_9A7E23A74930-1.jpeg",
-    "Ecuaciones Diferenciales Ordinarias/img/IMG_6E65B795690C-1.jpeg",
-    "Ecuaciones Diferenciales Ordinarias/img/IMG_82657D097700-1.jpeg",
-    "Ecuaciones Diferenciales Ordinarias/img/IMG_58CCD3AC1FA2-1.jpeg",
-    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Sistema no lineales.md",
     "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Módelo Lotka-Volterra.md",
-    "Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Plano de Fases.md",
-    "Ecuaciones Diferenciales Ordinarias/img/IMG_47A069221933-1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 3.md",
-    "Ecuaciones Diferenciales Ordinarias/img/planodefases.jpg",
     "Ecuaciones Diferenciales Ordinarias/Sistema no lineales",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
     "Ecuaciones Diferenciales Ordinarias/Consulta.md",
@@ -204,9 +211,6 @@
     "Cálculo en Varias Variables/Ejercicios Control 2.md",
     "Cálculo en Varias Variables/Pregunta 2.md",
     "Cálculo en Varias Variables/Diferenciabilidad/Diferenciabilidad.md",
-    "Ecuaciones Diferenciales Ordinarias/Forma de Jordan.md",
-    "Álgebra Lineal/Valores y vectores propios/multiplicidad geométrica.md",
-    "Ecuaciones Diferenciales Ordinarias/img/IMG_E48893366E9B-1 1.jpeg",
     "Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
     "Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones",
     "Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales",
