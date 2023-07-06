@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1dabb1b38c324d7b","x":-136,"y":-38,"width":324,"height":59,"type":"file","file":"Cálculo en Varias Variables/Diferenciabilidad/Diferenciabilidad.md"},
+		{"id":"99b93caed904872c","x":-386,"y":147,"width":250,"height":60,"type":"text","text":"Existen todas las [[Derivada direccional|derivadas direccionales]]. "},
+		{"id":"27183aa2017d612f","x":188,"y":-260,"width":250,"height":60,"type":"text","text":"F es [[Continuidad en varias variables|continua]] "},
+		{"id":"89f09dc4b7dd841a","x":188,"y":147,"width":250,"height":60,"type":"text","text":"Existen las [[Derivadas parciales|derivadas parciales]] y son [[Continuidad en varias variables|continuas]]"},
+		{"id":"4c08ffe595135436","x":-386,"y":-260,"width":250,"height":60,"type":"text","text":"Existen las [[Derivadas parciales|derivadas parciales]]"}
+	],
+	"edges":[
+		{"id":"9c41ab606e572121","fromNode":"1dabb1b38c324d7b","fromSide":"top","toNode":"27183aa2017d612f","toSide":"bottom","label":"Implicancia"},
+		{"id":"03fe2e4baeb4232b","fromNode":"89f09dc4b7dd841a","fromSide":"top","toNode":"1dabb1b38c324d7b","toSide":"right","label":"Implicancia"},
+		{"id":"6b6d51f2163f6f77","fromNode":"1dabb1b38c324d7b","fromSide":"bottom","toNode":"99b93caed904872c","toSide":"top","label":"Implicancia"},
+		{"id":"6a2ee1128a4f249e","fromNode":"1dabb1b38c324d7b","fromSide":"left","toNode":"4c08ffe595135436","toSide":"bottom","label":"Implicancia"}
+	]
+}

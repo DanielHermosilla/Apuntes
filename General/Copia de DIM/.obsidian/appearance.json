@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Slytherin",
+  "enabledCssSnippets": [
+    "centermenu",
+    "somethingsnippet"
+  ],
+  "baseFontSize": 13
+}

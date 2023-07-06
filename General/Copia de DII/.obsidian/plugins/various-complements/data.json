@@ -1,0 +1,520 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Esperanza": {
+      "Esperanza": {
+        "internalLink": {
+          "count": 15,
+          "lastUpdated": 1688390925350
+        }
+      }
+    },
+    "Variable aleatoria continua": {
+      "Variable aleatoria continua": {
+        "internalLink": {
+          "count": 32,
+          "lastUpdated": 1688390918650
+        }
+      }
+    },
+    "Independencia": {
+      "Independencia": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1688390460890
+        }
+      }
+    },
+    "\\sum_{i": {
+      "\\sum_{i": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1686921886931
+        }
+      }
+    },
+    "Variable aleatoria discreta": {
+      "Variable aleatoria discreta": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1688388032985
+        }
+      }
+    },
+    "}dy\\\\\\\\": {
+      "}dy\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685973531413
+        }
+      }
+    },
+    "\\frac{1}{3}\\\\\\\\": {
+      "\\frac{1}{3}\\\\\\\\": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1686316606368
+        }
+      }
+    },
+    "Distribución Uniforme": {
+      "Distribución Uniforme": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1686314742198
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 32,
+          "lastUpdated": 1688487975463
+        }
+      }
+    },
+    "\\end{align}": {
+      "\\end{align}": {
+        "currentFile": {
+          "count": 11,
+          "lastUpdated": 1687489224729
+        }
+      }
+    },
+    "\\mathbb{E}": {
+      "\\mathbb{E}": {
+        "currentFile": {
+          "count": 34,
+          "lastUpdated": 1687488212741
+        }
+      }
+    },
+    "e^{sX}": {
+      "e^{sX}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686315076303
+        }
+      }
+    },
+    "Derivada": {
+      "Derivada": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1686315265434
+        }
+      }
+    },
+    "}\\mathbb{E}": {
+      "}\\mathbb{E}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686315385374
+        }
+      }
+    },
+    "Función Generadora de Momento": {
+      "Función Generadora de Momento": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1686316804558
+        }
+      }
+    },
+    "Esperanza condicional": {
+      "Esperanza condicional": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1686578309141
+        }
+      }
+    },
+    "\\mathbb{P}": {
+      "\\mathbb{P}": {
+        "currentFile": {
+          "count": 38,
+          "lastUpdated": 1688131381870
+        }
+      }
+    },
+    "\\sum_{": {
+      "\\sum_{": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1686926730973
+        }
+      }
+    },
+    "R_X}\\mathbb{P}_{XY}": {
+      "R_X}\\mathbb{P}_{XY}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686883463859
+        }
+      }
+    },
+    "\\frac{\\mathbb{P}": {
+      "\\frac{\\mathbb{P}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1686884245410
+        }
+      }
+    },
+    "}{\\mathbb{P}": {
+      "}{\\mathbb{P}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1687449235957
+        }
+      }
+    },
+    "}\\\\\\\\": {
+      "}\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686883993745
+        }
+      }
+    },
+    "\\sum_{x_i\\in": {
+      "\\sum_{x_i\\in": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1686928951163
+        }
+      }
+    },
+    "\\sum_{i}\\mathbb{P}": {
+      "\\sum_{i}\\mathbb{P}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686885121778
+        }
+      }
+    },
+    "X\\vert": {
+      "X\\vert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686920983441
+        }
+      }
+    },
+    "\\sigma_{X}^2": {
+      "\\sigma_{X}^2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686921993026
+        }
+      }
+    },
+    "\\mathbb{E}\\left": {
+      "\\mathbb{E}\\left": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686929006514
+        }
+      }
+    },
+    "\\mathbb{R}^2\\to\\mathbb{R}": {
+      "\\mathbb{R}^2\\to\\mathbb{R}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686930141213
+        }
+      }
+    },
+    "dx\\\\\\\\\\mathbb{E}": {
+      "dx\\\\\\\\\\mathbb{E}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687450478703
+        }
+      }
+    },
+    "\\begin{align}Var": {
+      "\\begin{align}Var": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1688487976842
+        }
+      }
+    },
+    "\\int_{-\\infty}^{\\infty}g": {
+      "\\int_{-\\infty}^{\\infty}g": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1688481009969
+        }
+      }
+    },
+    "\\int_{-\\infty}^{\\infty}\\int_{-\\infty}^{\\infty}g": {
+      "\\int_{-\\infty}^{\\infty}\\int_{-\\infty}^{\\infty}g": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687456568010
+        }
+      }
+    },
+    "A\\in\\mathbb{R}^2": {
+      "A\\in\\mathbb{R}^2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687457708960
+        }
+      }
+    },
+    "\\textbf{X}": {
+      "\\textbf{X}": {
+        "currentFile": {
+          "count": 11,
+          "lastUpdated": 1687488785480
+        }
+      }
+    },
+    "X-\\mathbb{E}": {
+      "X-\\mathbb{E}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687482845587
+        }
+      }
+    },
+    "\\mathbf{R_X}": {
+      "\\mathbf{R_X}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687483011716
+        }
+      }
+    },
+    "\\\\\\\\\\mathbb{E}": {
+      "\\\\\\\\\\mathbb{E}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1688487602139
+        }
+      }
+    },
+    "a_n\\in\\mathbb{R}": {
+      "a_n\\in\\mathbb{R}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687485727499
+        }
+      }
+    },
+    "Varianza": {
+      "Varianza": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1688390439775
+        }
+      }
+    },
+    "}{b^2}\\\\\\\\": {
+      "}{b^2}\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688129781979
+        }
+      }
+    },
+    "\\leq\\frac{E": {
+      "\\leq\\frac{E": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688129867528
+        }
+      }
+    },
+    "e^{-sa}M_X": {
+      "e^{-sa}M_X": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688131392502
+        }
+      }
+    },
+    "Evento": {
+      "Evento": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688132238119
+        }
+      }
+    },
+    "Continuidad": {
+      "Continuidad": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688387836994
+        }
+      }
+    },
+    "Distribución Exponencial": {
+      "Distribución Exponencial": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688387921815
+        }
+      }
+    },
+    "\\begin{cases}1-\\left": {
+      "\\begin{cases}1-\\left": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688387934315
+        }
+      }
+    },
+    "\\lim_{n\\to": {
+      "\\lim_{n\\to": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688387945118
+        }
+      }
+    },
+    "\\lim_{n\\to\\infty}F_{X_n}": {
+      "\\lim_{n\\to\\infty}F_{X_n}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1688388169909
+        }
+      }
+    },
+    "Convergencia en Probabilidad": {
+      "Convergencia en Probabilidad": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1688390342417
+        }
+      }
+    },
+    "Espacio muestral": {
+      "Espacio muestral": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1688388987855
+        }
+      }
+    },
+    "\\lim_{n\\to+\\infty}X_n": {
+      "\\lim_{n\\to+\\infty}X_n": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688389061962
+        }
+      }
+    },
+    "\\begin{cases}1&\\text{si}\\": {
+      "\\begin{cases}1&\\text{si}\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688389445425
+        }
+      }
+    },
+    "\\frac{1}{2}+\\frac{1}{n}\\\\\\\\0&\\text{si": {
+      "\\frac{1}{2}+\\frac{1}{n}\\\\\\\\0&\\text{si": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688389460678
+        }
+      }
+    },
+    "X_n\\to^{C": {
+      "X_n\\to^{C": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1688390319512
+        }
+      }
+    },
+    "Convergencia Casi Segura": {
+      "Convergencia Casi Segura": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688390297968
+        }
+      }
+    },
+    "Distribución Normal": {
+      "Distribución Normal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1688391024496
+        }
+      }
+    },
+    "1\\\\\\\\": {
+      "1\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688488007545
+        }
+      }
+    }
+  }
+}

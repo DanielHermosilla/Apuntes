@@ -1,0 +1,291 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "acotada": {
+      "acotada": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668345916003
+        }
+      }
+    },
+    "Integrales impropias": {
+      "Integrales impropias": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1668348025222
+        }
+      }
+    },
+    "e^{-\\frac{x}{2}}": {
+      "e^{-\\frac{x}{2}}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668387879356
+        }
+      }
+    },
+    "cilíndro": {
+      "cilíndro": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668389910243
+        }
+      }
+    },
+    "\\int^{b}_{a}": {
+      "\\int^{b}_{a}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1668390950419
+        }
+      }
+    },
+    "\\equiv": {
+      "\\equiv": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668390930420
+        }
+      }
+    },
+    "Volumen de una función": {
+      "Volumen de una función": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1668390983198
+        }
+      }
+    },
+    "función continua": {
+      "función continua": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669942787398
+        }
+      }
+    },
+    "\\int^{\\infty}_{0}": {
+      "\\int^{\\infty}_{0}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668561236960
+        }
+      }
+    },
+    "-\\frac{1}{2}": {
+      "-\\frac{1}{2}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669837009464
+        }
+      }
+    },
+    "^{n+1}}{1": {
+      "^{n+1}}{1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669837021305
+        }
+      }
+    },
+    "\\frac{2}{3}": {
+      "\\frac{2}{3}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669837098563
+        }
+      }
+    },
+    "\\text{Si}\\enspace": {
+      "\\text{Si}\\enspace": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669840188503
+        }
+      }
+    },
+    "a_n\\enspace\\text{converge}": {
+      "a_n\\enspace\\text{converge}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669857481427
+        }
+      }
+    },
+    "\\lim_{n\\rightarrow\\infty}\\frac{a_n}{b_n}": {
+      "\\lim_{n\\rightarrow\\infty}\\frac{a_n}{b_n}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669857873276
+        }
+      }
+    },
+    "a_k\\enspace\\text{converge}": {
+      "a_k\\enspace\\text{converge}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669858034333
+        }
+      }
+    },
+    "\\lim_{n\\rightarrow\\infty}": {
+      "\\lim_{n\\rightarrow\\infty}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669861384371
+        }
+      }
+    },
+    "{a_n}": {
+      "{a_n}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669860670861
+        }
+      }
+    },
+    "-a_{2n-1}": {
+      "-a_{2n-1}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669861391805
+        }
+      }
+    },
+    "teorema de Cauchy": {
+      "teorema de Cauchy": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669862064672
+        }
+      }
+    },
+    "\\frac{1}{2}": {
+      "\\frac{1}{2}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669865086497
+        }
+      }
+    },
+    "Teorema de Cauchy": {
+      "Teorema de Cauchy": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669942593849
+        }
+      }
+    },
+    "integrabilidad": {
+      "integrabilidad": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669946142979
+        }
+      }
+    },
+    "\\sum^{\\infty}_{n": {
+      "\\sum^{\\infty}_{n": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670260284359
+        }
+      }
+    },
+    "\\frac{1}{1-x}": {
+      "\\frac{1}{1-x}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670260171236
+        }
+      }
+    },
+    "función": {
+      "función": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670371258299
+        }
+      }
+    },
+    "\\bar{x}\\in ": {
+      "\\bar{x}\\in ": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670371687799
+        }
+      }
+    },
+    "Función continua": {
+      "Función continua": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670371850954
+        }
+      }
+    },
+    "\\bar{x}": {
+      "\\bar{x}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670372690138
+        }
+      }
+    },
+    "\\bar{x}\\in": {
+      "\\bar{x}\\in": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670374379789
+        }
+      }
+    }
+  }
+}

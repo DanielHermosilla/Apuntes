@@ -1,0 +1,91 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "du\\\\\\\\": {
+      "du\\\\\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685464215627
+        }
+      }
+    },
+    "ve^{\\lambda": {
+      "ve^{\\lambda": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685737276747
+        }
+      }
+    },
+    "e^{at}f": {
+      "e^{at}f": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685752381137
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1686845950009
+        }
+      }
+    },
+    "\\vert\\lambda_2\\vert": {
+      "\\vert\\lambda_2\\vert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688058196534
+        }
+      }
+    }
+  }
+}

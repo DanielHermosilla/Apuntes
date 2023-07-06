@@ -1,0 +1,1 @@
+Estado donde la **energía de la partícula está definida** 

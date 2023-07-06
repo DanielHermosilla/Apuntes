@@ -1,0 +1,2 @@
+
+Componente fundamental de la [[Economía|economía]] para la **producción de bienes y servicios**. La **especialización del trabajo** aumenta su productividad porque las personas se vuelven más hábiles realizando una cantidad más acotada de tareas específicas, es decir, se vuelven más eficientes.  

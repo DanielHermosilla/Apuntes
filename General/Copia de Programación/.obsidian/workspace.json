@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "c83bf78c1de9f419",
+    "type": "split",
+    "children": [
+      {
+        "id": "69eacfa6b291fc48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae43bdaa08dc64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9d26f054b659762",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9114f20bb051124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8e510f5649ba2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac9b43110bc63ffe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e262d10e15816883",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b8e3a9c5bb53ff1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b095d907bf6625fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "820f8728f267e3ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1708bb0c850244",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e414c0feb0f0d51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b70d93ffcd029a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d10fea000d529046",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "bae43bdaa08dc64f",
+  "lastOpenFiles": [
+    "Python/Tipos de datos abstractos/Grafos/Árbol conector mínimo/Algoritmo de Prim.md",
+    "Python/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+    "Python/Tipos de datos abstractos/Grafos/Árbol conec.md",
+    "Python/Tipos de datos abstractos/Grafos/Árbol conector mínimo",
+    "Python/Tipos de datos abstractos/Grafos",
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+    "Python/Algoritmos/Ordenamiento/Quick Sort.md",
+    "Python/Algoritmos/Busqueda/Busqueda binaria.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
+    "Python/Tipos de datos abstractos/Arboles/Recorridos.md",
+    "recorridoarboles.jpg",
+    "Python/Tipos de datos abstractos/Lista enlazada/Skip list.md",
+    "img/SoftwareDude - Skip List Explained Advanced Data Structure What is Skip List Data Structure Coding Interview [ol-FaNLXlR0 - 871x490 - 2m22s].png",
+    "Python/Tipos de datos abstractos/Arboles/Tries.md",
+    "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 1m48s].png",
+    "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 0m53s].png",
+    "img/Inside code - Trie data structure - Inside code [qA8l8TAMyig - 871x490 - 0m20s].png",
+    "img/IMG_6529F8187734-1.jpeg",
+    "img/IMG_FC74D850E175-1.jpeg",
+    "img/IMG_C223C960A175-1.jpeg",
+    "img/IMG_CEDBA8CF83B8-1.jpeg",
+    "img/IMG_572A7AEE8304-1.jpeg",
+    "Python/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Colas de prioridad.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles B",
+    "Python/Tipos de datos abstractos/Arboles/Heap y colas de prioridad",
+    "Python/Algoritmos/Ordenamiento/Heap sort.md",
+    "Python/Tipos de datos abstractos/Queues.md",
+    "Python/Tipos de datos abstractos/Lista enlazada/Listas enlazadas.md",
+    "Python/Tipos de datos abstractos/Lista enlazada",
+    "Python/Tipos de datos abstractos/Arboles/Rotación.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles ordinales.md",
+    "Python/Tipos de datos abstractos/Arboles/Árboles cardinales.md",
+    "Python/Algoritmos/Árboles/Árbol AVL.md",
+    "Python/Algoritmos/Árboles",
+    "Python/Algoritmos/Ordenamiento/Merge Sort.md",
+    "Python/Algoritmos/Ordenamiento/Counting sort.md",
+    "Python/Algoritmos/Ordenamiento/Bubble sort.md",
+    "Python/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
+    "Python/Tipos de datos abstractos/Arboles/Arboles binarios/Propiedades matemáticas.md",
+    "Python/Tipos de datos abstractos/Pilas.md",
+    "Python/Tipos de datos abstractos",
+    "Python/Arboles/Árboles ordinales/Untitled",
+    "Python/Tipos de datos abstractos/Arboles/Árboles ordinales",
+    "Python/Tipos de datos abstractos/Arboles/Arboles binarios"
+  ]
+}

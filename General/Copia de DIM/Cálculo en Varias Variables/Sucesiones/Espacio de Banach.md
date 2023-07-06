@@ -1,0 +1,2 @@
+
+Diremos que un [[Espacios vectoriales|espacio vectorial]] [[Norma en varias variables|normado]] $E$ es de Banach si sus [[Sucesión de Cauchy|sucesiones de Cauchy]] son convergentes. Por el teorema postulado en el apartado de [[Sucesión de Cauchy|sucesiones de Cauchy]] podemos decir que todo espacio en $\mathbb{R}^n$ es de Banach ya que todas las [[Sucesión de Cauchy|sucesiones de Cauchy]] convergen.  
