@@ -1,4 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Oldsidian Purple"
+  "cssTheme": "Oldsidian Purple",
+  "enabledCssSnippets": [
+    "Copia de somethingsnippet"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false
 }

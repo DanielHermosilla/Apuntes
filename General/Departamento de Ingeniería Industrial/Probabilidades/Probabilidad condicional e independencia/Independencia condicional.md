@@ -1,0 +1,5 @@
+
+Los [[Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Evento|eventos]] $A$ y $B$ son **condicionalmente [[Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia|independientes]]** dado un [[Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Evento|evento]] $C$, con $P(C)>0$, si: 
+
+$$P(A\cap B\vert C) = P(A\vert C)\ P(B\vert C)$$ 
+Es decir, si ocurre un [[Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Evento|evento]] ($C$), entonces la probabilidades de los otros [[Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Evento|eventos]] ($A\cap B$) son [[Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia|independientes]]. 
