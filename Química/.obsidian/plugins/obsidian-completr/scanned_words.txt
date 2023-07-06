@@ -1336,6 +1336,7 @@ equivalente
 establece
 electrolites
 establecido
+equivalencia
 orbitales
 oQt
 ox
@@ -9479,6 +9480,7 @@ solo
 subdividir
 subreacci
 sales
+sensibles
 äYE
 äd
 ßN
