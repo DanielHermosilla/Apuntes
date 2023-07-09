@@ -106,4 +106,5 @@ $$\int^{\dot{\theta}_{\text{max}}}_{\dot{\theta}_{\text{inicial}}}\dot{\theta}d\
 
 Claramente la velocidad angular inicial y final son $0$, entonces el lado izquierdo sería una integral entre cero y cero, lo que es nulo. Por el otro lado, resolviendo la integral del lado derecho: 
 
-$$\int\frac{-3gL}{5}\left(3\sin\theta-\cos\theta\right)\;d\theta$$
+$$-\frac{3Lg}{5}\left(-\sin \left(θ\right)\bigg\vert_{0}^{\theta^*}-3\cos \left(θ\right)\bigg\vert_{0}^{\theta^*}\right)$$
+
