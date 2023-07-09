@@ -41,6 +41,8 @@ elementales
 elevado
 elemental
 excalidraw
+entiende
+espec
 siguiente
 sistema
 soluci
@@ -74,6 +76,10 @@ sistemas
 sicamente
 stas
 separaci
+situaci
+simplificaci
+sqrt
+sin
 no
 neo
 nea
@@ -85,6 +91,8 @@ notemos
 nica
 nico
 nicamente
+ndricas
+nula
 homog
 homogenea
 hacen
@@ -115,6 +123,7 @@ bmatrix
 busca
 buscar
 basta
+barra
 la
 las
 lo
@@ -136,7 +145,10 @@ llama
 les
 llamara
 lados
+lisis
+le
 que
+quiere
 de
 dado
 derecho
@@ -173,6 +185,9 @@ derivados
 dividiendo
 despejar
 document
+direcci
+definici
+dot
 forma
 filas
 factor
@@ -185,6 +200,9 @@ frac
 fundamental
 formas
 fijamos
+fuerzas
+fuerza
+fico
 tanto
 tiene
 tal
@@ -202,6 +220,8 @@ tags
 to
 the
 this
+total
+torque
 valores
 vectores
 variaci
@@ -250,6 +270,13 @@ componentes
 ciertos
 cambios
 comportar
+cula
+concentraci
+cualquier
+cuerpo
+coordenadas
+cil
+cos
 propios
 particular
 podr
@@ -273,6 +300,11 @@ partir
 pueden
 plugin
 parsed
+part
+punto
+phi
+pi
+posici
 Entonces
 EDO
 Esto
@@ -284,6 +316,7 @@ En
 Existen
 Ecuaciones
 EXCALIDRAW
+Elements
 Ahora
 Aca
 Al
@@ -304,6 +337,8 @@ momento
 matrices
 multiplicar
 menu
+mr
+movimiento
 resolver
 rmula
 reducir
@@ -318,6 +353,12 @@ representadas
 resoluciones
 resultado
 reductibles
+rho
+rightarrow
+reposo
+roce
+rotacional
+restringido
 asociados
 ambas
 asegura
@@ -335,6 +376,8 @@ argumentando
 aplicando
 ambos
 aquellas
+aceleraci
+asumir
 La
 Los
 Luego
@@ -370,6 +413,7 @@ inc
 independiente
 integrante
 integrar
+impide
 ya
 obtiene
 ocupa
@@ -380,6 +424,7 @@ orden
 obtener
 obviamente
 of
+objeto
 wronskiana
 Como
 CO
@@ -389,8 +434,10 @@ Consisten
 Jordan
 Toda
 TEU
+Text
 Factorizando
 Factor
+Ft
 Normalmente
 Norma
 Notemos

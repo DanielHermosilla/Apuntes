@@ -23,9 +23,11 @@
             "id": "526d23bf6ddf3337",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md"
+                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
+                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
+                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md"
+                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md"
               }
             }
           }
@@ -162,8 +163,10 @@
   },
   "active": "526d23bf6ddf3337",
   "lastOpenFiles": [
-    "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
     "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
+    "Departamento de Física/Mecánica/Reclamo 1.md",
+    "Departamento de Física/Mecánica/Partícula.md",
+    "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
     "Excalidraw",
     "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
     "Departamento de Física/Mecánica/Tarea",
