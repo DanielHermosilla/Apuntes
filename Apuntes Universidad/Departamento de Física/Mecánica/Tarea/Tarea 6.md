@@ -57,3 +57,13 @@ Dado que el análisis vectorial se hizo bajo un sistema de coordenadas donde los
 
 Ahora, a diferencia de la situación anterior, se tiene que el sistema rota en torno al pivote. Aquí es util saber la relación $I_o\ddot{\theta}=\vec{\tau}^{\text{ext}}$. Haciendo un análisis trigonométrico, se llegan a las siguientes relaciones: 
 
+![[Imagen PNG 3.png|center|220]]
+
+
+Ahora los vectores $\vec{r_1}$ y $\vec{r_2}$ estarían descompuestos de forma distinta. Además, el torque ya no llegaría a ser nulo. A través del análisis trigonométrico esbozado en el dibujo, se puede llegar que: 
+
+$$\begin{align}
+\vec{r_1}&=\frac{L}{2}\sin\theta\;\hat{x}\;-\frac{L}{2}\cos\theta\;\hat{y}\\\\  
+\vec{r_2}&=\left(L\sin\theta-\frac{L}{2}\cos\theta\right)\;\hat{x}\;\left(-L\cos\theta-\frac{L}{2}\sin\theta\right)\;\hat{y}
+\end{align}$$
+
