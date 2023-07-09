@@ -1,2 +1,0 @@
-
-Corresponde a otro índice para poder medir el poder adquisitivo y hacer comparaciones a partir del [[Variable nominal|valor nominal]]. Normalmente se ocupa para comparaciones a nivel internacionales.  

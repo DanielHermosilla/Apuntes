@@ -1,2 +1,0 @@
-
-Es la forma de referir el punto de dónde se va a hablar del movimiento. El origen es totalmente arbitrario y a conveniencia para poder describir los movimientos de la mejor forma posible.  Una vez que uno define el sistema de referencia **no se puede cambiar**. 

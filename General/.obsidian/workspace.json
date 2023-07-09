@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Casos/Caso 5.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Función Generadora de Momento de un Vector.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Función Generadora de Momento de un Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Función Generadora de Momento de un Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Función Generadora de Momento de un Vector.md"
               }
             }
           }
@@ -159,12 +158,13 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f7ad80cc0aea0b61",
+  "active": "34ef5bfd1360f8b7",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Casos/Caso 5.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Función Generadora de Momento de un Vector.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Casos",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Función Generadora de Momento de un Vector.md",
     "Departamento de Ingeniería Matemáticas/Álgebra Lineal/Matrices/matriz.md",
     "Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/isomorfismo.md",
     "Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
@@ -186,8 +186,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Pregunta 2.md",
     "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Ejercicios Control 2.md",
     "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Ejercicios Control 3.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Funciones/Continuidad en varias variables.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Funciones/Continuidad de la composición de funciones.md",
     "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas"
   ]
 }
