@@ -5,6 +5,8 @@ Esto implica dos cosas en específico, la sumatoria del torque es nula, dada la 
 
 Si analizamos primero la sumatoria de fuerzas, considerando a la barra como una partícula, se tiene lo siguiente: 
 
-$$\text{Suma de fuerzas}=\begin{cases} -\vec{F_t}=0&\text{para}\;\hat{y}\\\\-\vec{F_p}-\vec{F_p}+\vec{F_N}=0&\text{para}\;\hat{x}\end{cases}  
-
+$$\text{Suma de fuerzas}=\begin{cases} -\vec{F_t}+\vec{F_N}=0&\text{para}\;\hat{x}\\\\-\vec{F_p}-\vec{F_p}+\vec{F_N}=0&\text{para}\;\hat{y}\end{cases}  
 $$
+
+Es importante notar que $\vec{F_N}$ corresponde a la fuerza normal que ejerce el rodillo, cuyas componentes se descomponen en dos ejes. 
+

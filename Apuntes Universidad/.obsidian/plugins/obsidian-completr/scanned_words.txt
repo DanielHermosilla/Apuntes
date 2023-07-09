@@ -43,6 +43,8 @@ elemental
 excalidraw
 entiende
 espec
+ejerce
+ejes
 siguiente
 sistema
 soluci
@@ -80,6 +82,7 @@ situaci
 simplificaci
 sqrt
 sin
+sumatoria
 no
 neo
 nea
@@ -93,6 +96,7 @@ nico
 nicamente
 ndricas
 nula
+normal
 homog
 homogenea
 hacen
@@ -188,6 +192,9 @@ document
 direcci
 definici
 dot
+dos
+dada
+descomponen
 forma
 filas
 factor
@@ -222,6 +229,8 @@ the
 this
 total
 torque
+tensi
+traslacional
 valores
 vectores
 variaci
@@ -277,6 +286,10 @@ cuerpo
 coordenadas
 cil
 cos
+cosas
+considerando
+corresponde
+cuyas
 propios
 particular
 podr
@@ -359,6 +372,8 @@ reposo
 roce
 rotacional
 restringido
+restricci
+rodillo
 asociados
 ambas
 asegura
@@ -378,6 +393,7 @@ ambos
 aquellas
 aceleraci
 asumir
+analizamos
 La
 Los
 Luego
@@ -414,6 +430,7 @@ independiente
 integrante
 integrar
 impide
+implica
 ya
 obtiene
 ocupa
