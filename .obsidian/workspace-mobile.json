@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0cab92606ad8954f",
+    "type": "split",
+    "children": [
+      {
+        "id": "615297940b317a7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "936e5b62a1724881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eef17243fcd6a19f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bcc3628a17119ff4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b79bcb0eff646028",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e4989af3cc9955df",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "90a38596225780d3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b583713581f693a5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7b8253b147be0222",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "158eaea072b6fce4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "66f89ff904ffd893",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "936e5b62a1724881",
+  "lastOpenFiles": [
+    "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto Hermítico.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/producto escalar.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto punto.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
+    "Apuntes Universidad/Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Condensadores/Condensador.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones/Distribución Multinomial.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones/Normal Multivariada.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad discreta/PMF conjunto.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Aproximación de la Binomial.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Repasos/Integrales/Técnicas de integración.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/escalares.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/dependencia.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/subespacios vectoriales.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/isomorfismo.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/generador.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/propiedad compacta.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/Base.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes/Captura de Pantalla 2022-11-28 a la(s) 20.17.08.png",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes/diagramacambiobase.jpeg",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Diferenciabilidad/Resumen diferenciabilidad.canvas",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/IMG_B09BA468D4B8-1.jpeg",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2023-01-09 a la(s) 17.20.40.png",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2023-01-09 a la(s) 17.20.54.png",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2022-12-18 a la(s) 18.10.26.png",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2022-12-18 a la(s) 18.14.54.png",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/IMG_22B78201A92A-1.jpeg",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/IMG_629D78A871E9-1.jpeg",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2023-01-10 a la(s) 13.46.50.png",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Imagenes/pruebapaes.pdf",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas",
+    "Apuntes Universidad/Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Condensadores",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad discreta",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Repasos/Integrales",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Matrices",
+    "DIM/Cálculo en Varias Variables/Diferenciabilidad/Resumen diferenciabilidad.canvas",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas"
+  ]
+}
