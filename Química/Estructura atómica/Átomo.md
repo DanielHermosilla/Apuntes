@@ -1,2 +1,0 @@
-
-El átomo eléctricamente es neutro, una esfera neutra compuesta de un núcleo positivo rodeada por uno o más electrones. Esta idea nace tras la [[Teoría de Rutherford|teoría de Rutherford]] y de [[Teoría de Bohr|Bohr]]. 

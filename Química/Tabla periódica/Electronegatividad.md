@@ -1,2 +1,0 @@
-
-Capacidad que tiene un [[Átomo|átomo]] que tiene de atraer [[Electrones|electrones]] comprometidos en **un enlace**. La diferencia con la [[Afinidad electrónica|afinidad electrónica]] es que ésta hace alusión al [[Átomo|átomo]] en sí, mientras que la electronegatividad hace referencia a los enlaces químicos. 
