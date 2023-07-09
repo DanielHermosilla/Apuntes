@@ -10,3 +10,26 @@ $$
 
 Es importante notar que $\vec{F_N}$ corresponde a la fuerza normal que ejerce el rodillo, cuyas componentes se descomponen en dos ejes. 
 
+![[Imagen PNG.png|center|400]]
+
+
+De la sumatoria de fuerzas, es directo que $\vec{F_T}=2mg$, aunque también se podría ver por el torque. Si se pone como pivote el rodillo, se llega a lo siguiente: 
+
+![[Imagen PNG 2.png|center|400]]
+
+Donde el torque total llegaría a ser:
+
+
+$$\sum\tau=\vec{r_1}\times\vec{F_t}+\vec{r_1}\times\vec{F_p}+\vec{r_2}\times\vec{F_p}=0$$
+
+El único vector a descomponer sería $\vec{r_2}$, que geométricamente equivale a $\vec{r_2}=-L\hat{x}-\frac{L}{2}\hat{y}$. 
+
+Entonces, haciendo el producto cruz para los tres sumandos: 
+
+$$\begin{align}
+\vec{r_1}\times\vec{F_t}&=\begin{bmatrix}
+\hat{x} & \hat{y} & \hat{z} \\
+0 & \frac{-L}{2} & 0 \\
+-F_T & 0 & 0
+\end{bmatrix}
+\end{align}$$
