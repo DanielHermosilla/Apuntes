@@ -77,5 +77,10 @@ $$\begin{align}
 \frac{L}{2}\sin\theta & -\frac{L}{2}\cos\theta & 0 \\
 0 & -mg & 0
 \end{bmatrix}&=-mg\frac{L}{2}\sin\theta\;\hat{z}\\\\
-\vec{r_2}\times\vec{F_p}=
+\vec{r_2}\times\vec{F_p}=\begin{bmatrix}
+\hat{x} & \hat{y} & \hat{z} \\
+\left(L\sin\theta-\frac{L}{2}\cos\theta\right) & \left(-L\cos\theta-\frac{L}{2}\sin\theta\right) & 0 \\
+0 & -mg & 0
+\end{bmatrix}&=-mg\left(L\sin\theta-\frac{L}{2}\cos\theta\right)\;\hat{z}
 \end{align}$$
+
