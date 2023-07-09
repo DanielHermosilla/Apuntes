@@ -11,15 +11,24 @@
             "id": "936e5b62a1724881",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "02215cc5ff6e77d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+            "file": "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+            "file": "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md"
+            "file": "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md"
           }
         }
       }
@@ -119,11 +128,21 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcc3628a17119ff4",
+  "active": "02215cc5ff6e77d9",
   "lastOpenFiles": [
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
+    "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md",
+    "Excalidraw/Dcl.excalidrawlib",
+    "Excalidraw",
+    "Apuntes Universidad/Excalidraw",
+    "Apuntes Universidad/Departamento de Física/Mecánica/Tarea",
+    "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
+    "Apuntes Universidad/Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
     "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto Hermítico.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/producto escalar.md",
@@ -144,12 +163,6 @@
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/dependencia.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/subespacios vectoriales.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/isomorfismo.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/generador.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/propiedad compacta.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/Base.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes/Captura de Pantalla 2022-11-28 a la(s) 20.17.08.png",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes/diagramacambiobase.jpeg",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
@@ -171,10 +184,6 @@
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad discreta",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Repasos/Integrales",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Matrices",
     "DIM/Cálculo en Varias Variables/Diferenciabilidad/Resumen diferenciabilidad.canvas",
     "DIM/Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
     "DIM/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
