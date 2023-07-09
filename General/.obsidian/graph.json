@@ -8,38 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Copia de DFI\"",
+      "query": "path:\"Departamento de Ingeniería Industrial\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 2435133
       }
     },
     {
-      "query": "path:\"Copia de DII\"",
+      "query": "path:\"Departamento de Ingeniería Matemáticas\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 9386373
       }
     },
     {
-      "query": "path:\"Copia de DIM\"",
+      "query": "path:\"Departamento de Ciencias de la Computación\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11709070
       }
     },
     {
-      "query": "path:\"Copia de Programación\"",
+      "query": "path:\"Departamento de Física\"",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 15694218
       }
     },
     {
-      "query": "path:\"Copia de Química\"",
+      "query": "path:Química",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 1407598
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5480219651973799,
+  "scale": 0.21421664616251285,
   "close": true
 }

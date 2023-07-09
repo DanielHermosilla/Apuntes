@@ -4,7 +4,7 @@ El algoritmo quick sort consiste en ocupar pivotes dentro de las [[Listas|listas
 
 El algoritmo Quick Sort no optimizado ocuparía una variable única en el [[Bucles|bucle]] que va recorriendo la lista del pivote. Esto reduciría su rendimiento al recorrer la [[Listas|lista]] únicamente de izquierda a derecha. 
 
-```jupyter 
+```python 
 
 # Algoritmo QuickSort no optimizado 
 
@@ -46,7 +46,7 @@ print(QuickSort(array))
 
 En este algoritmo de quicksort se ocupara un [[Bucles|bucle]] doble. La idea queda expresada bajo el siguiente [video](https://www.youtube.com/watch?v=MZaf_9IZCrc&ab_channel=KCAng)
 
-```jupyter 
+```python 
 
 # Función que cambia de lugar elementos de la lista 
 

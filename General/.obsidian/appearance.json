@@ -1,10 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Oldsidian Purple",
+  "cssTheme": "Fusion",
   "enabledCssSnippets": [
     "Copia de somethingsnippet"
   ],
   "showViewHeader": true,
   "nativeMenus": true,
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 15
 }

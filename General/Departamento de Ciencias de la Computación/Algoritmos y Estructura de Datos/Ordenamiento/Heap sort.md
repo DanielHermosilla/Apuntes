@@ -15,7 +15,7 @@ Otra forma alternativa sería ocupando [[Bucles|bucles]], ya que al trabajar con
 
 Por lo tanto el algoritmo sería el siguiente:
 
-```jupyter
+```python
   
 
 # Va a ir intercambiando los elementos del arbol

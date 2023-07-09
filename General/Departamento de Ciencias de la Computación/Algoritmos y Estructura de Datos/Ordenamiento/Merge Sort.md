@@ -4,7 +4,7 @@ Se generan dos funciones; una que va dividiendo la lista recursivamente y otra q
 
 ![Merge Sort Algorithm - 101 Computing](https://www.101computing.net/wp/wp-content/uploads/Merge-Sort-Algorithm.png)
 
-```jupyter 
+```python 
 
 def mergeSort(array):
 
