@@ -11,8 +11,12 @@
             "id": "936e5b62a1724881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md"
+          }
         }
       }
     ],
@@ -124,5 +132,62 @@
     }
   },
   "active": "936e5b62a1724881",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DIM/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto Hermítico.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/producto escalar.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto punto.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto vectorial.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/escalares.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/dependencia.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/subespacios vectoriales.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/isomorfismo.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/Espacios vectoriales.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/generador.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/propiedad compacta.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/Base.md",
+    "DIM/Álgebra Lineal/Espacios vectoriales/combinaciones lineales.md",
+    "DIM/Álgebra Lineal/Imagenes/Captura de Pantalla 2022-11-28 a la(s) 20.17.08.png",
+    "DIM/Álgebra Lineal/Imagenes/diagramacambiobase.jpeg",
+    "DIM/Álgebra Lineal/Matrices/matriz.md",
+    "DIM/Álgebra Lineal/Matrices/vectores.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/subespacios propios.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/polinomio característico.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/Método de Gram - Schmidt.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/matrices representantes de vectores propios.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/multiplicidad algebraica.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/valor propio.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/vector propio.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/multiplicidad geométrica.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/Espectro de una matriz simétrica.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/matriz diagonalizable.md",
+    "DIM/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
+    "DIM/Cálculo en Varias Variables/Diferenciabilidad/Resumen diferenciabilidad.canvas",
+    "DIM/Cálculo en Varias Variables/Imágenes/IMG_B09BA468D4B8-1.jpeg",
+    "DIM/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2023-01-09 a la(s) 17.20.40.png",
+    "DIM/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2023-01-09 a la(s) 17.20.54.png",
+    "DIM/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2022-12-18 a la(s) 18.10.26.png",
+    "DIM/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2022-12-18 a la(s) 18.14.54.png",
+    "DIM/Cálculo en Varias Variables/Imágenes/IMG_22B78201A92A-1.jpeg",
+    "DIM/Cálculo en Varias Variables/Imágenes/IMG_629D78A871E9-1.jpeg",
+    "DIM/Cálculo en Varias Variables/Imágenes/Captura de Pantalla 2023-01-10 a la(s) 13.46.50.png",
+    "DIM/Cálculo Diferencial e Integral/Imagenes/pruebapaes.pdf",
+    "DIM/Cálculo Diferencial e Integral/Excalidraw/my-obsidian-library.excalidrawlib",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
+    "DIM/Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas",
+    "DIM/Álgebra Lineal/Espacios vectoriales",
+    "DIM/Álgebra Lineal/Imagenes",
+    "DIM/Álgebra Lineal/Matrices",
+    "DIM/Álgebra Lineal/Valores y vectores propios",
+    "DIM/Álgebra Lineal/Transformaciones lineales",
+    "DIM/Cálculo en Varias Variables/Diferenciabilidad",
+    "DIM/Cálculo en Varias Variables/Imágenes",
+    "General/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Diferenciabilidad/Resumen diferenciabilidad.canvas",
+    "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
+    "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
+    "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Transformada de Laplace/Antitransformadas conocidas.canvas",
+    "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistema no lineales/Tipos de espirales.canvas"
+  ]
 }
