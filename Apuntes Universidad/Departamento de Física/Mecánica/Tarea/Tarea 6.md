@@ -67,3 +67,15 @@ $$\begin{align}
 \vec{r_2}&=\left(L\sin\theta-\frac{L}{2}\cos\theta\right)\;\hat{x}\;\left(-L\cos\theta-\frac{L}{2}\sin\theta\right)\;\hat{y}
 \end{align}$$
 
+
+Por lo tanto, nuevamente calculando el torque: 
+
+$$\begin{align}
+\vec{r_1}\times\vec{F_p}+\vec{r_2}\times\vec{F_p}&=\tau_{0}\\\\
+\vec{r_1}\times\vec{F_p}=\begin{bmatrix}
+\hat{x} & \hat{y} & \hat{z} \\
+\frac{L}{2}\sin\theta & -\frac{L}{2}\cos\theta & 0 \\
+0 & -mg & 0
+\end{bmatrix}&=-mg\frac{L}{2}\sin\theta\;\hat{z}\\\\
+\vec{r_2}\times\vec{F_p}=
+\end{align}$$
