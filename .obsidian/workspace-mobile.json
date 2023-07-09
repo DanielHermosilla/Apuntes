@@ -63,14 +63,6 @@
             "useHierarchy": true
           }
         }
-      },
-      {
-        "id": "90a38596225780d3",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {}
-        }
       }
     ],
     "currentTab": 0
@@ -123,15 +115,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true
     }
   },
-  "active": "936e5b62a1724881",
+  "active": "bcc3628a17119ff4",
   "lastOpenFiles": [
     "General/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales/Producto Hermítico.md",
