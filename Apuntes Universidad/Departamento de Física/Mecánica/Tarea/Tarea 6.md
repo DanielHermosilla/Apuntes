@@ -1,11 +1,13 @@
 
+## Modelo estacionario 
+
 Se tiene la situación donde la barra está en reposo dado que existe una fuerza tensión que le impide el movimiento rotacional y traslacional. 
 
 Esto implica dos cosas en específico, la sumatoria del torque es nula, dada la restricción rotacional, y la sumatoria de fuerzas también es nula, por la restricción traslacional. 
 
 Si analizamos primero la sumatoria de fuerzas, considerando a la barra como una partícula, se tiene lo siguiente: 
 
-$$\text{Suma de fuerzas}=\begin{cases} -\vec{F_t}+\vec{F_N}=0&\text{para}\;\hat{x}\\\\-\vec{F_p}-\vec{F_p}+\vec{F_N}=0&\text{para}\;\hat{y}\end{cases}  
+$$\text{Suma de fuerzas}=\begin{cases} -\vec{F_t}+\vec{F_{N_\hat{x}}}=0&\text{para}\;\hat{x}\\\\-\vec{F_p}-\vec{F_p}+\vec{F_{N_\hat{y}}}=0&\text{para}\;\hat{y}\end{cases}  
 $$
 
 Es importante notar que $\vec{F_N}$ corresponde a la fuerza normal que ejerce el rodillo, cuyas componentes se descomponen en dos ejes. 
@@ -13,7 +15,7 @@ Es importante notar que $\vec{F_N}$ corresponde a la fuerza normal que ejerce el
 ![[Imagen PNG.png|center|400]]
 
 
-De la sumatoria de fuerzas, es directo que $\vec{F_T}=2mg$, aunque también se podría ver por el torque. Si se pone como pivote el rodillo, se llega a lo siguiente: 
+La magnitud de las fuerzas normales del rodillo son desconocidas, por lo que lo más conveniente sería hacer un análisis rotacional. 
 
 ![[Imagen PNG 2.png|center|400]]
 
@@ -22,7 +24,7 @@ Donde el torque total llegaría a ser:
 
 $$\sum\tau=\vec{r_1}\times\vec{F_t}+\vec{r_1}\times\vec{F_p}+\vec{r_2}\times\vec{F_p}=0$$
 
-El único vector a descomponer sería $\vec{r_2}$, que geométricamente equivale a $\vec{r_2}=-L\hat{x}-\frac{L}{2}\hat{y}$. 
+El único vector a descomponer sería $\vec{r_2}$, que geométricamente equivale a $\vec{r_2}=-\frac{L}{2}\hat{x}-L\hat{y}$. 
 
 Entonces, haciendo el producto cruz para los tres sumandos: 
 
@@ -31,5 +33,27 @@ $$\begin{align}
 \hat{x} & \hat{y} & \hat{z} \\
 0 & \frac{-L}{2} & 0 \\
 -F_T & 0 & 0
-\end{bmatrix}
+\end{bmatrix}=\frac{F_{T\cdot}L}{2}\hat{z}\\\\  
+\vec{r_1}\times\vec{F_P}&=\begin{bmatrix}
+\hat{x} & \hat{y} & \hat{z} \\
+0 & \frac{-L}{2} & 0 \\
+0 & -mg & 0
+\end{bmatrix}=0\\\\ 
+\vec{r_2}\times\vec{F_p}&=\begin{bmatrix}
+\hat{x} & \hat{y} & \hat{z} \\
+-\frac{L}{2} & -L & 0 \\
+0 & -mg & 0
+\end{bmatrix}=\frac{Lmg}{2}\hat{z}
 \end{align}$$
+
+Por lo tanto, imponiendo la condición rotacional: 
+
+$$\begin{align}\frac{F_{T}\cdot L}{2}+\frac{Lmg}{2}&=0\\\\  
+F_T&=-mg\end{align}$$
+
+Dado que el análisis vectorial se hizo bajo un sistema de coordenadas donde los valores positivos son hacia la derecha y arriba, entonces el vector de la fuerza tensión apunta hacia la izquierda **con magnitud** $mg$ cuando el sistema está estacionario. 
+
+## Modelo rotacional 
+
+Ahora, a diferencia de la situación anterior, se tiene que el sistema rota en torno al pivote. Aquí es util saber la relación $I_o\ddot{\theta}=\vec{\tau}^{\text{ext}}$. Haciendo un análisis trigonométrico, se llegan a las siguientes relaciones: 
+
