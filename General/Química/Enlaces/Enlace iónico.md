@@ -1,2 +1,0 @@
-
-Normalmente cuando la diferencia entre [[Electronegatividad|electronegatividad]] es mayor que 2 o 1.7. Normalmente es entre un metal y no metal y un átomo le cede el electrón a otro. Normalmente estos compuestos forman **cristales**.  

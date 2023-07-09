@@ -1,1 +1,0 @@
-Cantidad mínima de [[Energía cinética de los fotoelectrones|energía]] que debe obtener un electrón para escapar de determinada superficie 

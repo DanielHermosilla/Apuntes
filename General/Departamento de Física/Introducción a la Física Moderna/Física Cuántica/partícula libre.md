@@ -1,1 +1,0 @@
-Partícula que no está sometida a ninguna fuerza, es decir, su [[energía potencial]] es constante

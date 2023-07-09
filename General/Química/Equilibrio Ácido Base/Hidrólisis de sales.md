@@ -1,2 +1,0 @@
-
-Cuando se reacciona agua con sal, lo que procede es que la sal se disocie. Una sal en presencia de agua se disocia completamente en un anión y un catión. Esto es **hidrólisis**, cuando el agua se romple. 

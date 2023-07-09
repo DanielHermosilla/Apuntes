@@ -1,2 +1,0 @@
-
-El control se va a centrar en [[Máximos y mínimos|máximos y mínimos]] (puntos interiores y [[Multiplicadores de Lagrange|Lagrange]]), [[Regla de la cadena|regla de la cadena]], [[Diferenciabilidad|diferenciabilidad]] y [[Gradiente y plano tangente|plano tangente]]. 

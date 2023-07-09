@@ -1,1 +1,0 @@
-Subconjuntos de espacios vectoriales que tienen que cumplir la [[Propiedad compacta|propiedad compacta]]
