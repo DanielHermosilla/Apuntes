@@ -39,6 +39,10 @@ La **solución a un sistema homogéneo** se puede escribir entonces como:
 
 $$X_h(t)=Pe^{Dt}C$$
 
-Con $C$ un vector constante que depende de las condiciones iniciales. Ahora, cuando se tiene que la exponencial es invertible, se dice que es la *matriz exponencial canónica* $\Phi$ 
+Con $C$ un vector constante que depende de las condiciones iniciales. Ahora, cuando se tiene que la exponencial es invertible, se dice que es la *matriz exponencial canónica* $\Phi$. La matriz exponencial $\Phi$ es únicamente la matriz $P\cdot D$, vale decir, la multiplicación de los vectores propios por sus valores propios.  
 
-P
+Para encontrar la **solución particular** se ocupa la fórmula de **variación de parámetros**: 
+
+$$\vec{x_p}=\Phi(t)\int\Phi^{-1}(t)B(t)$$
+
+Donde $B(t)$ es el vector con los valores no homogeneos de la solución. 
