@@ -11,8 +11,12 @@
             "id": "5dbefffbc2ea1dec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md"
+              }
             }
           }
         ]
@@ -140,5 +149,19 @@
     }
   },
   "active": "5dbefffbc2ea1dec",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Forma de Jordan.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Funciones generalizadas y Dirac.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md"
+  ]
 }

@@ -53,14 +53,3 @@ La suma de ambas soluciones sería:
 $$X_t = A\begin{pmatrix}1\\0\\0\end{pmatrix}e^{-t} + \begin{pmatrix}3B\\B-1\\3\end{pmatrix}e^{2t} + C\begin{pmatrix}0\\-1\\0\end{pmatrix}e^t$$ 
 
 
-
-
-
-
-Esto es una prueba de ocupar Obsidian desde el iPad, ojalá funcione bien :)
-
-Bueno, escribiré un poco con LaTex: 
-
-$$\frac{1}{4}+\frac{1}{2}=2$$ 
-
-Acá terminó la prueba 
