@@ -40,6 +40,7 @@ entre
 elementales
 elevado
 elemental
+excalidraw
 siguiente
 sistema
 soluci
@@ -101,6 +102,7 @@ Sabemos
 Sistema
 Son
 Separaci
+Switch
 buscando
 busco
 buscamos
@@ -170,6 +172,7 @@ deseada
 derivados
 dividiendo
 despejar
+document
 forma
 filas
 factor
@@ -195,6 +198,10 @@ tambi
 trata
 tipo
 todos
+tags
+to
+the
+this
 valores
 vectores
 variaci
@@ -264,6 +271,8 @@ pasar
 principalmente
 partir
 pueden
+plugin
+parsed
 Entonces
 EDO
 Esto
@@ -274,6 +283,7 @@ El
 En
 Existen
 Ecuaciones
+EXCALIDRAW
 Ahora
 Aca
 Al
@@ -293,6 +303,7 @@ multiplicaci
 momento
 matrices
 multiplicar
+menu
 resolver
 rmula
 reducir
@@ -338,6 +349,7 @@ Dirac
 Demostraci
 Definimos
 Dado
+Drawing
 importante
 invertible
 intentara
@@ -367,6 +379,7 @@ ocupando
 orden
 obtener
 obviamente
+of
 wronskiana
 Como
 CO
@@ -384,6 +397,7 @@ Notemos
 general
 gnita
 Otra
+OPTIONS
 Be
 BA
 Bt
@@ -392,7 +406,9 @@ Bastar
 Vector
 Veamos
 Vale
+VIEW
 Queda
 Un
 Una
 Integraci
+MORE
