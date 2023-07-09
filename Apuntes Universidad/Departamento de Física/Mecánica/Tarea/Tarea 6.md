@@ -84,3 +84,4 @@ $$\begin{align}
 \end{bmatrix}&=-mg\left(L\sin\theta-\frac{L}{2}\cos\theta\right)\;\hat{z}
 \end{align}$$
 
+Ahora, para calcular el momento de inercia, por el *teorema de Steiner*,  el mo
