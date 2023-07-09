@@ -95,7 +95,15 @@ I_2&=\frac{1}{12}mL^{2}+m\vert\vec{r_2}\vert^2
 Notemos que es posible calcular la magnitud de $\vec{r_2}$ directamente, pero el análisis es más directo si nos damos cuenta que siempre se cumplirá la relación entre catetos donde el más largo es $L$ y el menos largo es $\frac{L}{2}$, entonces la magnitud es $\sqrt{L^2+\left( \frac{L}{2} \right)^2}$. Por último, se sabe que $I_0=I_1+I_2$, entonces: 
 
 $$\begin{align}
-\frac{13}{6}mL^2\ddot{\theta}&=-mg\left(\frac{L}{2}\sin\theta + L\sin\theta-\frac{L}{2}\cos\theta\right)\\\\
-\frac{13}{3}L\ddot{\theta}&=-g\left(3\sin\theta-\cos\theta\right)\\\\  
-\ddot{\theta}&=\frac{-3gL}{13}\left(3\sin\theta-\cos\theta\right)
+\frac{5mL^2}{3}\ddot{\theta}&=-mg\left(\frac{L}{2}\sin\theta + L\sin\theta-\frac{L}{2}\cos\theta\right)\\\\
+\frac{5}{3}L\ddot{\theta}&=-g\left(3\sin\theta-\cos\theta\right)\\\\  
+\ddot{\theta}&=\frac{-3gL}{5}\left(3\sin\theta-\cos\theta\right)
 \end{align}$$
+
+Se tiene una EDO, que se expresa de la siguiente forma: 
+
+$$\int^{\dot{\theta}_{\text{max}}}_{\dot{\theta}_{\text{inicial}}}\dot{\theta}d\dot{\theta}=\int^{\theta_{\text{max}}}_0\frac{-3gL}{5}\left(3\sin\theta-\cos\theta\right)\;d\theta$$
+
+Claramente la velocidad angular inicial y final son $0$, entonces el lado izquierdo sería una integral entre cero y cero, lo que es nulo. Por el otro lado, resolviendo la integral del lado derecho: 
+
+$$\int\frac{-3gL}{5}\left(3\sin\theta-\cos\theta\right)\;d\theta$$
