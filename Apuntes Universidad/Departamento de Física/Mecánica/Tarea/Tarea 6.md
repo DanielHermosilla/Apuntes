@@ -64,7 +64,7 @@ Ahora los vectores $\vec{r_1}$ y $\vec{r_2}$ estarían descompuestos de forma di
 
 $$\begin{align}
 \vec{r_1}&=\frac{L}{2}\sin\theta\;\hat{x}\;-\frac{L}{2}\cos\theta\;\hat{y}\\\\  
-\vec{r_2}&=\left(L\sin\theta-\frac{L}{2}\cos\theta\right)\;\hat{x}\;\left(-L\cos\theta-\frac{L}{2}\sin\theta\right)\;\hat{y}
+\vec{r_2}&=\left(L\sin\theta-\frac{L}{2}\cos\theta\right)\;\hat{x}\;+\left(-L\cos\theta-\frac{L}{2}\sin\theta\right)\;\hat{y}
 \end{align}$$
 
 
@@ -84,4 +84,18 @@ $$\begin{align}
 \end{bmatrix}&=-mg\left(L\sin\theta-\frac{L}{2}\cos\theta\right)\;\hat{z}
 \end{align}$$
 
-Ahora, para calcular el momento de inercia, por el *teorema de Steiner*,  el mo
+Ahora, para calcular el momento de inercia, por el *teorema de Steiner*, se llega que: 
+
+$$\begin{align}
+I_1&=\frac{1}{12}mL^{2}+m\left(\frac{L}{2}\right)^{2}\\\\  
+I_2&=\frac{1}{12}mL^{2}+m\vert\vec{r_2}\vert^2
+
+\end{align}$$
+
+Notemos que es posible calcular la magnitud de $\vec{r_2}$ directamente, pero el análisis es más directo si nos damos cuenta que siempre se cumplirá la relación entre catetos donde el más largo es $L$ y el menos largo es $\frac{L}{2}$, entonces la magnitud es $\sqrt{L^2+\left( \frac{L}{2} \right)^2}$. Por último, se sabe que $I_0=I_1+I_2$, entonces: 
+
+$$\begin{align}
+\frac{13}{6}mL^2\ddot{\theta}&=-mg\left(\frac{L}{2}\sin\theta + L\sin\theta-\frac{L}{2}\cos\theta\right)\\\\
+\frac{13}{3}L\ddot{\theta}&=-g\left(3\sin\theta-\cos\theta\right)\\\\  
+\ddot{\theta}&=\frac{-3gL}{13}\left(3\sin\theta-\cos\theta\right)
+\end{align}$$
