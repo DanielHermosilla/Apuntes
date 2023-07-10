@@ -122,5 +122,15 @@ $$\begin{align}
 
 -mg\left(\frac{L}{2}\sin\theta + L\sin\theta-\frac{L}{2}\cos\theta\right)&=0\\\\  
 3\sin\theta-\cos\theta&=0\\\\  
-\frac{1}{3}&=\cot\theta
+3&=\cot\theta\\\\  
+\theta&\approx30\degree
 \end{align}$$
+
+Vale decir, en los $30\degree$ se tiene que el centro de masa es perpendicular con el pivote. 
+
+Por último, para el período de pequeñas oscilaciones, se puede hacer un polinomio de Taylor en torno al punto de equilibrio para la ecuación inicial: 
+
+$$\begin{align}
+I_0\ddot{\theta}=\cancelto{0}{f(\theta^*)}+\frac{df}{d\theta}\bigg\vert_{\theta^*}(\theta-\theta^*)
+\end{align}$$
+
