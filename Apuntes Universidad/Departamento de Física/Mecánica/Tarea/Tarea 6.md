@@ -131,6 +131,14 @@ Vale decir, en los $30\degree$ se tiene que el centro de masa es perpendicular c
 Por último, para el período de pequeñas oscilaciones, se puede hacer un polinomio de Taylor en torno al punto de equilibrio para la ecuación inicial: 
 
 $$\begin{align}
-I_0\ddot{\theta}=\cancelto{0}{f(\theta^*)}+\frac{df}{d\theta}\bigg\vert_{\theta^*}(\theta-\theta^*)
+I_0\ddot{\theta}&=\cancelto{0}{f(\theta^*)}+\frac{df}{d\theta}\bigg\vert_{\theta^*}(\theta-\theta^*)\\\\ 
+I_0\ddot{\theta}&=\frac{-mgL}{2}\left(\sin\frac{\pi}{6}+3\cos\frac{\pi}{6}\right)(\theta-\frac{\pi}{6})\\\\ 
+I_0\ddot{\theta}&=\frac{-mgL}{2}\left(\frac{1}{2}+\frac{3\sqrt{3}}{2}\right)(\theta-\frac{\pi}{6})\\\\  
+0&=\ddot{\theta}+\mathbf{\frac{mgL(1+3\sqrt{3})}{4I_{0}}\theta}-\frac{\pi}{6}\frac{mgL(1+3\sqrt{3})}{4I_{0}}
+
 \end{align}$$
 
+
+Por lo tanto, $\omega^2=\frac{mgL(1+3\sqrt{3})}{4I_{0}}$, si reemplazamos $I_0=\frac{5mL^2}{3}$ se llega a lo siguiente: 
+
+$$\omega^2=\frac{3g(1+3\sqrt{3})}{20L}\iff\omega=\sqrt{\frac{3g(1+3\sqrt{3})}{20L}}$$
