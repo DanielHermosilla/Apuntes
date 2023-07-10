@@ -106,5 +106,21 @@ $$\int^{\dot{\theta}_{\text{max}}}_{\dot{\theta}_{\text{inicial}}}\dot{\theta}d\
 
 Claramente la velocidad angular inicial y final son $0$, entonces el lado izquierdo sería una integral entre cero y cero, lo que es nulo. Por el otro lado, resolviendo la integral del lado derecho: 
 
-$$-\frac{3Lg}{5}\left(-\sin \left(θ\right)\bigg\vert_{0}^{\theta^*}-3\cos \left(θ\right)\bigg\vert_{0}^{\theta^*}\right)$$
+$$\begin{align}
 
+0&=-\frac{3Lg}{5}\left(-\sin \left(θ\right)\bigg\vert_{0}^{\theta^*}-3\cos \left(θ\right)\bigg\vert_{0}^{\theta^*}\right)\\\\
+0&=-\frac{3Lg}{5}(-\sin\theta^*-3\cos\theta^*+3)\\\\  
+0&=-\sin\theta^*-3\cos\theta^*+3
+\end{align}
+$$
+
+Por lo tanto, el ángulo máximo es $\theta^*=180\degree$. 
+
+Por el otro lado, para determinar el **ángulo de equilibrio** habría que establecer el ángulo cuyo torque sea nulo. Para este caso, se tiene que: 
+
+$$\begin{align}
+
+-mg\left(\frac{L}{2}\sin\theta + L\sin\theta-\frac{L}{2}\cos\theta\right)&=0\\\\  
+3\sin\theta-\cos\theta&=0\\\\  
+\frac{1}{3}&=\cot\theta
+\end{align}$$
