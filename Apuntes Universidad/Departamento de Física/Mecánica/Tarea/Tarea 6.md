@@ -114,7 +114,7 @@ $$\begin{align}
 \end{align}
 $$
 
-Por lo tanto, el ángulo máximo es $\theta^*=180\degree$. 
+Por lo tanto, el ángulo máximo es $\theta\approx0.643rad$. 
 
 Por el otro lado, para determinar el **ángulo de equilibrio** habría que establecer el ángulo cuyo torque sea nulo. Para este caso, se tiene que: 
 
@@ -142,3 +142,5 @@ I_0\ddot{\theta}&=\frac{-mgL}{2}\left(\frac{1}{2}+\frac{3\sqrt{3}}{2}\right)(\th
 Por lo tanto, $\omega^2=\frac{mgL(1+3\sqrt{3})}{4I_{0}}$, si reemplazamos $I_0=\frac{5mL^2}{3}$ se llega a lo siguiente: 
 
 $$\omega^2=\frac{3g(1+3\sqrt{3})}{20L}\iff\omega=\sqrt{\frac{3g(1+3\sqrt{3})}{20L}}$$
+
+Que llegaría a ser la frecuencia de pequeñas oscilaciones. 
