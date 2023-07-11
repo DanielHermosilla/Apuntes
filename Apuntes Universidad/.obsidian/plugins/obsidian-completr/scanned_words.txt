@@ -52,6 +52,7 @@ Root
 Resta
 Rama
 Regla
+Recordar
 el
 es
 entonces
@@ -193,6 +194,8 @@ salgan
 secuencia
 segundo
 separado
+simplificado
+sta
 no
 neo
 nea
@@ -234,6 +237,8 @@ numerable
 ndose
 ntas
 ntos
+ncava
+negativos
 homog
 homogenea
 hacen
@@ -334,6 +339,7 @@ bajo
 bigcup
 bigcap
 binomial
+bus
 la
 las
 lo
@@ -370,6 +376,8 @@ lanza
 lanzamiento
 lbrace
 land
+logo
+llegada
 que
 quiere
 qk
@@ -461,6 +469,10 @@ desmuestra
 dots
 decisiones
 diferentes
+definicion
+discreto
+desarrollar
+desigualdad
 forma
 filas
 factor
@@ -496,6 +508,7 @@ fen
 formar
 fijo
 fuera
+formal
 tanto
 tiene
 tal
@@ -548,6 +561,8 @@ tipos
 tales
 todas
 tendr
+toma
+tan
 valores
 vectores
 variaci
@@ -657,6 +672,10 @@ cual
 condicional
 condicionalmente
 cadena
+conocida
+convexa
+cualquiera
+conoce
 propios
 particular
 podr
@@ -726,6 +745,8 @@ posibilidades
 permiendo
 permutaciones
 primer
+pensar
+podriamos
 Entonces
 EDO
 Esto
@@ -869,6 +890,8 @@ reemplazo
 realizan
 respecto
 rbrace
+rojo
+real
 asociados
 ambas
 asegura
@@ -913,6 +936,7 @@ analizar
 aleatorios
 azar
 aleatoria
+ahora
 La
 Los
 Luego
@@ -1039,6 +1063,7 @@ igual
 intersecci
 inclusi
 independencia
+informan
 ya
 yi
 yR
@@ -1221,6 +1246,7 @@ gu
 gC
 geom
 grupos
+grande
 Otra
 OPTIONS
 OS
@@ -1235,6 +1261,7 @@ Oy
 Ol
 Omega
 Ordenado
+Ocupando
 Be
 BA
 Bt
@@ -1256,6 +1283,7 @@ Bg
 BW
 Bj
 Bn
+Boole
 Vector
 Veamos
 Vale
@@ -1351,6 +1379,7 @@ MZ
 MathJax
 Modelo
 Monoton
+Markov
 KHTML
 KC
 Kd
