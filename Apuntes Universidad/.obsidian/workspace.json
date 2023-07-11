@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md"
               }
             }
           }
@@ -163,12 +163,12 @@
   },
   "active": "526d23bf6ddf3337",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Cota de la Unión.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Cota de Chernoff.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Varianza condicional.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Condicionando sobre un evento.md",
