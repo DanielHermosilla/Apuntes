@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "526d23bf6ddf3337",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Cauchy-Schwarz.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Cota de la Unión.md",

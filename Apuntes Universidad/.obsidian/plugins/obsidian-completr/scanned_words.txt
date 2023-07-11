@@ -196,6 +196,7 @@ segundo
 separado
 simplificado
 sta
+siniestros
 no
 neo
 nea
@@ -563,6 +564,7 @@ todas
 tendr
 toma
 tan
+tienen
 valores
 vectores
 variaci
@@ -598,6 +600,7 @@ vacio
 veces
 verificar
 vacia
+veh
 caracter
 cuando
 como
@@ -676,6 +679,7 @@ conocida
 convexa
 cualquiera
 conoce
+culos
 propios
 particular
 podr
@@ -747,6 +751,7 @@ permutaciones
 primer
 pensar
 podriamos
+pregunta
 Entonces
 EDO
 Esto
@@ -779,6 +784,7 @@ Est
 Equivalente
 Ejemplos
 Eventos
+Esperanza
 Ahora
 Aca
 Al
@@ -937,6 +943,7 @@ aleatorios
 azar
 aleatoria
 ahora
+aseguradora
 La
 Los
 Luego
