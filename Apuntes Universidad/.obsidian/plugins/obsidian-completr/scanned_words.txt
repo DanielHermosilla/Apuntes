@@ -41,6 +41,7 @@ Probabilidades
 Previamente
 Podriamos
 PMFs
+Poniendonos
 Resolver
 Realizando
 Reemplazando
@@ -171,6 +172,8 @@ enfocar
 extender
 estas
 efectivamente
+equivalentemente
+enteros
 siguiente
 sistema
 soluci
@@ -269,6 +272,8 @@ simple
 satisface
 sabiendo
 stica
+seguramente
+segura
 no
 neo
 nea
@@ -396,6 +401,7 @@ Suma
 Similarmente
 Similar
 Sumas
+SLLN
 buscando
 busco
 buscamos
@@ -437,6 +443,8 @@ bolas
 blanco
 bien
 bivariadas
+bil
+balanceada
 la
 las
 lo
@@ -639,6 +647,8 @@ descrito
 da
 dificil
 derivamos
+distribuidos
+definidas
 forma
 filas
 factor
@@ -754,6 +764,8 @@ til
 trabajaran
 trica
 tomamos
+tieme
+tasa
 valores
 vectores
 variaci
@@ -926,6 +938,8 @@ calcularla
 conseguida
 colas
 curtosis
+converge
+convergencia
 propios
 particular
 podr
@@ -1057,6 +1071,8 @@ Esta
 Eso
 Ejercicio
 Este
+Encontrar
+Existe
 Ahora
 Aca
 Al
@@ -1161,6 +1177,7 @@ mbulos
 mostrar
 muestra
 mas
+mismas
 resolver
 rmula
 reducir
@@ -1221,6 +1238,7 @@ realidad
 razonamiento
 relacionados
 reemplazar
+resultante
 asociados
 ambas
 asegura
@@ -1298,6 +1316,7 @@ aplicado
 algunas
 acordamos
 asumiendo
+anteriores
 La
 Los
 Luego
@@ -1364,6 +1383,7 @@ WT
 Wu
 WY
 Widths
+WLLN
 Definici
 Donde
 Dirac
@@ -1394,6 +1414,7 @@ Discretas
 Distributive
 Density
 Distribution
+Demostrar
 importante
 invertible
 intentara
@@ -1467,6 +1488,7 @@ integrales
 inversa
 inverso
 identificar
+igualmente
 ya
 yi
 yR
@@ -1581,6 +1603,7 @@ Continuas
 Convoluci
 Correlaci
 Cuando
+Converge
 Jordan
 JV
 JD
@@ -1655,6 +1678,7 @@ FGM
 Function
 Funci
 Faltar
+Fuerte
 Normalmente
 Norma
 Notemos
@@ -1739,6 +1763,7 @@ Buscando
 Bernoulli
 Binomial
 Buscar
+Bajo
 Vector
 Veamos
 Vale
@@ -1852,6 +1877,7 @@ Marginal
 Matriz
 Momento
 Multivariada
+Mostrar
 KHTML
 KC
 Kd
@@ -1883,6 +1909,7 @@ GFr
 Generalizaci
 Generadora
 Gaussiano
+Grandes
 YO
 YlG
 YY
