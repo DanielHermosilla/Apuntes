@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md"
               }
             }
           }
@@ -163,6 +163,14 @@
   },
   "active": "526d23bf6ddf3337",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia condicional.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Esperanza condicional.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Condicionando sobre un evento.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Principio multiplicativo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
@@ -187,14 +195,6 @@
     "GoodNotes Lasso Pasteboard",
     "Excalidraw/Drawing 2023-07-09 16.32.09.excalidraw.md",
     "Excalidraw",
-    "Departamento de Física/Mecánica/Partícula.md",
-    "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
-    "Departamento de Física/Mecánica/Reclamo 1.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
-    "Departamento de Física/Mecánica/Tarea",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md"
+    "Departamento de Física/Mecánica/Tarea"
   ]
 }

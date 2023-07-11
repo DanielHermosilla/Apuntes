@@ -31,6 +31,7 @@ Pg
 PBb
 Probabilidad
 Principio
+Podemos
 Resolver
 Realizando
 Reemplazando
@@ -50,6 +51,7 @@ Regular
 Root
 Resta
 Rama
+Regla
 el
 es
 entonces
@@ -121,6 +123,10 @@ existen
 eligen
 exactamente
 extrapola
+experimentos
+esimo
+especiales
+equivalencia
 siguiente
 sistema
 soluci
@@ -184,6 +190,9 @@ subyacen
 secuencias
 sirve
 salgan
+secuencia
+segundo
+separado
 no
 neo
 nea
@@ -288,6 +297,7 @@ Steiner
 Sean
 Solamente
 Ser
+Subconjuntos
 buscando
 busco
 buscamos
@@ -357,6 +367,9 @@ lnLd
 lj
 largo
 lanza
+lanzamiento
+lbrace
+land
 que
 quiere
 qk
@@ -481,6 +494,8 @@ frecuencia
 finito
 fen
 formar
+fijo
+fuera
 tanto
 tiene
 tal
@@ -532,6 +547,7 @@ tama
 tipos
 tales
 todas
+tendr
 valores
 vectores
 variaci
@@ -565,6 +581,8 @@ votantes
 varianza
 vacio
 veces
+verificar
+vacia
 caracter
 cuando
 como
@@ -636,6 +654,9 @@ conjuntos
 combinaciones
 coeficiente
 cual
+condicional
+condicionalmente
+cadena
 propios
 particular
 podr
@@ -704,6 +725,7 @@ permitimos
 posibilidades
 permiendo
 permutaciones
+primer
 Entonces
 EDO
 Esto
@@ -735,6 +757,7 @@ EOF
 Est
 Equivalente
 Ejemplos
+Eventos
 Ahora
 Aca
 Al
@@ -843,6 +866,9 @@ restaurant
 resta
 repeticiones
 reemplazo
+realizan
+respecto
+rbrace
 asociados
 ambas
 asegura
@@ -886,6 +912,7 @@ asigna
 analizar
 aleatorios
 azar
+aleatoria
 La
 Los
 Luego
@@ -903,6 +930,7 @@ LJ
 LastChar
 LJI
 Las
+Lanzo
 una
 un
 uno
@@ -1010,6 +1038,7 @@ independientes
 igual
 intersecci
 inclusi
+independencia
 ya
 yi
 yR
@@ -1060,6 +1089,9 @@ otra
 ordenadas
 ordenado
 os
+ordenada
+ocurre
+otros
 wronskiana
 www
 wF
@@ -1101,6 +1133,7 @@ Calcular
 Corresponde
 Cu
 Cuantos
+Casos
 Jordan
 JV
 JD
@@ -1253,6 +1286,7 @@ QXnV
 QBjV
 QVjV
 Que
+Qu
 Un
 Una
 Ua
@@ -1289,6 +1323,7 @@ Identity
 ItalicAngle
 Info
 Identidad
+Independencia
 MORE
 Mozilla
 Macintosh
