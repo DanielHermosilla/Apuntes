@@ -12,7 +12,7 @@ Donde $\lambda$ es el promedio de que ocurra algo.
 
 La [[Esperanza|esperanza]] corresponde a $\lambda$ si se aplica la definición. 
 
-## Varianza ç
+## Varianza 
 
 La [[Varianza|varianza]] corresponde a $E[X^2]-E[X]^2$, por lo tanto: 
 
