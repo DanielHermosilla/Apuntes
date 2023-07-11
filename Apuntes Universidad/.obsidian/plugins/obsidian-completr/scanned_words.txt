@@ -32,6 +32,9 @@ PBb
 Probabilidad
 Principio
 Podemos
+Pero
+Puntos
+PMF
 Resolver
 Realizando
 Reemplazando
@@ -131,6 +134,12 @@ especiales
 equivalencia
 esta
 esperanza
+estrictamente
+estricamente
+ese
+extrapolamos
+estandar
+esperado
 siguiente
 sistema
 soluci
@@ -204,6 +213,10 @@ sigue
 siguen
 simetr
 sentido
+simplificar
+suficientemente
+salga
+separar
 no
 neo
 nea
@@ -275,6 +288,7 @@ hizo
 hacia
 habr
 hacerla
+hasta
 Soluci
 Simplificando
 Se
@@ -313,6 +327,7 @@ Sean
 Solamente
 Ser
 Subconjuntos
+Supongamos
 buscando
 busco
 buscamos
@@ -350,6 +365,7 @@ bigcup
 bigcap
 binomial
 bus
+bolas
 la
 las
 lo
@@ -388,6 +404,9 @@ lbrace
 land
 logo
 llegada
+locales
+lanzan
+linealidad
 que
 quiere
 qk
@@ -401,6 +420,7 @@ qI
 qsGsGK
 qH
 qT
+quisiera
 de
 dado
 derecho
@@ -486,6 +506,18 @@ desigualdad
 distribuci
 decimal
 denominado
+derivable
+dichos
+densidad
+diferenciable
+dividen
+denotado
+denotamos
+desviaci
+denota
+definimos
+disjuntas
+demostrar
 forma
 filas
 factor
@@ -580,6 +612,9 @@ tan
 tienen
 transformaci
 tabla
+tona
+tira
+terremoto
 valores
 vectores
 variaci
@@ -697,6 +732,14 @@ cualquiera
 conoce
 culos
 calcula
+cuantil
+continua
+casi
+creciente
+cantidad
+caras
+cuentan
+caja
 propios
 particular
 podr
@@ -771,6 +814,8 @@ podriamos
 pregunta
 partes
 pide
+partici
+puntos
 Entonces
 EDO
 Esto
@@ -805,6 +850,8 @@ Ejemplos
 Eventos
 Esperanza
 Esta
+Eso
+Ejercicio
 Ahora
 Aca
 Al
@@ -877,6 +924,10 @@ memoria
 media
 mts
 mida
+mon
+monedas
+meros
+minutos
 resolver
 rmula
 reducir
@@ -924,6 +975,7 @@ rojo
 real
 rdida
 reales
+rango
 asociados
 ambas
 asegura
@@ -975,6 +1027,10 @@ anteriormente
 adentro
 algun
 analiza
+acumulada
+aprendido
+aeropuerto
+auxiliar
 La
 Los
 Luego
@@ -1017,6 +1073,7 @@ uA
 util
 uni
 uniforme
+usualmente
 Wronskiana
 We
 Width
@@ -1109,6 +1166,13 @@ informan
 integraci
 imposible
 impar
+interior
+intervalos
+indicatriz
+incluyendo
+imagen
+infinito
+infinita
 ya
 yi
 yR
@@ -1206,6 +1270,9 @@ Cuantos
 Casos
 CDF
 Calculando
+Consideramos
+Cuanto
+Cual
 Jordan
 JV
 JD
@@ -1245,6 +1312,7 @@ Todo
 Teorema
 Tiene
 Tabla
+Tenemos
 Factorizando
 Factor
 Ft
@@ -1283,6 +1351,7 @@ NcSM
 NT
 Normalizaci
 NO
+Notar
 general
 gnita
 gs
@@ -1298,6 +1367,7 @@ grupos
 grande
 gamma
 gr
+gana
 Otra
 OPTIONS
 OS
@@ -1313,6 +1383,7 @@ Ol
 Omega
 Ordenado
 Ocupando
+Otro
 Be
 BA
 Bt
@@ -1433,6 +1504,8 @@ MathJax
 Modelo
 Monoton
 Markov
+Mediana
+Moda
 KHTML
 KC
 Kd
@@ -1461,6 +1534,7 @@ GJ
 GV
 GnVT
 GFr
+Generalizaci
 YO
 YlG
 YY
@@ -1554,6 +1628,7 @@ xI
 xngE
 xref
 ximo
+ximos
 knn
 km
 kw
