@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md"
               }
             }
           }
@@ -163,6 +163,13 @@
   },
   "active": "526d23bf6ddf3337",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Función Gamma.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Uniforme.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal Estándar.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Gamma.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Exponencial.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Chebyshev.md",
@@ -182,13 +189,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Teoría de probabilidades.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Propiedades.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Probabilidades Totales.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Espacio muestral.md",
     "Tarea 6.pdf",
     "Imagen PNG 3.png",
     "Imagen PNG 2.png",

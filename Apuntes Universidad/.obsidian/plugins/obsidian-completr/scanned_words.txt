@@ -53,6 +53,7 @@ Resta
 Rama
 Regla
 Recordar
+Resolviendo
 el
 es
 entonces
@@ -128,6 +129,8 @@ experimentos
 esimo
 especiales
 equivalencia
+esta
+esperanza
 siguiente
 sistema
 soluci
@@ -197,6 +200,10 @@ separado
 simplificado
 sta
 siniestros
+sigue
+siguen
+simetr
+sentido
 no
 neo
 nea
@@ -240,6 +247,7 @@ ntas
 ntos
 ncava
 negativos
+ndar
 homog
 homogenea
 hacen
@@ -266,6 +274,7 @@ haciendo
 hizo
 hacia
 habr
+hacerla
 Soluci
 Simplificando
 Se
@@ -474,6 +483,9 @@ definicion
 discreto
 desarrollar
 desigualdad
+distribuci
+decimal
+denominado
 forma
 filas
 factor
@@ -510,6 +522,7 @@ formar
 fijo
 fuera
 formal
+fila
 tanto
 tiene
 tal
@@ -565,6 +578,8 @@ tendr
 toma
 tan
 tienen
+transformaci
+tabla
 valores
 vectores
 variaci
@@ -601,6 +616,7 @@ veces
 verificar
 vacia
 veh
+vio
 caracter
 cuando
 como
@@ -680,6 +696,7 @@ convexa
 cualquiera
 conoce
 culos
+calcula
 propios
 particular
 podr
@@ -752,6 +769,8 @@ primer
 pensar
 podriamos
 pregunta
+partes
+pide
 Entonces
 EDO
 Esto
@@ -785,6 +804,7 @@ Equivalente
 Ejemplos
 Eventos
 Esperanza
+Esta
 Ahora
 Aca
 Al
@@ -853,6 +873,10 @@ muestras
 muestreo
 multinomial
 mismo
+memoria
+media
+mts
+mida
 resolver
 rmula
 reducir
@@ -898,6 +922,8 @@ respecto
 rbrace
 rojo
 real
+rdida
+reales
 asociados
 ambas
 asegura
@@ -944,6 +970,11 @@ azar
 aleatoria
 ahora
 aseguradora
+altura
+anteriormente
+adentro
+algun
+analiza
 La
 Los
 Luego
@@ -962,6 +993,7 @@ LastChar
 LJI
 Las
 Lanzo
+Lo
 una
 un
 uno
@@ -984,6 +1016,7 @@ uR
 uA
 util
 uni
+uniforme
 Wronskiana
 We
 Width
@@ -1021,6 +1054,8 @@ Differences
 Dj
 De
 Demostr
+Determinar
+Densidad
 importante
 invertible
 intentara
@@ -1071,6 +1106,9 @@ intersecci
 inclusi
 independencia
 informan
+integraci
+imposible
+impar
 ya
 yi
 yR
@@ -1166,6 +1204,8 @@ Corresponde
 Cu
 Cuantos
 Casos
+CDF
+Calculando
 Jordan
 JV
 JD
@@ -1203,6 +1243,8 @@ Todos
 Tambi
 Todo
 Teorema
+Tiene
+Tabla
 Factorizando
 Factor
 Ft
@@ -1254,6 +1296,8 @@ gC
 geom
 grupos
 grande
+gamma
+gr
 Otra
 OPTIONS
 OS
@@ -1291,6 +1335,7 @@ BW
 Bj
 Bn
 Boole
+Buscando
 Vector
 Veamos
 Vale
@@ -1306,6 +1351,7 @@ Vs
 Vo
 VA
 Vandermonde
+Varianza
 Queda
 QO
 QRG
