@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md"
               }
             }
           }
@@ -164,10 +163,26 @@
   },
   "active": "526d23bf6ddf3337",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Teoría de probabilidades.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Propiedades.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Probabilidades Totales.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Espacio muestral.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Axiomas.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de la Esperanza Total.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de probabilidad discreta.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Varianza Total.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Función probabilidad.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Evento.md",
+    "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
     "Tarea 6.pdf",
     "Imagen PNG 3.png",
     "Imagen PNG 2.png",
-    "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
     "Departamento de Física/Mecánica/img/Imagen PNG.png",
     "GoodNotes Lasso Pasteboard",
     "Excalidraw/Drawing 2023-07-09 16.32.09.excalidraw.md",
@@ -180,14 +195,6 @@
     "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
     "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Forma de Jordan.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Funciones generalizadas y Dirac.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md"
+    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md"
   ]
 }
