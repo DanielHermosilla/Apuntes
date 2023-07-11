@@ -13,5 +13,6 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar",
     "obsidian-functionplot:insert-functionplot"
-  ]
+  ],
+  "promptDelete": false
 }

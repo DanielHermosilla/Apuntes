@@ -21,22 +21,8 @@
             "id": "02215cc5ff6e77d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Tarea 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdc6badffb398cd9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Drawing 2023-07-09 16.15.49.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +84,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Tarea 6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +100,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Tarea 6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +110,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Tarea 6.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -146,11 +128,17 @@
   },
   "active": "02215cc5ff6e77d9",
   "lastOpenFiles": [
-    "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/DCL.png",
-    "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Tarea 6.md",
-    "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Coeficiente de Variación.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Markov.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Desigualdades/Desigualdad de Jensen.md",
     "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Drawing 2023-07-09 16.15.49.excalidraw.md",
     "Pasted image 20230709161622.png",
+    "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+    "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/DCL.png",
+    "Excalidraw/Drawing 2023-07-09 16.01.41.excalidraw.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md",
     "Excalidraw/Dcl.excalidrawlib",
     "Excalidraw",
@@ -172,11 +160,6 @@
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Poisson.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución de Bernoulli.md",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Probabilidades/Repasos/Integrales/Técnicas de integración.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/escalares.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/combinación lineal.md",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Espacios vectoriales/dependencia.md",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes/Captura de Pantalla 2022-11-28 a la(s) 20.17.08.png",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Imagenes/diagramacambiobase.jpeg",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Álgebra Lineal/Valores y vectores propios/Operaciones vectoriales",
