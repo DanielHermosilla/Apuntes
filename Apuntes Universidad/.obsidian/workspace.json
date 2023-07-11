@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md"
               }
             }
           }
@@ -163,11 +163,11 @@
   },
   "active": "526d23bf6ddf3337",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Covarianza.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones/Distribución Multinomial.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones/Normal Multivariada.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función Generadora de Momento.md",
