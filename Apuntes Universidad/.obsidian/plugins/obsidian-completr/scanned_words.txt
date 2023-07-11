@@ -940,6 +940,7 @@ colas
 curtosis
 converge
 convergencia
+cierta
 propios
 particular
 podr
@@ -1034,6 +1035,7 @@ pre
 ponderaci
 positiva
 positivo
+proca
 Entonces
 EDO
 Esto
@@ -1239,6 +1241,7 @@ razonamiento
 relacionados
 reemplazar
 resultante
+rec
 asociados
 ambas
 asegura
