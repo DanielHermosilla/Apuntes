@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md"
               }
             }
           }
@@ -161,34 +160,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "526d23bf6ddf3337",
+  "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
+    "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Covarianza.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones/Distribución Multinomial.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones/Normal Multivariada.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función Generadora de Momento.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función característica.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad Conjunta.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Desviación estandar.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza de una función de variable aleatoria.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Linealidad de la esperanza.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Coeficiente de Variación.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Convolución.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Correlación.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Covarianza.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Curtosis.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución geométrica.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Variable aleatoria discreta.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Función de Masa de Probabilidad.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Función de Distribución Acumulada.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza de Suma de Variable Aleatoria.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Distribuciones/Distribución Multinomial.md",
     "Tarea 6.pdf",
     "Imagen PNG 3.png",
     "Imagen PNG 2.png",

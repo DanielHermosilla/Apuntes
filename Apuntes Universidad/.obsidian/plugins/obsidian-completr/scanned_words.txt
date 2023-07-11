@@ -500,6 +500,7 @@ queremos
 querer
 quieren
 qu
+queda
 de
 dado
 derecho
@@ -636,6 +637,8 @@ dicen
 definirlo
 descrito
 da
+dificil
+derivamos
 forma
 filas
 factor
@@ -749,6 +752,8 @@ teoremas
 ticas
 til
 trabajaran
+trica
+tomamos
 valores
 vectores
 variaci
@@ -917,6 +922,10 @@ coordenada
 combinaci
 confirmar
 considerar
+calcularla
+conseguida
+colas
+curtosis
 propios
 particular
 podr
@@ -1686,6 +1695,7 @@ genereradora
 generalizaci
 generadoras
 generadores
+geometr
 Otra
 OPTIONS
 OS
@@ -1702,6 +1712,7 @@ Omega
 Ordenado
 Ocupando
 Otro
+Ocurre
 Be
 BA
 Bt
