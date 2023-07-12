@@ -11,3 +11,36 @@ Al final, lo que la firma elige es **la cantidad a producir**, no así el precio
 
 ![[Pasted image 20230711214511.png|center|500]]
 
+
+Dado que las firmas no pueden afectar el precio, existen ciertos factores que lo pueden hacer: 
+
+- Bienes normales e inferiores: Son aquellos bienes donde la demanda cambia según el aumento de ingreso 
+- Bien de lujo: Aquellos aparecen cuando la renta aumenta. 
+- Bienes sustitos: Aquellos bienes que están relacionados con otros, por ejemplo, la margarina con la manteca. 
+
+Por el lado de la oferta, se pueden tener cambios por mejoras tecnológicas. 
+
+Los excedentes y fijaciones de precios se logran a través de estos *shocks exógenos* que hacen que ocurra un cambio en la demanda. Por ejemplo, al haber más matrículas en una universidad, aumenta la demanda de libros, las librerías pueden aprovechar el *shock* y desplazamiento de la demanda para fijar el precio. Luego del *shock* se tiene nuevamente un equilibrio. 
+
+### Equilibrio al corto plazo 
+
+Se puede tener un modelo perfecto, donde no hay barreras de entradas significativas, y tener la siguiente situación: 
+
+![[Pasted image 20230711215346.png|center]]
+
+Las firmas generan beneficios, pero esto a corto plazo incita a que se unan más firmas. Cuando entran mas empresas, la oferta se desplaza a la derecha, obteniendo un equilibrio en $B$: 
+
+![[Pasted image 20230711215511.png|center]]
+
+En este caso, las panaderias estarían produciendo menos cada una, y cobrando menos. Aun así, el precio sigue por arriba del costo medio, vale decir, siguen obteniendo beneficios. El equilibrio a corto plazo, entonces, haría que más empresas entren hasta llegar al punto donde no es conveniente el negocio, vale decir, el punto $C$: 
+
+![[Pasted image 20230711215652.png|center|500]]
+
+
+Esto se logra cuando $P=CMg=CMe$. Esto por ende, sería el **equilibrio a largo plazo**. 
+
+## Impuestos 
+
+Es una tarifa cobrada además del precio del bien. Por el otro lado, el subsidio sería una tarifa que se descuenta sobre el precio del bien. los gobiernos utilizan estos mecanismos para incentivar o desincentivar el consumo en mercados y como forma de recaudación. Los impuestos y/o subsidios distorsionan el mercado y generan pérdidas de eficiencia. Se llegaría a algo del siguiente estilo: 
+
+![[Pasted image 20230711220034.png|ce]]
