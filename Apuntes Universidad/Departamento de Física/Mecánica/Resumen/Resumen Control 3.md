@@ -550,11 +550,43 @@ Por ende, lo importante de acá es concluir que **el momento angular es afectado
 Análogo a la demostración anterior, es importante notar que el momento angular respecto a un punto $Q$ cualquiera se puede definir de la forma: 
 
 $$\vec{L_Q}=\sum^{N}_{i=1}m_i(\vec{r_i}-\vec{r_Q})\times\vec{v_i}$$ 
+
+### Momento angular de una estructura rígida
+
 Ahora, si consideramos dos sistemas de referencias, uno inercial $S$ y otro no inercial $S'$, cuyo origen $O'$ y ejes $X', Y', Z'$ se mueven solidariamente con la estructura rígida de partículas, sabemos que el sistema $S'$ está pegado a la estructura rígida, entonces se cumple que: 
 
 $$\begin{align}
 \vec{v_i}'&=\vec{0}\\\\
 \vec{a_i}'&=\vec{0}\\\\   
-\vec{\Omega_e}=\vec{\Omega_s}
+\vec{\Omega_e}&=\vec{\Omega_s}
 \end{align}$$
 
+Donde $\vec{\Omega_s}$ es la velocidad angular y $\vec{\alpha_s}$ es la aceleración angular de la estructura rígida. Por lo tanto, se define la relación cinemática: 
+
+$$\begin{align}
+\vec{r_i}&=\vec{R_0}+\vec{r_i}'\\ \\
+\vec{v_i}&=\vec{V_0}+\vec{\Omega_s}\times\vec{r_i}
+\end{align}$$
+
+Notar que el punto $O'$ puede ser cualquier punto que se mueva en solidario con el sólido rígido. 
+
+Notemos que $\vec{r_i}$ y $\vec{v_i}$ también se pueden definir en función del vector $\vec{\rho_i}$, correspondiente a la posición relativa de la partícula respecto al centro de masa. Por lo tanto: 
+
+$$
+\begin{align}
+\vec{r_i}&=\vec{R_CM}+\vec{\rho_i}'\\ \\
+\vec{v_i}&=\vec{V_{CM}}+\vec{\Omega_s}\times\vec{\rho_i}
+\end{align}
+$$
+
+Si le calculamos el momento angular de la estructura respecto al centro de masa, se llega a lo siguiente: 
+
+$$\vec{L}_{CM_i}=m_i\vec{\rho_i}\times\dot{\vec{\rho_i}}=m_i\vec{\rho_i}\times (\vec{\Omega_s}\times\vec{\rho_i})$$
+
+Si se desarrolla el triple producto cruz, se obtiene componentes en $\hat{x}, \hat{y}, \hat{z}$, por lo tanto, se puede reescribir todo dentro de una matriz. Esta matriz se llama matriz de inercia, vale decir $I_{CM}$. Por lo tanto, se llega a la siguiente relación: 
+
+$$\vec{L_{CM}}=I_{CM}\vec{\Omega_s}$$
+
+Notemos que esto es válido para cualquier punto, vale decir; 
+
+$$\vec{L_O}=I_O\vec{\Omega_S}$$
