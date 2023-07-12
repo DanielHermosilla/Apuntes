@@ -43,4 +43,13 @@ Esto se logra cuando $P=CMg=CMe$. Esto por ende, sería el **equilibrio a largo 
 
 Es una tarifa cobrada además del precio del bien. Por el otro lado, el subsidio sería una tarifa que se descuenta sobre el precio del bien. los gobiernos utilizan estos mecanismos para incentivar o desincentivar el consumo en mercados y como forma de recaudación. Los impuestos y/o subsidios distorsionan el mercado y generan pérdidas de eficiencia. Se llegaría a algo del siguiente estilo: 
 
-![[Pasted image 20230711220034.png|ce]]
+![[Pasted image 20230711220034.png|center|600]]
+
+
+## Fijación de precios 
+
+También es otro tipo de corrección que termina distorsionando el mercado. Un ejemplo de esto es el mercado de la empleabilidad. 
+
+# Oligopolios 
+
+Aquellos mercados con pocos actores, que no alcanza a llamarse monopolio per se. 
