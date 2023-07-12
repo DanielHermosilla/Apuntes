@@ -2,7 +2,7 @@
   "snippets": "[\n\n]",
   "snippetsEnabled": true,
   "snippetsTrigger": "Tab",
-  "removeSnippetWhitespace": true,
+  "removeSnippetWhitespace": false,
   "loadSnippetsFromFile": false,
   "snippetsFileLocation": "",
   "concealEnabled": false,
@@ -14,7 +14,7 @@
   "autofractionBreakingChars": "+-=\t",
   "matrixShortcutsEnabled": true,
   "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix",
-  "taboutEnabled": false,
+  "taboutEnabled": true,
   "autoEnlargeBrackets": true,
   "autoEnlargeBracketsTriggers": "sum, int, frac, prod",
   "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$"

@@ -550,3 +550,11 @@ Por ende, lo importante de acá es concluir que **el momento angular es afectado
 Análogo a la demostración anterior, es importante notar que el momento angular respecto a un punto $Q$ cualquiera se puede definir de la forma: 
 
 $$\vec{L_Q}=\sum^{N}_{i=1}m_i(\vec{r_i}-\vec{r_Q})\times\vec{v_i}$$ 
+Ahora, si consideramos dos sistemas de referencias, uno inercial $S$ y otro no inercial $S'$, cuyo origen $O'$ y ejes $X', Y', Z'$ se mueven solidariamente con la estructura rígida de partículas, sabemos que el sistema $S'$ está pegado a la estructura rígida, entonces se cumple que: 
+
+$$\begin{align}
+\vec{v_i}'&=\vec{0}\\\\
+\vec{a_i}'&=\vec{0}\\\\   
+\vec{\Omega_e}=\vec{\Omega_s}
+\end{align}$$
+
