@@ -590,3 +590,16 @@ $$\vec{L_{CM}}=I_{CM}\vec{\Omega_s}$$
 Notemos que esto es válido para cualquier punto, vale decir; 
 
 $$\vec{L_O}=I_O\vec{\Omega_S}$$
+Análogamente, el momento de inercia para una partícula con respecto al eje de rotación viene dado por: 
+
+$$I_i=m_{i\cdot}r_{i}^2$$
+
+Donde $r_i$ es la distancia al eje de rotación o pivote de la partícula. 
+
+#### Teorema de Steiner 
+
+El momento de inercia de un cuerpo respecto a un eje que pasa por su centro de masa puede calcularse sumando el momento de inercia respecto a un eje paralelo. En palabras simples, el teorema permite calcular el momento de inercia de un objeto respecto a un eje diferente al eje que pasa por su centro de masa. Se cumple que: 
+
+$$I = I_{CM} + m\cdot d^2$$
+
+Donde $I$ es el momento de inercia alrededor del nuevo eje, $I_{CM}$ el momento de inercia alrededor del eje que pasa por el centro de masa del objeto, $m$ siendo la masa del objeto y $d$ la distancia entre el eje original y el nuevo eje. 
