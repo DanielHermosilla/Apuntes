@@ -174,6 +174,13 @@ estas
 efectivamente
 equivalentemente
 enteros
+eje
+extremadamente
+eficiente
+elemento
+emplea
+estructura
+estados
 siguiente
 sistema
 soluci
@@ -445,6 +452,12 @@ bien
 bivariadas
 bil
 balanceada
+bases
+basa
+buscado
+busqueda
+backtracking
+booleanos
 la
 las
 lo
@@ -490,6 +503,8 @@ lculo
 llevar
 llegase
 ltima
+lista
+llamada
 que
 quiere
 qk
@@ -649,6 +664,8 @@ dificil
 derivamos
 distribuidos
 definidas
+dominio
+diagrama
 forma
 filas
 factor
@@ -694,6 +711,7 @@ ficamente
 figura
 formulaci
 formular
+falsa
 tanto
 tiene
 tal
@@ -766,6 +784,7 @@ trica
 tomamos
 tieme
 tasa
+transiciones
 valores
 vectores
 variaci
@@ -808,6 +827,7 @@ vez
 varias
 varianzas
 video
+visual
 caracter
 cuando
 como
@@ -941,6 +961,11 @@ curtosis
 converge
 convergencia
 cierta
+corresponder
+comparaciones
+compararlo
+comparaci
+cnica
 propios
 particular
 podr
@@ -1075,6 +1100,7 @@ Ejercicio
 Este
 Encontrar
 Existe
+Estas
 Ahora
 Aca
 Al
@@ -1113,6 +1139,7 @@ Anteriormente
 Algunas
 Aplicaci
 Aleatorias
+Aun
 matriz
 metros
 mero
@@ -1180,6 +1207,8 @@ mostrar
 muestra
 mas
 mismas
+mite
+mitad
 resolver
 rmula
 reducir
@@ -1242,6 +1271,10 @@ relacionados
 reemplazar
 resultante
 rec
+resulta
+recursi
+rombo
+repetitivos
 asociados
 ambas
 asegura
@@ -1320,6 +1353,8 @@ algunas
 acordamos
 asumiendo
 anteriores
+algoritmo
+array
 La
 Los
 Luego
@@ -1418,6 +1453,7 @@ Distributive
 Density
 Distribution
 Demostrar
+Diremos
 importante
 invertible
 intentara
@@ -1492,6 +1528,9 @@ inversa
 inverso
 identificar
 igualmente
+indica
+instantanea
+iteraciones
 ya
 yi
 yR
@@ -1564,6 +1603,7 @@ woE
 whyOR
 woV
 wX
+while
 Como
 CO
 Cauchy
@@ -1700,6 +1740,7 @@ Normalizaci
 NO
 Notar
 Nuevamente
+Nos
 general
 gnita
 gs
@@ -1723,6 +1764,7 @@ generalizaci
 generadoras
 generadores
 geometr
+grandes
 Otra
 OPTIONS
 OS

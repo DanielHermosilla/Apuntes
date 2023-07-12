@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
-                "mode": "source",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md"
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md"
               }
             }
           }
@@ -160,10 +160,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dbefffbc2ea1dec",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Promedio de Variable Aleatorias Independientes e Igualmente Distribuidos.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagramas de Flujo.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada parcial.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Continuidad.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Promedio de Variable Aleatorias Independientes e Igualmente Distribuidos.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad y Distribución.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad.md",
@@ -183,11 +188,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Curtosis.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Esperanza de una variable continua.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Función de Densidad de Probabilidad (PDF).md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Rango de una variable aleatoria continua.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Valores para describir una distribución.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Varianza de una variable aleatoria continua.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Variable aleatoria continua.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Hipergeométrica.md",
     "Tarea 6.pdf",
     "Imagen PNG 3.png",
     "Imagen PNG 2.png",
