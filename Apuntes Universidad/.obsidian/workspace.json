@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bayes",
+                "query": "Varianza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md"
               }
             }
           }
@@ -163,6 +164,8 @@
   },
   "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
     "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
     "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230711214511.png",
@@ -195,8 +198,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función característica.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Convolución.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Correlación.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Covarianza.md",
     "Tarea 6.pdf",
     "Departamento de Física/Mecánica/img/Imagen PNG.png",
     "GoodNotes Lasso Pasteboard",

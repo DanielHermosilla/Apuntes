@@ -78,6 +78,7 @@ PjA
 Pq
 Potencial
 Particular
+Pascal
 Resolver
 Realizando
 Reemplazando
@@ -316,6 +317,7 @@ estudia
 enfrentar
 externas
 enormemente
+etapas
 siguiente
 sistema
 soluci
@@ -2606,6 +2608,7 @@ individuales
 inicio
 interpretar
 interno
+intentos
 ya
 yi
 yR
@@ -2742,6 +2745,7 @@ ocupara
 orbital
 orbitas
 original
+ocupada
 wronskiana
 www
 wF
