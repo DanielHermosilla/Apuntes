@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -160,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
     "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230711214511.png",
