@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Bayes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
+    "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
     "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230711214511.png",
     "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md",
@@ -196,7 +197,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Convolución.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Correlación.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Covarianza.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
     "Tarea 6.pdf",
     "Departamento de Física/Mecánica/img/Imagen PNG.png",
     "GoodNotes Lasso Pasteboard",
