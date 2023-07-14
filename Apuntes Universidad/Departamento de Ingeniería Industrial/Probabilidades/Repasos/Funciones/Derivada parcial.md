@@ -1,5 +1,5 @@
 
-Nos indica la variación de una [[Continuidad|función continua]] en una cierta dirección, usualmente en el eje de las ordenadas. Es distinta a la [[Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada|derivada total]]. 
+Nos indica la variación de una [[Continuidad|función continua]] en una cierta dirección, usualmente en el eje de las ordenadas. Es distinta a la [[Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada|derivada total]].  
 
 ### Ejemplo 
 

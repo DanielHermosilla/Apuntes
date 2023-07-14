@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
+                "file": "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,14 +23,15 @@
             "id": "526d23bf6ddf3337",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
+                "file": "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
+                "file": "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md"
+                "file": "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md"
               }
             }
           }
@@ -160,24 +161,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "526d23bf6ddf3337",
+  "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
+    "Pasted image 20230711220034.png",
+    "Pasted image 20230711215652.png",
+    "Pasted image 20230711215511.png",
+    "Pasted image 20230711215346.png",
+    "Pasted image 20230711214511.png",
+    "Departamento de Física/Imagen PNG 3.png",
+    "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md",
+    "Departamento de Ingeniería Industrial/Economía/Untitled",
+    "Departamento de Física/Imagen PNG 2.png",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagramas de Flujo.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada parcial.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Continuidad.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Promedio de Variable Aleatorias Independientes e Igualmente Distribuidos.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad y Distribución.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
     "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
-    "Excalidraw/Drawing 2023-07-09 15.56.21.excalidraw.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función Generadora de Momento.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función característica.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Convolución.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Correlación.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Covarianza.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Cambio de variable.md",
+    "Tarea 6.pdf",
+    "Departamento de Física/Mecánica/img/Imagen PNG.png",
+    "GoodNotes Lasso Pasteboard",
     "Excalidraw",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Examen.md",
-    "Departamento de Física/Mecánica/Tarea",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Sistema de ecuaciones.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema lineal no homogéneo.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Problema de Cauchy de Sistema Lineales.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz fundamental.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz exponencial.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Sistemas de ecuaciones/Matriz a coeficientes variables.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Forma de Jordan.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Integración con variable compleja.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Funciones generalizadas y Dirac.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Ecuaciones de orden superior lineales/Matriz Wronskiana.md",
-    "Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Consulta.md"
+    "Departamento de Física/Mecánica/Tarea"
   ]
 }
