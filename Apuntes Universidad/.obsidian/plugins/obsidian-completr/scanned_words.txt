@@ -468,6 +468,9 @@ segunda
 siente
 suman
 solas
+solidariamente
+solidario
+sumando
 no
 neo
 nea
@@ -868,6 +871,8 @@ llegado
 llego
 lica
 ley
+lido
+logamente
 que
 quiere
 qk
@@ -1115,6 +1120,7 @@ distinguir
 dicho
 distinci
 demostraci
+diferente
 forma
 filas
 factor
@@ -1305,6 +1311,7 @@ tico
 tulo
 trabajos
 tradicional
+triple
 valores
 vectores
 variaci
@@ -1385,6 +1392,7 @@ velocidadx
 volviendo
 var
 visto
+viene
 caracter
 cuando
 como
@@ -1588,6 +1596,8 @@ compuesta
 cancelan
 conservaci
 componen
+correspondiente
+calculamos
 propios
 particular
 podr
@@ -1748,6 +1758,8 @@ ponderada
 ponderado
 posiciones
 presencia
+pegado
+paralelo
 Entonces
 EDO
 Esto
@@ -2008,6 +2020,8 @@ multiplica
 mueve
 movimientos
 masas
+mueven
+mueva
 resolver
 rmula
 reducir
@@ -2128,6 +2142,7 @@ rotan
 reordenando
 reacci
 relativa
+referencias
 asociados
 ambas
 asegura
@@ -2251,6 +2266,7 @@ arreglo
 angulares
 ac
 afectado
+alrededor
 La
 Los
 Luego
@@ -3181,6 +3197,8 @@ globales
 gracias
 garantiza
 global
+gida
+gido
 Otra
 OPTIONS
 OS

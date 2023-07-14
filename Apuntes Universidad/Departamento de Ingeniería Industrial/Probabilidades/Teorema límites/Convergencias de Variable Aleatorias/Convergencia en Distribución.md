@@ -36,6 +36,3 @@ Para $x\in\lbrace 0,1,2,3,\dots\rbrace$.
 Si $\lim_{n\to\infty}M_{X_n}(s)=M_X(s)$ para todo $s\in[-c,c]$, entonces $X_n\to X$ 
 
 
-
-
-$$\frac{0.875\cdot(0.875^{300}\cdot e^{-0.875\cdot 360\cdot 300})-300\cdot 0.875}{\sqrt{300}}$$

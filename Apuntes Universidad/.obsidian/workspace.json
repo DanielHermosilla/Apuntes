@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md"
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad y Distribución.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
