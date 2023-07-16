@@ -48,7 +48,23 @@ Existen tres tipos de sólidos cristalinos:
 Cada partícula en el vértice cuanta como $\frac{1}{8}$, entonces en total tiene $1$ átomo. 
 
 - **Cúbica centrada en el cuerpo**: Particulas en los vértices y una en el centro
+
 ![[IMG_56CBD52F1379-1.jpeg|center|400]]
 
-- **Cúbica centrada en la cara**: 
-- ![[IMG_9CCAA51848EA-1.jpeg]]
+- **Cúbica centrada en la cara**: Es lo mismo que la cúbica centrada en el cuerpo pero ahora se le añade un átomo en las caras. 
+
+![[IMG_9CCAA51848EA-1.jpeg|center|400]]
+
+La forma de obtener la cantidad de átomos por celda es la siguiente relación: 
+
+$$\text{Átomos}=\begin{cases}\frac{1}{8}&\text{Vértice}\\\\  
+\frac{1}{4}&\text{Arista}\\\\ 
+\frac{1}{2}&\text{Cara}\\\\
+1&\text{Centro}
+\end{cases}$$
+
+Por último, para calcular la masa total se considera el siguiente cálculo: 
+
+$$m=\frac{\sum_{i}n_{\text{átomos}}\cdot PM_i}{\text{Avogadro}}$$
+
+Y el volumen se obtiene bajo la relación $V=\frac{m}{\rho}$. Cualquier variación de la densidad puede servir para obtener el volumen. 
