@@ -81,7 +81,18 @@ Para el caso de la celda centrada en el centro, se tiene el siguiente esquema:
 
 ## Auxiliar 4: Geometría Molecular y TOM 
 
-Para determinar la clase de una molecula, normalmente se hace la asimilación de que el prefijo $B$ 
+Para determinar la clase de una molecula, normalmente se hace la asimilación de que el prefijo $B$ determina la cantidad de enlaces y el prefijo $E$ los pares de electrones libres, por ejemplo: 
+
+- $SF_6=AB_6$
+- $PCl_3=AB_3E_1$
+
+Para el TOM, primero se identifica la configuración electrónica de los pares enlazantes. Por consiguiente, según el orbital donde se ubica, se llenan la nube electrónica: 
+
+![[IMG_A21E15A1E86D-1.jpeg|center|400]]
+
+
+
+
 
 ## Auxiliar 8: Estequiometría y Reacciones Químicas 
 
