@@ -21,6 +21,7 @@ $$Ag: [Ar]4s^23d^{10}4p^65s^14d^{10}$$
 
 Aun así, manteniendo su propiedad de paramagnetismo. 
 
+
 ## Auxiliar 3: Estructuras cristalinas y Teoría de Lewis 
 
 #### Teoría de Lewis 
@@ -86,12 +87,31 @@ Para determinar la clase de una molecula, normalmente se hace la asimilación de
 - $SF_6=AB_6$
 - $PCl_3=AB_3E_1$
 
+
 Para el TOM, primero se identifica la configuración electrónica de los pares enlazantes. Por consiguiente, según el orbital donde se ubica, se llenan la nube electrónica: 
 
 ![[IMG_A21E15A1E86D-1.jpeg|center|400]]
 
 
 
+
+
+
+## Auxiliar 6: Fuerzas Intermoleculares y Enlace Metálico 
+
+Normalmente, aquellas estructuras con fuerzas intermoleculares mas fuertes se pueden representar por el siguiente diagrama: 
+
+$$\text{Molecular}<\text{Iónico}<\text{Metálico}$$
+
+La fuerza del enlace determina ciertas características, por ejemplo, los **enlaces más fuertes** son aquellos que tienen punto de fusión y ebullición más alto, por el otro lado, **los enlaces débiles** hacen presión de vapor más fácilmente. 
+
+Algo a notar es que la conductividad eléctrica depende de los electrones deslocalizados. 
+
+Por último, las fuerzas intermoleculares de los sólidos moléculares siguen el siguiente orden: 
+
+$$\text{Dispersión}<\text{Dipolo-dipolo}<\text{Puente de Hidrógeno}$$
+
+Donde la fuerza de dispersión corresponde a las moléculas apolares y la dipolo-dipolo polares. 
 
 
 ## Auxiliar 8: Estequiometría y Reacciones Químicas 
