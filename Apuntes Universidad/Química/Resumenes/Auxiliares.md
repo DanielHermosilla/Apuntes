@@ -85,4 +85,5 @@ Para poder analizar el rendimiento de una reacción es importante tener en consi
 
 $$2NaCl\to Na_2CO_3$$
 
-Se llega u
+Se llega que dos moles de $NaCl$ producen un mol de $Na_2CO_3$ **en teoría**. 
+
