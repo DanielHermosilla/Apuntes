@@ -79,6 +79,10 @@ Para el caso de la celda centrada en el centro, se tiene el siguiente esquema:
 
 
 
+## Auxiliar 4: Geometría Molecular y TOM 
+
+Para determinar la clase de una molecula, normalmente se hace la asimilación de que el prefijo $B$ 
+
 ## Auxiliar 8: Estequiometría y Reacciones Químicas 
 
 Para poder analizar el rendimiento de una reacción es importante tener en consideración dos cosas fundamentales: **el rendimiento se calcula por los moles producidos** y, por el otro lado, **es necesario fijarse en la relación estequiometrica del reactante y producto**. Por ejemplo, en la siguiente reacción: 
