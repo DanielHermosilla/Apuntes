@@ -23,3 +23,4 @@ Aun así, manteniendo su propiedad de paramagnetismo.
 
 ## Auxiliar 3: Estructuras cristalinas y Teoría de Lewis 
 
+Para poder formar un diagrama de Lewis hay que 
