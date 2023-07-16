@@ -11,8 +11,12 @@
             "id": "5dbefffbc2ea1dec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Química/Resumenes/Auxiliares.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Química/Resumenes/Auxiliares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Química/Resumenes/Auxiliares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Química/Resumenes/Auxiliares.md"
+              }
             }
           }
         ]
@@ -154,6 +162,8 @@
   },
   "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
+    "Química/Resumenes/Auxiliares.md",
+    "Química/Resumenes",
     "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad.md",
@@ -187,7 +197,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función Generadora de Momento.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función característica.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Esperanza de función de Múltiples Variables Aleatorias.md",
     "Tarea 6.pdf",
     "Departamento de Física/Mecánica/img/Imagen PNG.png",
     "GoodNotes Lasso Pasteboard",
