@@ -68,3 +68,21 @@ Por último, para calcular la masa total se considera el siguiente cálculo:
 $$m=\frac{\sum_{i}n_{\text{átomos}}\cdot PM_i}{\text{Avogadro}}$$
 
 Y el volumen se obtiene bajo la relación $V=\frac{m}{\rho}$. Cualquier variación de la densidad puede servir para obtener el volumen. 
+
+Por el otro lado, para obtener el largo de las aristas se puede guiar por el siguiente diagrama: 
+
+![[IMG_E16F838A8835-1.jpeg|center|500]]
+
+Para el caso de la celda centrada en el centro, se tiene el siguiente esquema: 
+
+![[Pasted image 20230716180221.png|center|400]]
+
+
+
+## Auxiliar 8: Estequiometría y Reacciones Químicas 
+
+Para poder analizar el rendimiento de una reacción es importante tener en consideración dos cosas fundamentales: **el rendimiento se calcula por los moles producidos** y, por el otro lado, **es necesario fijarse en la relación estequiometrica del reactante y producto**. Por ejemplo, en la siguiente reacción: 
+
+$$2NaCl\to Na_2CO_3$$
+
+Se llega u
