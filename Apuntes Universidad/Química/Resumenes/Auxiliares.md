@@ -51,7 +51,7 @@ Cada partícula en el vértice cuanta como $\frac{1}{8}$, entonces en total tien
 
 ![[IMG_56CBD52F1379-1.jpeg|center|400]]
 
-- **Cúbica centrada en la cara**: Es lo mismo que la cúbica centrada en el cuerpo pero ahora se le añade un átomo en las caras. 
+- **Cúbica centrada en la cara**: Es una estructura cúbica con átomos en el centro de las caras y en el vértice. 
 
 ![[IMG_9CCAA51848EA-1.jpeg|center|400]]
 
