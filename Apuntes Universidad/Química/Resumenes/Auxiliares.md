@@ -156,6 +156,9 @@ $$pH+pOH=14$$
 Siempre considerar diluir una base o un ácido respectivamente para hacer el cálculo de $pH$. Algunas veces va a ser necesario pasar por más de una reacción. 
 
 
+## Auxiliar 11: Buffer 
+
+Hay que tener en cuenta la ecuación de Hedderson-Hassel
 ## Auxiliar 13: Óxido Reducción 
 
 Casi siempre, cuando nos dan concentraciones de ciertas cantidades, es importante ocupar la **ecuación de Nerst**: 
