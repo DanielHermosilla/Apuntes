@@ -158,7 +158,8 @@ Siempre considerar diluir una base o un ácido respectivamente para hacer el cá
 
 ## Auxiliar 11: Buffer 
 
-Hay que tener en cuenta la ecuación de Hedderson-Hassel
+Hay que tener en cuenta la ecuación de Hedderson-Hasselbach
+
 ## Auxiliar 13: Óxido Reducción 
 
 Casi siempre, cuando nos dan concentraciones de ciertas cantidades, es importante ocupar la **ecuación de Nerst**: 
@@ -172,3 +173,13 @@ Por último, en la electrólisis, es crucial saber la ecuación de Faraday:
 $$m=\frac{Q\cdot M_{m}}{n\cdot F}$$
 
 Donde $Q$ es la corriente, $M_m$ es la masa molar, $n$ la cantidad de electrones que se ocupan y $F$ la constante de Faraday. 
+
+### Fórmulas importantes 
+
+- Ecuación de Nerst: $E=Eo−\frac{RT}{nF}\ln(\frac{[Ox]}{[Red]}​)$
+
+- Masa producida en electrólisis:  $m=\frac{Q\cdot M_{m}}{n\cdot F}$
+
+- Ecuación de Hedderson-Hasselbach: $pH=pKa+log_{10}​(\frac{[HA]}{[A−]}​)$
+
+- Relación $k_{p}-k_c$: $K_p=K_c(RT)^{\Delta n}$ 
