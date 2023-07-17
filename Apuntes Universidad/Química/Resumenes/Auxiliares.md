@@ -80,6 +80,7 @@ Para el caso de la celda centrada en el centro, se tiene el siguiente esquema:
 
 
 
+
 ## Auxiliar 4: Geometría Molecular y TOM 
 
 Para determinar la clase de una molecula, normalmente se hace la asimilación de que el prefijo $B$ determina la cantidad de enlaces y el prefijo $E$ los pares de electrones libres, por ejemplo: 
@@ -106,6 +107,8 @@ Primero se identifica el **$\textcolor{blue}{metal\;principal}$**, y el **$\text
 $$\left[\textcolor{blue}{N_i}(\textcolor{red}{C_5H_5N)_6}\right]Br_2$$
 
 En este caso, el metal está ligado con 6 moleculas de $C_5H_5N$, por lo tanto, el número de coordinación es $6$. Por el otro lado, el metal está neutro, pero para saber el número de oxidación del metal hay que ver la EDO del $Br_2$. Normalmente $Br$ quiere ganar un electrón, entonces su EDO sería $-1$. Dos bromos tendrían EDO $-2$, y, por lo tanto, el Niquel tendría una carga de $+2$. 
+
+
 
 
 ## Auxiliar 6: Fuerzas Intermoleculares y Enlace Metálico 
