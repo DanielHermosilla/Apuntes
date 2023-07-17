@@ -98,6 +98,7 @@ Para el TOM, primero se identifica la configuración electrónica de los pares e
 
 
 
+
 ## Auxiliar 5: Compuestos de coordinación 
 
 Para obtener el número de coordinación, número de oxidación y saber si es aniónico, neutro o catiónico hay que identificar los siguientes pasos. Se partirá con el ejemplo de la molécula $\left[N_i(C_5H_5N)_6\right]Br_2$ 
