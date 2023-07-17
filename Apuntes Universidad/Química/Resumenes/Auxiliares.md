@@ -122,3 +122,10 @@ $$2NaCl\to Na_2CO_3$$
 
 Se llega que dos moles de $NaCl$ producen un mol de $Na_2CO_3$ **en teoría**. 
 
+
+
+## Auxiliar 9: Constante de equilibrio y presión de mezcla 
+
+Para obtener el porcentaje de disociación simplemente es la concentración en equilibrio dividido en la concentración inicial **complemento**. Esto nos dirá cuanto se disocio el reactante. 
+
+Otra cosa a notar es la dirección de la reacción, si $Q>K_p$, entonces hay mas productos iniciales, entonces se desplaza a la izquierda. Lo mismo pero cuando se cumple al revez. 
