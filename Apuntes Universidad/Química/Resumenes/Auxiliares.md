@@ -114,6 +114,7 @@ $$\text{Dispersión}<\text{Dipolo-dipolo}<\text{Puente de Hidrógeno}$$
 Donde la fuerza de dispersión corresponde a las moléculas apolares y la dipolo-dipolo polares. 
 
 
+
 ## Auxiliar 8: Estequiometría y Reacciones Químicas 
 
 Para poder analizar el rendimiento de una reacción es importante tener en consideración dos cosas fundamentales: **el rendimiento se calcula por los moles producidos** y, por el otro lado, **es necesario fijarse en la relación estequiometrica del reactante y producto**. Por ejemplo, en la siguiente reacción: 
@@ -129,3 +130,27 @@ Se llega que dos moles de $NaCl$ producen un mol de $Na_2CO_3$ **en teoría**.
 Para obtener el porcentaje de disociación simplemente es la concentración en equilibrio dividido en la concentración inicial **complemento**. Esto nos dirá cuanto se disocio el reactante. 
 
 Otra cosa a notar es la dirección de la reacción, si $Q>K_p$, entonces hay mas productos iniciales, entonces se desplaza a la izquierda. Lo mismo pero cuando se cumple al revez. 
+
+
+## Auxiliar 10: Cálculo de pH
+
+Para calcular $pH$ hay que tener siempre en cuenta la relación que cumple el $pH$ con el $pOH$: 
+
+$$pH+pOH=14$$
+
+Siempre considerar diluir una base o un ácido respectivamente para hacer el cálculo de $pH$. Algunas veces va a ser necesario pasar por más de una reacción. 
+
+
+## Auxiliar 13: Óxido Reducción 
+
+Casi siempre, cuando nos dan concentraciones de ciertas cantidades, es importante ocupar la **ecuación de Nerst**: 
+
+$$E=E_{0}-\frac{RT}{nF}\ln(\frac{[Ox]}{[Red]})$$
+
+Además, asociar que la reducción es cuando se reduce el estado de oxidación, y es aquel lugar donde ocurre en el cátodo. Por el otro lado, la oxidación ocurre en el ánodo. 
+
+Por último, en la electrólisis, es crucial saber la ecuación de Faraday: 
+
+$$m=\frac{Q\cdot M_{m}}{n\cdot F}$$
+
+Donde $Q$ es la corriente, $M_m$ es la masa molar, $n$ la cantidad de electrones que se ocupan y $F$ la constante de Faraday. 
