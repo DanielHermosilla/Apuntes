@@ -44,3 +44,12 @@ $$
 $$
 
 Utiliza espacio $\Theta(m)$ pero no describe como son los arcos. 
+
+## Caminos y ciclos 
+
+Se dice que un camino es una secuencia de arcos. Por ejemplo, lo siguiente correspondería el camino de $v_2$ a $v_5$: 
+
+![[camino.png|center|350]]
+
+
+Se denominará camino *simple*
