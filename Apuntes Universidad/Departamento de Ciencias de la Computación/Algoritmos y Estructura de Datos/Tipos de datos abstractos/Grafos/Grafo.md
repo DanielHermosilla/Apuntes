@@ -52,4 +52,4 @@ Se dice que un camino es una secuencia de arcos. Por ejemplo, lo siguiente corre
 ![[camino.png|center|350]]
 
 
-Se denominará camino *simple*
+Se denominará camino *simple* a aquel donde cada 
