@@ -52,4 +52,16 @@ Se dice que un camino es una secuencia de arcos. Por ejemplo, lo siguiente corre
 ![[camino.png|center|350]]
 
 
-Se denominará camino *simple* a aquel donde cada 
+Se denominará camino *simple* aquel que no es cerrado, vale decir, no se repiten vértices. Por lo tanto, los que no tienen ciclos se les dicen *acíclicos*. Por el otro lado se dice *conexo* si para todo par de vértices existe un camino que los une. Un ejemplo de algo no conexo sería un grafo compuesto por varias islas. 
+
+Si nos fijamos, un árbol es *conexo* y *acíclico*, de lo contrario se llamarían *spanning trees*: 
+
+![[arbol.png|center|350]]
+
+
+## Propiedades de los árboles 
+
+De la relación *árbol-grafo* se desprende: 
+
+- Todo árbol con $n$ nodos tiene $n-1$ arcos. 
+- Si se agrega un arco a un árbol, se crea un único ciclo. 

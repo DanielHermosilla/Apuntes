@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -150,6 +151,7 @@
   },
   "active": "8e71e4f61a4b224c",
   "lastOpenFiles": [
+    "Departamento de Ciencias de la Computación/img/arbol.png",
     "Departamento de Ciencias de la Computación/img/camino.png",
     "Química/Resumenes/Resumen Control 1.md",
     "IMG_A21E15A1E86D-1.jpeg",
@@ -176,7 +178,6 @@
     "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230711214511.png",
     "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20230711220034.png",
     "Departamento de Ingeniería Industrial/Economía/Untitled",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagramas de Flujo.md",
