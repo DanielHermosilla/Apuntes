@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md"
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "5dbefffbc2ea1dec",
   "lastOpenFiles": [
+    "Departamento de Ciencias de la Computación/img/grafo-no-dirigido.png",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
     "Química/Resumenes/Auxiliares.md",
     "Pasted image 20230717122832.png",
     "IMG_A21E15A1E86D-1.jpeg",
@@ -197,8 +200,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Promedio de Variable Aleatorias Independientes e Igualmente Distribuidos.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
     "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Tarea 6.pdf",
     "GoodNotes Lasso Pasteboard",
     "Excalidraw",

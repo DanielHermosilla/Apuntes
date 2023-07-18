@@ -1,0 +1,46 @@
+
+Consiste en un conjunto $V$ de vértices o nodos y un conjunto $E$ de arcos. El número de vértices se denota por $n$ y el número de arcos como $m$. Se dice que un grafo es **no dirigido** cuando no tiene dirección asociada: 
+
+![[grafo-no-dirigido.png|center|350]]
+
+
+En el ejemplo anterior, se podría describir el conjunto de vértices y arcos como: 
+
+$$
+
+\begin{align}
+
+V &=\{v_1,v_2,v_3,v_4,v_5\}\\
+
+E &=\{ \{v_1,v_2\},\{v_1,v_3\},\{v_1,v_5\},\{v_2,v_3\},\{v_3,v_4\},\{v_4,v_5\} \}
+
+\end{align}
+
+$$
+
+
+## Representación de los grafos 
+
+Los grafos tienen distintas formas de ser representadas en la memoria:
+
+- **Matriz de adyacencia**: suele ser la forma más común de representar a los grafos. Consiste en una matriz $A$ donde $A[i,j]=1$ si hay un arco que conecta $v_i$ con $v_j$. Los grandes problemas de esto es que se necesitan $\Theta(n^2)$ bits de memoria y, por el otro lado, se requiere tiempo $\Theta(n)$ para encontrar la lista de vecinos de un vértice dado. 
+
+- **Lista de adyacencia**: Consiste en almacenar para cada nodo la lista de nodos adyacentes a él: 
+
+$$
+
+\begin{align}
+
+\text{vecinos}[v_1] &= [v_2]\\
+
+\text{vecinos}[v_2] &= [v_2, v_3]\\
+
+\text{vecinos}[v_3] &= [v_1, v_4]\\
+
+\text{vecinos}[v_4] &= [v_3]
+
+\end{align}
+
+$$
+
+Utiliza espacio $\Theta(m)$ pero no describe como son los arcos. 
