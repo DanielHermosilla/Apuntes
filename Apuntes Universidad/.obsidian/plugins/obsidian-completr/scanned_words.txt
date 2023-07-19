@@ -88,6 +88,7 @@ PhG
 Photoshop
 PwOO
 PHP
+Prim
 Resolver
 Realizando
 Reemplazando
@@ -377,6 +378,7 @@ eT
 extener
 extendi
 esima
+expandi
 siguiente
 sistema
 soluci
@@ -675,6 +677,7 @@ necesitan
 ndolos
 numeran
 numeraci
+nuevos
 homog
 homogenea
 hacen
@@ -941,6 +944,9 @@ bo
 bXx
 bif
 bits
+baratas
+barata
+barato
 la
 las
 lo
@@ -1336,6 +1342,7 @@ dXn
 dirigido
 distintas
 dem
+densos
 forma
 filas
 factor
@@ -1955,6 +1962,7 @@ cortos
 construyendo
 corto
 comenzar
+cuyos
 propios
 particular
 podr
@@ -2156,6 +2164,10 @@ pm
 problemas
 ptimos
 pase
+peso
+prioridad
+prioritario
+pocos
 Entonces
 EDO
 Esto
@@ -2484,6 +2496,7 @@ mv
 mGC
 mantener
 minos
+mancha
 resolver
 rmula
 reducir
@@ -2642,6 +2655,7 @@ rx
 rWX
 requiere
 resuelve
+ruta
 asociados
 ambas
 asegura
@@ -2810,6 +2824,13 @@ almacenar
 adyacentes
 alcanzables
 arbitrariamente
+algoritmos
+aceite
+agregar
+adici
+alcanza
+acceso
+acceder
 La
 Los
 Luego
