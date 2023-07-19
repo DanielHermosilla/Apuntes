@@ -97,3 +97,32 @@ $$A^1=\begin{bmatrix}
 
 
 Entonces, para llenar la matriz restante, revisamos la matriz original. Por ejemplo, queremos llenar la coordenada $(2,3)$, que representaría el camino $2\to 3$, entonces se realiza la siguiente operación: 
+
+$$A^0[2,3]=2$$
+
+Pero, como estamos parados en el primer nodo, entonces se hace la comparación al pasar por el nodo uno dado que es el intermedio (acordar del [[Invariante|invariante]]): 
+
+$$A^0[2,1]+A^0[1,3]=8+\infty$$
+
+Claramente el primero es más chico, entonces se queda en $2$. 
+
+$$A^1=\begin{bmatrix}
+ & \mathbf{1} & \mathbf{2} & \mathbf{3} & \mathbf{4} \\
+\mathbf{1} & 0 & 3 & \infty & 7 \\
+\mathbf{2} & 8 & 0 & 2 & \dots \\
+\mathbf{3} & 5 & \dots & 0 & \dots \\
+\mathbf{4} & 2 & \dots & \dots & 0
+\end{bmatrix}$$
+
+La otra iteración sería comparar para $(2,4)$, donde claramente se puede apreciar que $A^0[2,4]=\infty$ y $A^0[2,1]+A^0[1,4]$ es $8+7$, entonces existe un camino indirecto que pasa por el vértice $1$ donde se puede lograr la conexión $2\to4$. 
+
+Luego, al llenar la matriz, se llega a lo siguiente (Esta vez se va a omitir la numeración de filas y columnas): 
+
+$$A^1=\begin{bmatrix}
+0 & 3 & \infty & 7 \\
+8 & 0 & 2 & 15 \\
+5 & 8 & 0 & 1 \\
+2 & 5 & \infty & 0
+\end{bmatrix}$$
+
+Ahora, se hace lo mismo pero para el vértice $2$ y tomando como base la matriz $1$, es como un método de memoización 
