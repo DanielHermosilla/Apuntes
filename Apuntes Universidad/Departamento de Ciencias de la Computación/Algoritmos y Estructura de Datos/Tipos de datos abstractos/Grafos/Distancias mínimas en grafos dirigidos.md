@@ -125,4 +125,15 @@ $$A^1=\begin{bmatrix}
 2 & 5 & \infty & 0
 \end{bmatrix}$$
 
-Ahora, se hace lo mismo pero para el vértice $2$ y tomando como base la matriz $1$, es como un método de memoización 
+Ahora, se hace lo mismo pero para el vértice $2$ y tomando como base la matriz $1$, es como un método de memoización. Entonces, para $A^2$: 
+
+$$A^2=\begin{bmatrix}
+0 & 3 & \dots & \dots \\
+8 & 0 & 2 & 15 \\
+\dots & 8 & \dots & \dots \\
+\dots & 5 & \dots & 0
+\end{bmatrix}$$
+
+Iterando nuevamente en función de $A^1$, se llega a la matriz óptima $A^1$. 
+
+Todo esto se reduce a la siguiente fórmula: $A^{k}[i,j]=\min \lbrace A^{k+1}[i,j]\;,\;A^{k-1}[i,k]+A^{k-1}[k,j]\rbrace$

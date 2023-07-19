@@ -380,6 +380,7 @@ extendi
 esima
 expandi
 elegir
+estamos
 siguiente
 sistema
 soluci
@@ -769,6 +770,7 @@ hJ
 hpI
 hN
 hmm
+hacerlo
 Soluci
 Simplificando
 Se
@@ -949,6 +951,7 @@ bits
 baratas
 barata
 barato
+basicamente
 la
 las
 lo
@@ -1054,6 +1057,7 @@ ln
 lndbL
 lId
 limitaci
+lograr
 que
 quiere
 qk
@@ -1349,6 +1353,7 @@ densos
 desprende
 dando
 distancias
+din
 forma
 filas
 factor
@@ -1583,6 +1588,7 @@ tl
 tv
 tbx
 trees
+tomando
 valores
 vectores
 variaci
@@ -1979,6 +1985,11 @@ ciclo
 cortas
 contraejemplos
 calculadas
+complejidad
+chico
+comparar
+claramente
+conexi
 propios
 particular
 podr
@@ -2185,6 +2196,11 @@ prioridad
 prioritario
 pocos
 produce
+programaci
+ptimo
+pesos
+paramos
+parados
 Entonces
 EDO
 Esto
@@ -2514,6 +2530,7 @@ mGC
 mantener
 minos
 mancha
+memoizaci
 resolver
 rmula
 reducir
@@ -2676,6 +2693,9 @@ ruta
 repiten
 rboles
 rutas
+restante
+revisamos
+realiza
 asociados
 ambas
 asegura
@@ -2852,6 +2872,8 @@ alcanza
 acceso
 acceder
 agrega
+acordar
+apreciar
 La
 Los
 Luego
@@ -3298,6 +3320,9 @@ input
 invariante
 intermedios
 islas
+intactas
+intermedio
+indirecto
 ya
 yi
 yR
@@ -3483,6 +3508,8 @@ oeS
 ony
 output
 optimas
+operaci
+omitir
 wronskiana
 www
 wF
@@ -4023,6 +4050,7 @@ gK
 gwi
 grafo
 grafos
+greedy
 Otra
 OPTIONS
 OS
@@ -4088,6 +4116,7 @@ OH
 OE
 OT
 Owz
+Obviamente
 Be
 BA
 Bt
@@ -4646,6 +4675,7 @@ GVi
 GNI
 GyaD
 GC
+Greedy
 YO
 YlG
 YY
