@@ -394,6 +394,7 @@ estructuras
 entradas
 estuvieran
 entrada
+expresada
 siguiente
 sistema
 soluci
@@ -572,6 +573,7 @@ string
 sectors
 sparce
 spliteado
+sort
 no
 neo
 nea
@@ -889,6 +891,7 @@ SE
 Sss
 SZ
 SX
+Sort
 buscando
 busco
 buscamos
@@ -1177,6 +1180,8 @@ qsg
 qms
 qn
 quede
+quick
+quicksort
 de
 dado
 derecho
@@ -2295,6 +2300,7 @@ pointer
 percibir
 parte
 primeros
+pivotes
 Entonces
 EDO
 Esto
@@ -2808,6 +2814,7 @@ refiere
 recorrer
 representen
 reglas
+rendimiento
 asociados
 ambas
 asegura
@@ -3658,6 +3665,7 @@ ordenables
 offset
 optimizar
 origina
+optimizado
 wronskiana
 www
 wF
@@ -4464,6 +4472,8 @@ Qe
 QqK
 QA
 Quedando
+Quick
+Quicksort
 Un
 Una
 Ua

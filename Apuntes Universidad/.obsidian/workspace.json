@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4500a18059e1f9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Quick Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -150,9 +162,10 @@
   },
   "active": "8e71e4f61a4b224c",
   "lastOpenFiles": [
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Quick Sort.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Tries.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Tries.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles AVL.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Rotación.md",
@@ -186,7 +199,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Probabilidad y Distribución.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia Casi Segura.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
     "Departamento de Ingeniería Industrial/Economía/Untitled",
     "Tarea 6.pdf",
     "GoodNotes Lasso Pasteboard",
