@@ -379,6 +379,7 @@ extener
 extendi
 esima
 expandi
+elegir
 siguiente
 sistema
 soluci
@@ -549,6 +550,7 @@ snC
 sip
 st
 suele
+spanning
 no
 neo
 nea
@@ -1051,6 +1053,7 @@ lld
 ln
 lndbL
 lId
+limitaci
 que
 quiere
 qk
@@ -1343,6 +1346,9 @@ dirigido
 distintas
 dem
 densos
+desprende
+dando
+distancias
 forma
 filas
 factor
@@ -1576,6 +1582,7 @@ tj
 tl
 tv
 tbx
+trees
 valores
 vectores
 variaci
@@ -1963,6 +1970,15 @@ construyendo
 corto
 comenzar
 cuyos
+cerrado
+clicos
+conexo
+clico
+crea
+ciclo
+cortas
+contraejemplos
+calculadas
 propios
 particular
 podr
@@ -2168,6 +2184,7 @@ peso
 prioridad
 prioritario
 pocos
+produce
 Entonces
 EDO
 Esto
@@ -2656,6 +2673,9 @@ rWX
 requiere
 resuelve
 ruta
+repiten
+rboles
+rutas
 asociados
 ambas
 asegura
@@ -2831,6 +2851,7 @@ adici
 alcanza
 acceso
 acceder
+agrega
 La
 Los
 Luego
@@ -2985,6 +3006,8 @@ uK
 uduVR
 uv
 ue
+une
+unidas
 Wronskiana
 We
 Width
@@ -3274,6 +3297,7 @@ iteraci
 input
 invariante
 intermedios
+islas
 ya
 yi
 yR
@@ -3458,6 +3482,7 @@ ovJ
 oeS
 ony
 output
+optimas
 wronskiana
 www
 wF

@@ -49,10 +49,11 @@ def Dijkstra(V,E,d,s):
 	
 	return D
 ```
+Eso si esto tiene una limitación, y es cuando se tienen **distancias negativas**. Existen contraejemplos donde las distancias calculadas bajo este algoritmo llegarían a no ser las optimas. 
 
 ## Algoritmo de Floyd 
 
-Para aplicar este algoritmo, los nodos se numeran arbitrariamente $1,2,\dots,n$. El algoritmo va a ir construyendo una matriz $D$ tal que al final, $D[i,j]$ va a ser el largo del camino más corto que va desde el nodo $i$ hasta el nodo $j$. 
+Para aplicar este algoritmo, los nodos se numeran arbitrariamente $1,2,\dots,n$. El algoritmo va a ir construyendo una matriz $D$ tal que al final, $D[i,j]$ va a ser el largo del camino más corto que va desde el nodo $i$ hasta el nodo $j$. Es una forma de **p
 
 Es decir, como input se recibe una matriz "$d$",  $n\times n$, donde la posición $i,j$ es el largo del arco $(i,j)$ o $+\infty$ si no hay arco. 
 

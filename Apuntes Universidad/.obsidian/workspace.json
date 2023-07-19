@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo/Algoritmo de Prim.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo/Algoritmo de Prim.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo/Algoritmo de Prim.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo/Algoritmo de Prim.md"
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md"
               }
             }
           }
@@ -150,8 +150,12 @@
   },
   "active": "8e71e4f61a4b224c",
   "lastOpenFiles": [
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo sin dirección/Algoritmo de Prim.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo sin dirección/Algoritmo de Kruskals.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diseño de Algoritmos Eficientes/Invariante.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
     "Departamento de Ciencias de la Computación/img/arbol.png",
     "Departamento de Ciencias de la Computación/img/camino.png",
     "Química/Resumenes/Resumen Control 1.md",
@@ -180,14 +184,10 @@
     "Departamento de Ingeniería Industrial/Economía/Untitled",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagramas de Flujo.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada parcial.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Derivada.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Repasos/Funciones/Continuidad.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Teorema Central del Límite.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Promedio de Variable Aleatorias Independientes e Igualmente Distribuidos.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Resumenes/Resumen Control 3.md",
-    "Departamento de Física/Mecánica/Tarea/Tarea 6.md",
     "Tarea 6.pdf",
     "GoodNotes Lasso Pasteboard",
     "Excalidraw",
