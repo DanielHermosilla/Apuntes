@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md"
+                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Distancias mínimas en grafos dirigidos.md"
               }
             }
           }
@@ -151,12 +150,12 @@
   },
   "active": "8e71e4f61a4b224c",
   "lastOpenFiles": [
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
     "Departamento de Ciencias de la Computación/img/arbol.png",
     "Departamento de Ciencias de la Computación/img/camino.png",
     "Química/Resumenes/Resumen Control 1.md",
     "IMG_A21E15A1E86D-1.jpeg",
     "Pasted image 20230717122832.png",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
     "Departamento de Ciencias de la Computación/img/grafo-no-dirigido.png",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Heap y colas de prioridad/Heap.md",
     "Química/Resumenes/Auxiliares.md",
@@ -176,7 +175,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Binomial Negativa.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley de Bayes.md",
     "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20230711214511.png",
     "Departamento de Ingeniería Industrial/Economía/Resumen Control 2.md",
     "Departamento de Ingeniería Industrial/Economía/Untitled",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",

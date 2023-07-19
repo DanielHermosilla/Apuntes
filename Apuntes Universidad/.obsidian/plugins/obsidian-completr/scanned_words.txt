@@ -374,6 +374,9 @@ eq
 eWVGUtu
 eksyp
 eT
+extener
+extendi
+esima
 siguiente
 sistema
 soluci
@@ -669,6 +672,9 @@ nxG
 nu
 nm
 necesitan
+ndolos
+numeran
+numeraci
 homog
 homogenea
 hacen
@@ -1329,6 +1335,7 @@ do
 dXn
 dirigido
 distintas
+dem
 forma
 filas
 factor
@@ -1671,6 +1678,7 @@ vn
 vwW
 vqO
 vecinos
+variantes
 caracter
 cuando
 como
@@ -1942,6 +1950,11 @@ cD
 conecta
 ciclos
 camino
+caminos
+cortos
+construyendo
+corto
+comenzar
 propios
 particular
 podr
@@ -2141,6 +2154,8 @@ pu
 pTk
 pm
 problemas
+ptimos
+pase
 Entonces
 EDO
 Esto
@@ -2313,6 +2328,7 @@ AQ
 AAu
 Asgi
 Aiqcb
+Algoritmo
 matriz
 metros
 mero
@@ -2466,6 +2482,8 @@ mJ
 mbe
 mv
 mGC
+mantener
+minos
 resolver
 rmula
 reducir
@@ -2623,6 +2641,7 @@ rv
 rx
 rWX
 requiere
+resuelve
 asociados
 ambas
 asegura
@@ -2789,6 +2808,8 @@ adyacencia
 arco
 almacenar
 adyacentes
+alcanzables
+arbitrariamente
 La
 Los
 Luego
@@ -3003,6 +3024,7 @@ Wiu
 WMC
 Wzo
 WYt
+Waze
 Definici
 Donde
 Dirac
@@ -3077,6 +3099,7 @@ DTP
 Db
 DUW
 DZ
+Dijkstra
 importante
 invertible
 intentara
@@ -3225,6 +3248,11 @@ izM
 iKy
 iB
 iH
+iterar
+iteraci
+input
+invariante
+intermedios
 ya
 yi
 yR
@@ -3408,6 +3436,7 @@ oC
 ovJ
 oeS
 ony
+output
 wronskiana
 www
 wF
@@ -3791,6 +3820,7 @@ Ffd
 FTaVj
 FHh
 Fy
+Floyd
 Normalmente
 Norma
 Notemos
