@@ -65,3 +65,4 @@ De la relación *árbol-grafo* se desprende:
 
 - Todo árbol con $n$ nodos tiene $n-1$ arcos. 
 - Si se agrega un arco a un árbol, se crea un único ciclo. 
+
