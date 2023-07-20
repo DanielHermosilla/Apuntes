@@ -709,6 +709,7 @@ nmente
 necesario
 niveles
 ndices
+nde
 homog
 homogenea
 hacen
@@ -802,6 +803,7 @@ hacerlo
 hojas
 har
 hash
+hablar
 Soluci
 Simplificando
 Se
@@ -1664,6 +1666,7 @@ tables
 tracks
 tengo
 tem
+totalmente
 valores
 vectores
 variaci
@@ -2075,6 +2078,7 @@ caer
 costo
 creaci
 cre
+conveniencia
 propios
 particular
 podr
@@ -2815,6 +2819,7 @@ recorrer
 representen
 reglas
 rendimiento
+referir
 asociados
 ambas
 asegura
