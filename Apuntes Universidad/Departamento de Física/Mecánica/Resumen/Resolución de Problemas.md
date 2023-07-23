@@ -13,3 +13,9 @@ $$\begin{align}
 \int\dot{z}\;d\dot{z}&=\int c\;dz
 \end{align}$$
 
+
+# Control 1 
+
+## Aceituno 2006 
+
+Sabemos que para el bloque $B$ la energía se conserva, por lo tanto, podemos establecer que, dado que parte del reposo, su energía 
