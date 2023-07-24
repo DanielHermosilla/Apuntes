@@ -603,3 +603,11 @@ El momento de inercia de un cuerpo respecto a un eje que pasa por su centro de m
 $$I = I_{CM} + m\cdot d^2$$
 
 Donde $I$ es el momento de inercia alrededor del nuevo eje, $I_{CM}$ el momento de inercia alrededor del eje que pasa por el centro de masa del objeto, $m$ siendo la masa del objeto y $d$ la distancia entre el eje original y el nuevo eje. 
+
+En conclusión, al igual que la dinámica de Newton nos dice como se traslada el objeto: 
+
+$$\sum F=ma$$ 
+El torque nos dirá como va a rotar. En este caso, **el origen de los vectores si importa**, por lo tanto, uno lo calcula desde cierto punto. Por lo tanto, se llega a las siguientes igualdades: 
+
+$$\sum\vec{\tau}_O=\frac{d\vec{L}}{dt}=I_O\ddot{\theta}$$
+

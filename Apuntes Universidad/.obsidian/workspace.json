@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md",
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md",
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md",
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md"
+                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e71e4f61a4b224c",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
-    "Departamento de Física/Mecánica/Sistema de referencia.md",
+    "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
     "Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md",
+    "Departamento de Física/Mecánica/Sistema de referencia.md",
     "Departamento de Física/Mecánica/Reclamo 1.md",
     "Departamento de Física/Mecánica/Partícula.md",
     "Química/IMG_A21E15A1E86D-1.jpeg",
@@ -198,7 +199,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Química/Resumenes",
     "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Teorema límites/Convergencias de Variable Aleatorias/Convergencia en Distribución.md",
     "Departamento de Ingeniería Industrial/Economía/Untitled",
     "Tarea 6.pdf",
     "GoodNotes Lasso Pasteboard",
