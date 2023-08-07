@@ -11,8 +11,12 @@
             "id": "fbd4b3aa94e0dee4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Departamento de Física/Electromagnetismo/Electromagnetismo.md"
+              }
             }
           }
         ]
@@ -142,6 +151,7 @@
   },
   "active": "fbd4b3aa94e0dee4",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
     "Departamento de Ciencias de la Computación/Bases de Datos",
     "Departamento de Física/Termodinámica",
     "Departamento de Física/Electromagnetismo",
@@ -186,7 +196,6 @@
     "Departamento de Ingeniería Industrial/Economía/Untitled",
     "Tarea 6.pdf",
     "GoodNotes Lasso Pasteboard",
-    "Excalidraw",
-    "Departamento de Física/Mecánica/Tarea"
+    "Excalidraw"
   ]
 }
