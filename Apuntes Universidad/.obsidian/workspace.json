@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "565ab6f925d6ccf4",
+        "id": "003a0dd4060a4e35",
         "type": "tabs",
         "children": [
           {
-            "id": "8e71e4f61a4b224c",
+            "id": "fbd4b3aa94e0dee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4500a18059e1f9db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Quick Sort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,17 +140,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "fbd4b3aa94e0dee4",
   "lastOpenFiles": [
+    "Departamento de Ciencias de la Computación/Bases de Datos",
+    "Departamento de Física/Termodinámica",
+    "Departamento de Física/Electromagnetismo",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones",
+    "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Quick Sort.md",
     "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
     "Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md",
     "Departamento de Física/Mecánica/Sistema de referencia.md",
     "Departamento de Física/Mecánica/Reclamo 1.md",
     "Departamento de Física/Mecánica/Partícula.md",
-    "Química/IMG_A21E15A1E86D-1.jpeg",
+    "Química/img/IMG_A21E15A1E86D-1.jpeg",
     "Pasted image 20230717122832.png",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Tries.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Quick Sort.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
@@ -196,9 +182,7 @@
     "Química/img/IMG_E16F838A8835-1.jpeg",
     "Química/img/IMG_9CCAA51848EA-1.jpeg",
     "Química/img/IMG_56CBD52F1379-1.jpeg",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Química/Resumenes",
-    "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
     "Departamento de Ingeniería Industrial/Economía/Untitled",
     "Tarea 6.pdf",
     "GoodNotes Lasso Pasteboard",
