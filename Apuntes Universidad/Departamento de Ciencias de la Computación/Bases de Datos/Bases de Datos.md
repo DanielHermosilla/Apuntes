@@ -12,4 +12,8 @@ Por el otro lado, un sistema de Bases de Datos es un software para **manejar bas
 - Actualizar datos 
 - etc 
 
-### Database Management 
+### Database Management System 
+
+Es el encargado por detrás de la Base de Datos que se distingue del usuario. 
+
+Existen distintas formas de representar bases de datos, por ejemplo, tablas, arboles, grafos, etc. 

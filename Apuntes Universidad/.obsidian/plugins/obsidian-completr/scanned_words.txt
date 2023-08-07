@@ -192,6 +192,7 @@ ROWY
 RTjS
 Rke
 Rsr
+Representar
 el
 es
 entonces
@@ -439,6 +440,8 @@ eR
 exU
 electrost
 escala
+evaluaci
+encargado
 siguiente
 sistema
 soluci
@@ -652,6 +655,7 @@ soc
 signo
 simplificada
 simplificando
+software
 no
 neo
 nea
@@ -1013,6 +1017,7 @@ ST
 SM
 Smp
 SC
+System
 buscando
 busco
 buscamos
@@ -1589,6 +1594,8 @@ dV
 dn
 dyv
 distinto
+detr
+distingue
 forma
 filas
 factor
@@ -1701,6 +1708,8 @@ fvc
 fAn
 fMF
 fuertes
+finalidad
+facilitar
 tanto
 tiene
 tal
@@ -1863,6 +1872,7 @@ te
 tou
 tSr
 tcm
+tablas
 valores
 vectores
 variaci
@@ -2319,6 +2329,8 @@ ctricas
 cuantizada
 campo
 ctrico
+colecci
+consultas
 propios
 particular
 podr
@@ -2773,6 +2785,8 @@ Aig
 AA
 AR
 AD
+Almacenar
+Actualizar
 matriz
 metros
 mero
@@ -2958,6 +2972,7 @@ mkkm
 mGM
 mla
 movieran
+manejar
 resolver
 rmula
 reducir
@@ -3352,6 +3367,7 @@ amuo
 atractiva
 aproximadamente
 aritm
+alguna
 La
 Los
 Luego
@@ -3539,6 +3555,7 @@ ud
 uUh
 unitario
 unidades
+usuario
 Wronskiana
 We
 Width
@@ -3698,6 +3715,9 @@ Do
 DYn
 DpX
 DVVPZ
+Datos
+Definir
+Database
 importante
 invertible
 intentara
@@ -4106,6 +4126,7 @@ oÜ
 op
 omU
 oig
+organizadas
 wronskiana
 www
 wF
@@ -4578,6 +4599,7 @@ FC
 FJIJ
 FQv
 FGS
+Facilita
 Normalmente
 Norma
 Notemos
@@ -4850,6 +4872,7 @@ OP
 Ouum
 ONh
 Otras
+Organizar
 Be
 BA
 Bt
@@ -4924,6 +4947,8 @@ BFQ
 Bqn
 Bq
 BXXI
+Bases
+Base
 Vector
 Veamos
 Vale
@@ -5369,6 +5394,7 @@ Mb
 MVr
 Mt
 Mge
+Management
 KHTML
 KC
 Kd
