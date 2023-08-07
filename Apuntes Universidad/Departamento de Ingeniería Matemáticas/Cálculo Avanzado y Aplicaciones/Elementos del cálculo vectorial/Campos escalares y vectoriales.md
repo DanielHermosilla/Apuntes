@@ -8,8 +8,36 @@ Por lo tanto, sea $\Omega$ un [[Conjuntos|conjunto]] abierto no vacio de $\mathb
 
 Además, el **campo vectorial** sobre $\Omega$ a toda función $\vec{F}:\Omega\subseteq\mathbb{R}^3\to\mathbb{R}^3$ en coordenadas cartesianas se escribirá como: 
 
-$$\vec{F}(x,y,z)=F_1(x,y,z)\hat{i}+F_2(x,y,z)\hat{j}+F_3(x,y,z)\hat{k}t $$ 
+$$\vec{F}(x,y,z)=F_1(x,y,z)\hat{i}+F_2(x,y,z)\hat{j}+F_3(x,y,z)\hat{k} $$ 
 Donde para cada función $F_{1,}F_2,F_3$ corresponde a un campo escalar sobre $\Omega$. Un campo vectorial se puede representar gráficamente para un punto $(x_0,y_0,z_0)$ el [[vectores|vector]] correspondiente $\vec{F}(x_0,y_0,z_0)$, y repetirlo para una cantidad finita de puntos: 
 
 ![[Pasted image 20230807151604.png|center|400]]
+
+
+### Ejemplo 
+
+Los puntos de un disco plano que gira en sentido anti-horario con velocidad angular constante $\omega>0$, tiene como campo de velocidades a $\vec{v}(x,y,0)=-\omega y\hat{i}+\omega x\hat{j}$
+
+![[Pasted image 20230807152045.png|center|400]]
+
+
+
+### Ejemplo 
+
+Si consideramos un fluido moviéndose en una región $\Omega\subset\mathbb{R}^3$. Si a cada punto $(x,y,z)\in\Omega$ se le asocia una velocidad instantánea de las partículas que pasan por dicho punto, se obtiene un campo de velocidades del fluido: 
+
+$$\vec{v}(x,y,z)=v_1(x,y,z)\hat{i}+v_2(x,y,z)\hat{j}+v_3(x,y,z)\hat{k} $$
+
+
+![[Pasted image 20230807152553.png|center|400]]
+
+
+Por último, consideraremos $\vec{F}:\Omega\subseteq\mathbb{R}^3\to\mathbb{R}^3$ un campo [[vectores|vectorial]], el cual se supondra suficientemente diferenciable. Se define como **línea de flujo** a la curva tangente en cada punto que proporciona la dirección del campo en dicho punto: 
+
+![[Pasted image 20230807152801.png|center|400]]
+
+
+Esto se obtiene matemáticamente al resolver el [[Sistema de ecuaciones|sistema de ecuaciones]] diferenciales: 
+
+$$\frac{d\vec{r}}{dt}(t)=\vec{F}(\vec{r(t))}$$
 
