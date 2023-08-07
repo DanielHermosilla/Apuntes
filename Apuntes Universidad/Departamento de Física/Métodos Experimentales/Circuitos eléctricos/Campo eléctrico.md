@@ -2,7 +2,7 @@ Indica como el objeto se comporta al *deformar* el espacio alrededor suyo.
 
 ![[Captura de Pantalla 2022-12-19 a la(s) 18.31.59.png|center]]
 
-El [[Campo eléctrico|campo eléctrico]], por lo tanto, nos dice de la existencia de una [[partícula libre]] al deformar el espacio. 
+El [[Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Campo eléctrico|campo eléctrico]], por lo tanto, nos dice de la existencia de una [[partícula libre]] al deformar el espacio. 
 
 El campo eléctrico de una [[partícula libre]]  positiva apunta hacia **afuera** mientras que una negativa apunta hacia **adentro**. Por eso mismo la carga negativa y positiva se atraen. Es más, la [[partícula libre]] positiva se llama **carga de prueba**. 
 

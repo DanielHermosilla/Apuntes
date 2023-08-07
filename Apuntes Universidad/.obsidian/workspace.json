@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7195527f22171099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a3230bc9db1df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -86,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md"
               }
             }
           }
@@ -151,9 +174,12 @@
   },
   "active": "fbd4b3aa94e0dee4",
   "lastOpenFiles": [
-    "IMG_4DDF230A8A30-1.jpeg",
-    "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
+    "Departamento de Física/Electromagnetismo/img/IMG_4DDF230A8A30-1.jpeg",
+    "Departamento de Física/Electromagnetismo/img",
+    "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
     "Departamento de Física/Electromagnetismo/Electrostática",
     "Departamento de Ciencias de la Computación/Bases de Datos",
     "Departamento de Física/Termodinámica",
@@ -187,15 +213,12 @@
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
     "Departamento de Ciencias de la Computación/img/arbol.png",
     "Departamento de Ciencias de la Computación/img/camino.png",
-    "Química/Resumenes/Resumen Control 1.md",
     "Departamento de Ciencias de la Computación/img/grafo-no-dirigido.png",
     "Química/img/Pasted image 20230716180221.png",
     "Química/img/IMG_E16F838A8835-1.jpeg",
     "Química/img/IMG_9CCAA51848EA-1.jpeg",
-    "Química/img/IMG_56CBD52F1379-1.jpeg",
     "Química/Resumenes",
     "Departamento de Ingeniería Industrial/Economía/Untitled",
-    "Tarea 6.pdf",
-    "GoodNotes Lasso Pasteboard"
+    "Tarea 6.pdf"
   ]
 }

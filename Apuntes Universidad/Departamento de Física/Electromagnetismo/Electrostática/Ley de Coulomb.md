@@ -5,7 +5,7 @@ $$q=\pm Ne$$
 
 Donde $e=1,6\times10^{-19}C$. El valor de $e$ está determinado por la carga de un electrón ($-e$) y de un [[Protones|protón]] $e$. 
 
-El problema estándar es como estas cargas interactuan. Por lo tanto, primero se estudia el problema cuando las cargas fuertes están quietas. Es decir, **electrostática**. Si las cargas se movieran, los [[Campo eléctrico|campos]] (o fuerzas) cambiarían, propagándose a la [[Rapidez de la luz|velocidad de la luz]] ($\approx 3\times 10^{8} ms^{-1}$. 
+El problema estándar es como estas cargas interactuan. Por lo tanto, primero se estudia el problema cuando las cargas fuertes están quietas. Es decir, **electrostática**. Si las cargas se movieran, los [[Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Campo eléctrico|campos]] (o fuerzas) cambiarían, propagándose a la [[Rapidez de la luz|velocidad de la luz]] ($\approx 3\times 10^{8} ms^{-1}$. 
 
 Por lo tanto, lo que se hace es el siguiente análisis: 
 
@@ -42,7 +42,8 @@ $$F=\frac{1}{4\pi\epsilon_0}\frac{qQ}{\varrho^2}\hat{r}$$
 Si nos fijamos, se parece mucho a la [[Atracción gravitacional|atracción gravitacional]], de hecho, notemos que se pueden escribir como lo siguiente: 
 
 $$\begin{align}
-F_g&=\frac{Gm^2}{d^{2}&\text{Fuerza de atracción}\\  \\
+F_g&=\frac{Gm^2}{d^{2}}&\text{Fuerza de atracción} \\\\
 F_c&=\frac{1}{4\pi\epsilon}\frac{e^2}{d^2}&\text{Repulsión}
 \end{align}$$
 
+Si vemos la escala de estas fuerzas, vale decir, $\frac{F_c}{F_g}$ el resultado es, aproximadamente, $10^{36}$ 
