@@ -1419,6 +1419,7 @@ demorar
 dato
 demasiados
 descripci
+dir
 forma
 filas
 factor
@@ -1667,6 +1668,7 @@ tracks
 tengo
 tem
 totalmente
+traslada
 valores
 vectores
 variaci
@@ -3478,6 +3480,8 @@ implementarla
 instant
 index
 impuestas
+importa
+igualdades
 ya
 yi
 yR
