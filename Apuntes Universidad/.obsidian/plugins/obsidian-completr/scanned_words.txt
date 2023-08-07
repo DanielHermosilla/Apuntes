@@ -1873,6 +1873,7 @@ tou
 tSr
 tcm
 tablas
+transforma
 valores
 vectores
 variaci
@@ -2004,6 +2005,7 @@ vVv
 vIy
 versi
 vemos
+veo
 caracter
 cuando
 como
@@ -2331,6 +2333,7 @@ campo
 ctrico
 colecci
 consultas
+cuerpos
 propios
 particular
 podr
@@ -2570,6 +2573,7 @@ propag
 permeabilidad
 parece
 prueba
+picos
 Entonces
 EDO
 Esto
@@ -2973,6 +2977,7 @@ mGM
 mla
 movieran
 manejar
+macrosc
 resolver
 rmula
 reducir
