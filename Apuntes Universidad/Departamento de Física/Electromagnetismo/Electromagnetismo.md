@@ -1,7 +1,7 @@
 
 La mecánica nos dice como se comportan los sistemas cuando están sujetas a fuerzas, y por ende, existen cuatro fuerzas conocidas: 
 
-- Fuerte 
+- Fuerte (como la que junta a los [[Protones|protones]] y [[Neutrones|neutrones]] )
 - Debil 
 - Electromagnética 
 - Gravitacional 

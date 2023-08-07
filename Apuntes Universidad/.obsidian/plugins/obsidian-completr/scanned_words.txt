@@ -442,6 +442,11 @@ electrost
 escala
 evaluaci
 encargado
+electromagn
+electricidad
+estaban
+experimentalmente
+existencia
 siguiente
 sistema
 soluci
@@ -656,6 +661,8 @@ signo
 simplificada
 simplificando
 software
+sujetas
+separados
 no
 neo
 nea
@@ -2334,6 +2341,8 @@ ctrico
 colecci
 consultas
 cuerpos
+comportan
+conocidas
 propios
 particular
 podr
@@ -2574,6 +2583,7 @@ permeabilidad
 parece
 prueba
 picos
+presenta
 Entonces
 EDO
 Esto
@@ -2691,6 +2701,7 @@ EK
 EYb
 EM
 Eaiv
+Electromagn
 Ahora
 Aca
 Al
@@ -2978,6 +2989,7 @@ mla
 movieran
 manejar
 macrosc
+magnetismo
 resolver
 rmula
 reducir
@@ -3561,6 +3573,7 @@ uUh
 unitario
 unidades
 usuario
+unificando
 Wronskiana
 We
 Width
@@ -3723,6 +3736,7 @@ DVVPZ
 Datos
 Definir
 Database
+Debil
 importante
 invertible
 intentara
@@ -4321,6 +4335,7 @@ Cd
 Cusq
 Coulomb
 Coulumb
+Clarke
 Jordan
 JV
 JD
@@ -4402,6 +4417,7 @@ Jj
 Jqo
 JUi
 JSz
+James
 Toda
 TEU
 Text
@@ -4878,6 +4894,7 @@ Ouum
 ONh
 Otras
 Organizar
+Originalmente
 Be
 BA
 Bt
@@ -5400,6 +5417,7 @@ MVr
 Mt
 Mge
 Management
+Maxwell
 KHTML
 KC
 Kd
@@ -5564,6 +5582,7 @@ GAqa
 Gp
 Gia
 GPGb
+Gravitacional
 YO
 YlG
 YY
@@ -5876,6 +5895,7 @@ HVNP
 HFQ
 HDK
 HBp
+Hertz
 jkk
 jF
 jw
