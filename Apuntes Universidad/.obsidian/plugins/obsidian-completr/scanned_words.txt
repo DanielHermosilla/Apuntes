@@ -99,6 +99,7 @@ Pu
 PMNSP
 PXP
 PLTE
+Podr
 Resolver
 Realizando
 Reemplazando
@@ -453,6 +454,13 @@ existencia
 esWz
 estrat
 electoral
+estiramos
+expresandolo
+escribe
+expresar
+explica
+ejercicio
+equiprobables
 siguiente
 sistema
 soluci
@@ -671,6 +679,9 @@ sujetas
 separados
 sf
 supondra
+superficial
+solidos
+sumar
 no
 neo
 nea
@@ -824,6 +835,14 @@ nUZ
 nmf
 nyU
 njxLC
+ngulos
+ntica
+ndros
+ndro
+nuestra
+nuestro
+nuestros
+negativa
 homog
 homogenea
 hacen
@@ -931,6 +950,8 @@ hnm
 hvW
 hfP
 horario
+horizontales
+hacemos
 Soluci
 Simplificando
 Se
@@ -1035,6 +1056,7 @@ Smp
 SC
 System
 SQ
+Siempre
 buscando
 busco
 buscamos
@@ -1280,6 +1302,9 @@ lMZt
 lce
 ltiplos
 lq
+lcular
+lindro
+logar
 que
 quiere
 qk
@@ -1373,6 +1398,7 @@ qIT
 qes
 quietas
 qqqlll
+quedar
 de
 dado
 derecho
@@ -1624,6 +1650,9 @@ dHB
 defini
 dimensional
 dotado
+discos
+dio
+desarrollo
 forma
 filas
 factor
@@ -1740,6 +1769,8 @@ finalidad
 facilitar
 fluido
 flujo
+figuras
+formula
 tanto
 tiene
 tal
@@ -1907,6 +1938,13 @@ transforma
 tPq
 telef
 tangente
+tomaramos
+trivial
+tratar
+trabajarlos
+tienda
+tender
+tmica
 valores
 vectores
 variaci
@@ -2042,6 +2080,8 @@ veo
 vmT
 vD
 velocidades
+vuelta
+visualiza
 caracter
 cuando
 como
@@ -2375,6 +2415,11 @@ conocidas
 cU
 cZ
 consideraremos
+conocidos
+construidas
+claro
+conceptualizar
+certeza
 propios
 particular
 podr
@@ -2620,6 +2665,7 @@ pV
 productor
 pasan
 proporciona
+pica
 Entonces
 EDO
 Esto
@@ -2840,6 +2886,7 @@ AD
 Almacenar
 Actualizar
 AQw
+Arco
 matriz
 metros
 mero
@@ -3029,6 +3076,10 @@ manejar
 macrosc
 magnetismo
 movi
+medici
+manto
+metro
+multiplicarlo
 resolver
 rmula
 reducir
@@ -3216,6 +3267,9 @@ rs
 roN
 relacionar
 repetirlo
+revoluci
+representado
+restar
 asociados
 ambas
 asegura
@@ -3427,6 +3481,10 @@ aritm
 alguna
 abierto
 anti
+aplicaci
+analog
+absoluta
+aditivas
 La
 Los
 Luego
@@ -3986,6 +4044,11 @@ interactuan
 interacci
 ias
 internacionales
+interesar
+info
+introducen
+identifiar
+importancia
 ya
 yi
 yR
@@ -4198,6 +4261,7 @@ op
 omU
 oig
 organizadas
+obteniendo
 wronskiana
 www
 wF
@@ -4392,6 +4456,7 @@ Clarke
 Compa
 Competencias
 Campo
+Curva
 Jordan
 JV
 JD
@@ -4584,6 +4649,7 @@ TQ
 Tj
 Txjx
 Tcz
+Tanto
 Factorizando
 Factor
 Ft
@@ -4757,6 +4823,10 @@ Npn
 Nxl
 NpL
 NuG
+Nota
+Nuestra
+Nuestro
+Notamos
 general
 gnita
 gs
@@ -4879,6 +4949,7 @@ gica
 gicas
 ggg
 gira
+girar
 Otra
 OPTIONS
 OS
@@ -4964,6 +5035,7 @@ Otras
 Organizar
 Originalmente
 Oligopolios
+Obteniendo
 Be
 BA
 Bt
@@ -5122,6 +5194,7 @@ VWF
 VOj
 VUu
 VMv
+Vamos
 Queda
 QO
 QRG
@@ -5206,6 +5279,7 @@ QjQ
 Qq
 Quo
 QQQYYY
+Queremos
 Un
 Una
 Ua
@@ -5664,6 +5738,7 @@ Gp
 Gia
 GPGb
 Gravitacional
+Gracias
 YO
 YlG
 YY
