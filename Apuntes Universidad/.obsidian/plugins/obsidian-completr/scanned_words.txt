@@ -193,6 +193,7 @@ RTjS
 Rke
 Rsr
 Representar
+Relaciones
 el
 es
 entonces
@@ -449,6 +450,7 @@ experimentalmente
 existencia
 esWz
 estrat
+electoral
 siguiente
 sistema
 soluci
@@ -3962,6 +3964,7 @@ iI
 interactuan
 interacci
 ias
+internacionales
 ya
 yi
 yR
@@ -4365,6 +4368,7 @@ Coulomb
 Coulumb
 Clarke
 Compa
+Competencias
 Jordan
 JV
 JD
