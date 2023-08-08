@@ -11,4 +11,6 @@ Pero por el otro lado, las interacciones estratégicas llegarían a ser casi tod
 - Compañias telefónicas 
 - Farmacias
 - Oligopolios 
+- Competencias electoral
+- Relaciones internacionales
 
