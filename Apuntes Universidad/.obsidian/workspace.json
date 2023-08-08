@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
+                "file": "Departamento de Física/Termodinámica/Termodinámica.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
+                "file": "Departamento de Física/Termodinámica/Termodinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
+                "file": "Departamento de Física/Termodinámica/Termodinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md"
+                "file": "Departamento de Física/Termodinámica/Termodinámica.md"
               }
             }
           }
@@ -158,9 +159,10 @@
   },
   "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
+    "Departamento de Física/Termodinámica/Termodinámica.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_C87704D8D73B-1.jpeg",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_D21BCBBEBBE4-1.jpeg",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
     "Departamento de Ingeniería Industrial/img/Venn.png",
@@ -196,7 +198,6 @@
     "Departamento de Física/Mecánica/Reclamo 1.md",
     "Departamento de Física/Mecánica/Partícula.md",
     "Química/img/IMG_A21E15A1E86D-1.jpeg",
-    "Pasted image 20230717122832.png",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Tries.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles B/Árboles B.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles B/Estructura del disco.md",
