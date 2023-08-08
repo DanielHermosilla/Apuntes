@@ -28,10 +28,40 @@ title: Función de pérdida de información
 xLabel: x
 yLabel: y
 bounds: [0,1,0,10]
+disableZoom: false
+grid: true
+---
+y = log(1/x)
+
+```
+
+Notar que si $x\to 0$ se sabe que el evento no ocurre.  Por lo tanto, se introduce el **factor de peso**. Por ejemplo, se podría tener la función $x\ln x$ 
+
+```functionplot
+---
+title: Función de pérdida de información
+xLabel: x
+yLabel: y
+bounds: [0,1,0,0.4]
 disableZoom: true
 grid: true
 ---
-y = x
+y = x*log(1/x)
 
 ```
+
+Notemos que los factores de peso siempre suman uno. Es decir, se podría tener la siguiente función de información: 
+
+$$I(x)=0.6\cdot xln(x) + 0.4\cdot yln(y)$$
+
+Aca notamos que los distintos pesos suman $1$, es decir, $0.6 + 0.4 = 1$. Si uno optimizara la función, encontraría que se llega al máximo cuando todos los [[Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Evento|eventos]] son [[Teoría de probabilidades|equiprobables]], es decir: 
+
+$$\begin{align}
+I_{max}&=-K\sum^{N}_{i=1}\frac{1}{N}\ln\left(\frac{1}{N}\right)\\  \\
+&=K'\ln(N)\end{align}$$
+
+
+## Sobre la elección de K 
+
+En $1947$, el ingeniero *Shannon* ocupo a conveniencia el número $K=\frac{1}{\ln(2)}$, de ahí que la información se mide en **bits**. Esto se llama la **medida de información de Shannon**. 
 
