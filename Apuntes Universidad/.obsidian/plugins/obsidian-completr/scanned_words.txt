@@ -448,6 +448,7 @@ estaban
 experimentalmente
 existencia
 esWz
+estrat
 siguiente
 sistema
 soluci
@@ -1891,6 +1892,7 @@ tcm
 tablas
 transforma
 tPq
+telef
 valores
 vectores
 variaci
@@ -2599,6 +2601,7 @@ prueba
 picos
 presenta
 pV
+productor
 Entonces
 EDO
 Esto
@@ -3957,6 +3960,8 @@ iFq
 icF
 iI
 interactuan
+interacci
+ias
 ya
 yi
 yR
@@ -4359,6 +4364,7 @@ Cusq
 Coulomb
 Coulumb
 Clarke
+Compa
 Jordan
 JV
 JD
@@ -4647,6 +4653,7 @@ FGS
 Facilita
 Fnds
 Fv
+Farmacias
 Normalmente
 Norma
 Notemos
@@ -4841,6 +4848,8 @@ gUb
 gqu
 gUO
 gH
+gica
+gicas
 Otra
 OPTIONS
 OS
@@ -4925,6 +4934,7 @@ ONh
 Otras
 Organizar
 Originalmente
+Oligopolios
 Be
 BA
 Bt
@@ -5001,6 +5011,7 @@ Bq
 BXXI
 Bases
 Base
+Bancos
 Vector
 Veamos
 Vale
@@ -5345,6 +5356,7 @@ IzJ
 Ieu
 Igx
 IXA
+Interacci
 MORE
 Mozilla
 Macintosh
