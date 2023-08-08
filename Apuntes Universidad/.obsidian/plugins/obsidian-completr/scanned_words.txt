@@ -461,6 +461,7 @@ expresar
 explica
 ejercicio
 equiprobables
+elecci
 siguiente
 sistema
 soluci
@@ -1057,6 +1058,8 @@ SC
 System
 SQ
 Siempre
+Sobre
+Shannon
 buscando
 busco
 buscamos
@@ -1653,6 +1656,7 @@ dotado
 discos
 dio
 desarrollo
+demostrado
 forma
 filas
 factor
@@ -1771,6 +1775,7 @@ fluido
 flujo
 figuras
 formula
+factores
 tanto
 tiene
 tal
@@ -3080,6 +3085,7 @@ medici
 manto
 metro
 multiplicarlo
+mide
 resolver
 rmula
 reducir
@@ -4049,6 +4055,7 @@ info
 introducen
 identifiar
 importancia
+ingeniero
 ya
 yi
 yR
@@ -4262,6 +4269,8 @@ omU
 oig
 organizadas
 obteniendo
+optimizara
+ocupo
 wronskiana
 www
 wF

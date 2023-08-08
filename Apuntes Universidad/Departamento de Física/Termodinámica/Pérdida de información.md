@@ -28,7 +28,7 @@ title: Función de pérdida de información
 xLabel: x
 yLabel: y
 bounds: [0,1,0,10]
-disableZoom: false
+disableZoom: true
 grid: true
 ---
 y = log(1/x)
@@ -63,5 +63,14 @@ I_{max}&=-K\sum^{N}_{i=1}\frac{1}{N}\ln\left(\frac{1}{N}\right)\\  \\
 
 ## Sobre la elección de K 
 
-En $1947$, el ingeniero *Shannon* ocupo a conveniencia el número $K=\frac{1}{\ln(2)}$, de ahí que la información se mide en **bits**. Esto se llama la **medida de información de Shannon**. 
+En $1947$, el ingeniero *Shannon* ocupo a conveniencia el número $K=\frac{1}{\ln(2)}$, de ahí que la información se mide en **bits**. Esto se llama la **medida de información de Shannon**.
+
+Está demostrado que al ocupar la función de Shannon, es decir, ante $\Omega$ datos y una función $I_{2}=\sum x_{i}\log_2x_i$, se puede decir que la busqueda de un objeto es de orden $O(log_2(\Omega))$. Esto se basa en el algoritmo de [[Busqueda binaria|busqueda binaria]]. 
+
+Notemos que para el caso físico, donde se tienen muchas partículas, el orden $O(\log_2(\Omega))$ sigue siendo un número significativamente grande. 
+
+En física se ocupa la **constante de Boltzmann** $(k_b)$, que equivale a la **constante de los gases** dividido con **la constante de Avogadro**, donde $k_b=1,38\times10^{-23}$ . Notemos que la constante de Gibbs se relaciona a la constante de Boltzmann de la siguiente forma: 
+
+$$S=k_b\sum^{}_{i=1}x_i\ln(\frac{1}{x_i})$$
+
 
