@@ -106,4 +106,17 @@ $$q=\pi r^2\sigma=\int^{2\pi}_{0}\int^{R}_{0}\sigma ds$$
 
 Donde $ds=rd\phi dr$. Por lo tanto, escribiendo el campo eléctrico: 
 
-$$\vec{E}=\frac{1}{4\pi\epsilon_0}\int^{2\pi}_{0}\int^{R}_{0}\frac{\sigma ds'}{\vert\vert $$
+$$\vec{E}=\frac{1}{4\pi\epsilon_0}\int^{2\pi}_{0}\int^{R}_{0}\frac{\sigma ds'}{\vert\vert z\hat{k}-r\hat{r}\vert\vert^3}(z\hat{k}-r\hat{r})$$
+
+Sabiendo el cambio de variable de $ds$, entonces la integral llegaría a ser: 
+
+
+$$\vec{E}=\frac{1}{4\pi\epsilon_0}\int^{2\pi}_{0}\int^{R}_{0}\frac{\sigma r\;d\phi\; dr}{\vert\vert z\hat{k}-r\hat{r}\vert\vert^3}(z\hat{k}-r\hat{r})$$
+
+Si pasamos esto a coordenadas normales se llega que $\hat{r}=\cos\phi\hat{i}+\sin\phi\hat{j}$. Ahí se llegaría que la integral estaría en tres dimensiones:
+
+$$\vec{E}=\frac{1}{4\pi\epsilon_0}\int^{2\pi}_{0}\int^{R}_{0}\frac{\sigma r\;d\phi\; dr}{\vert\vert z^2-r^2\vert\vert^{\frac{3}{2}}}(z\hat{k}-r(\cos\phi\hat{i}+\sin\phi\hat{j}))$$
+
+Notar que $\hat{i}$ y $\hat{j}$ se anulan por ser funciones sinusoidales. La integral a calcular sería la del eje en $z$. 
+
+$$E_z=\frac{\sigma z}{4\pi\epsilon_0}\int^{2\pi}_{0}\int^{R}_{0}\frac{r\;dr\;d\phi}{(z^2+r^2)^{\frac{3}{2}}}=\frac{\sigma}{2\epsilon_0}\left(\frac{z}{\vert z\vert}-\frac{z}{(z^2+R^2)^{\frac{1}{2}}}\right)\hat{k}$$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md"
               }
             }
           }
@@ -183,12 +182,12 @@
   },
   "active": "fbd4b3aa94e0dee4",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "IMG_3C141247250C-1.jpeg",
     "IMG_E4A8ABDBCEF2-1.jpeg",
     "lineal 1.jpeg",
     "lineal.jpeg",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "IMG_C4C906F5EF52-1.jpeg",
     "IMG_B22B0FB3B139-1.jpeg",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
@@ -208,7 +207,6 @@
     "Departamento de Ingeniería Industrial/img/Venn.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
-    "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-08 a la(s) 11.09.27.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",
