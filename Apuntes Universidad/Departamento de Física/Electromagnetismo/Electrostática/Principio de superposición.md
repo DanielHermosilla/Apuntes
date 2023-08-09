@@ -18,3 +18,7 @@ $$\vec{E_T}(\vec{r})=\frac{1}{4\pi\epsilon}\int\frac{\vec{r}-\vec{r'}}{\vert\ver
 Lo equivalente a hacer lo siguiente: 
 
 ![[Captura de pantalla 2023-08-09 a la(s) 08.43.44.png|center|400]]
+
+Donde la densidad llegaría a ser: 
+
+$$e_j=\frac{n_{j}}{\Delta V}$$

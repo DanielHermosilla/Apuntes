@@ -21,6 +21,7 @@ Por lo tanto, la unidad de medida, o forma de verlo, es fuerza por unidad de car
 
 Se tiene la siguiente configuración: 
 
+![[IMG_B22B0FB3B139-1.jpeg|center|500]]
 
 La carga eléctrica total, por el [[Principio de superposición|principio de superposición]] llegaría a ser: 
 
@@ -36,4 +37,18 @@ $$\begin{align}
 
 Por lo tanto, la suma de campos vectoriales sale por la [[Ley de Coulomb]]: 
 
-$$\vec{E}=\frac{1}{4\pi\epsilon}\frac{q}{\vert\vert z\hat{k}+\frac{d}{2}\hat{i}\vert\vert^3}(z\hat{k}+\frac{d}{2}\hat{i})+\frac{1}{4\pi\epsilon}\frac{q}{\vert\vert z\hat{k}-\frac{d}{2}\hat{i}\vert\vert^{3}}(z\hat{k}-\frac{d}{2}\hat{i})+\vert\vert$$
+$$\vec{E}=\frac{1}{4\pi\epsilon}\frac{q}{\vert\vert z\hat{k}+\frac{d}{2}\hat{i}\vert\vert^3}(z\hat{k}+\frac{d}{2}\hat{i})+\frac{1}{4\pi\epsilon}\frac{q}{\vert\vert z\hat{k}-\frac{d}{2}\hat{i}\vert\vert^{3}}(z\hat{k}-\frac{d}{2}\hat{i})$$
+
+Además notamos que: 
+
+$$\vec{E}=\cancelto{0}{E_x\hat{i}}+\cancelto{0}{E_y\hat{j}}+E_z\hat{k}$$ 
+Pero, la forma más simple es hacerlo con geometría: 
+
+![[IMG_C4C906F5EF52-1.jpeg|center|500]]
+
+Donde la distancia puede salir con [[Teorema de Pitágoras|pitágoras]] y se hace una descomposición de [[vectores]]. Finalmente se llega que: 
+
+$$E_z=\frac{1}{4\pi\epsilon}\frac{2qz}{\left(z^2+\frac{d^2}{4}\right)^{\frac{3}{2}}}$$
+
+### Ejemplo: Distribución lineal de cargas 
+

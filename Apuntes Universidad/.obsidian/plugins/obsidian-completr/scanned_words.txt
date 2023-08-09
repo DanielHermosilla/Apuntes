@@ -683,6 +683,8 @@ supondra
 superficial
 solidos
 sumar
+sale
+salir
 no
 neo
 nea
@@ -1657,6 +1659,7 @@ discos
 dio
 desarrollo
 demostrado
+descomposici
 forma
 filas
 factor
@@ -2087,6 +2090,7 @@ vD
 velocidades
 vuelta
 visualiza
+vectoriales
 caracter
 cuando
 como
@@ -2425,6 +2429,8 @@ construidas
 claro
 conceptualizar
 certeza
+ctrica
+campos
 propios
 particular
 podr
@@ -4466,6 +4472,7 @@ Compa
 Competencias
 Campo
 Curva
+Cargas
 Jordan
 JV
 JD
@@ -4756,6 +4763,7 @@ Facilita
 Fnds
 Fv
 Farmacias
+Finalmente
 Normalmente
 Norma
 Notemos
