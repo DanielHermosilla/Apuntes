@@ -462,6 +462,7 @@ explica
 ejercicio
 equiprobables
 elecci
+escribiendo
 siguiente
 sistema
 soluci
@@ -685,6 +686,8 @@ solidos
 sumar
 sale
 salir
+sacan
+sinusoidales
 no
 neo
 nea
@@ -1310,6 +1313,7 @@ lq
 lcular
 lindro
 logar
+linea
 que
 quiere
 qk
@@ -1660,6 +1664,7 @@ dio
 desarrollo
 demostrado
 descomposici
+dimensiones
 forma
 filas
 factor
@@ -2677,6 +2682,7 @@ productor
 pasan
 proporciona
 pica
+pasamos
 Entonces
 EDO
 Esto
@@ -2898,6 +2904,7 @@ Almacenar
 Actualizar
 AQw
 Arco
+Analizando
 matriz
 metros
 mero
@@ -3497,6 +3504,7 @@ aplicaci
 analog
 absoluta
 aditivas
+anulan
 La
 Los
 Luego
