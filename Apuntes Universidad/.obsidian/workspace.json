@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md"
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md"
               }
             }
           }
@@ -158,9 +158,10 @@
   },
   "active": "fbd4b3aa94e0dee4",
   "lastOpenFiles": [
-    "IMG_AA6BF3172FD6-1.jpeg",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
+    "Departamento de Ciencias de la Computación/img/IMG_AA6BF3172FD6-1.jpeg",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Bases de Datos.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
@@ -184,7 +185,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_D21BCBBEBBE4-1.jpeg",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
-    "Departamento de Ingeniería Industrial/img/Venn.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial.md",
