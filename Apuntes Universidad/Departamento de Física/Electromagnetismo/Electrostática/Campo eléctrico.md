@@ -75,16 +75,35 @@ $$E_x=\frac{-\lambda}{4\pi\epsilon_0}\int^{L}_{-L}\frac{x'}{(z^2+x'^2)^{\frac{3}
 ```functionplot
 ---
 title: Campo en x
-xLabel: Time
-yLabel: Cost
-bounds: [0, 10, 0, 10]
-disbaleZoom: 0
+xLabel: x
+yLabel: z
+bounds: [-3, 3, -3, 3]
+disableZoom: true
 grid: true
 ---
-g(x)=x^PI
-f(x)=E+log(x)*2
+f(x)=x/((0.4^2+x^2)^(3/2))
 ```
+
 
 Como es impar, va a ser cero. Pero, para el eje $\hat{k}$: 
 
-$$E_z=\frac{\lambda z}{4\pi\epsilon_0}\int^{L}_{-L}\frac{dx'}{(z^2+x'^2)^{\frac{3}{2}}}$$
+$$E_z=\frac{\lambda z}{4\pi\epsilon_0}\int^{L}_{-L}\frac{dx'}{(z^2+x'^2)^{\frac{3}{2}}}=\frac{\lambda 2L}{4\pi\epsilon_0}\frac{1}{z(z^2+L^2)^{\frac{1}{2}}}\hat{k}$$
+
+Analizando los límites, por ejemplo si $z\to\infty$, se puede ver que se llega a lo siguiente: 
+
+$$\lim_{z\to\infty}E_z=\frac{\lambda 2L}{4\pi\epsilon_0}\cdot\frac{1}{z^2}$$
+
+### Ejemplo: Distribución de carga superficial 
+
+Se tiene un disco con densidad superficial $\sigma=\frac{c}{m^2}$ y radio $R$
+
+![[IMG_3C141247250C-1.jpeg|center|500]]
+
+
+Se sabe que la carga es: 
+
+$$q=\pi r^2\sigma=\int^{2\pi}_{0}\int^{R}_{0}\sigma ds$$
+
+Donde $ds=rd\phi dr$. Por lo tanto, escribiendo el campo eléctrico: 
+
+$$\vec{E}=\frac{1}{4\pi\epsilon_0}\int^{2\pi}_{0}\int^{R}_{0}\frac{\sigma ds'}{\vert\vert $$
