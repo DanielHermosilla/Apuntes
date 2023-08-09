@@ -16,3 +16,24 @@ Haciendo aritmética simple, se puede relacionar las fuerzas y el campo eléctri
 $$\vec{F}(\vec{r})=Q\vec{E}(\vec{r})$$
 
 Por lo tanto, la unidad de medida, o forma de verlo, es fuerza por unidad de carga.
+
+### Ejemplo: Cargas puntuales 
+
+Se tiene la siguiente configuración: 
+
+
+La carga eléctrica total, por el [[Principio de superposición|principio de superposición]] llegaría a ser: 
+
+$$\vec{E}=\vec{E_1}+\vec{E_2}$$
+
+Además, notamos lo siguiente: 
+
+$$\begin{align}
+\vec{r}&=z\hat{k}\\  \\
+\vec{r_2'}&=\frac{d}{2}\hat{i}\\  \\
+\vec{r_1'}&=-\frac{d}{2}\hat{i}
+\end{align}$$
+
+Por lo tanto, la suma de campos vectoriales sale por la [[Ley de Coulomb]]: 
+
+$$\vec{E}=\frac{1}{4\pi\epsilon}\frac{q}{\vert\vert z\hat{k}+\frac{d}{2}\hat{i}\vert\vert^3}(z\hat{k}+\frac{d}{2}\hat{i})+\frac{1}{4\pi\epsilon}\frac{q}{\vert\vert z\hat{k}-\frac{d}{2}\hat{i}\vert\vert^{3}}(z\hat{k}-\frac{d}{2}\hat{i})+\vert\vert$$

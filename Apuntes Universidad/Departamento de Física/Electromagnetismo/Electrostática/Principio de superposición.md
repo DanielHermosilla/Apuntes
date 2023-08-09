@@ -15,3 +15,6 @@ O análogamente:
 
 $$\vec{E_T}(\vec{r})=\frac{1}{4\pi\epsilon}\int\frac{\vec{r}-\vec{r'}}{\vert\vert\vec{r}-\vec{r'}\vert\vert^3}dq'$$
 
+Lo equivalente a hacer lo siguiente: 
+
+![[Captura de pantalla 2023-08-09 a la(s) 08.43.44.png|center|400]]
