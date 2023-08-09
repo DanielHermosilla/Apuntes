@@ -52,3 +52,39 @@ $$E_z=\frac{1}{4\pi\epsilon}\frac{2qz}{\left(z^2+\frac{d^2}{4}\right)^{\frac{3}{
 
 ### Ejemplo: Distribución lineal de cargas 
 
+Se tiene una distribución uniforme de carga lineal entre $-L$ y $L$ en el eje x, con densidad uniforme. La densidad llegaría a ser $\lambda = \frac{C}{m}$. 
+
+![[lineal 1.jpeg|center|500]]
+
+Por lo tanto, la carga total llegaría a ser: 
+
+$$q=\int^{L}_{-L}\lambda dx=2L\cdot\lambda$$
+
+Para ver el campo eléctrico, se tiene una **integral de linea**, entonces: 
+
+$$\vec{E}(\vec{r}=z\hat{k})=\frac{1}{4\pi\epsilon}\int^{L}_{-L}\frac{(\lambda dx')}{\vert\vert z\hat{k}-x'\hat{i}\vert\vert^3}(z\hat{k}-x'\hat{i})$$
+
+Los vectores de posición se sacan a través del siguiente análisis: 
+   
+![[IMG_E4A8ABDBCEF2-1.jpeg|center|550]]
+
+Por lo tanto, la integral sería doble, una en $\hat{k}$ y $\hat{i}$. Pero por simple geometría sabemos que la [[Integral de Riemann|integral]] en $\hat{i}$ es 0. De hecho se puede ver que: 
+
+$$E_x=\frac{-\lambda}{4\pi\epsilon_0}\int^{L}_{-L}\frac{x'}{(z^2+x'^2)^{\frac{3}{2}}}dx'$$
+
+```functionplot
+---
+title: Campo en x
+xLabel: Time
+yLabel: Cost
+bounds: [0, 10, 0, 10]
+disbaleZoom: 0
+grid: true
+---
+g(x)=x^PI
+f(x)=E+log(x)*2
+```
+
+Como es impar, va a ser cero. Pero, para el eje $\hat{k}$: 
+
+$$E_z=\frac{\lambda z}{4\pi\epsilon_0}\int^{L}_{-L}\frac{dx'}{(z^2+x'^2)^{\frac{3}{2}}}$$
