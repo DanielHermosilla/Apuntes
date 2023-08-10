@@ -3099,6 +3099,7 @@ manto
 metro
 multiplicarlo
 mide
+medir
 resolver
 rmula
 reducir
