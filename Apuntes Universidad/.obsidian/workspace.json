@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva continua.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva de Jordan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva continua.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva de Jordan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva continua.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva de Jordan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva continua.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva de Jordan.md"
               }
             }
           }
@@ -148,10 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "aea52c3721f67caf",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curvas.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva simple.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva de Jordan.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_D8A963F9DBFE-1.jpeg",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva cerrada.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva continua.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_EA706B7753B9-1.jpeg",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curvas.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/semicirculo ejemplo.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
@@ -176,7 +181,6 @@
     "Departamento de Física/Electromagnetismo/img/lineal.jpeg",
     "Departamento de Física/Electromagnetismo/img/IMG_C4C906F5EF52-1.jpeg",
     "Departamento de Física/Electromagnetismo/img/IMG_B22B0FB3B139-1.jpeg",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-09 a la(s) 08.43.44.png",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Sólido de Revolución.md",
@@ -184,10 +188,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Manto de revolución.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Longitud de un Arco de Curva.md",
     "Departamento de Física/Termodinámica/Termodinámica.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_C87704D8D73B-1.jpeg",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",
     "Departamento de Física/Electromagnetismo/img",

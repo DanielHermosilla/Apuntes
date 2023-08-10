@@ -4,3 +4,5 @@ Sea $C\subseteq\mathbb{R}^n$ una [[Curvas|curva]] y $r:[a,b]\to\mathbb{R}^n$ una
 ### Curvas seccionalmente suave 
 
 Una curva es seccionalmente suave si es suave salvo en una cantidad finita de puntos:
+
+![[IMG_EA706B7753B9-1.jpeg|center|500]]
