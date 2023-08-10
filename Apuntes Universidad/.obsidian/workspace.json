@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "003a0dd4060a4e35",
+        "id": "261e0681b7cb6046",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd4b3aa94e0dee4",
+            "id": "aea52c3721f67caf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -148,7 +145,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbd4b3aa94e0dee4",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
