@@ -14,3 +14,5 @@ Pero por el otro lado, las interacciones estratégicas llegarían a ser casi tod
 - Competencias electoral
 - Relaciones internacionales
 
+
+En un juego 

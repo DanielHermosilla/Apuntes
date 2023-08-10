@@ -11,8 +11,12 @@
             "id": "aea52c3721f67caf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md"
               }
             }
           }
@@ -145,11 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "aea52c3721f67caf",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
     "Departamento de Ciencias de la Computación/img/IMG_AA6BF3172FD6-1.jpeg",
