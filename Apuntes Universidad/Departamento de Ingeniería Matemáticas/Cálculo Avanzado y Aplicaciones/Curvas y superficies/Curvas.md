@@ -67,7 +67,23 @@ $$r(\theta)=(\cos\theta,\sin\theta),\;\theta\in[0,\pi]$$
 En las curvas debemos considerar el **sentido** en que se recorre la curva. Es decir, debemos conocer el **inicio** y **final** de la curva. 
 
 Se dirá que se recorre en sentido positivo si es en sentido **antihorario**. 
-
+  ![[semicirculo ejemplo.png|center|]]
+Por ejemplo, la figura anterior sería positivo. 
 ### Ejemplo 
 
-Parametrizar el segmento de recta de $(1,2)$ al punto $(-3,5)$. 
+Parametrizar el segmento de recta de $(1,2)$ al punto $(-3,5)$. En general, dado [[Distancia entre dos puntos|dos puntos]] $P_0$ y $P_1$ el segmento de recta desde $P_0$ a $P_1$ se parametriza como: 
+
+
+$$\begin{align}
+
+r:[0,1]\to&\;\mathbb{R}^n \\ \\
+t\to&\;r(t)=(1-t)P_0+tP_1
+
+\end{align}$$
+
+En este caso, $r(t)=\left((1-t)(1,2)+t(-3,5)\right)\iff(1-t,2-2t)+(-3t,5t)$
+
+Por lo tanto, la respuesta final sería: 
+
+$$r(t)=(1-4t,2+3t)\;\;\text{desde}\;t=0\;\;\text{a}\;\;t=1$$
+
