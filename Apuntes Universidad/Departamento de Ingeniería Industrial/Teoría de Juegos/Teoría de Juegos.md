@@ -15,4 +15,3 @@ Pero por el otro lado, las interacciones estratégicas llegarían a ser casi tod
 - Relaciones internacionales
 
 
-En un juego 

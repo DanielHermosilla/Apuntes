@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md"
               }
             }
           }
@@ -150,6 +150,12 @@
   },
   "active": "aea52c3721f67caf",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Pagos.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Perfil de estrategias.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Conjunto de jugadas.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Untitled.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
@@ -177,7 +183,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_D21BCBBEBBE4-1.jpeg",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
@@ -190,11 +195,6 @@
     "Departamento de Física/Termodinámica",
     "Departamento de Física/Electromagnetismo",
     "Departamento de Ingeniería Industrial/Teoría de Juegos",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones",
-    "Departamento de Física/Mecánica/Resumen/Resumen Control 3.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Quick Sort.md",
-    "Departamento de Física/Mecánica/Resumen/Formulario Control 3.md",
-    "Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md",
-    "Química/Resumenes"
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones"
   ]
 }

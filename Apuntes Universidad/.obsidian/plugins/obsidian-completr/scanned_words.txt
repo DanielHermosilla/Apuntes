@@ -463,6 +463,10 @@ ejercicio
 equiprobables
 elecci
 escribiendo
+estrategias
+estrategiia
+estricta
+estrategia
 siguiente
 sistema
 soluci
@@ -849,6 +853,7 @@ nuestra
 nuestro
 nuestros
 negativa
+notaci
 homog
 homogenea
 hacen
@@ -1665,6 +1670,8 @@ desarrollo
 demostrado
 descomposici
 dimensiones
+dominada
+dominancia
 forma
 filas
 factor
@@ -2436,6 +2443,8 @@ conceptualizar
 certeza
 ctrica
 campos
+comunicaci
+conducir
 propios
 particular
 podr
@@ -2683,6 +2692,8 @@ pasan
 proporciona
 pica
 pasamos
+perfil
+pagos
 Entonces
 EDO
 Esto
@@ -3100,6 +3111,8 @@ metro
 multiplicarlo
 mide
 medir
+mayores
+malo
 resolver
 rmula
 reducir
@@ -3290,6 +3303,8 @@ repetirlo
 revoluci
 representado
 restar
+representaran
+racionales
 asociados
 ambas
 asegura
@@ -3698,6 +3713,7 @@ usuario
 unificando
 uom
 uC
+utilidad
 Wronskiana
 We
 Width
@@ -4071,6 +4087,7 @@ introducen
 identifiar
 importancia
 ingeniero
+incentivos
 ya
 yi
 yR
@@ -6150,6 +6167,11 @@ jXz
 jYZ
 jf
 jbH
+jugadas
+jugada
+jugador
+jugadores
+jugar
 Zmm
 ZZZ
 Zk
