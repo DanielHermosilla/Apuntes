@@ -1,2 +1,2 @@
 
-Al tener un [[Conjunto de jugadas|conjunto de estrategias]] donde existe dominancia, es posible 
+Al tener un [[Conjunto de jugadas|conjunto de estrategias]] donde existe dominancia, es posible llegar a una estrategia única al ir eliminando las que son [[Dominancia estricta|estrictamente dominadas]]. 
