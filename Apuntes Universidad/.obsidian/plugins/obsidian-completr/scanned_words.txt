@@ -692,6 +692,8 @@ sale
 salir
 sacan
 sinusoidales
+sico
+significativamente
 no
 neo
 nea
@@ -1672,6 +1674,7 @@ descomposici
 dimensiones
 dominada
 dominancia
+desconocen
 forma
 filas
 factor
@@ -1965,6 +1968,7 @@ trabajarlos
 tienda
 tender
 tmica
+termodin
 valores
 vectores
 variaci
@@ -2445,6 +2449,7 @@ ctrica
 campos
 comunicaci
 conducir
+claves
 propios
 particular
 podr
@@ -2916,6 +2921,7 @@ Actualizar
 AQw
 Arco
 Analizando
+Avogadro
 matriz
 metros
 mero
@@ -3113,6 +3119,7 @@ mide
 medir
 mayores
 malo
+materia
 resolver
 rmula
 reducir
@@ -3305,6 +3312,7 @@ representado
 restar
 representaran
 racionales
+rama
 asociados
 ambas
 asegura
@@ -3521,6 +3529,8 @@ analog
 absoluta
 aditivas
 anulan
+asumimos
+aspectos
 La
 Los
 Luego
@@ -4088,6 +4098,7 @@ identifiar
 importancia
 ingeniero
 incentivos
+intercambios
 ya
 yi
 yR
@@ -4993,6 +5004,7 @@ gicas
 ggg
 gira
 girar
+gases
 Otra
 OPTIONS
 OS
@@ -5156,6 +5168,7 @@ BXXI
 Bases
 Base
 Bancos
+Boltzmann
 Vector
 Veamos
 Vale
@@ -5782,6 +5795,7 @@ Gia
 GPGb
 Gravitacional
 Gracias
+Gibbs
 YO
 YlG
 YY
