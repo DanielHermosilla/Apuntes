@@ -1,0 +1,2 @@
+
+Es una descripción **macroscópica** de la materia, con muchas partículas y muchas variables. Además, hay intercambios de **energía**. Al estudiar sistemas **macroscópicos** ocurre una pérdida de información, vale decir, asumimos que se desconocen el comportamiento de las [[Partícula|partículas]] por sí solas. La **pérdida de información** es uno de los aspectos claves de la rama de la termodinámica.  

@@ -1,5 +1,5 @@
 
-Dispositivo que puede almacenar carga eléctrica y energía. La energía es almacenada en un [[Campo eléctrico|campo eléctrico]] entre las placas.  
+Dispositivo que puede almacenar carga eléctrica y energía. La energía es almacenada en un [[Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Campo eléctrico|campo eléctrico]] entre las placas.  
 
 ## Capacitancia 
 

@@ -49,13 +49,91 @@ def Dijkstra(V,E,d,s):
 	
 	return D
 ```
+Eso si esto tiene una limitación, y es cuando se tienen **distancias negativas**. Existen contraejemplos donde las distancias calculadas bajo este algoritmo llegarían a no ser las optimas. 
 
 ## Algoritmo de Floyd 
 
-Para aplicar este algoritmo, los nodos se numeran arbitrariamente $1,2,\dots,n$. El algoritmo va a ir construyendo una matriz $D$ tal que al final, $D[i,j]$ va a ser el largo del camino más corto que va desde el nodo $i$ hasta el nodo $j$. 
+Para aplicar este algoritmo, los nodos se numeran arbitrariamente $1,2,\dots,n$. El algoritmo va a ir construyendo una matriz $D$ tal que al final, $D[i,j]$ va a ser el largo del camino más corto que va desde el nodo $i$ hasta el nodo $j$. Es una forma de **programación dinámica** para resolver el problema del camino más corto. 
 
 Es decir, como input se recibe una matriz "$d$",  $n\times n$, donde la posición $i,j$ es el largo del arco $(i,j)$ o $+\infty$ si no hay arco. 
 
 Como output, se tiene la matriz de los caminos. 
 
+### Método *Greedy* 
+
+Una forma simple y *greedy* de hacerlo, es simplemente aplicar el algoritmo de Dijkstra para cada vértice posible. Esto tomaría una complejidad de $n^{2}\times n$. Obviamente no es lo óptimo. 
+
 El invariante es, al comenzar la *k-esima* iteración, con $k=1,2,3,\dots,n$. $D[i,j]$ es el largo más corto desde $i\to j$ que pasa solo por los puntos intermedios de numeración $<K$, en otras palabras, que no pase por puntos intermedios.  
+
+
+### Ejemplo 
+
+Un ejemplo del resultado de este algoritmo sería el siguiente: 
+
+![[Captura de pantalla 2023-07-18 a la(s) 22.44.52.png|center|350]]
+
+
+Este algoritmo tomaría como input la siguiente matriz: 
+
+$$A^0=\begin{bmatrix}
+ & \mathbf{1} & \mathbf{2} & \mathbf{3} & \mathbf{4} \\
+\mathbf{1} & 0 & 3 & \infty & 7 \\
+\mathbf{2} & 8 & 0 & 2 & \infty \\
+\mathbf{3} & 5 & \infty & 0 & 1 \\
+\mathbf{4} & 2 & \infty & \infty & 0
+\end{bmatrix}$$
+
+Que sería, basicamente, la matriz con todos los pesos de cada arco. 
+
+Ahora, para resolver para $A^1$, es decir, el vértice $1$, primero nos paramos en aquel vértice, dejando intactas las filas y columnas pertenecientes a $A^1$. 
+
+$$A^1=\begin{bmatrix}
+ & \mathbf{1} & \mathbf{2} & \mathbf{3} & \mathbf{4} \\
+\mathbf{1} & 0 & 3 & \infty & 7 \\
+\mathbf{2} & 8 & 0 & \dots & \dots \\
+\mathbf{3} & 5 & \dots & 0 & \dots \\
+\mathbf{4} & 2 & \dots & \dots & 0
+\end{bmatrix}$$
+
+
+Entonces, para llenar la matriz restante, revisamos la matriz original. Por ejemplo, queremos llenar la coordenada $(2,3)$, que representaría el camino $2\to 3$, entonces se realiza la siguiente operación: 
+
+$$A^0[2,3]=2$$
+
+Pero, como estamos parados en el primer nodo, entonces se hace la comparación al pasar por el nodo uno dado que es el intermedio (acordar del [[Invariante|invariante]]): 
+
+$$A^0[2,1]+A^0[1,3]=8+\infty$$
+
+Claramente el primero es más chico, entonces se queda en $2$. 
+
+$$A^1=\begin{bmatrix}
+ & \mathbf{1} & \mathbf{2} & \mathbf{3} & \mathbf{4} \\
+\mathbf{1} & 0 & 3 & \infty & 7 \\
+\mathbf{2} & 8 & 0 & 2 & \dots \\
+\mathbf{3} & 5 & \dots & 0 & \dots \\
+\mathbf{4} & 2 & \dots & \dots & 0
+\end{bmatrix}$$
+
+La otra iteración sería comparar para $(2,4)$, donde claramente se puede apreciar que $A^0[2,4]=\infty$ y $A^0[2,1]+A^0[1,4]$ es $8+7$, entonces existe un camino indirecto que pasa por el vértice $1$ donde se puede lograr la conexión $2\to4$. 
+
+Luego, al llenar la matriz, se llega a lo siguiente (Esta vez se va a omitir la numeración de filas y columnas): 
+
+$$A^1=\begin{bmatrix}
+0 & 3 & \infty & 7 \\
+8 & 0 & 2 & 15 \\
+5 & 8 & 0 & 1 \\
+2 & 5 & \infty & 0
+\end{bmatrix}$$
+
+Ahora, se hace lo mismo pero para el vértice $2$ y tomando como base la matriz $1$, es como un método de memoización. Entonces, para $A^2$: 
+
+$$A^2=\begin{bmatrix}
+0 & 3 & \dots & \dots \\
+8 & 0 & 2 & 15 \\
+\dots & 8 & \dots & \dots \\
+\dots & 5 & \dots & 0
+\end{bmatrix}$$
+
+Iterando nuevamente en función de $A^1$, se llega a la matriz óptima $A^1$. 
+
+Todo esto se reduce a la siguiente fórmula: $A^{k}[i,j]=\min \lbrace A^{k+1}[i,j]\;,\;A^{k-1}[i,k]+A^{k-1}[k,j]\rbrace$

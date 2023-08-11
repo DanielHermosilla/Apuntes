@@ -35,3 +35,4 @@ Para $x\in\lbrace 0,1,2,3,\dots\rbrace$.
 
 Si $\lim_{n\to\infty}M_{X_n}(s)=M_X(s)$ para todo $s\in[-c,c]$, entonces $X_n\to X$ 
 
+

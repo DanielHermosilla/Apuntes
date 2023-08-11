@@ -116,7 +116,7 @@ $$ \text{Serie de Pfund:} \enspace \enspace  \frac{1}{\lambda} = R(\frac{1}{5^2}
 
 ### El experimento de Franck-Hertz
 
-En 1914 se encontró evidencia todavía más directa sobre energía en los átomos. Estudiaron el movimiento de los electrones a través del vapor de mercurio bajo la acción de un [[Campo eléctrico]]. Encontraron emisiones de luz ultra violeta, donde se llegó, de nuevo, a la ecuación de energía del átomo de hidrógeno. 
+En 1914 se encontró evidencia todavía más directa sobre energía en los átomos. Estudiaron el movimiento de los electrones a través del vapor de mercurio bajo la acción de un [[Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Campo eléctrico]]. Encontraron emisiones de luz ultra violeta, donde se llegó, de nuevo, a la ecuación de energía del átomo de hidrógeno. 
 
 ### Niveles de energía 
 
