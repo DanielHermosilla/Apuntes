@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "aea52c3721f67caf",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
@@ -173,7 +176,6 @@
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Perfil de estrategias.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Conjunto de jugadas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
-    "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
     "Departamento de Ciencias de la Computación/img/IMG_AA6BF3172FD6-1.jpeg",
@@ -187,14 +189,12 @@
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Sólido de Revolución.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Coordenadas polares.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Manto de revolución.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",
     "Departamento de Física/Electromagnetismo/img",
     "Departamento de Física/Electromagnetismo/Electrostática",
     "Departamento de Ciencias de la Computación/Bases de Datos",
     "Departamento de Física/Termodinámica",
-    "Departamento de Física/Electromagnetismo",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos"
+    "Departamento de Física/Electromagnetismo"
   ]
 }
