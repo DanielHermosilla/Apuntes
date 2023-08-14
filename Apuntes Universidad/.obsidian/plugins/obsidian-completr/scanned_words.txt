@@ -2498,6 +2498,9 @@ cerveza
 ciudad
 cnicas
 configuraciones
+consistentes
+coresponder
+conformar
 propios
 particular
 podr
@@ -3184,6 +3187,8 @@ multiplicidades
 macroestado
 microsc
 macroscop
+micro
+multiplicativo
 resolver
 rmula
 reducir
@@ -3604,6 +3609,7 @@ amplia
 atributo
 atributos
 actuan
+atado
 La
 Los
 Luego
