@@ -9,4 +9,22 @@ Lo que hace referencia la *divergencia* y *rotación* tiene que ver principalmen
 
 ![[Captura de pantalla 2023-08-14 a la(s) 10.40.49.png|center]]
 
-Si nos fijamos, existe una especie de [[Fuerzas centrales|fuerza centrales]], y de aquí nace el concepto de la *fuerza del campo magnético*, que en realidad la magnitud del campo lo indica la **densidad del trazado del campo** (es fuerte cuando el trazado es cercano entre sí y es débil )
+Si nos fijamos, existe una especie de [[Fuerzas centrales|fuerza centrales]], y de aquí nace el concepto de la *fuerza del campo magnético*, que en realidad hace referencia a la magnitud del campo, que lo indica la **densidad del trazado del campo** (es fuerte cuando el trazado es cercano entre sí y es débil cuando están relativamente lejos). 
+
+Por lo tanto, desde este problema se puede establecer que **es posible representar el campo eléctrico a partir de un trazado de líneas**. 
+
+Por lo general los diagramas del [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]] siguen ciertas reglas: 
+
+- Los [[vectores]] empiezan en las **cargas positivas** y terminan en las **cargas negativas**. No pueden terminar en la mitad de la nada. 
+
+![[Captura de pantalla 2023-08-14 a la(s) 10.54.42.png|center]]
+
+- El trazado se puede extender al infinito, de hecho, analizando la [[Ley de Coulomb]] es posible ver que se cumple. 
+- Los trazados no se pueden curzar entre sí. 
+
+![[Captura de pantalla 2023-08-14 a la(s) 10.57.07.png|center]]
+
+En efecto, para poder medir el *número de líneas* que pasan por un área $S$, se calcula de la siguiente manera: 
+
+$$\Phi_E=\int^{}_{S}E\cdot d\mathbf{a}$$
+Esto g
