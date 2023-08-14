@@ -982,6 +982,7 @@ hfP
 horario
 horizontales
 hacemos
+habla
 Soluci
 Simplificando
 Se
@@ -1703,6 +1704,8 @@ desconocen
 dif
 divergencia
 duro
+disipa
+disipada
 forma
 filas
 factor
@@ -2142,6 +2145,7 @@ visualiza
 vectoriales
 volvemos
 voca
+vista
 caracter
 cuando
 como
@@ -2492,6 +2496,7 @@ consulta
 chatGPT
 cerveza
 ciudad
+cnicas
 propios
 particular
 podr
@@ -2742,6 +2747,7 @@ pasamos
 perfil
 pagos
 primarias
+pelota
 Entonces
 EDO
 Esto
@@ -3173,6 +3179,7 @@ modificar
 mantenga
 mirada
 multiplicidades
+macroestado
 resolver
 rmula
 reducir
@@ -3592,6 +3599,7 @@ accesibles
 amplia
 atributo
 atributos
+actuan
 La
 Los
 Luego
@@ -3788,6 +3796,7 @@ uom
 uC
 utilidad
 usuarios
+utilizar
 Wronskiana
 We
 Width
@@ -3954,6 +3963,7 @@ Definir
 Database
 Debil
 Ddx
+Debido
 importante
 invertible
 intentara
@@ -4781,6 +4791,7 @@ Tanto
 Tupla
 Tipo
 Torobayo
+Tomando
 Factorizando
 Factor
 Ft

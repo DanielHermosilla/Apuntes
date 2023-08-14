@@ -1,0 +1,2 @@
+
+En los sistemas macroscópicos se deben utilizar técnicas distintas para describir los movimientos [[Cinemática|cinemáticos]].  Esto se llama **descripción en macroestado**, donde se describe el sistema en términos de las variables que se pueden medir. 
