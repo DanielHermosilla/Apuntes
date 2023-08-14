@@ -27,4 +27,11 @@ Por lo general los diagramas del [[Departamento de Física/Electromagnetismo/Ele
 En efecto, para poder medir el *número de líneas* que pasan por un área $S$, se calcula de la siguiente manera: 
 
 $$\Phi_E=\int^{}_{S}E\cdot d\mathbf{a}$$
-Esto g
+
+El [[Producto punto|producto punto]] $E\cdot d\mathbf{a}$ gráficamente representa lo siguiente: 
+
+![[Captura de pantalla 2023-08-14 a la(s) 11.00.45.png|center]]
+
+Es decir, es el área infinitidecimal del plano perpendicular a la dirección del [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]]. 
+
+Esto sugiere que el trazado de cualquier área es la medida de la carga interior. P
