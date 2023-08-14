@@ -100,6 +100,10 @@ PMNSP
 PXP
 PLTE
 Podr
+Python
+Punta
+Pale
+Pilsner
 Resolver
 Realizando
 Reemplazando
@@ -467,6 +471,15 @@ estrategias
 estrategiia
 estricta
 estrategia
+extracci
+ellos
+encarga
+encuentra
+eventualmente
+esquema
+especif
+entidad
+entidades
 siguiente
 sistema
 soluci
@@ -694,6 +707,9 @@ sacan
 sinusoidales
 sico
 significativamente
+seguridad
+servidor
+style
 no
 neo
 nea
@@ -856,6 +872,7 @@ nuestro
 nuestros
 negativa
 notaci
+nombres
 homog
 homogenea
 hacen
@@ -1072,6 +1089,9 @@ SQ
 Siempre
 Sobre
 Shannon
+SGBD
+SQL
+SSH
 buscando
 busco
 buscamos
@@ -1193,6 +1213,8 @@ bGO
 bu
 bC
 basan
+blue
+binarias
 la
 las
 lo
@@ -1322,6 +1344,8 @@ lcular
 lindro
 logar
 linea
+llevarlo
+lenguaje
 que
 quiere
 qk
@@ -1678,6 +1702,7 @@ dominancia
 desconocen
 dif
 divergencia
+duro
 forma
 filas
 factor
@@ -1797,6 +1822,10 @@ flujo
 figuras
 formula
 factores
+finales
+fica
+font
+float
 tanto
 tiene
 tal
@@ -1972,6 +2001,7 @@ tienda
 tender
 tmica
 termodin
+tupla
 valores
 vectores
 variaci
@@ -2111,6 +2141,7 @@ vuelta
 visualiza
 vectoriales
 volvemos
+voca
 caracter
 cuando
 como
@@ -2455,6 +2486,12 @@ comunicaci
 conducir
 claves
 computar
+conocimiento
+consistentemente
+consulta
+chatGPT
+cerveza
+ciudad
 propios
 particular
 podr
@@ -2704,6 +2741,7 @@ pica
 pasamos
 perfil
 pagos
+primarias
 Entonces
 EDO
 Esto
@@ -2927,6 +2965,11 @@ AQw
 Arco
 Analizando
 Avogadro
+Asegura
+Atributo
+Austral
+Arenas
+Ale
 matriz
 metros
 mero
@@ -3126,6 +3169,10 @@ mayores
 malo
 materia
 modelos
+modificar
+mantenga
+mirada
+multiplicidades
 resolver
 rmula
 reducir
@@ -3320,6 +3367,9 @@ representaran
 racionales
 rama
 relacionan
+recuperar
+recuperaci
+relacionaes
 asociados
 ambas
 asegura
@@ -3538,6 +3588,10 @@ aditivas
 anulan
 asumimos
 aspectos
+accesibles
+amplia
+atributo
+atributos
 La
 Los
 Luego
@@ -3621,6 +3675,8 @@ LO
 LEO
 LB
 LL
+Lager
+Llaves
 una
 un
 uno
@@ -3731,6 +3787,7 @@ unificando
 uom
 uC
 utilidad
+usuarios
 Wronskiana
 We
 Width
@@ -4106,6 +4163,9 @@ importancia
 ingeniero
 incentivos
 intercambios
+interfaz
+integridad
+identifican
 ya
 yi
 yR
@@ -4321,6 +4381,9 @@ organizadas
 obteniendo
 optimizara
 ocupo
+organizada
+organizados
+obligatorias
 wronskiana
 www
 wF
@@ -4400,6 +4463,7 @@ wY
 wwbY
 wQoy
 wnLsZ
+web
 Como
 CO
 Cauchy
@@ -4517,6 +4581,10 @@ Competencias
 Campo
 Curva
 Cargas
+Cervezas
+Ciudad
+Curacav
+Curavav
 Jordan
 JV
 JD
@@ -4710,6 +4778,9 @@ Tj
 Txjx
 Tcz
 Tanto
+Tupla
+Tipo
+Torobayo
 Factorizando
 Factor
 Ft
@@ -4888,6 +4959,7 @@ Nota
 Nuestra
 Nuestro
 Notamos
+Nombre
 general
 gnita
 gs
@@ -5012,6 +5084,8 @@ ggg
 gira
 girar
 gases
+gestionar
+green
 Otra
 OPTIONS
 OS
@@ -5258,6 +5332,7 @@ VOj
 VUu
 VMv
 Vamos
+Valdivia
 Queda
 QO
 QRG
@@ -5714,6 +5789,8 @@ KyI
 KQF
 KtV
 KEu
+Kunstmann
+Kross
 Gecko
 GG
 GRw
@@ -5803,6 +5880,9 @@ GPGb
 Gravitacional
 Gracias
 Gibbs
+Gesti
+Grados
+Golden
 YO
 YlG
 YY
@@ -5895,6 +5975,7 @@ YIK
 YkI
 Yeh
 YRP
+Yagan
 zx
 zw
 zY
@@ -6193,6 +6274,7 @@ jugada
 jugador
 jugadores
 jugar
+jerarqu
 Zmm
 ZZZ
 Zk

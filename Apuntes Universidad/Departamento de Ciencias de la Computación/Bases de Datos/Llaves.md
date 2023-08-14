@@ -13,6 +13,6 @@ Dos entidades son relacionadas
 
 ![[Captura de pantalla 2023-08-14 a la(s) 15.47.12.png|center]]
 
-Notemos que existen distintas multiplicidades de relacionaes para las llaves binarias:
+Notemos que existen distintas multiplicidades de relacionales para las llaves binarias:
 
 ![[Captura de pantalla 2023-08-14 a la(s) 15.48.17.png|center]]

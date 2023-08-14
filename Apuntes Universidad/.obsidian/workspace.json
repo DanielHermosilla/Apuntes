@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16cd395c50531f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,13 +170,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "aea52c3721f67caf",
   "lastOpenFiles": [
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.48.17.png",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.47.12.png",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.46.35.png",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.25.19.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo Entidad-Relación.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
@@ -187,7 +201,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_D8A963F9DBFE-1.jpeg",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva cerrada.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva continua.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_EA706B7753B9-1.jpeg",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curvas.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
@@ -198,7 +211,6 @@
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Perfil de estrategias.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Conjunto de jugadas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",
     "Departamento de Física/Electromagnetismo/img",
