@@ -2497,6 +2497,7 @@ chatGPT
 cerveza
 ciudad
 cnicas
+configuraciones
 propios
 particular
 podr
@@ -2748,6 +2749,7 @@ perfil
 pagos
 primarias
 pelota
+pico
 Entonces
 EDO
 Esto
@@ -3180,6 +3182,8 @@ mantenga
 mirada
 multiplicidades
 macroestado
+microsc
+macroscop
 resolver
 rmula
 reducir
