@@ -17,7 +17,7 @@ $$\vec{F}(\vec{r})=Q\vec{E}(\vec{r})$$
 
 Por lo tanto, la unidad de medida, o forma de verlo, es fuerza por unidad de carga.
 
-El campo eléctrico, por lo tanto, es una cantidad vectorial que varía punto a punto y es determinado por la posición de la carga de prueba, que es el lugar donde se quiere medir el campo eléctrico.
+El campo eléctrico, por lo tanto, es una cantidad vectorial que varía punto a punto y es determinado por la posición de la medición, que es el lugar donde se quiere medir el campo eléctrico, siendo **independiente a la carga de prueba**. 
 
 ### Ejemplo: Cargas puntuales 
 

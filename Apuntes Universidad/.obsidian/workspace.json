@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md"
               }
             }
           }
@@ -148,13 +149,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aea52c3721f67caf",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
-    "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
+    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.40.49.png",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Rotación.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Mecánica/Tarea/Drawing 2023-07-09 16.15.49.excalidraw.md",
     "Departamento de Física/Mecánica/Tarea/DCL.png",
@@ -186,9 +190,6 @@
     "Departamento de Física/Electromagnetismo/img/lineal 1.jpeg",
     "Departamento de Física/Electromagnetismo/img/lineal.jpeg",
     "Departamento de Física/Electromagnetismo/img/IMG_C4C906F5EF52-1.jpeg",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Sólido de Revolución.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Coordenadas polares.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",
     "Departamento de Física/Electromagnetismo/img",
