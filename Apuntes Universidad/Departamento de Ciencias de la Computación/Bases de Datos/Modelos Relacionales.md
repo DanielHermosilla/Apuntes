@@ -27,7 +27,10 @@ Se basan en modelos que relacionan los datos a través de tablas.
 
 En este ejemplo, la cerveza sería una **relación**, los nombres, tipos, grados, etc sería el **atributo** y las **tuplas** serían las filas, en este caso, Kunstmann Torobayo, Ale, 5,1, etc. 
 
-Por lo tanto, para cada relación se le asigna su propio esquema: 
+Por lo tanto, para cada relación se le asigna su propio esquema donde se especifíca los **atributos** y los **tipos**: 
 
-<span class="purple"> This note will be purple </span>
+- <font style="color:green">Cervezas</font>(<font style="color:blue">nombre: </font><font style="color:red">string</font>, <font style="color:blue">tipo: </font><font style="color:red">string</font>,  <font style="color:blue">grados: </font><font style="color:red">float</font>, <font style="color:blue">ciudad-origen: </font><font style="color:red">string</font>)
+
+
+
 
