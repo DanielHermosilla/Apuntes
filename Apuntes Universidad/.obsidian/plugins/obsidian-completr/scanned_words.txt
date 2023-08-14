@@ -1192,6 +1192,7 @@ bcW
 bGO
 bu
 bC
+basan
 la
 las
 lo
@@ -3124,6 +3125,7 @@ medir
 mayores
 malo
 materia
+modelos
 resolver
 rmula
 reducir
@@ -3317,6 +3319,7 @@ restar
 representaran
 racionales
 rama
+relacionan
 asociados
 ambas
 asegura
