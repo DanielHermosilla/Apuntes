@@ -1,0 +1,2 @@
+
+El [[Flujo del campo eléctrico|flujo del campo eléctrico]] a través de cualquier **superficie cerrada** es igual a la carga $q$ contenida dentro de la superficie, dividida por la constante $\epsilon_0$. Las superficies cerradas emp

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistema macroscópico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistema macroscópico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistema macroscópico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistema macroscópico.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md"
               }
             }
           },
@@ -182,10 +181,14 @@
   },
   "active": "16cd395c50531f9b",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
+    "Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
+    "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Termodinámica/Energía.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
-    "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Evento termodinámico.md",
     "Departamento de Física/Termodinámica/img",
     "Departamento de Física/Termodinámica/Termodinámica.md",
@@ -198,7 +201,6 @@
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.46.35.png",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.25.19.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo Entidad-Relación.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 11.00.45.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.57.07.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.54.42.png",
@@ -210,7 +212,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Mecánica/Tarea/Drawing 2023-07-09 16.15.49.excalidraw.md",
-    "Departamento de Física/Mecánica/Tarea/DCL.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva de Jordan.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva simple.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curva cerrada.md",
@@ -219,8 +220,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Conocimiento común de Racionalidad.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",

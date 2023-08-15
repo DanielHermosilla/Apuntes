@@ -24,7 +24,7 @@ Por lo general los diagramas del [[Departamento de Física/Electromagnetismo/Ele
 
 ![[Captura de pantalla 2023-08-14 a la(s) 10.57.07.png|center]]
 
-En efecto, para poder medir el *número de líneas* que pasan por un área $S$, se calcula de la siguiente manera: 
+En efecto, para poder medir el *número de líneas* que pasan por un área $S$, se calcula de la siguiente manera, lo equivalente a calcular el [[Flujo del campo eléctrico|flujo del campo eléctrico]]: 
 
 $$\Phi_E=\int^{}_{S}E\cdot d\mathbf{a}$$
 

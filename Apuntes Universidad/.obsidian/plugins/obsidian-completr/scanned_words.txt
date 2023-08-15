@@ -480,6 +480,7 @@ esquema
 especif
 entidad
 entidades
+empiezan
 siguiente
 sistema
 soluci
@@ -710,6 +711,8 @@ significativamente
 seguridad
 servidor
 style
+sugiere
+superficie
 no
 neo
 nea
@@ -1347,6 +1350,7 @@ logar
 linea
 llevarlo
 lenguaje
+lejos
 que
 quiere
 qk
@@ -1706,6 +1710,7 @@ divergencia
 duro
 disipa
 disipada
+diagramas
 forma
 filas
 factor
@@ -1829,6 +1834,7 @@ finales
 fica
 font
 float
+fuerte
 tanto
 tiene
 tal
@@ -2005,6 +2011,10 @@ tender
 tmica
 termodin
 tupla
+trazado
+terminan
+terminar
+trazados
 valores
 vectores
 variaci
@@ -2501,6 +2511,9 @@ configuraciones
 consistentes
 coresponder
 conformar
+comporta
+ciertas
+curzar
 propios
 particular
 podr
@@ -3189,6 +3202,7 @@ microsc
 macroscop
 micro
 multiplicativo
+magn
 resolver
 rmula
 reducir
@@ -3386,6 +3400,7 @@ relacionan
 recuperar
 recuperaci
 relacionaes
+relativamente
 asociados
 ambas
 asegura
@@ -3610,6 +3625,8 @@ atributo
 atributos
 actuan
 atado
+analizando
+atraviesa
 La
 Los
 Luego
@@ -4186,6 +4203,7 @@ intercambios
 interfaz
 integridad
 identifican
+infinitidecimal
 ya
 yi
 yR
