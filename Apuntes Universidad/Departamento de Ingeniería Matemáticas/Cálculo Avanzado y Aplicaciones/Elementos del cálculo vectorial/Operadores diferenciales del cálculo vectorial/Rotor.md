@@ -10,3 +10,4 @@ $$\text{rot}\;\vec{F}=\nabla\times\vec{F}=\begin{vmatrix}
 \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
 F_1 & F_2 & F_3
 \end{vmatrix}$$
+
