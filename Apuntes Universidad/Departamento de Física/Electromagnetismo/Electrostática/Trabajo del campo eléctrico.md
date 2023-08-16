@@ -31,6 +31,8 @@ $$\vec{\nabla}V=\frac{\partial V}{\partial x}\hat{i}+\frac{\partial V}{\partial 
 Y, de la misma forma, se puede llegar que: 
 
 $$\nabla^2 V=\frac{-\rho}{\epsilon_0}$$
+
+Notar que el potencial también cumple el [[Principio de superposición|principio de superposición]]. 
 ## Teorema de Stokes 
 
 Con $\vec{E}$ un [[Campos escalares y vectoriales|campo vectorial]] diferenciable: 
