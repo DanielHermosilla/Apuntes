@@ -5,7 +5,15 @@ $$\Phi=\oint_S\vec{E}\cdot d\vec{S}=\frac{q}{\epsilon_0}$$
 
 Para poder aplicar la ley de Gauss es necesario conocer la dirección y el sentido del [[Flujo del campo eléctrico|flujo del campo]] generado por la distribución de cargas. 
 
-## Forma diferencial 
+La demostración de esto subyace del [[Principio de superposición|principio de superposición]], que establece que: 
+
+$$\vec{E}=\sum^{n}_{i=1}\vec{E_i}$$
+
+Por lo tanto, el [[Flujo del campo eléctrico|flujo]] que encierra a todos ellos es: 
+
+$$\intop E\cdot d\mathbf{a}=\sum^{n}_{i=1}\left(\oint E_i\cdot d\mathbf{a}\right)=\sum^{n}_{i=1}\left(\frac{1}{\epsilon_0}q_i\right)$$
+
+## Forma diferencial
 
 A partir de la ley de Gauss se puede llegar a las siguientes equivalencias: 
 
