@@ -11,8 +11,12 @@
             "id": "aba7616c72948869",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/DCL.png",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/DCL.png",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -102,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Física/Mecánica/Tarea/DCL.png"
+            "file": "README.md"
           }
         }
       }
@@ -119,24 +123,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcc3628a17119ff4",
+  "active": "aba7616c72948869",
   "lastOpenFiles": [
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/semicirculo ejemplo.png",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Pasted image 20230807151604.png",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Pasted image 20230807152045.png",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Pasted image 20230807152553.png",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Pasted image 20230807152801.png",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_D8A963F9DBFE-1.jpeg",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_EA706B7753B9-1.jpeg",
+    "Apuntes Universidad/Departamento de Física/Mecánica/img/Pasted image 20230709161622.png",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Diferencial del campo vectorial.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md",
+    "Apuntes Universidad/Departamento de Física/Termodinámica/Sistema macroscópico.md",
+    "Apuntes Universidad/Departamento de Física/Termodinámica/Energía.md",
+    "Apuntes Universidad/Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-14 a la(s) 18.13.10.png",
+    "Apuntes Universidad/Departamento de Física/Termodinámica/img",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.57.07.png",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.54.42.png",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 11.00.45.png",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.40.49.png",
+    "Apuntes Universidad/Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.48.17.png",
+    "Apuntes Universidad/Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.47.12.png",
+    "Apuntes Universidad/Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.25.19.png",
+    "Apuntes Universidad/Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
+    "README.md",
     "Apuntes Universidad/Química/Resumenes/Auxiliares.md",
     "Apuntes Universidad/Química/Resumenes/Resumen Control 2.md",
     "Apuntes Universidad/Química/Resumenes/Resumen Control 1.md",
     "Apuntes Universidad/Química/Resumenes/Auxiliar Pre Control 1.md",
     "Apuntes Universidad/Química/Resumenes",
-    "Apuntes Universidad/Química/img/IMG_9CCAA51848EA-1.jpeg",
-    "Apuntes Universidad/Química/img/Pasted image 20230716180221.png",
-    "Apuntes Universidad/Química/img/IMG_56CBD52F1379-1.jpeg",
-    "Apuntes Universidad/Química/img/IMG_E16F838A8835-1.jpeg",
     "Apuntes Universidad/Departamento de Física/Electromagnetismo",
     "Apuntes Universidad/Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
     "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
@@ -147,26 +168,9 @@
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Conocimiento común de Racionalidad.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
     "Apuntes Universidad/Departamento de Física/Electromagnetismo/img",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electromagnetismo.md",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diseño de Algoritmos Eficientes/Invariante.md",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diseño de Algoritmos Eficientes/Memoización.md",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Conjunto de jugadas.md",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Pagos.md",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Perfil de estrategias.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo sin dirección/Algoritmo de Kruskals.md",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo sin dirección/Algoritmo de Prim.md",
     "Apuntes Universidad/Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Árbol conector mínimo sin dirección",
-    "Apuntes Universidad/Departamento de Física/Termodinámica/Pérdida de información.md",
-    "Apuntes Universidad/Departamento de Física/Termodinámica/Termodinámica.md",
-    "Apuntes Universidad/Departamento de Física/Termodinámica",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/Bases de Datos",
-    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Diferenciabilidad/Resumen diferenciabilidad.canvas",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
