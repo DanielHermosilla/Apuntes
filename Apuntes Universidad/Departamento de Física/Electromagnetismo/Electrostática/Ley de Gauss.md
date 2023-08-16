@@ -5,6 +5,3 @@ $$\Phi=\oint_S\vec{E}\cdot d\vec{S}=\frac{q}{\epsilon_0}$$
 
 Para poder aplicar la ley de Gauss es necesario conocer la dirección y el sentido del [[Flujo del campo eléctrico|flujo del campo]] generado por la distribución de cargas. 
 
-
-
-$$\arcsin(0.4)=\theta$$
