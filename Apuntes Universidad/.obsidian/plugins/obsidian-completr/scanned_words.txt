@@ -482,6 +482,9 @@ entidad
 entidades
 empiezan
 encierra
+expander
+externa
+electrico
 siguiente
 sistema
 soluci
@@ -1098,6 +1101,7 @@ Shannon
 SGBD
 SQL
 SSH
+Stokes
 buscando
 busco
 buscamos
@@ -2525,6 +2529,7 @@ correspondiendo
 cerrados
 cubos
 conocer
+conservativo
 propios
 particular
 podr
@@ -2777,6 +2782,7 @@ pagos
 primarias
 pelota
 pico
+privilegiadas
 Entonces
 EDO
 Esto
@@ -3413,6 +3419,7 @@ recuperaci
 relacionaes
 relativamente
 representada
+rotor
 asociados
 ambas
 asegura
@@ -4833,6 +4840,7 @@ Tupla
 Tipo
 Torobayo
 Tomando
+Trabajo
 Factorizando
 Factor
 Ft
