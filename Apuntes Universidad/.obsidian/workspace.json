@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +163,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16cd395c50531f9b",
+  "active": "30ac0261c0bd5ea2",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
@@ -195,7 +193,6 @@
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.57.07.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.54.42.png",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Rotación.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares/Auxiliar 1.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
