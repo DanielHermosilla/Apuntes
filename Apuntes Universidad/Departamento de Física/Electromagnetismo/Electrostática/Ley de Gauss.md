@@ -43,7 +43,26 @@ $$\rho=\frac{q}{\text{Vol}}=\frac{q}{\frac{4\pi}{3}R^3}$$
 Lo más conveniente es hacer una integral de superficie y ocupar la Ley de Gauss integral. Primero, para el caso $r>R$: 
 
 $$\begin{align}
-\oint\vec{E}\cdot d\vec{s}=&\int^{\pi}_{0}\int^{2\pi}_{0}E_r(r)\hat{r}\cdot r^2\sin\theta\;d\theta\; d\phi\; \hat{r}\\  \\
-&=E_r
+\oint\vec{E}\cdot d\vec{s}&=\int^{\pi}_{0}\int^{2\pi}_{0}E_r(r)\hat{r}\cdot r^2\sin\theta\;d\theta\; d\phi\; \hat{r}\\  \\
+&=E_r(r)r^2\cancelto{4\pi}{\int^{\pi}_{0}\int^{2\pi}_{0}\hat{r}\cdot \sin\theta\;d\theta\; d\phi\; \hat{r}}\\  \\
+&=E_rr^24\pi=\frac{q}{\epsilon_0}
 \end{align}$$
+
+Por lo tanto, se llega que: 
+
+$$\vec{E}=\frac{q}{4\pi\epsilon_0}\; \frac{1}{r^2}\hat{r}$$
+
+Es decir, por [[Ley de Coulomb]], se tiene una carga puntual. Ahora, **para el caso $r\leq R$**: 
+
+$$\begin{align}
+4\pi r^2\; E_r &=\frac{Q_{enc}}{\epsilon_0}\\  \\
+Q_{enc}(r<R)&=Vol\times\rho\\  \\
+&=\cancelto{0}{\frac{4}{3}\pi r^3}\times\frac{q}{\cancelto{0}{\frac{4\pi}{3}}R^3}\\  \\
+&=q\left(\frac{r}{R}\right)^3 \\  \\
+4\pi\cancel{r^2}E_r&=\frac{q}{\epsilon_0}\frac{\cancel{r^3}}{R^3}\\  \\
+E_r&=\frac{q}{4\pi\epsilon_0}\times\frac{r}{R^3}\\  \\
+&=\frac{q}{4\pi\epsilon_0}\;\frac{r}{R^3}\hat{r}\;\;\;\; r\leq R
+\end{align}$$
+
+Y, por lo tanto, en $r=R$ se tiene $\vec{E}=\frac{q}{4\pi\epsilon_0}\frac{1}{R^2}\hat{r}$
 
