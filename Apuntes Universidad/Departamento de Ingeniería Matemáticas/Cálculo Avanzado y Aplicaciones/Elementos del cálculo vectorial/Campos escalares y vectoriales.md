@@ -1,8 +1,9 @@
 
 Anteriormente se definió que se denota por $\mathbb{R}^n$ como el espacio *n*-dimensional dotado de la [[Norma en varias variables|norma euclidiana]]. 
 
-Por lo tanto, sea $\Omega$ un [[Conjuntos|conjunto]] abierto no vacio de $\mathbb{R}^3$. Se denominará **campo escalar** sobre $\Omega$ a toda función a valores reales $f:\Omega\to\mathbb{R}$, es decir, el conjunto de [[Funciones escalares|funciones escalares]]. Por el otro lado se denominará ***grafo** de $f$* al conjunto $G(f)=\lbrace \vec{x},f(\vec{x})\;\vert\;\vec{x}\in\Omega\rbrace$. Por último, dado $\alpha\in\mathbb{R}$, se define el **conjunto de nivel** $\alpha$ de la función $f$ como $N_\alpha(f)=\lbrace\vec{x}\in\Omega\;\vert\;f(\vec{x})=\alpha\rbrace\subset\mathbb{R}^3$, el cual puede ser vacio. 
+## Campo escalar 
 
+Por lo tanto, sea $\Omega$ un [[Conjuntos|conjunto]] abierto no vacio de $\mathbb{R}^3$. Se denominará **campo escalar** sobre $\Omega$ a toda función a valores reales $f:\Omega\to\mathbb{R}$, es decir, el conjunto de [[Funciones escalares|funciones escalares]]. Por el otro lado se denominará ***grafo** de $f$* al conjunto $G(f)=\lbrace \vec{x},f(\vec{x})\;\vert\;\vec{x}\in\Omega\rbrace$. Por último, dado $\alpha\in\mathbb{R}$, se define el **conjunto de nivel** $\alpha$ de la función $f$ como $N_\alpha(f)=\lbrace\vec{x}\in\Omega\;\vert\;f(\vec{x})=\alpha\rbrace\subset\mathbb{R}^3$, el cual puede ser vacio. 
 
 ## Campo vectorial 
 
@@ -14,7 +15,7 @@ Donde para cada función $F_{1,}F_2,F_3$ corresponde a un campo escalar sobre $\
 ![[Pasted image 20230807151604.png|center|400]]
 
 
-### Ejemplo 
+#### Ejemplo 
 
 Los puntos de un disco plano que gira en sentido anti-horario con velocidad angular constante $\omega>0$, tiene como campo de velocidades a $\vec{v}(x,y,0)=-\omega y\hat{i}+\omega x\hat{j}$
 
