@@ -32,6 +32,8 @@ El [[Producto punto|producto punto]] $E\cdot d\mathbf{a}$ gráficamente represen
 
 ![[Captura de pantalla 2023-08-14 a la(s) 11.00.45.png|center]]
 
-Es decir, es el área infinitidecimal del plano perpendicular a la dirección del [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]]. 
+Es decir, es el área infinitidecimal del plano perpendicular a la dirección del [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]]. Vale decir, representa lo siguiente: 
+
+$$\vec{E}\cdot\hat{n}\;ds\iff\vert\vec{E}\vert\;\vert\hat{n}\vert\cos\alpha\;ds$$
 
 Esto sugiere que el trazado de cualquier área es la medida de la carga interior. P

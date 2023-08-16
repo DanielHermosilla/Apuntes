@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aea52c3721f67caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Física/Termodinámica/Sistema macroscópico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "16cd395c50531f9b",
             "type": "leaf",
             "state": {
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -182,9 +168,9 @@
   },
   "active": "16cd395c50531f9b",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",

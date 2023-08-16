@@ -481,6 +481,7 @@ especif
 entidad
 entidades
 empiezan
+encierra
 siguiente
 sistema
 soluci
@@ -713,6 +714,7 @@ servidor
 style
 sugiere
 superficie
+superficies
 no
 neo
 nea
@@ -1711,6 +1713,7 @@ duro
 disipa
 disipada
 diagramas
+dulo
 forma
 filas
 factor
@@ -2156,6 +2159,7 @@ vectoriales
 volvemos
 voca
 vista
+volumenes
 caracter
 cuando
 como
@@ -2514,6 +2518,13 @@ conformar
 comporta
 ciertas
 curzar
+curvatura
+contenida
+cerradas
+correspondiendo
+cerrados
+cubos
+conocer
 propios
 particular
 podr
@@ -3401,6 +3412,7 @@ recuperar
 recuperaci
 relacionaes
 relativamente
+representada
 asociados
 ambas
 asegura
@@ -3627,6 +3639,7 @@ actuan
 atado
 analizando
 atraviesa
+afuera
 La
 Los
 Luego
@@ -4918,6 +4931,7 @@ Fnds
 Fv
 Farmacias
 Finalmente
+Forma
 Normalmente
 Norma
 Notemos
@@ -5125,6 +5139,7 @@ girar
 gases
 gestionar
 green
+generado
 Otra
 OPTIONS
 OS
@@ -5922,6 +5937,7 @@ Gibbs
 Gesti
 Grados
 Golden
+Gauss
 YO
 YlG
 YY
