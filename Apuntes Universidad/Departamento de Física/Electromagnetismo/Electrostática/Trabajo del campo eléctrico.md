@@ -10,7 +10,27 @@ $$W\bigg\vert_{A}^{B}=\frac{q}{4\pi\epsilon_0}\left(\frac{1}{r_A}-\frac{1}{r_B}\
 De otra forma, también se puede definir de la siguiente forma al ser una campo conservativo: 
 
 $$\oint_\epsilon\vec{E}\cdot d\vec{l}=0$$
-El tr
+## Trabajo de una fuerza externa 
+
+El trabajo de una fuerza externa en equilibrio con el [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]] también se puede escribir como una [[Diferencia de potencial|diferencia de potencial]]. 
+
+$$-\int^{\vec{b}}_{\vec{a}}\vec{E}\cdot d\vec{l}=V(\vec{b})-V(\vec{a})$$
+
+Es decir, el trabajo de una fuerza externa para llevar una carga unitaria de $\vec{a}$ a $\vec{b}$. Por lo general, se estudia el caso cuando $\vec{a}\to\infty$. Por ende, **el potencial electrico** se define como: 
+
+$$V(\vec{r})=-\int^{\vec{r}}_{\vec{r_0}}\vec{E}\cdot d\vec{l}$$
+
+Se puede probar lo siguiente con el [[Gradiente y plano tangente|gradiente]]: 
+
+$$\vec{E}=-\vec{\nabla}V$$
+
+Donde el [[Gradiente y plano tangente|gradiente]] en coordenadas cartesianas corresponde a: 
+
+$$\vec{\nabla}V=\frac{\partial V}{\partial x}\hat{i}+\frac{\partial V}{\partial y}\hat{j}+\frac{\partial V}{\partial z}\hat{k}$$
+
+Y, de la misma forma, se puede llegar que: 
+
+$$\nabla^2 V=\frac{-\rho}{\epsilon_0}$$
 ## Teorema de Stokes 
 
 Con $\vec{E}$ un [[Campos escalares y vectoriales|campo vectorial]] diferenciable: 
