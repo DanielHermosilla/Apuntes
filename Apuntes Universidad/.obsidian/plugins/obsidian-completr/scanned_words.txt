@@ -1225,6 +1225,7 @@ bC
 basan
 blue
 binarias
+bidimensional
 la
 las
 lo
@@ -1718,6 +1719,9 @@ disipa
 disipada
 diagramas
 dulo
+devuelve
+determine
+dictamine
 forma
 filas
 factor
@@ -2530,6 +2534,7 @@ cerrados
 cubos
 conocer
 conservativo
+cascar
 propios
 particular
 podr
@@ -5148,6 +5153,7 @@ gases
 gestionar
 green
 generado
+generalizar
 Otra
 OPTIONS
 OS
@@ -5395,6 +5401,7 @@ VUu
 VMv
 Vamos
 Valdivia
+Vemos
 Queda
 QO
 QRG
