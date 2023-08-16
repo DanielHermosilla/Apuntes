@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -168,9 +169,10 @@
   },
   "active": "16cd395c50531f9b",
   "lastOpenFiles": [
+    "Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
@@ -206,7 +208,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Curvas.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",

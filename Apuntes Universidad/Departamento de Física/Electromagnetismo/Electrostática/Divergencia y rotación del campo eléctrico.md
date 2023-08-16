@@ -37,3 +37,10 @@ Es decir, es el área infinitidecimal del plano perpendicular a la dirección de
 $$\vec{E}\cdot\hat{n}\;ds\iff\vert\vec{E}\vert\;\vert\hat{n}\vert\cos\alpha\;ds$$
 
 Esto sugiere que el trazado de cualquier área es la medida de la carga interior. P
+
+### Teorema de la divergencia 
+
+Se postula lo siguiente para superficies cerradas: 
+
+$$\oint_{S=dv}\vec{E}\cdot d\vec{s}=\int^{}_{v}\vec{\nabla}\cdot\vec{E}\;dv$$
+
