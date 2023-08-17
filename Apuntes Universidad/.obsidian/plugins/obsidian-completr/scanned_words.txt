@@ -4488,6 +4488,7 @@ permutar
 pensemos
 precisos
 parametrizaci
+parametrizar
 Entonces
 EDO
 Esto
@@ -5484,6 +5485,7 @@ resolverlos
 resolverlo
 recursivas
 realizado
+recorrida
 asociados
 ambas
 asegura
@@ -5937,6 +5939,7 @@ afirmaci
 avanzamos
 autocumplidas
 azaroso
+antihorario
 La
 Los
 Luego
@@ -6761,6 +6764,8 @@ indexado
 intercambiando
 ineficiente
 implicando
+intersectar
+intersectando
 ya
 yi
 yR

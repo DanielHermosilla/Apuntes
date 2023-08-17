@@ -22,7 +22,11 @@ Que es equivalente a tener:
 
 $$W=\int^{}_{C}F\cdot dr$$
 
-Es la integral de línea de $F$ a lo largo de la curva $C$
+Es la integral de línea de $F$ a lo largo de la curva $C$. 
+
+Observemos que dada una curva $C$, se podría llamar $-C$ a la curva $C$ recorrida en sentido opuesto: 
+
+$$\int^{}_{-C}F\cdot dr=-\int^{}_{C}F\cdot dr$$
 
 #### Ejemplo 
 
@@ -87,4 +91,54 @@ Considere la curva que se obtiene al intersectar el cono $z^2=x^2+y^2$ y la par�
 
 Calcular $\int^{}_{C}F\cdot dr$ donde la función es $F(x,y,z)=(2x,3y,x+y+z)$
 
-Entonces, para parametrizar la curva ocupamos [[Coordenadas cilíndricas|coordenadas cilíndricas]]. Entonce
+Entonces, para parametrizar la curva ocupamos [[Coordenadas cilíndricas|coordenadas cilíndricas]]. Entonces, 
+
+- $x=r\cos\theta$
+- $y=r\sin\theta$
+- $z=z$
+
+Notemos que intersectando se llega que $z=1$. Ahora que sabemos que $z=1$, se puede deducir de la ecuación del cono que $r=1$. Por lo tanto, se llegan a las siguientes coordenadas: 
+
+- $x=\cos\theta$
+- $y=\sin\theta$
+- $z=1$
+
+Y la parametrización sería: 
+
+$$\begin{align}
+r:[0,2\pi]&\to\mathbb{R}^3\\  \\
+r(\theta)&\to (\cos\theta,\sin\theta,1)
+\end{align}$$
+
+
+#### Ejemplo 
+
+Consideremos las funciones siguientes: 
+
+$$\begin{align}  \\
+F:\mathbb{R}^2&\to\mathbb{R}^2 \\  \\
+F_1(x,y)&=(4x+y,x)\\  \\
+F_2(x,y)&=(4x+y,-x)
+\end{align}$$
+
+Consideramos las curvas: 
+
+- $C_1$: el segmento de la recta de $(0,1)$ a $(0,1)$
+- $C_2$: el arco de la circumferencia de $(1,0)$ a $(0,1)$
+
+Luego, 
+
+$$\begin{align}
+C_1:\;&r_1(t)=(1-t)(1,0)+t(0,1)\;\; t\in[0,1]\\  \\
+C_2:\;&r_2(t)=(\cos t,\sin t)\;\; t\in[0,\frac{\pi}{2}]
+\end{align}$$
+
+Por lo tanto, 
+
+$$\begin{align}
+\int^{}_{C_1}F_2dr &= \int^{1}_{0}F_2(1-t,t)\cdot(-1,1)dt\\  \\
+&=\int^{1}_{0}\left(4(1-t)+t,-(1-t)\right)\cdot (-1,1)dt\\ \\
+&=\int^{1}_{0}\left(4-3t,t-1\right)\cdot(-1,1)dt\\  \\
+&=\int^{1}_{0}(3t-4+t-1)dt\\  \\
+ 
+\end{align}$$

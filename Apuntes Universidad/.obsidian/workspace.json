@@ -154,8 +154,7 @@
       "command-palette:Open command palette": true,
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "16cd395c50531f9b",
