@@ -68,6 +68,23 @@ Calcular el trabajo realizado por $F$ a lo largo de la circumferencia unitaria $
 Esto se puede parametrizar fácilmente con [[Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Coordenadas polares|coordenadas polares]], donde trivialmente el radio es $1$. Ahora, para establecer el sentido, sabemos que el ángulo va de $[0,2\pi]$. Entonces, la parametrización sería: 
 
 $$\begin{align}
-r:[0,2\pi]&\to\mathbb{R}
+r:[0,2\pi]&\to\mathbb{R}^2\\  \\
+\theta&\to (\cos\theta,\sin\theta)
 \end{align}$$
 
+Luego, 
+
+$$\begin{align}
+
+\oint_CF\cdot dr&=\int^{2\pi}_{0}F(\cos\theta,\sin\theta)\cdot r'(\theta)d\theta\\  \\
+&=\int^{2\pi}_{0}(\cos\theta\sin\theta,\cos\theta+\sin\theta)\cdot(-\sin\theta,\cos\theta)d\theta\\ \\
+&=\int^{2\pi}_{0}\left(\cos\theta\sin^2\theta+\cos^2\theta+\sin\theta\cos\theta\right)d\theta  
+\end{align}$$
+
+#### Ejemplo 
+
+Considere la curva que se obtiene al intersectar el cono $z^2=x^2+y^2$ y la parábola $z=x^2+y^2$, con $z>0$ y recorrida en sentido antihorario. 
+
+Calcular $\int^{}_{C}F\cdot dr$ donde la función es $F(x,y,z)=(2x,3y,x+y+z)$
+
+Entonces, para parametrizar la curva ocupamos [[Coordenadas cilíndricas|coordenadas cilíndricas]]. Entonce
