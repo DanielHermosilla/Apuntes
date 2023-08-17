@@ -1396,6 +1396,7 @@ ntico
 nta
 navegaci
 nlace
+nash
 homog
 homogenea
 hacen
@@ -4027,6 +4028,7 @@ comprendidos
 carece
 confiables
 correctamente
+creen
 propios
 particular
 podr
@@ -5925,6 +5927,7 @@ ade
 apila
 afirmaci
 avanzamos
+autocumplidas
 La
 Los
 Luego
@@ -7315,6 +7318,7 @@ Count
 Colas
 Conocidas
 Counting
+Creencias
 Jordan
 JV
 JD
@@ -7663,6 +7667,7 @@ Fotones
 Fen
 Franjas
 False
+Formalmente
 Normalmente
 Norma
 Notemos
@@ -7758,6 +7763,7 @@ Nash
 Neutralidad
 Nace
 Niels
+Nadie
 general
 gnita
 gs
@@ -9277,6 +9283,7 @@ justicia
 juntar
 juntando
 junta
+jugaran
 Zmm
 ZZZ
 Zk

@@ -4,5 +4,5 @@ Resultado de una interacción [[Economía|económica]] donde una asignación no 
 ![[Eficiencia de Pareto.png|center]]
 
 
-En este caso, se tienen varios [[Equilibrio de Nash|equilibrios de Nash]], sin embargo, la opción más Pareto eficiente es $I,I$, $T,I$ o $I,T$. Como no hay un criterio de cual bien es mejor, estos bienes son iguales en términos *Paretianos*. 
+En este caso, se tienen varios [[Departamento de Ingeniería Industrial/Economía/Teoría de juegos/Equilibrio de Nash|equilibrios de Nash]], sin embargo, la opción más Pareto eficiente es $I,I$, $T,I$ o $I,T$. Como no hay un criterio de cual bien es mejor, estos bienes son iguales en términos *Paretianos*. 
 
