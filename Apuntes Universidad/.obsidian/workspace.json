@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md",
+                "file": "Departamento de Física/Introducción a la Física Moderna/Ondas/onda electromagnética.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md"
               }
             }
           },
@@ -169,50 +167,51 @@
       "command-palette:Open command palette": true,
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "244def59154ca2c3",
+  "active": "16cd395c50531f9b",
   "lastOpenFiles": [
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/onda electromagnética.md",
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/intensidad de onda.md",
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/fase.md",
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/periodo.md",
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/rendijas.md",
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/frecuencia.md",
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/difracción.md",
+    "Departamento de Física/Introducción a la Física Moderna/Ondas/onda.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Test HTML.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/El teorema Maestro.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Recorridos.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Tries.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles AVL.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Rotación.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles ordinales.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles cardinales.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/Notación Theta.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/Notación Omega.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/Notación O.md",
+    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diseño de Algoritmos Eficientes/Memoización.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Física/Mecánica/img/Pasted image 20230709161622.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-16 a la(s) 15.53.01.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Diferencial del campo vectorial.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
-    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
     "Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
-    "Departamento de Física/Termodinámica/Sistema macroscópico.md",
-    "Departamento de Física/Termodinámica/Pérdida de información.md",
-    "Departamento de Física/Termodinámica/Energía.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
-    "Departamento de Física/Termodinámica/Evento termodinámico.md",
     "Departamento de Física/Termodinámica/img",
-    "Departamento de Física/Termodinámica/Termodinámica.md",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-14 a la(s) 18.13.10.png",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.48.17.png",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.47.12.png",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.46.35.png",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.25.19.png",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo Entidad-Relación.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 11.00.45.png",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Rotación.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
