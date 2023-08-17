@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Teoría de Juegos.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
+                "file": "Departamento de Ingeniería Industrial/Economía/Clase y módulo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
+                "file": "Departamento de Ingeniería Industrial/Economía/Clase y módulo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md"
+                "file": "Departamento de Ingeniería Industrial/Economía/Clase y módulo 1.md"
               }
             }
           },
@@ -171,37 +172,74 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "16cd395c50531f9b",
+  "floating": {
+    "id": "e349e461b6912430",
+    "type": "floating",
+    "children": [
+      {
+        "id": "433654e82cb861c8",
+        "type": "window",
+        "children": [
+          {
+            "id": "9417cf1d8c6558d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f3b0005adfeeb20",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Departamento de Ingeniería Industrial/Economía/Clase y módulo 1.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 208,
+        "y": 25,
+        "width": 1024,
+        "height": 791,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "7f3b0005adfeeb20",
   "lastOpenFiles": [
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/onda electromagnética.md",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/intensidad de onda.md",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/fase.md",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/periodo.md",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/rendijas.md",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/frecuencia.md",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/difracción.md",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/onda.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Test HTML.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/El teorema Maestro.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Recorridos.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Tries.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles AVL.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Rotación.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Arboles cartesianos.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles ordinales.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Arboles/Árboles cardinales.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/Notación Theta.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/Notación Omega.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Métodos matemáticos/Notación O.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diseño de Algoritmos Eficientes/Memoización.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Campo de normales.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Curva de oferta.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Demanda con Competencia Perfecta.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Factores que afectan el equilibrio/Fijación de precios.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Factores que afectan el equilibrio/Importaciones y exportaciones.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Factores que afectan el equilibrio/Impuestos.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Factores que afectan el equilibrio/Subsidio.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Factores que afectan el equilibrio/Tipo de bienes.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Firmas tomadoras de precios.md",
+    "Departamento de Ingeniería Industrial/Economía/Competencia perfecta/Precio de equilibrio.md",
+    "Departamento de Ingeniería Industrial/Economía/Conceptos claves/Economía cerrada.md",
+    "Departamento de Ingeniería Industrial/Economía/Conceptos claves/Economía.md",
+    "Departamento de Ingeniería Industrial/Economía/Conceptos claves/Mercado.md",
+    "Departamento de Ingeniería Industrial/Economía/Conceptos claves/Sistemas económicos y políticos.md",
+    "Departamento de Ingeniería Industrial/Economía/Conceptos claves/Trabajo.md",
+    "Departamento de Ingeniería Industrial/Economía/Conceptos claves/Variable nominal.md",
+    "Departamento de Ingeniería Industrial/Economía/Conceptos claves/Variable real.md",
+    "Departamento de Ingeniería Industrial/Economía/Criterios de asignación/Desigualdad.md",
+    "Departamento de Ingeniería Industrial/Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
+    "Departamento de Ingeniería Industrial/Economía/Criterios de asignación/Índice de Gini.md",
+    "Departamento de Ingeniería Industrial/Economía/Elasticidad precio-demanda.md",
+    "Departamento de Ingeniería Industrial/Economía/Elección social/Paradoja de Condorcet.md",
+    "Departamento de Ingeniería Industrial/Economía/Elección social/Regla de Mayoría Simple.md",
+    "Departamento de Ingeniería Industrial/Economía/Elección social/Regla de agregación.md",
+    "Departamento de Ingeniería Industrial/Economía/Escasez/Costo de oportunidad.md",
+    "Departamento de Ingeniería Industrial/Economía/Escasez/Efecto sustitución e ingreso.md",
+    "Departamento de Ingeniería Industrial/Economía/Escasez/Función Utilidad.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Física/Mecánica/img/Pasted image 20230709161622.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-16 a la(s) 15.53.01.png",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
     "Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
