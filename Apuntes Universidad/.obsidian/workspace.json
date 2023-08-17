@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md"
               }
             }
           },
@@ -150,7 +150,6 @@
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-matrix:Obsidian Matrix": false,
@@ -159,8 +158,10 @@
       "webpage-html-export:Export Vault to HTML": true
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "16cd395c50531f9b",
   "lastOpenFiles": [
+    "IMG_A8D0FB4079C8-1.jpeg",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/La mejor respuesta.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Conocimiento común de Racionalidad.md",
@@ -171,7 +172,6 @@
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Conjunto de jugadas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Test HTML.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111829.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111719.png",
     "Departamento de Ciencias de la Computación/Python/Tipos de datos/Tuplas.md",
@@ -191,7 +191,6 @@
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Bubble sort.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Counting sort.md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Heap sort.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Ordenamiento/Merge Sort.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Física/Mecánica/img/Pasted image 20230709161622.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-16 a la(s) 15.53.01.png",
