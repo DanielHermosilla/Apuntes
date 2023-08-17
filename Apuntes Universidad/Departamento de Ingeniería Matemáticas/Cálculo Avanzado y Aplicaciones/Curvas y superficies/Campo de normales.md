@@ -6,4 +6,6 @@ $$\begin{align}
 \hat{t_v}&=\frac{\frac{\partial \vec{\upnu} }{\partial v}}{\vert\vert\frac{\partial\vec{\upnu}}{\partial v}\vert\vert}
 \end{align}$$
 
-Vale decir, los vectores tangenc
+Vale decir, los vectores tangenciales llegarían a ser la derivada parcial de la parametrización dividido en la [[Norma en varias variables|norma]] de ésta:
+
+![[Captura de pantalla 2023-08-16 a la(s) 15.53.01.png|center]]
