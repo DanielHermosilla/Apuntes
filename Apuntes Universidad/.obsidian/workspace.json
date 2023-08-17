@@ -154,12 +154,12 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": true
     }
   },
-  "active": "16cd395c50531f9b",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
     "Departamento de Ingeniería Industrial/Teoría de Juegos/La mejor respuesta.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
