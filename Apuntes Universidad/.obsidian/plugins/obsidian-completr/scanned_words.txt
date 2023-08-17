@@ -159,6 +159,7 @@ Pfund
 Planck
 Psi
 Prioridad
+Prisionero
 Resolver
 Realizando
 Reemplazando
@@ -770,6 +771,7 @@ enlazada
 enlazado
 emplean
 escenario
+extensa
 siguiente
 sistema
 soluci
@@ -2678,6 +2680,7 @@ desordenada
 dise
 desordenados
 digo
+dilema
 forma
 filas
 factor
@@ -3355,6 +3358,7 @@ vallor
 verdad
 verticalmente
 verdadero
+variedad
 caracter
 cuando
 como
@@ -6379,6 +6383,7 @@ Dilatacion
 Davisson
 Diccionario
 Desencolar
+Dominancia
 importante
 invertible
 intentara
