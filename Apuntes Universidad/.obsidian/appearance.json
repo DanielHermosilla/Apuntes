@@ -3,7 +3,8 @@
   "cssTheme": "Fusion",
   "translucency": true,
   "enabledCssSnippets": [
-    "Copia de somethingsnippet"
+    "Copia de somethingsnippet",
+    "tables"
   ],
   "baseFontSize": 17
 }
