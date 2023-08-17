@@ -160,6 +160,7 @@ Planck
 Psi
 Prioridad
 Prisionero
+Pareciera
 Resolver
 Realizando
 Reemplazando
@@ -2083,6 +2084,7 @@ ltimas
 limitaciones
 lema
 logrando
+laplaciano
 que
 quiere
 qk
@@ -4485,6 +4487,7 @@ permitida
 permutar
 pensemos
 precisos
+parametrizaci
 Entonces
 EDO
 Esto
@@ -5480,6 +5483,7 @@ recorridos
 resolverlos
 resolverlo
 recursivas
+realizado
 asociados
 ambas
 asegura
@@ -5932,6 +5936,7 @@ apila
 afirmaci
 avanzamos
 autocumplidas
+azaroso
 La
 Los
 Luego
@@ -6043,6 +6048,7 @@ Longitudinal
 Longitud
 Louis
 Lyman
+Laplaciano
 una
 un
 uno
