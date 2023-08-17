@@ -140,5 +140,17 @@ $$\begin{align}
 &=\int^{1}_{0}\left(4(1-t)+t,-(1-t)\right)\cdot (-1,1)dt\\ \\
 &=\int^{1}_{0}\left(4-3t,t-1\right)\cdot(-1,1)dt\\  \\
 &=\int^{1}_{0}(3t-4+t-1)dt\\  \\
- 
+&=\int^{1}_{0}(4t-5)dt=(2t^2-5t)\bigg\vert^{t=1}_{t=0}\\  \\
+&=-3 
 \end{align}$$
+
+Ahora, la integral por el arco sería: 
+
+$$\begin{align}
+\int^{}_{C_2}F_2\cdot dr&=\int^{\frac{\pi}{2}}_{0}F(\cos\theta,\sin\theta)\cdot(-\sin\theta,\cos\theta)d\theta\\  \\
+&=\int^{\frac{\pi}{2}}_{0}\left(4\cos\theta+\sin\theta,-\cos\theta\right)\cdot\left(-\sin\theta,\cos\theta\right)d\theta\\  \\
+&=\int^{\frac{\pi}{2}}_{0}\left(-4\sin\theta\cos\theta-1\right)d\theta\\  \\
+&=\left(-2\sin^2\theta-\theta\right)\bigg\vert^{\frac{\pi}{2}}_0\\  \\
+&=-2-\frac{\pi}{2}
+\end{align}$$
+
