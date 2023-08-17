@@ -4,7 +4,8 @@
   "translucency": true,
   "enabledCssSnippets": [
     "Copia de somethingsnippet",
-    "tables"
+    "tables",
+    "align-1"
   ],
   "baseFontSize": 17
 }
