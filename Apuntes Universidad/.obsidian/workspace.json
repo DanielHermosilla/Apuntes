@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md"
+                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md"
               }
             }
           },
@@ -171,11 +171,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "d5b54d21713bd77f",
   "lastOpenFiles": [
+    "Departamento de Física/Termodinámica/Entropía.md",
+    "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
+    "Departamento de Física/Electromagnetismo/Resumenes",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-18 a la(s) 11.25.29.png",
     "Departamento de Física/Termodinámica/Equilibrio.md",
-    "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Mecánica/Energía/Pozo de potencial.md",
@@ -212,12 +214,10 @@
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
     "Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
     "Departamento de Física/Termodinámica/img",
-    "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-14 a la(s) 18.13.10.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial",
-    "Departamento de Física/Electromagnetismo/img"
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial"
   ]
 }
