@@ -32,3 +32,8 @@ $$\begin{align}
 \Delta S&=Nk\ln 2
 \end{align}$$
 
+A través de esto, se puede ver que la constante no importa en realidad. Ahora, si el cambio fuera de un mol de partículas, donde definimos $N_a\cdot k=R$, entonces: 
+
+$$\Delta S=R\ln 2$$
+
+Esto sería equivalente a, aproximadamente, $6\cdot 10$ bits.
