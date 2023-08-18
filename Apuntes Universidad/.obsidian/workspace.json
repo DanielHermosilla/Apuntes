@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Equilibrio.md",
+                "file": "Departamento de Física/Termodinámica/Entropía.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Varianza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Equilibrio.md",
+                "file": "Departamento de Física/Termodinámica/Entropía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Equilibrio.md",
+                "file": "Departamento de Física/Termodinámica/Entropía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Equilibrio.md"
+                "file": "Departamento de Física/Termodinámica/Entropía.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "d5b54d21713bd77f",
   "lastOpenFiles": [
-    "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Equilibrio.md",
+    "Departamento de Física/Termodinámica/Entropía.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
+    "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Mecánica/Energía/Pozo de potencial.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Termodinámica/Energía.md",
@@ -201,9 +203,7 @@
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111719.png",
     "Departamento de Ciencias de la Computación/Python/Tipos de datos/Tuplas.md",
     "Departamento de Ciencias de la Computación/Python/Librerias/Collections.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Bases de Datos.md",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 11.14.50.png",
-    "Excalidraw/Drawing 2023-08-17 11.11.38.excalidraw.md",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 10.46.26.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
