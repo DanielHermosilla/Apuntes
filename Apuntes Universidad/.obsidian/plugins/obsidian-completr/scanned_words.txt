@@ -773,6 +773,7 @@ enlazado
 emplean
 escenario
 extensa
+evolucionan
 siguiente
 sistema
 soluci
@@ -3361,6 +3362,7 @@ verdad
 verticalmente
 verdadero
 variedad
+vibraciones
 caracter
 cuando
 como
@@ -4489,6 +4491,7 @@ pensemos
 precisos
 parametrizaci
 parametrizar
+picas
 Entonces
 EDO
 Esto
@@ -5118,6 +5121,7 @@ monocristal
 materiales
 mos
 multiplicaciones
+metaestable
 resolver
 rmula
 reducir
@@ -5486,6 +5490,7 @@ resolverlo
 recursivas
 realizado
 recorrida
+rmico
 asociados
 ambas
 asegura
@@ -5940,6 +5945,8 @@ avanzamos
 autocumplidas
 azaroso
 antihorario
+activaci
+analizan
 La
 Los
 Luego
