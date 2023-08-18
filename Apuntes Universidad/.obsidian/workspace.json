@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
+                "file": "Departamento de Física/Termodinámica/Equilibrio.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
+                "file": "Departamento de Física/Termodinámica/Equilibrio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
+                "file": "Departamento de Física/Termodinámica/Equilibrio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md"
+                "file": "Departamento de Física/Termodinámica/Equilibrio.md"
               }
             }
           },
@@ -154,16 +155,23 @@
       "command-palette:Open command palette": true,
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "16cd395c50531f9b",
   "lastOpenFiles": [
+    "Departamento de Física/Mecánica/Energía/Pozo de potencial.md",
+    "Departamento de Física/Termodinámica/Equilibrio.md",
+    "Departamento de Física/Termodinámica/Sistema macroscópico.md",
+    "Departamento de Física/Termodinámica/Pérdida de información.md",
+    "Departamento de Física/Termodinámica/Energía.md",
+    "Departamento de Física/Termodinámica/Termodinámica.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Diferencial del campo vectorial.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_A8D0FB4079C8-1.jpeg",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/La mejor respuesta.md",
@@ -184,13 +192,7 @@
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 11.14.50.png",
     "Excalidraw/Drawing 2023-08-17 11.11.38.excalidraw.md",
     "Excalidraw",
-    "Departamento de Física/Introducción a la Física Moderna/Ondas/onda electromagnética.md",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 10.46.26.png",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Busqueda/Busqueda binaria.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagrama de Estado.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diagramas/Diagramas de Flujo.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diseño de Algoritmos Eficientes/Dividir para Reinar.md",
-    "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Diseño de Algoritmos Eficientes/Invariante.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Física/Mecánica/img/Pasted image 20230709161622.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-16 a la(s) 15.53.01.png",
