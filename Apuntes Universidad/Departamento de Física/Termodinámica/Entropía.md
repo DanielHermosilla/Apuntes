@@ -5,4 +5,4 @@ Luego, se puede determinar la **entropía** del sistema bajo la constante de Bol
 
 $$S=k_b\ln\Omega$$
 
-La entropía se puede definir como la falta de información 
+La entropía se puede definir como la [[Pérdida de información|pérdida de información]] en función de las variables macroscópicas. Esto está definida para un sistema en equilibrio. 
