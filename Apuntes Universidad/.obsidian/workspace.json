@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -172,9 +171,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d5b54d21713bd77f",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
-    "Captura de pantalla 2023-08-18 a la(s) 11.25.29.png",
+    "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-18 a la(s) 11.25.29.png",
     "Departamento de Física/Termodinámica/Equilibrio.md",
     "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
