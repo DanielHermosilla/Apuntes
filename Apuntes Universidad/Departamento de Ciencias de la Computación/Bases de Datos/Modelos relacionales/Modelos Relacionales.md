@@ -18,7 +18,7 @@ Una instancia de un esquema **es un [[conjunto]] de tuplas** para la relación d
 1. No hay orden en las filas 
 2. No se pueden tener filas duplicadas 
 
-Esto también trae otras implicancias, por ejemplo, las [[Llaves|llaves]] no pueden ser duplicados, etc. 
+Esto también trae otras implicancias, por ejemplo, las [[Llaves|llaves]] no pueden ser duplicados, etc. Normalmente para la definición de [[Llaves|llaves]] es **importante** saber el dominio en el que se está trabajando, vale decir, la relación en la que uno se mueve.
 
 Existe el dato **Null** que está implementado en todos los tipos de datos. Esto representa que no existe o se conoce ese dato. 
 #### Ejemplo 

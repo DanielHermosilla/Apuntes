@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,28 @@
             "id": "d916793f5395b05e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "956b13009c00b5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md"
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md"
               }
             }
           },
@@ -166,10 +183,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d5b54d21713bd77f",
+  "active": "d916793f5395b05e",
   "lastOpenFiles": [
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos Relacionales.md",
-    "Captura de pantalla 2023-08-21 a la(s) 10.28.10.png",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Modelos Relacionales.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Bases de Datos.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
+    "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-21 a la(s) 10.28.10.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Física/Electromagnetismo/img/IMG_8956FCD15233-1.jpeg",
@@ -197,11 +220,7 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Diferencial del campo vectorial.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_A8D0FB4079C8-1.jpeg",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/La mejor respuesta.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111829.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111719.png",
     "Excalidraw",
@@ -211,7 +230,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial"
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img"
   ]
 }

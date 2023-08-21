@@ -777,6 +777,8 @@ evolucionan
 encerrada
 enumeraran
 estando
+enlaza
+entida
 siguiente
 sistema
 soluci
@@ -2090,6 +2092,7 @@ limitaciones
 lema
 logrando
 laplaciano
+lgebras
 que
 quiere
 qk
@@ -2689,6 +2692,8 @@ desordenados
 digo
 dilema
 discontinua
+duplicadas
+duplicados
 forma
 filas
 factor
@@ -3168,6 +3173,7 @@ taman
 textit
 tope
 tapa
+trae
 valores
 vectores
 variaci
@@ -4502,6 +4508,7 @@ parametrizar
 picas
 pastilla
 paralela
+procesamiento
 Entonces
 EDO
 Esto
@@ -4668,6 +4675,7 @@ Encola
 Extrae
 Extraer
 Equiprobabilidad
+Esquema
 Ahora
 Aca
 Al
@@ -5502,6 +5510,7 @@ recursivas
 realizado
 recorrida
 rmico
+relacional
 asociados
 ambas
 asegura
@@ -6786,6 +6795,10 @@ implicando
 intersectar
 intersectando
 interpretaci
+instancia
+implicancias
+implementado
+implicancia
 ya
 yi
 yR
@@ -7800,6 +7813,7 @@ Neutralidad
 Nace
 Niels
 Nadie
+Null
 general
 gnita
 gs
@@ -8572,6 +8586,7 @@ Inserta
 Iterando
 Invariante
 Idem
+Instancia
 MORE
 Mozilla
 Macintosh
