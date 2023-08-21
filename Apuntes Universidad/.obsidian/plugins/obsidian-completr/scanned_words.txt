@@ -775,6 +775,8 @@ escenario
 extensa
 evolucionan
 encerrada
+enumeraran
+estando
 siguiente
 sistema
 soluci
@@ -4042,6 +4044,7 @@ confiables
 correctamente
 creen
 cable
+coaxial
 propios
 particular
 podr

@@ -61,4 +61,35 @@ $$\begin{align}Q_{int}+Q_{ext}&=0\\\\
 \sigma&=\frac{-\rho a^2}{2b}\;\;\left[\frac{C}{m^2}\right]\end{align}$$
 
 
-Entonces, aplicando la Ley de Gauss se pueden generar cilíndros de distintos tamaños: 
+Entonces, aplicando la Ley de Gauss se pueden generar cilíndros de distintos tamaños:
+
+![[IMG_8956FCD15233-1.jpeg|center|500]]
+
+
+Entonces, se llega que: 
+
+$$\vec{E}(r)=\begin{cases}\frac{\rho}{2\epsilon_0}r&r<a\\ \\
+\frac{\rho}{2\epsilon_0}\frac{a^2}{r}&a<r\leq b\\  \\
+0&r>b\end{cases}
+$$
+
+Que llegaría a ser una figura como la siguiente (para casos prácticos se considera $5=a$): 
+
+```functionplot
+---
+title: Campo eléctrico
+xLabel: r
+yLabel: Campo eléctrico
+bounds: [0, 10, 0, 10]
+disableZoom: True
+grid: True
+---
+f(x)=2x
+g(x)=10/(x-3.5)+3
+```
+
+ Ahora, para calcular el potencial entre $r=0$ y $r=b$ habría que hacer una doble integral. Aplicando la fórmula se llega que: 
+
+$$V(b)=\frac{-\rho}{2\epsilon_0}\left(\frac{a^2}{2}+a^2\ln(\frac{b}{a})\right)$$
+
+Analizando esta expresión, se puede notar que es más difícil mover cargas en el campo interno porque existe un campo eléctrico en el cable externo. Por el otro lado, cuando se está en el cable externo, se es muy fácil mover cargas ya que afuera no hay un campo eléctrico. 
