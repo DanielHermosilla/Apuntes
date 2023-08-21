@@ -1162,6 +1162,7 @@ stacks
 sustentado
 sentidos
 sumamos
+superllave
 no
 neo
 nea
@@ -1701,6 +1702,7 @@ Superposici
 Segunda
 Sustituyendo
 Sumamos
+Superllave
 buscando
 busco
 buscamos
@@ -4051,6 +4053,7 @@ correctamente
 creen
 cable
 coaxial
+candidata
 propios
 particular
 podr
@@ -4509,6 +4512,7 @@ picas
 pastilla
 paralela
 procesamiento
+primaria
 Entonces
 EDO
 Esto
@@ -5141,6 +5145,7 @@ materiales
 mos
 multiplicaciones
 metaestable
+minimal
 resolver
 rmula
 reducir

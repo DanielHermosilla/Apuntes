@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md"
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md"
               }
             }
           },
@@ -183,10 +182,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d916793f5395b05e",
+  "active": "d5b54d21713bd77f",
   "lastOpenFiles": [
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Modelos Relacionales.md",
+    "Departamento de Ciencias de la Computación/img/Pasted image 20230821105233.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Modelos Relacionales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Bases de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
@@ -219,7 +219,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_A8D0FB4079C8-1.jpeg",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111829.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111719.png",

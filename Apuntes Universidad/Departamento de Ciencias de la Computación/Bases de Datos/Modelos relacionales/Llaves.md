@@ -29,6 +29,15 @@ $$\text{Alumnos(RUT, Id-U, Nombre, Ap, Dirección, Teléfono)}$$
 
 Por lo tanto, una llave sería $\lbrace\text{RUT}\rbrace,\;\lbrace\text{Id-U}\rbrace$. No obstante, una superllave sería: 
 
-$$\lbrace\text{RUT,Id-U,N,A,D,K}\rbrace$$
+$$\lbrace\text{RUT,Id-U,Nombre,Ap,Dirección,K}\rbrace$$
 
+
+## Llaves foráneas 
+
+Un conjunto de atributos forma una llave foránea si esos
+atributos hacen referencia a la llave primaria de otra relación. 
+
+#### Ejemplo 
+
+![[Pasted image 20230821105233.png|center|500]]
 
