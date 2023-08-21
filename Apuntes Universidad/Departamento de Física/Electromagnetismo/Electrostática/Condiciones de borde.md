@@ -26,4 +26,39 @@ Vale decir, el **campo eléctrico es perpendicular a la superficie discontinua**
 
 $$\cancelto{0}{\int^{}_{1}\vec{E}\;d\vec{l}}+\cancelto{0}{\int^{}_{2}\vec{E}\;d\vec{l}}+\int^{}_{3}\vec{E}\;d\vec{l}+\int^{}_{4}\vec{E}\;d\vec{l}=0$$
 
-La integral $1$ y $2$ se cancelan cuando $\epsilon\to0$. Por lo tanto, la s integrale
+La integral $1$ y $2$ se cancelan cuando $\epsilon\to0$. Por lo tanto, las integrales quedan: 
+
+$$\begin{align}
+E_{\text{above}}\cdot l-E_\text{below}\cdot l&=0\\  \\
+E_{\text{above}}&=E_{\text{below}}
+\end{align}$$
+
+Se concluye que el campo $\vec{E}$ paralelo a la superficie **es siempre continuo**. 
+
+## Análisis del potencial 
+
+Para el análisis del [[Trabajo del campo eléctrico|potencial]] se hace algo equivalente: 
+
+$$\begin{align}
+V(\vec{r_1})-V(\vec{r_2})&=-\int^{\vec{r_1}}_{\vec{r_2}}\vec{E}\;d\vec{l}
+\end{align}$$
+
+Con $\vec{r_1}$ y $\vec{r_2}$ [[vectores]] perpendiculares a la superficie, uno estando en el lado positivo del campo y otro en el negativo. Por último, se impone que $\vec{r_1}\to\vec{r_2}\implies V(\vec{r})\;\text{es continuo}$ 
+
+#### Ejemplo 
+
+El campo eléctrico y potencial en un cable coaxial neutro. 
+
+
+![[Captura de pantalla 2023-08-21 a la(s) 09.36.10.png|center]]
+
+
+El cable interno tiene una densidad de carga $\rho$ y el externo $\sigma$. Para que el cable sea neutro, se debe cumplir que: 
+
+$$\begin{align}Q_{int}+Q_{ext}&=0\\\\ 
+\rho\cdot Vol+\sigma\cdot Sup&=0\\\\ 
+\rho\cdot\pi a^2\cdot l+\sigma 2\pi\cdot b\cdot l &=0\\\\
+\sigma&=\frac{-\rho a^2}{2b}\;\;\left[\frac{C}{m^2}\right]\end{align}$$
+
+
+Entonces, aplicando la Ley de Gauss se pueden generar cilíndros de distintos tamaños: 
