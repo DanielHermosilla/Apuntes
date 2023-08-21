@@ -780,6 +780,7 @@ estando
 enlaza
 entida
 entrop
+equiprobable
 siguiente
 sistema
 soluci
