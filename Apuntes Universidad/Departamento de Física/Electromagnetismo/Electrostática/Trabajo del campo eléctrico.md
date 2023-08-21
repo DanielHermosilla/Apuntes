@@ -82,8 +82,32 @@ $$\begin{align}
 E_r(r)\hat{r}\cdot dz\;r\;d\phi\;\hat{r}\\  \\
 &=E_r(r)r\int^{2\pi}_{0}d\phi\int^{l}_{0}dz\\  \\
 &=E_r(r)\cdot r\cdot 2\pi\cdot l\\  \\
-&=E_r(r)\cdot(\text{Area del manto})
+&=E_r(r)\cdot(\text{Area del manto})\\  \\
+2\pi\cancelto{0}{l}rE_r&=\frac{\lambda\cancelto{0}{l}}{\epsilon_0}\\  \\
+\vec{E}&=\frac{\lambda}{2\pi\epsilon_0}\frac{1}{r}\hat{r}
 \end{align}$$
 
 
+Ahora que se tiene el [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]], se puede calcular el potencial: 
 
+$$V(\vec{r})=-\int^{\vec{r}}_{\vec{r_0}}\vec{E}\cdot d\vec{l}$$
+
+Por lo tanto, descomponiendo el vector $\vec{l}$: 
+
+$$d\vec{l}=dr\hat{r}+rd\phi\hat{\phi}+dz\hat{k}$$
+
+Por lo tanto, 
+
+$$\begin{align}
+V(\vec{r})&=-\int^{\vec{r}}_{\vec{r_0}}\frac{\lambda}{2\pi\epsilon_0}\frac{1}{r}dr\\  \\
+&=-\frac{\lambda}{2\pi\epsilon_0}\ln(\frac{r}{r_0})
+\end{align}$$
+
+Ahora, notemos el siguiente análisis: 
+
+$$V(r_0)=\begin{cases}
+r_0\to\infty&V(\vec{r})\to\infty\\  \\
+r_0\to0&V(\vec{r})\to\infty
+\end{cases}$$
+
+Por lo tanto, no sirve pararse en el infinito o en $r_0=0$ para analizar el trabajo. 

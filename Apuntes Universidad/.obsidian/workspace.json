@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md"
               }
             }
           },
@@ -170,16 +171,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "d5b54d21713bd77f",
   "lastOpenFiles": [
+    "Captura de pantalla 2023-08-21 a la(s) 09.12.45.png",
+    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/IMG_B253E51672BA-1.jpeg",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
     "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Física/Electromagnetismo/Resumenes",
@@ -200,7 +203,6 @@
     "Departamento de Ingeniería Industrial/Teoría de Juegos/La mejor respuesta.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Conocimiento común de Racionalidad.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Dominancia estricta.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111829.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111719.png",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 11.14.50.png",
@@ -211,7 +213,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-16 a la(s) 15.53.01.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
-    "Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
     "Departamento de Física/Termodinámica/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",

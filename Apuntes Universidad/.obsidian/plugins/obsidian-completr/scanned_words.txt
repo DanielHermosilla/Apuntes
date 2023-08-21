@@ -774,6 +774,7 @@ emplean
 escenario
 extensa
 evolucionan
+encerrada
 siguiente
 sistema
 soluci
@@ -4037,6 +4038,7 @@ carece
 confiables
 correctamente
 creen
+cable
 propios
 particular
 podr
@@ -8559,6 +8561,7 @@ Index
 Inserta
 Iterando
 Invariante
+Idem
 MORE
 Mozilla
 Macintosh
