@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md"
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md"
               }
             }
           },
@@ -182,8 +184,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d5b54d21713bd77f",
+  "active": "956b13009c00b5b6",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230821105233.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Modelos Relacionales.md",
@@ -191,15 +196,12 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-21 a la(s) 10.28.10.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Física/Electromagnetismo/img/IMG_8956FCD15233-1.jpeg",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-21 a la(s) 09.36.10.png",
     "Departamento de Física/Electromagnetismo/img/IMG_F415E7F6FAF1-1.jpeg",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-21 a la(s) 09.12.45.png",
-    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/IMG_B253E51672BA-1.jpeg",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
@@ -221,7 +223,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_A8D0FB4079C8-1.jpeg",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230817111829.png",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20230817111719.png",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",

@@ -2696,6 +2696,7 @@ dilema
 discontinua
 duplicadas
 duplicados
+descomponiendo
 forma
 filas
 factor
@@ -4513,6 +4514,7 @@ pastilla
 paralela
 procesamiento
 primaria
+pararse
 Entonces
 EDO
 Esto
