@@ -11,12 +11,8 @@
             "id": "aba7616c72948869",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,9 +99,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -125,8 +117,22 @@
   },
   "active": "aba7616c72948869",
   "lastOpenFiles": [
-    "README.md",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-16 a la(s) 15.53.01.png",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Resumenes",
+    "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_A8D0FB4079C8-1.jpeg",
+    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Equilibrio de Nash.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 11.14.50.png",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/La mejor respuesta.md",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/img/Pasted image 20230817111719.png",
+    "Apuntes Universidad/Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-18 a la(s) 11.25.29.png",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 10.46.26.png",
+    "Apuntes Universidad/Departamento de Ingeniería Industrial/img/Pasted image 20230817111829.png",
+    "Obsidian Snippets/align.css",
+    "Apuntes Universidad/Departamento de Física/Termodinámica/Entropía.md",
+    "Apuntes Universidad/Departamento de Física/Termodinámica/Equilibrio.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
+    "README.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Apuntes Universidad/Departamento de Física/Mecánica/img/Pasted image 20230709161622.png",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
@@ -147,12 +153,6 @@
     "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
     "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.57.07.png",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.54.42.png",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Pasted image 20230815194714.png",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 11.00.45.png",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-14 a la(s) 10.40.49.png",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.48.17.png",
-    "Apuntes Universidad/Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-14 a la(s) 15.47.12.png",
     "Apuntes Universidad/Departamento de Ciencias de la Computación/Bases de Datos/Llaves.md",
     "Apuntes Universidad/Química/Resumenes/Auxiliares.md",
     "Apuntes Universidad/Química/Resumenes/Resumen Control 2.md",
@@ -161,16 +161,8 @@
     "Apuntes Universidad/Química/Resumenes",
     "Apuntes Universidad/Departamento de Física/Electromagnetismo",
     "Apuntes Universidad/Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
-    "Apuntes Universidad/Departamento de Física/Mecánica/Resumen/Resolución de Problemas.md",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Eliminación Iterada de Estrategias Estrictamente Dominadas.md",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Conocimiento común de Racionalidad.md",
     "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos",
-    "Apuntes Universidad/Departamento de Física/Electromagnetismo/img",
-    "Apuntes Universidad/Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Diferenciabilidad/Resumen diferenciabilidad.canvas",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Control 2.canvas",
     "Apuntes Universidad/Departamento de Ingeniería Matemáticas/Ecuaciones Diferenciales Ordinarias/Resumenes/Resumen Control 1 Gráfico.canvas",
