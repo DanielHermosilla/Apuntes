@@ -54,5 +54,36 @@ Para un $S$ cualquiera, entonces se tiene los siguientes resultados:
 
 #### Ejemplo 
 
-Se tiene un cable infinito con corriente en el eje x, y densidad $\lambda=\frac{C}{m}$. Por lo tanto, se pregunta el potencial en un punto $z$. 
+Se tiene un cable infinito con corriente en el eje $z$, y densidad $\lambda=\frac{C}{m}$. Por lo tanto, se pregunta el potencial en un punto $P$ que está a una distancia $r$ del cable verticalmente. Calcular el potencial. 
+
+![[IMG_B253E51672BA-1.jpeg|center]]
+
+Sabemos que el potencial es: 
+
+$$-\int^{\vec{r}}_{\vec{r_0}}\vec{E}\;d\vec{l} $$
+
+Por lo tanto, el campo se podría ver en [[Coordenadas cilíndricas|coordenadas cilíndricas]] como: 
+
+$$\vec{E}=E_r(r)\hat{r}+E_\phi(\vec{r})\hat{\phi}+E_z(\vec{r})\hat{z}$$
+
+Notar que en $z$ es infinito, entonces hay simetría. Idem en $\phi$ dado que los vectores se cancelan. Ocupando la [[Ley de Gauss]] se pueden hacer cilíndros con superficie cerrada en vez de ocupar la [[Ley de Coulomb]]: 
+
+$$\begin{align}
+\oint\vec{E}\;d\vec{s}&=\frac{Q_{enc}}{\epsilon_0}
+\end{align}$$
+
+Además notar que la carga encerrada es $\lambda\cdot l$. Por lo tanto, resolviendo la [[Integral de superficie|integral de superficie]]: 
+
+
+$$\begin{align}
+\oint\vec{E}\;d\vec{s}&=\int^{}_{\text{tapa 1}}\vec{E}\;d\vec{s}+\int^{}_{\text{tapa 2}}\vec{E}\;d\vec{s}+\int^{}_{\text{manto}}\vec{E}\;d\vec{s}\\  \\
+&=\cancelto{0}{\int^{}_{\text{tapa 1}}E_r(r)\hat{r}\cdot\left(r\;dr\;d\phi\;-\hat{k}\right)}+\cancelto{0}{\int^{}_{\text{tapa 2}}\vec{E}\;d\vec{s}}\\  \\
+&+\int^{2\pi}_{0}\int^{l}_{0}
+E_r(r)\hat{r}\cdot dz\;r\;d\phi\;\hat{r}\\  \\
+&=E_r(r)r\int^{2\pi}_{0}d\phi\int^{l}_{0}dz\\  \\
+&=E_r(r)\cdot r\cdot 2\pi\cdot l\\  \\
+&=E_r(r)\cdot(\text{Area del manto})
+\end{align}$$
+
+
 
