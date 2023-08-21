@@ -779,6 +779,7 @@ enumeraran
 estando
 enlaza
 entida
+entrop
 siguiente
 sistema
 soluci
@@ -5975,6 +5976,8 @@ antihorario
 activaci
 analizan
 above
+ampliar
+agregase
 La
 Los
 Luego

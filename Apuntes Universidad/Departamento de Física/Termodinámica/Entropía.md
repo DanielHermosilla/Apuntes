@@ -7,6 +7,11 @@ $$S=k_b\ln\Omega$$
 
 La entropía se puede definir como la [[Pérdida de información|pérdida de información]] en función de las variables macroscópicas. Esto está definida para un sistema en equilibrio. 
 
+Otra forma de definirla es de la siguiente manera, dado una [[Variable aleatoria discreta|variable aleatoria]] $X$, su entropía es: 
+
+$$S(X)=-\sum^{n}_{i=1}K\cdot\mathbb{P}(x_i)\cdot\ln(\mathbb{P}(x_i))$$
+
+
 #### Ejemplo 
 
 Si se hace el ejercicio de pensar una molécula en una caja, entonces se podría decir que su configuración es $\Omega\approx\text{Cte}\cdot V$. Ahora, si se llegase a ampliar el volumen de la caja y se agregase otra molécula, al ser independientes, se tendría que $\Omega_2=\Omega_1\cdot\Omega_1=\text{Cte}^2V^2$. Ahora, para el caso de $N$ moléculas, se puede llamar la constante como $C$ y se llega que $\Omega_n=CV^N$. Si a esto lo llevamos al término de entropía: 
