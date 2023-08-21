@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5b54d21713bd77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d916793f5395b05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "956b13009c00b5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adfa3ea0524c0a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Física/Termodinámica/Pérdida de información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6010724afdaa071",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md"
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md"
               }
             }
           },
@@ -186,8 +184,12 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
-    "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Termodinámica/Entropía.md",
+    "Departamento de Física/Termodinámica/Pérdida de información.md",
+    "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+    "Departamento de Física/Termodinámica/Ejercicios",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Energía.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Agregación.md",
@@ -196,11 +198,9 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230821112711.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230821112612.png",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230821105233.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Modelos Relacionales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Bases de Datos.md",
@@ -229,7 +229,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
     "Departamento de Física/Termodinámica/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas"
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies"
   ]
 }
