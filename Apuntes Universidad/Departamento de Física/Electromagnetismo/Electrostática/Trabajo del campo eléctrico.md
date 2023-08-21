@@ -33,13 +33,14 @@ Y, de la misma forma, se puede llegar que:
 $$\nabla^2 V=\frac{-\rho}{\epsilon_0}$$
 
 Notar que el potencial también cumple el [[Principio de superposición|principio de superposición]]. 
+
 ## Teorema de Stokes 
 
 Con $\vec{E}$ un [[Campos escalares y vectoriales|campo vectorial]] diferenciable: 
 
 $$\oint_{\xi=\partial S}\vec{E}\cdot d\vec{l}=\int^{}_{S}\vec{\nabla}\times\vec{E}\cdot d\vec{s}$$
 
-Donde $\vec{\nabla}\times\vec{E}$ es el rotor. 
+Donde $\vec{\nabla}\times\vec{E}$ es el [[Rotor|rotor]]. 
 
 Para $\vec{E}$, si se cumple: 
 
@@ -50,4 +51,8 @@ Para un $S$ cualquiera, entonces se tiene los siguientes resultados:
 - $\vec{\nabla}\times\vec{E}=0$
 - $\vec{\nabla}\cdot\vec{E}=\frac{\rho}{\epsilon_0}$ 
 
+
+#### Ejemplo 
+
+Se tiene un cable infinito con corriente en el eje x, y densidad $\lambda=\frac{C}{m}$. Por lo tanto, se pregunta el potencial en un punto $z$. 
 
