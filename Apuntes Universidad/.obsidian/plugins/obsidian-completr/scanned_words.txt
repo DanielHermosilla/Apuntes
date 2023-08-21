@@ -6810,6 +6810,7 @@ instancia
 implicancias
 implementado
 implicancia
+impuso
 ya
 yi
 yR
