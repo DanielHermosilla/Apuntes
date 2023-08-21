@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d916793f5395b05e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -173,12 +181,13 @@
   },
   "active": "d5b54d21713bd77f",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
+    "IMG_F415E7F6FAF1-1.jpeg",
     "Captura de pantalla 2023-08-21 a la(s) 09.12.45.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/IMG_B253E51672BA-1.jpeg",
-    "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
@@ -210,9 +219,7 @@
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-17 a la(s) 10.46.26.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Física/Mecánica/img/Pasted image 20230709161622.png",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-16 a la(s) 15.53.01.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-16 a la(s) 08.45.46.png",
     "Departamento de Física/Termodinámica/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
