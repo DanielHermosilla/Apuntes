@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md"
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md"
               }
             }
           },
@@ -186,11 +185,15 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
+    "Pasted image 20230821112711.png",
+    "Pasted image 20230821112612.png",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230821105233.png",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Modelos Relacionales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Bases de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
@@ -220,16 +223,13 @@
     "Departamento de Física/Termodinámica/Termodinámica.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_A8D0FB4079C8-1.jpeg",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20230817111829.png",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
     "Departamento de Física/Termodinámica/img",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img"
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas"
   ]
 }
