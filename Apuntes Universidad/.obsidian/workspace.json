@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Agregación.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Agregación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Agregación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md"
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Agregación.md"
               }
             }
           },
@@ -185,10 +185,13 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
+    "Pasted image 20230821113646.png",
+    "Pasted image 20230821113601.png",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Agregación.md",
     "Pasted image 20230821112711.png",
     "Pasted image 20230821112612.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
@@ -214,7 +217,6 @@
     "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
     "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Física/Electromagnetismo/Resumenes",
-    "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-18 a la(s) 11.25.29.png",
     "Departamento de Física/Termodinámica/Equilibrio.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Departamento de Física/Mecánica/Energía/Pozo de potencial.md",
@@ -222,8 +224,6 @@
     "Departamento de Física/Termodinámica/Energía.md",
     "Departamento de Física/Termodinámica/Termodinámica.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_A8D0FB4079C8-1.jpeg",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
