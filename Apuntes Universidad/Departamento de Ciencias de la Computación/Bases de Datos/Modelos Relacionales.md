@@ -1,11 +1,27 @@
 
-Se basan en modelos que relacionan los datos a través de tablas. 
+Se basan en modelos que relacionan los datos a través de tablas. Nace de la componente matemática para relacionar tablas. Esto enlaza toda la teoría matemática de relaciones y álgebras al procesamiento de información.
 
-- Relación: A cada tabla se le llama una relación 
+- Relación: A cada tabla se le llama una relación, en las matemáticas relacionales se describe como: *Sea $r$ una relación tal que $r\subseteq D_1\times D_2\times\dots\times D_n$ 
+
+- Esquema: Es la serie de tipos, contiene el nombre de la relación, atributos, tipos, restricciones. Por ejemplo; <font style="color:green">Cervezas</font>(<font style="color:blue">nombre: </font><font style="color:red">string</font>, <font style="color:blue">tipo: </font><font style="color:red">string</font>,  <font style="color:blue">grados: </font><font style="color:red">float</font>, <font style="color:blue">ciudad-origen: </font><font style="color:red">string</font>). 
+
+- Instancia: Los datos que contiene un esquema. Son dinámicos (varían en el tiempo)
+
 - Atributo: A cada columna se le llama atributo 
+
 - Tupla: A cada fila se le llama tupla 
 
-### Ejemplo 
+![[Captura de pantalla 2023-08-21 a la(s) 10.28.10.png|center]]
+
+Una instancia de un esquema **es un [[conjunto]] de tuplas** para la relación de cada esquema. Vale decir; 
+
+1. No hay orden en las filas 
+2. No se pueden tener filas duplicadas 
+
+Esto también trae otras implicancias, por ejemplo, las [[Llaves|llaves]] no pueden ser duplicados, etc. 
+
+Existe el dato **Null** que está implementado en todos los tipos de datos. Esto representa que no existe o se conoce ese dato. 
+#### Ejemplo 
 
 |      Cervezas      |         |        |               |
 |:------------------:| ------- | ------ | ------------- |
