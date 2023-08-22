@@ -26,3 +26,4 @@ Notemos que, si se dibuja el gráfico de decisiones:
 Es posible darnos cuenta que existe solo un [[Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash|Equilibrio de Nash]], donde el precio es igual al costo de marginal. Es decir, el equilibrio de la [[Demanda con Competencia Perfecta|competencia perfecta]]. Esto se llama **paradoja de Bertrand**. 
 
 Esta incongruencia donde se llega que las firmas producen a competencia perfecta se debe principalmente porque se asume que no hay restricciones de capacidad, vale decir, se puede ofrecer sin ningún problema.  
+
