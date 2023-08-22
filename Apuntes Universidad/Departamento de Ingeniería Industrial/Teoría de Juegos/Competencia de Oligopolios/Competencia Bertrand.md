@@ -15,3 +15,14 @@ p_1\geq p_2&\text{si}\;p_2=c\\  \\
 p_2-\epsilon&\text{si}\;p_M\geq p_2>c\\  \\
 p_M&\text{si}\;p_2>p_M\end{cases} $$
 
+
+## Equilibrio de Nash 
+
+Notemos que, si se dibuja el gráfico de decisiones: 
+
+![[Pasted image 20230822110413.png|center|450]]
+
+
+Es posible darnos cuenta que existe solo un [[Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash|Equilibrio de Nash]], donde el precio es igual al costo de marginal. Es decir, el equilibrio de la [[Demanda con Competencia Perfecta|competencia perfecta]]. Esto se llama **paradoja de Bertrand**. 
+
+Esta incongruencia donde se llega que las firmas producen a competencia perfecta se debe principalmente porque se asume que no hay restricciones de capacidad, vale decir, se puede ofrecer sin ningún problema.  
