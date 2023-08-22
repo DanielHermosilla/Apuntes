@@ -43,4 +43,16 @@ Aunque ambas firmas obtendrían mayores beneficios produciendo la cantidad del [
 ![[Pasted image 20230822104321.png|center|450]]
 
 
-Se podría llegar a producir en el margen rojo
+Se podría llegar a producir en el margen rojo. Normalmente, para poder llegar a reducir la colusión a lo máximo posible, es incentivar las entradas de las firmas, vale decir, reducir las barreras de entradas. El precio se puede llegar a calcular con $n$ firmas: 
+
+$$p=a-b\sum^{n}_{i=1}q_i,\;\;\Pi_i=q_i\cdot\left[a-b\sum^{n}_{j=1}q_j-c\right]$$
+
+
+Notemos que en el equilibrio: 
+
+$$\begin{align}
+q_{i}^{*}&=\frac{a-c}{b(n+1)}\\ \\
+p^*&=\frac{a+nc}{n+1}
+\end{align}$$
+
+Si $\lim_{n\to\infty}p^*=c$, se converge a una [[Demanda con Competencia Perfecta|competencia perfecta]]. 

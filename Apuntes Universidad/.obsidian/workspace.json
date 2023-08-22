@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md"
               }
             }
           },
@@ -161,11 +161,12 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
-    "Pasted image 20230822104321.png",
-    "Pasted image 20230822103607.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Cournot.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230822104321.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230822103607.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos de coordinación.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230822102506.png",
     "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
@@ -193,7 +194,6 @@
     "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-21 a la(s) 10.28.10.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/img/IMG_8956FCD15233-1.jpeg",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-21 a la(s) 09.36.10.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
