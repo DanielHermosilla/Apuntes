@@ -781,6 +781,7 @@ enlaza
 entida
 entrop
 equiprobable
+equitativamente
 siguiente
 sistema
 soluci
@@ -2700,6 +2701,8 @@ duplicadas
 duplicados
 descomponiendo
 definirla
+duopolio
+darnos
 forma
 filas
 factor
@@ -4518,6 +4521,7 @@ paralela
 procesamiento
 primaria
 pararse
+paradoja
 Entonces
 EDO
 Esto
@@ -6812,6 +6816,7 @@ implicancias
 implementado
 implicancia
 impuso
+incongruencia
 ya
 yi
 yR
@@ -7116,6 +7121,7 @@ opere
 ofrecian
 ordenamiento
 ordenando
+ofrecer
 wronskiana
 www
 wF
@@ -8202,6 +8208,7 @@ Bono
 Bohr
 Balmer
 Brackett
+Bertrand
 Vector
 Veamos
 Vale
