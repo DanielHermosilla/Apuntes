@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adfa3ea0524c0a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Física/Termodinámica/Pérdida de información.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6010724afdaa071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md"
               }
             }
           },
@@ -184,8 +161,12 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
-    "Departamento de Física/Termodinámica/Pérdida de información.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos de coordinación.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot/Competencia Cournot.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia Cournot",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230822102506.png",
     "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
+    "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Llaves.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Dependencia funcional.md",
@@ -212,7 +193,6 @@
     "Departamento de Física/Electromagnetismo/img/IMG_8956FCD15233-1.jpeg",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-21 a la(s) 09.36.10.png",
     "Departamento de Física/Electromagnetismo/img/IMG_F415E7F6FAF1-1.jpeg",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-21 a la(s) 09.12.45.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
@@ -222,13 +202,10 @@
     "Departamento de Física/Termodinámica/Equilibrio.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Distribuciones de variable aleatorias/Distribución binomial.md",
     "Departamento de Física/Mecánica/Energía/Pozo de potencial.md",
-    "Departamento de Física/Termodinámica/Termodinámica.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea.md",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
     "Departamento de Física/Termodinámica/img",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies"
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Auxiliares"
   ]
 }
