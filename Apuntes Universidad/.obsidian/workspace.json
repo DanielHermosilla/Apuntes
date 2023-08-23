@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía en Electrostática.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Energía de una distribución de carga puntuales.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía en Electrostática.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Energía de una distribución de carga puntuales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía en Electrostática.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Energía de una distribución de carga puntuales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía en Electrostática.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Energía de una distribución de carga puntuales.md"
               }
             }
           },
@@ -161,8 +160,10 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía en Electrostática.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Energía de una distribución de carga puntuales.md",
+    "Departamento de Física/Electromagnetismo/img/IMG_E6AB83510074-1.jpeg",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230822110413.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Cournot.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230822104321.png",
@@ -193,7 +194,6 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Proyecto de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Sistema de Gestión de Base de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
-    "Departamento de Ciencias de la Computación/img/Captura de pantalla 2023-08-21 a la(s) 10.28.10.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
@@ -201,7 +201,6 @@
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Departamento de Física/Electromagnetismo/Resumenes/Resumen Griffiths.md",
     "Departamento de Física/Electromagnetismo/Resumenes",
-    "Departamento de Física/Termodinámica/Equilibrio.md",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
