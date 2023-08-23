@@ -76,10 +76,33 @@ Y ahora, descomponiendo los términos de adentro:
 
 $$\begin{align} 
 \vec{\nabla}\cdot(VE)&=V(\vec{\nabla}\cdot\vec{E})+\vec{E}\cdot(\vec{\nabla}V)\\  \\
-&=\vec{\nabla}\cdot (V\vec{E})-\vec{E}\cdot (\vec{\nabla}V)\\  \\
+&=\vec{\nabla}\cdot (V\vec{E})-\vec{E}\cdot (\vec{\nabla}V)\\ \\
 \implies W&=\frac{\epsilon_0}{2}\int\vec{\nabla}\cdot (V\vec{E})\; dz-\frac{\epsilon_0}{2}\int\vec{E}\cdot (\vec{\nabla}V)\;dz\\  \\
 &=\frac{\epsilon_0}{2}\oint_S(V\vec{E})\cdot d\vec{s}+\frac{\epsilon_0}{2}\int_V\vec{E}\cdot\vec{E}\; dz
 \end{align}$$
 
 
-Si resolvemos cada sumando por separado
+Si resolvemos el primer sumando y asumiendo un volumen esférico con radio $R$, notemos que cuando todo diverge al infinito, los componentes escalan como: 
+
+$$\begin{align}
+V&\sim\frac{1}{R}\\  \\
+\vert\vec{E}\vert&\sim\frac{1}{R^2}\\  \\
+\vert d\vec{s}\vert&\sim R^2\\  \\
+(V\vec{E})\cdot d\vec{s}&\sim\frac{1}{R}\to_{R\to\infty}0
+\end{align}$$
+
+Entonces, en realidad el trabajo llegaría a ser: 
+
+$$W=\frac{\epsilon_0}{2}\int E^2\;dz$$ 
+Donde $E^2=\vec{E}\cdot\vec{E}$ . Por ende, **existen dos formas de calcular la energía electrostática**: 
+
+$$\begin{align*}
+W&=\frac{1}{2}\int_{\text{Sólo la fuente}}\rho V\; dz\tag{1}\\ \\ 
+W&=\frac{\epsilon_0}{2}\int_{\text{Todo el espacio}}E^2\;dz\tag{2}
+\end{align*}$$
+
+
+De aquí, se concluye que **la densidad de energía en el [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]] es**: 
+
+$$\rho_e=\frac{\epsilon_0}{2}E^2$$
+
