@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6414af7f960c89be",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md"
               }
             }
           },
@@ -155,16 +164,18 @@
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "956b13009c00b5b6",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
     "Departamento de Física/Electromagnetismo/img/IMG_9659961E8C32-1.jpeg",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía",
     "Departamento de Física/Electromagnetismo/img/IMG_7E2D81E7EA72-1.jpeg",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Trabajo y Energía en Electrostática.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
     "Departamento de Física/Electromagnetismo/img/IMG_E6AB83510074-1.jpeg",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230822110413.png",
@@ -187,7 +198,6 @@
     "Departamento de Ciencias de la Computación/img/Pasted image 20230821113601.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230821112711.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230821112612.png",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
@@ -198,7 +208,6 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Departamento de Física/Electromagnetismo/Resumenes",
