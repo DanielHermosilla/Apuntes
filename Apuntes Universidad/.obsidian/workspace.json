@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md"
+                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md"
               }
             }
           },
@@ -161,6 +162,9 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
     "Departamento de Física/Electromagnetismo/img/IMG_9659961E8C32-1.jpeg",
@@ -199,12 +203,10 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Departamento de Física/Electromagnetismo/Resumenes",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial",
-    "Departamento de Física/Termodinámica/img"
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial"
   ]
 }
