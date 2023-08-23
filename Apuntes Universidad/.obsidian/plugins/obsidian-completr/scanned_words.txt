@@ -161,6 +161,8 @@ Psi
 Prioridad
 Prisionero
 Pareciera
+PC
+Personaje
 Resolver
 Realizando
 Reemplazando
@@ -1166,6 +1168,7 @@ sustentado
 sentidos
 sumamos
 superllave
+sala
 no
 neo
 nea
@@ -1410,6 +1413,7 @@ nta
 navegaci
 nlace
 nash
+nick
 homog
 homogenea
 hacen
@@ -1706,6 +1710,7 @@ Segunda
 Sustituyendo
 Sumamos
 Superllave
+Sala
 buscando
 busco
 buscamos
@@ -4689,6 +4694,9 @@ Extrae
 Extraer
 Equiprobabilidad
 Esquema
+EsSteam
+Entidades
+Entidad
 Ahora
 Aca
 Al
@@ -4834,6 +4842,7 @@ Aceleraci
 Acordandonos
 Agregamos
 Ayuda
+Android
 matriz
 metros
 mero
@@ -7387,6 +7396,7 @@ Colas
 Conocidas
 Counting
 Creencias
+Creador
 Jordan
 JV
 JD
@@ -7736,6 +7746,7 @@ Fen
 Franjas
 False
 Formalmente
+Fecha
 Normalmente
 Norma
 Notemos
@@ -8741,6 +8752,8 @@ Modelos
 Minimizaci
 Michael
 Momentum
+Mapa
+Mensaje
 KHTML
 KC
 Kd
