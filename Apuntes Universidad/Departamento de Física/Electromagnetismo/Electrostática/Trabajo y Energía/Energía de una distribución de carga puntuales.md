@@ -45,5 +45,41 @@ Pero, notemos que el término en el paréntesis es el potencial en $\vec{r_i}$ d
 
 $$\begin{align}
 W&=\frac{1}{2}\sum^{N}_{i=1}q_i\cancelto{V(\vec{r_i})}{\left(\sum^{N}_{j=1}\frac{q_j}{4\pi\epsilon_0r_{ij}}\right)}\\  \\
-W&=\frac{1}{#}
+W&=\frac{1}{2}\sum^{N}_{i=1}q_iV(\vec{r_i})
 \end{align}$$
+
+
+# Caso continuo 
+
+Si asumimos una distribución continua con densidad de carga $\rho$, entonces se tendría lo siguiente: 
+
+![[IMG_9659961E8C32-1.jpeg|center|400]]
+
+Por lo tanto, el cálculo sería: 
+$$\begin{align}
+W&=\frac{1}{2}\int V(\vec{r})\;dq' \\  \\
+&=\frac{1}{2}\int V(\vec{r''})\rho(\vec{r''})dZ'
+\end{align}$$
+
+De igual forma, si nos acordamos de la definiciónes de [[Trabajo del campo eléctrico|trabajo del campo eléctrico]], se pueden obtener varias equivalencias: 
+
+$$\begin{align}
+\vec{\nabla}\cdot\vec{E}&=\frac{\rho}{\epsilon_0}\\  \\
+\vec{\nabla}\times\vec{E}&=0
+\end{align}$$
+
+Por lo tanto, el trabajo se llegaría a escribir como: 
+
+$$W=\frac{\epsilon_0}{2}\int(\vec{\nabla}\cdot\vec{E})V\;dz$$
+
+Y ahora, descomponiendo los términos de adentro: 
+
+$$\begin{align} 
+\vec{\nabla}\cdot(VE)&=V(\vec{\nabla}\cdot\vec{E})+\vec{E}\cdot(\vec{\nabla}V)\\  \\
+&=\vec{\nabla}\cdot (V\vec{E})-\vec{E}\cdot (\vec{\nabla}V)\\  \\
+\implies W&=\frac{\epsilon_0}{2}\int\vec{\nabla}\cdot (V\vec{E})\; dz-\frac{\epsilon_0}{2}\int\vec{E}\cdot (\vec{\nabla}V)\;dz\\  \\
+&=\frac{\epsilon_0}{2}\oint_S(V\vec{E})\cdot d\vec{s}+\frac{\epsilon_0}{2}\int_V\vec{E}\cdot\vec{E}\; dz
+\end{align}$$
+
+
+Si resolvemos cada sumando por separado
