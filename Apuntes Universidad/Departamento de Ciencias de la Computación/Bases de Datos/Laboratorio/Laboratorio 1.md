@@ -22,3 +22,5 @@
 - Mapa 
 - Personaje *¿* 
 - Mensaje 
+
+**Entidad débil**: Existe sólo si existe otra entidad
