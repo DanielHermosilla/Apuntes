@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Fuerzas conservativas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Fuerzas conservativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Fuerzas conservativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Fuerzas conservativas.md"
               }
             }
           },
@@ -162,8 +162,9 @@
   },
   "active": "956b13009c00b5b6",
   "lastOpenFiles": [
-    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Fuerzas conservativas.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio",
     "Departamento de Física/Electromagnetismo/Electrostática/Flujo del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
@@ -203,7 +204,6 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Principio de superposición.md",
     "Departamento de Física/Electromagnetismo/Resumenes",
     "Excalidraw",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes",
