@@ -1711,6 +1711,7 @@ Sustituyendo
 Sumamos
 Superllave
 Sala
+Segregaci
 buscando
 busco
 buscamos
@@ -4068,6 +4069,9 @@ coaxial
 candidata
 compiten
 colusi
+ciudades
+ciudadanos
+ciudadano
 propios
 particular
 podr
@@ -4529,6 +4533,7 @@ procesamiento
 primaria
 pararse
 paradoja
+prefieren
 Entonces
 EDO
 Esto
@@ -5167,6 +5172,7 @@ mos
 multiplicaciones
 metaestable
 minimal
+minoria
 resolver
 rmula
 reducir
@@ -5996,6 +6002,7 @@ analizan
 above
 ampliar
 agregase
+acoger
 La
 Los
 Luego
@@ -6829,6 +6836,7 @@ implementado
 implicancia
 impuso
 incongruencia
+integrada
 ya
 yi
 yR
