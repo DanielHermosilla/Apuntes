@@ -13,4 +13,17 @@ Por lo tanto, si $x$ entra y gana, su pago es $B-c$. Si $x$ entra y pierde al ca
 
 ### Equilibrio de Nash 
 
-Observemos que un
+Observemos que un votante que no puede ganar no va a ser candidato. Entonces surgen las preguntas: 
+
+- *¿Cuántos candidatos podemos tener en el equilibrio?* 
+- *¿Quién va a ser candidato?*
+
+Un equilibrio trivial es el único candidato en posición $\frac{1}{2}$. 
+
+![[Pasted image 20230824105458.png|center]]
+
+Ahora, para el caso con dos candidatos, un posible equilibrio serían los dos extremos: 
+
+![[Pasted image 20230824105750.png|center]]
+
+Cada candidato gana con [[Teoría de probabilidades|probabilidad]] $\frac{1}{2}$. De hecho, el equilibrio se da **cuando cada candidato se posiciona en posiciones simétricas para el equilibrio**. 
