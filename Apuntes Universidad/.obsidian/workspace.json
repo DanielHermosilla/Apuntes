@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "fe07add33656ec7a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Independencia del camino.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Independencia del camino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Independencia del camino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Independencia del camino.md"
+              }
             }
           },
           {
@@ -167,6 +175,10 @@
   },
   "active": "fe07add33656ec7a",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Integral de línea.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Independencia del camino.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea",
+    "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
     "Departamento de Ingeniería Industrial/Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230824112032.png",
@@ -206,12 +218,8 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Jerarquías de clases.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo del campo eléctrico.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales/Modelos Relacionales.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Bases de Datos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
     "Departamento de Física/Electromagnetismo/Resumenes",
-    "Excalidraw",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes"
+    "Excalidraw"
   ]
 }

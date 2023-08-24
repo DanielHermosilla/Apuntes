@@ -784,6 +784,7 @@ entida
 entrop
 equiprobable
 equitativamente
+emptyset
 siguiente
 sistema
 soluci
@@ -2104,6 +2105,7 @@ lema
 logrando
 laplaciano
 lgebras
+lim
 que
 quiere
 qk
@@ -2709,6 +2711,8 @@ descomponiendo
 definirla
 duopolio
 darnos
+decisivo
+desigualdades
 forma
 filas
 factor
@@ -3189,6 +3193,7 @@ textit
 tope
 tapa
 trae
+tip
 valores
 vectores
 variaci
@@ -4072,6 +4077,7 @@ colusi
 ciudades
 ciudadanos
 ciudadano
+cup
 propios
 particular
 podr
@@ -4534,6 +4540,7 @@ primaria
 pararse
 paradoja
 prefieren
+point
 Entonces
 EDO
 Esto
@@ -4851,6 +4858,7 @@ Agregamos
 Ayuda
 Android
 Asumiendo
+Adh
 matriz
 metros
 mero
@@ -8134,6 +8142,7 @@ Opciones
 Optimizaci
 Obtuve
 Ocupamos
+Observemos
 Be
 BA
 Bt
@@ -8630,6 +8639,7 @@ Iterando
 Invariante
 Idem
 Instancia
+Int
 MORE
 Mozilla
 Macintosh
