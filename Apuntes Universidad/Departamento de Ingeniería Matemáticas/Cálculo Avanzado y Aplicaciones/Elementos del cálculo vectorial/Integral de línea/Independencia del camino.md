@@ -35,4 +35,19 @@ $$C_1:\;r(t)=(1-t)\begin{pmatrix}
 \end{pmatrix}$$
 
 
-Por el otro lado, se puede parametri
+Por el otro lado, se puede parametrizar la [[Curvas|curva]] como: 
+
+$$C_2:\;r(t)=(\cos(t),\sin(t))\;\;t\in[0,\frac{\pi}{2}]$$
+
+Entonces, considerando la función $F_1$ y viendo las [[Integral de línea|integrales de línea]] sobre ambas curvas: 
+
+$$\begin{align}
+\int^{}_{C_1}F_1\cdot dr&=\int^{1}_{0}\left(2t(1-t),(1-t)^2+2\right)\cdot\left(-1,1\right)\;dt\\  \\
+&=\int^{1}_{0}(2t-2t^2,1-2t+t^2+2)\cdot(-1,1)\;dt\\\\
+&=\int^{1}_{0}(2t-2t^2 t^2,t^2-2t+3)\cdot(-1,1)\;dt\\  \\
+&=\int^{1}_{0}-(2t-t^2)+(t^2-2t+3)\;dt\\   \\
+&=\int^{1}_{0}(3t^2-4t+3)\;dt\\  \\
+&=\left(t^3-4\frac{t^2}{2}+3t\right)\bigg\vert^{1}_{0}\\  \\
+&=2
+\end{align}$$
+
