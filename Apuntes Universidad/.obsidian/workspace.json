@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe07add33656ec7a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,10 +165,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "956b13009c00b5b6",
+  "active": "fe07add33656ec7a",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
+    "Departamento de Ingeniería Industrial/Economía/Criterios de asignación/Distribución Pareto-Eficiente.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230824112032.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Candidato Votante.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230824111538.png",
