@@ -51,3 +51,10 @@ $$\begin{align}
 &=2
 \end{align}$$
 
+
+Ahora, ocupando la segunda parametrización: 
+
+$$\begin{align}
+\int^{}_{C_2}F_1\cdot dr&=\int^{\pi/2}_{0}\left(2\cos t\sin t,\cos^2 t+2\right)\left(-\sin(t),\cos(t)\right)\;dt\\  \\
+&=\int^{\frac{\pi}{2}}_{0}\left(-2\cos t\sin^2 t+\cos^3 t+ 2\cos t\right)\;dt
+\end{align}$$
