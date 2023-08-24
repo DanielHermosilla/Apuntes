@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Candidato Votante.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Candidato Votante.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Candidato Votante.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Candidato Votante.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md"
               }
             }
           },
@@ -160,13 +159,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "956b13009c00b5b6",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
-    "Pasted image 20230824105750.png",
-    "Pasted image 20230824105458.png",
-    "Pasted image 20230824104332.png",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Productos Diferenciados.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Candidato Votante.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos/Modelo de Segregación.md",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230824111538.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230824105750.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230824105458.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230824104332.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Productos Diferenciados.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230824103048.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230824102126.png",
@@ -184,8 +185,6 @@
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Trabajo y Energía en Electrostática.md",
     "Departamento de Física/Electromagnetismo/img/IMG_E6AB83510074-1.jpeg",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230822110413.png",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20230822104321.png",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20230822103607.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos de coordinación.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios",
     "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",

@@ -26,4 +26,7 @@ Ahora, para el caso con dos candidatos, un posible equilibrio serían los dos ex
 
 ![[Pasted image 20230824105750.png|center]]
 
-Cada candidato gana con [[Teoría de probabilidades|probabilidad]] $\frac{1}{2}$. De hecho, el equilibrio se da **cuando cada candidato se posiciona en posiciones simétricas para el equilibrio**. 
+Cada candidato gana con [[Teoría de probabilidades|probabilidad]] $\frac{1}{2}$. De hecho, el equilibrio se da **cuando cada candidato se posiciona en posiciones simétricas para el equilibrio**. De la misma forma, existe un equilibrio con $2$ candidatos cuando tienden a centrarse bajo tal posición que existe simetría en torno al centro. Vale decir, en $\frac{1}{3}$ y $\frac{2}{3}$. 
+
+![[Pasted image 20230824111538.png|center]]
+
