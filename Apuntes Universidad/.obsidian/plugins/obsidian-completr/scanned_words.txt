@@ -4066,6 +4066,8 @@ creen
 cable
 coaxial
 candidata
+compiten
+colusi
 propios
 particular
 podr
@@ -4843,6 +4845,7 @@ Acordandonos
 Agregamos
 Ayuda
 Android
+Asumiendo
 matriz
 metros
 mero
@@ -7397,6 +7400,7 @@ Conocidas
 Counting
 Creencias
 Creador
+Cournot
 Jordan
 JV
 JD
