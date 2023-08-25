@@ -17,3 +17,13 @@ Por lo tanto, se llega que $\Omega$ resulta ser:
 
 $$\Omega=\frac{(N+m)!}{N!m!}=\binom{N+m}{m}$$
 
+
+Esto, al ignorar que entre las vacantes no hay interacciones ni efecto superficie. 
+
+### Entropía del sólido con defectos 
+
+Dado el $\Omega$, se tendría una entropía gigantesca y dificil de concluir. A partir de esto se ocupa la aproximación de Stirling, que es una aproximación factorial para números grandes: 
+
+$$\ln(N!)=N\ln(N)-N+\dots\;\;\text{si}\;N>>1\tag{Aproximación Stirling}$$
+
+
