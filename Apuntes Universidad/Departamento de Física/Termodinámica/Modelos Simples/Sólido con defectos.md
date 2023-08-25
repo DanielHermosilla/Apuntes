@@ -26,4 +26,24 @@ Dado el $\Omega$, se tendría una entropía gigantesca y dificil de concluir. A 
 
 $$\ln(N!)=N\ln(N)-N+\dots\;\;\text{si}\;N>>1\tag{Aproximación Stirling}$$
 
+Por lo tanto, la entropía llegaría a ser: 
 
+$$\begin{align}
+S&=k_B\ln(\Omega)\\ \\
+&=k_B\left[(N+m)\ln(N+m)-\cancel{(N+m)}-N\ln(N)+\cancel{N}-m\ln(m)+\cancel{m}\right]\\  \\
+&=k_b\left[(N+m)\ln(N+m)-N\ln N-m\ln(m)\right]
+\end{align}$$
+
+El número de vacantes debe ser muchisimo menor que el de átomos, de lo contrario el sólido se desintegraría. Esto permite simplificar ocupando la expansión del logaritmo en seríe de Taylor, entonces: 
+
+$$\ln(N+m)=\ln(N)+\frac{m}{N}+\dots$$
+
+Si se reemplaza en la ecuación de [[Entropía|entropía]] mencionado más arriba, se llega que: 
+
+$$S\approx mk_B\ln(\frac{N}{m})$$
+
+### Otro caso 
+
+El caso del sodio ($NaCl$) es interesante pues está constituido por dos iones. En este caso, las vacantes de los iones de cloro no pueden quedar vacias por la condición de nuetralidad de la materia. Cuando el átomo abandona la vacante deja un electrón en su lugar. 
+
+En tal caso, se llega que $\Omega=\frac{N!}{m!(N-m)!}$. 

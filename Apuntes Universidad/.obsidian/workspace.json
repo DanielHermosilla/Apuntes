@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md",
+                "file": "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md",
+                "file": "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md",
+                "file": "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md"
+                "file": "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md"
               }
             }
           },
@@ -162,8 +162,9 @@
   },
   "active": "fe07add33656ec7a",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md",
+    "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Captura de pantalla 2023-08-24 a la(s) 21.17.53.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Independencia del camino.md",
     "Departamento de Física/Termodinámica/Modelos Simples",
@@ -204,7 +205,6 @@
     "Departamento de Física/Termodinámica/Ejercicios",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Energía.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación/Agregación.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación",
     "Departamento de Ciencias de la Computación/Bases de Datos/Modelos relacionales",
     "Departamento de Física/Electromagnetismo/Resumenes"
