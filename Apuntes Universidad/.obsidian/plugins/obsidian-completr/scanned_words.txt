@@ -6879,6 +6879,7 @@ ignorar
 interaccinoes
 indistinguibles
 interactuen
+irreversible
 ya
 yi
 yR
