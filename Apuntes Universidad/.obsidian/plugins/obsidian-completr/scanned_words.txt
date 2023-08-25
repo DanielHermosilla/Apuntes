@@ -785,6 +785,7 @@ entrop
 equiprobable
 equitativamente
 emptyset
+encerradas
 siguiente
 sistema
 soluci
@@ -1172,6 +1173,7 @@ superllave
 sala
 simplificados
 suceptibles
+suposici
 no
 neo
 nea
@@ -1417,6 +1419,7 @@ navegaci
 nlace
 nash
 nick
+nuetralidad
 homog
 homogenea
 hacen
@@ -1572,6 +1575,8 @@ halla
 head
 heapify
 hemos
+hiperesfera
+hipersuperficie
 Soluci
 Simplificando
 Se
@@ -1715,6 +1720,7 @@ Sumamos
 Superllave
 Sala
 Segregaci
+Stirling
 buscando
 busco
 buscamos
@@ -2716,6 +2722,10 @@ darnos
 decisivo
 desigualdades
 defectos
+desintegrar
+despreciadas
+despreciable
+dicha
 forma
 filas
 factor
@@ -2910,6 +2920,7 @@ fotoelectr
 for
 fuertemente
 funcione
+factorial
 tanto
 tiene
 tal
@@ -3399,6 +3410,8 @@ verdadero
 variedad
 vibraciones
 vacantes
+vacias
+vacante
 caracter
 cuando
 como
@@ -4083,6 +4096,7 @@ ciudadanos
 ciudadano
 cup
 combinatorialmente
+constituido
 propios
 particular
 podr
@@ -4546,6 +4560,7 @@ pararse
 paradoja
 prefieren
 point
+puramente
 Entonces
 EDO
 Esto
@@ -4716,6 +4731,7 @@ Esquema
 EsSteam
 Entidades
 Entidad
+Entrop
 Ahora
 Aca
 Al
@@ -5186,6 +5202,7 @@ multiplicaciones
 metaestable
 minimal
 minoria
+muchisimo
 resolver
 rmula
 reducir
@@ -6018,6 +6035,12 @@ agregase
 acoger
 agitaci
 abandonen
+abandona
+asumira
+alterada
+apropiado
+adimensionales
+argumentos
 La
 Los
 Luego
@@ -6852,6 +6875,10 @@ implicancia
 impuso
 incongruencia
 integrada
+ignorar
+interaccinoes
+indistinguibles
+interactuen
 ya
 yi
 yR
@@ -8049,6 +8076,7 @@ geq
 gemelos
 griega
 gico
+gigantesca
 Otra
 OPTIONS
 OS
@@ -9401,6 +9429,7 @@ juntar
 juntando
 junta
 jugaran
+jugete
 Zmm
 ZZZ
 Zk
