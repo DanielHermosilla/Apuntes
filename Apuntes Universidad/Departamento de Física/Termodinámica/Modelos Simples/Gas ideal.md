@@ -45,3 +45,4 @@ $$S=\frac{3Nk_B}{2}\ln(E)+Nk_B\ln(V)-k_B\ln(N!)+C'$$
 Donde $C'=k_B\ln(C)$ es una constante. Lo apropiado para que el logaritmo tenga unidades adimensionales es asumir que los argumentos tienen valores fijos. Al estado de valores fijos se le llamará $S_O$, cuya resta con la entropía $S$ representará el cambio de entropía entre estados: 
 
 $$S-S_O=\frac{3Nk_B}{2}\ln\left(\frac{E}{E_0}\right)+Nk_b\ln\left(\frac{V}{V_0}\right)$$
+
