@@ -7,4 +7,13 @@ Notemos que estos tipos de sólidos, dado fenómenos como la **agitación térmi
 
 ### Configuraciones accesibles al sólido con defectos
 
-La cantidad de configuraciones posibles del 
+La cantidad de configuraciones posibles del sólido con vacantes se puede calcular combinatorialmente, de hecho, es un [[Muestreo no ordenado sin reemplazo|muestreo ordenado sin reemplazo]]. Esto parte de la siguiente suposición: 
+
+1. Hay $N+m$ objetos, donde $N$ son los átomos y $m$ las vacantes. 
+2. Los $N$ átomos son iguales entre sí, por lo que hay $N!$ permutaciones equivalentes. 
+3. Las $m$ vacantes son iguales. 
+
+Por lo tanto, se llega que $\Omega$ resulta ser: 
+
+$$\Omega=\frac{(N+m)!}{N!m!}=\binom{N+m}{m}$$
+
