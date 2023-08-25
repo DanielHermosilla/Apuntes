@@ -46,3 +46,9 @@ Donde $C'=k_B\ln(C)$ es una constante. Lo apropiado para que el logaritmo tenga 
 
 $$S-S_O=\frac{3Nk_B}{2}\ln\left(\frac{E}{E_0}\right)+Nk_b\ln\left(\frac{V}{V_0}\right)$$
 
+
+Ahora, si se quisiera generalizar aun más, podríamos notar lo siguiente: 
+
+$$S-S_O=\frac{3\mathbf{R}k_B}{2}\ln\left(\frac{E}{E_0}\right)+Nk_b\ln\left(\frac{V}{V_0}\right)$$
+
+Donde $\mathbf{R}$ son los grados de libertad. 
