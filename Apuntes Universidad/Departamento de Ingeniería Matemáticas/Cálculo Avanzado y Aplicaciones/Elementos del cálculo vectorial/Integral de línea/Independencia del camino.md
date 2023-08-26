@@ -66,7 +66,21 @@ De aquí, concluimos que **la integral sobre la curva $C_2$ coincide con la inte
 
 $$\begin{align}
 
-\int^{}_{C_1}F_1\cdot dr &=\int^{1}_{0}\left(2(1-t)t,(1-t)+2\right)\cdot\left(1,1\right)\;dt\\  \\
+\int^{}_{C_1}F_2\cdot dr &=\int^{1}_{0}\left(2(1-t)t,(1-t)+2\right)\cdot\left(1,1\right)\;dt\\  \\
 &=\int^{1}_{0}(2t^2-2t)+3-t\;dt\\  \\
-&=\int^{1}_{0}\left(2t^2-3t+3)\;dt
+&=\int^{1}_{0}\left(2t^2-3t+3\right)\;dt\\   \\
+&=\left(\frac{2}{3}t^3-3\frac{t^2}{2}+3t\right)\bigg\vert^{1}_{0}\\  \\
+&=19/6
 \end{align}$$
+
+Ahora, repitiendo el proceso con la otra [[Curvas|curva]]: 
+
+$$\begin{align}
+\int^{}_{C_2}F_2\cdot\;dr&=\int^{\frac{\pi}{2}}_{0}\left(2\cos t\sin t,\cos t+2\right)\cdot\left(-\sin t,\cos t\right)\;dt\\  \\
+&=\int^{\frac{\pi}{2}}_{0}\cos t+\sin^2 t\;dt+\int^{\frac{\pi}{2}}_{0}\cos^2t\;dt+2\int^{\frac{\pi}{2}}_{0}\cos t\;dt\\  \\
+&=-\frac{2}{3}+\int^{\frac{\pi}{2}}_{0}\left(\frac{1+\cos 2t}{2}\right)\;dt+\left(2\sin t\right)\bigg\vert^{\frac{\pi}{2}}_{0}\\  \\
+&=-\frac{2}{3}+\frac{\pi}{4}+2\\  \\
+&=\frac{4}{3}+\frac{\pi}{4}
+\end{align}$$
+
+Acá podemos ver que **el resultado es diferente** con la función $F_2$. De aquí nace el concepto de **[[Función conservativa|campo conservativo]]**.  
