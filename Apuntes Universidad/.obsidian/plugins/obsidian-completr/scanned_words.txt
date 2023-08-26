@@ -1420,6 +1420,7 @@ nlace
 nash
 nick
 nuetralidad
+nuestras
 homog
 homogenea
 hacen
@@ -6880,6 +6881,7 @@ interaccinoes
 indistinguibles
 interactuen
 irreversible
+influye
 ya
 yi
 yR

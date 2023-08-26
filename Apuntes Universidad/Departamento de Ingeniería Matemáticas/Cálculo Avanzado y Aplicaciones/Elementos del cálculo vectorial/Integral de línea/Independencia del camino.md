@@ -56,5 +56,17 @@ Ahora, ocupando la segunda parametrización:
 
 $$\begin{align}
 \int^{}_{C_2}F_1\cdot dr&=\int^{\pi/2}_{0}\left(2\cos t\sin t,\cos^2 t+2\right)\left(-\sin(t),\cos(t)\right)\;dt\\  \\
-&=\int^{\frac{\pi}{2}}_{0}\left(-2\cos t\sin^2 t+\cos^3 t+ 2\cos t\right)\;dt
+&=\int^{\frac{\pi}{2}}_{0}\left(-2\cos t\sin^2 t+\cos^3 t+ 2\cos t\right)\;dt\\   \\
+&=\int^{\frac{\pi}{2}}_{0}(-3\cos t\sin^2t+3\cos t)dt\\  \\
+&=-1+3\int^{\frac{\pi}{2}}_{0}\cos t\;dt\\  \\
+&=2 
+\end{align}$$
+
+De aquí, concluimos que **la integral sobre la curva $C_2$ coincide con la integral de la curva** $C_1$.  Ahora, veamos si esto es coincidencia o no, al probar con la función $F_2$: 
+
+$$\begin{align}
+
+\int^{}_{C_1}F_1\cdot dr &=\int^{1}_{0}\left(2(1-t)t,(1-t)+2\right)\cdot\left(1,1\right)\;dt\\  \\
+&=\int^{1}_{0}(2t^2-2t)+3-t\;dt\\  \\
+&=\int^{1}_{0}\left(2t^2-3t+3)\;dt
 \end{align}$$
