@@ -67,10 +67,25 @@ Cuando ya identificamos que $F$ cumple ser una función conservativa, vale decir
 
 Tenemos que $F=\nabla f=(2xy,x^2+y)=(\frac{\partial f}{\partial x},\frac{\partial f}{\partial y})$, entonces, calculando primero la integral respecto a $x$: 
 
-$$\int2xy\;dx=x^2y+C(y)$$
+$$\int2xy\;dx=x^2y+C(y)\tag{1}$$
 
 Donde la constante depende de $y$, ya que su derivada también es constante. No obstante, también se debe cumplir que: 
 
+$$\frac{(1)}{\partial y}=\frac{\partial f}{\partial y}=x^2 + y$$
+
+Equivalente a tener, al derivar $(1)$: 
+
+$$x^2+C'(y)=\frac{\partial f}{\partial y}=x^2 + y$$
+
+Esto nos dice que: 
+
+$$C'(y)=y\implies C(y)=\frac{y^2}{2}+\text{cte}$$ 
+
+Por lo tanto, de esta manera, $f(x,y)=x^2y+\frac{y^2}{2}+C$ 
+
+Notemos que si tenemos un recorrido cerrado, vale decir, un circumferencia cerrada o cualquier otra cosa, al ser un campo conservativo, el punto de llegada será el punto de partida, por lo tanto, la integral valdrá cero. 
+
+$$\oint F\cdot dr=0$$
 
 
 
