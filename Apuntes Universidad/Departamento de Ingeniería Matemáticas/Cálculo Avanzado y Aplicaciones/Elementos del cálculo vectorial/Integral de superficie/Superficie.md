@@ -20,4 +20,7 @@ Notemos que al recorrer la superficie por el dominio en $\mathbb{R}^2$ es posibl
 
 Ahora, si se quisiera obtener el **plano tangente** en cierto punto para la superficie, es necesario obtener un [[vectores|vector]] normal que se perpendicular a los vectores tangentes, vale decir, bajo el ejemplo de las imagenes, un vector tangencial a $\vec{d_2}$ y $\vec{d_1}$. Esto se obtiene al realizar el [[Producto vectorial|producto cruz]] entre $\vec{d_1}\times\vec{d_2}$. Si se quisiera resumir más aun, se podría definir como: 
 
-$$\frac{\partial F}{\partial y}\times\frac{\partial F}{\partial x}$$
+$$\frac{\partial F}{\partial y}\times\frac{\partial F}{\partial x}=\vec{n_0}$$
+
+![[Captura de pantalla 2023-08-27 a la(s) 11.46.35.png|center]]
+

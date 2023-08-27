@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Área de una superficie.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Área de una superficie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Área de una superficie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Área de una superficie.md"
               }
             }
           },
@@ -183,12 +183,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "fe07add33656ec7a",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 11.50.18.png",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Área de una superficie.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 11.46.35.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 11.42.24.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 11.39.11.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Campos conservativos.md",
@@ -218,14 +221,11 @@
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Productos Diferenciados.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230824103048.png",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20230824102126.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Bertrand.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios/Competencia Cournot.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Fuerzas conservativas.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio/Laboratorio 1.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio",
-    "Departamento de Física/Electromagnetismo/img/IMG_9659961E8C32-1.jpeg",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios",
     "Departamento de Física/Termodinámica/Ejercicios",
