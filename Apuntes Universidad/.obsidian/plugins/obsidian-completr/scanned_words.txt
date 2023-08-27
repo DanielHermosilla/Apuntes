@@ -2115,6 +2115,7 @@ logrando
 laplaciano
 lgebras
 lim
+llegando
 que
 quiere
 qk
@@ -4100,6 +4101,7 @@ combinatorialmente
 constituido
 concluimos
 coincidencia
+citamente
 propios
 particular
 podr
@@ -5577,6 +5579,7 @@ recorrida
 rmico
 relacional
 repitiendo
+reescrito
 asociados
 ambas
 asegura
@@ -6885,6 +6888,7 @@ indistinguibles
 interactuen
 irreversible
 influye
+intuici
 ya
 yi
 yR

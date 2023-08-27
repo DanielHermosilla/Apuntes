@@ -9,4 +9,9 @@ Si nos acordamos de la definición de [[Departamento de Ingeniería Matemáticas
 
 $$\frac{d}{dt}\left[f\left(x(t),y(t)\right)\right]=\frac{\partial f}{\partial x}\cdot x'(t)+\frac{\partial f}{\partial y}\cdot y'(t)$$
 
-Esto puede ser reescrito de otra forma como un [[Producto punto|producto punto]] entre las [[derivadas]]
+Esto puede ser reescrito de otra forma como un [[Producto punto|producto punto]] entre las [[Derivada parcial|derivadas parciales]], llegando a: 
+
+
+$$\frac{d}{dt}\left[f\left(x(t),y(t)\right)\right]=\left(\frac{\partial f}{\partial x},\frac{\partial f}{\partial y}\right)\cdot\left(x'(t),y'(t)\right)$$
+
+Notemos que esto es algo **muy parecido** a la [[Integral de línea|integral de línea]], donde se multiplica la derivada de la parametrización por una función. Ahora, notemos que el [[vectores|vector]] de la izquierda, en realidad es el [[Gradiente y plano tangente|vector gradiente]]. 
