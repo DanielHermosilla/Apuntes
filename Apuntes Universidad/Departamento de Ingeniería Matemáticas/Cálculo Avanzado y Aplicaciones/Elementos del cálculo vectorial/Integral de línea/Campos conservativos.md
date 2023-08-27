@@ -55,5 +55,23 @@ $$F_1=\frac{\partial f}{\partial x}\;\land\; F_2=\frac{\partial f}{\partial y}$$
 
 Por ende, calculamos: 
 
-$$\$$
+$$\frac{\partial F_1}{\partial y}=\frac{\partial}{\partial y}(2xy)=2x\;\land\;\frac{\partial F_2}{\partial x}=\frac{\partial}{\partial x}(x^2+y )$$
+
+Si $\frac{\partial F_1}{\partial y}=\frac{\partial F_2}{\partial x}\implies F=\nabla f$. Luego, $F=(F_1,F_2)$ es conservativo. 
+
+## Calcular el campo conservativo
+
+Cuando ya identificamos que $F$ cumple ser una función conservativa, vale decir, $F=\nabla f$, entonces ahora la pregunta es *¿Quién es $f$?*. Si $f$ existe, entonces debería ser la [[Integral en varias variables|integral]] respecto a la variable. 
+
+#### Ejemplo 
+
+Tenemos que $F=\nabla f=(2xy,x^2+y)=(\frac{\partial f}{\partial x},\frac{\partial f}{\partial y})$, entonces, calculando primero la integral respecto a $x$: 
+
+$$\int2xy\;dx=x^2y+C(y)$$
+
+Donde la constante depende de $y$, ya que su derivada también es constante. No obstante, también se debe cumplir que: 
+
+
+
+
 
