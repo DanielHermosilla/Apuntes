@@ -83,4 +83,4 @@ $$\begin{align}
 &=\frac{4}{3}+\frac{\pi}{4}
 \end{align}$$
 
-Acá podemos ver que **el resultado es diferente** con la función $F_2$. De aquí nace el concepto de **[[Función conservativa|campo conservativo]]**.  
+Acá podemos ver que **el resultado es diferente** con la función $F_2$. De aquí nace el concepto de **[[Campos conservativos|campo conservativo]]**.  
