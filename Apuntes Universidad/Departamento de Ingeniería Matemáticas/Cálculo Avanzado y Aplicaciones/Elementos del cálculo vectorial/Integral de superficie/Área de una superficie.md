@@ -48,4 +48,4 @@ $$\begin{align}
 &=2\pi\frac{10^{\frac{3}{2}}-1}{3}
 \end{align}$$
 
-Notemos que al hacer el [[Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Integración/Cambio de variable|cambio de variable]] se multiplic
+Notemos que al hacer el [[Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Integración/Cambio de variable|cambio de variable]] se multiplicó por $r$, correspondiente al [[matriz Jacobiana|Jacobiano]] del cambio de coordenadas. 

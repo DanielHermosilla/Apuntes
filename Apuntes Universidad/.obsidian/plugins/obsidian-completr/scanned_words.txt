@@ -1174,6 +1174,7 @@ sala
 simplificados
 suceptibles
 suposici
+suave
 no
 neo
 nea
@@ -2116,6 +2117,7 @@ laplaciano
 lgebras
 lim
 llegando
+libertad
 que
 quiere
 qk
@@ -2728,6 +2730,8 @@ desintegrar
 despreciadas
 despreciable
 dicha
+devine
+deduce
 forma
 filas
 factor
@@ -3210,6 +3214,7 @@ tope
 tapa
 trae
 tip
+tangencial
 valores
 vectores
 variaci
@@ -4102,6 +4107,7 @@ constituido
 concluimos
 coincidencia
 citamente
+casualmente
 propios
 particular
 podr
@@ -4566,6 +4572,8 @@ paradoja
 prefieren
 point
 puramente
+paralel
+planto
 Entonces
 EDO
 Esto
@@ -5208,6 +5216,7 @@ metaestable
 minimal
 minoria
 muchisimo
+multiplic
 resolver
 rmula
 reducir
@@ -8089,6 +8098,7 @@ gemelos
 griega
 gico
 gigantesca
+gramo
 Otra
 OPTIONS
 OS
