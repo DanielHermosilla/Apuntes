@@ -787,6 +787,7 @@ equitativamente
 emptyset
 encerradas
 elegida
+encontrando
 siguiente
 sistema
 soluci
@@ -4579,6 +4580,8 @@ point
 puramente
 paralel
 planto
+proyecta
+parametriza
 Entonces
 EDO
 Esto
