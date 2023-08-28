@@ -28,4 +28,48 @@ Lo que nos representa la densidad $\sigma$ es la siguiente igualdad:
 
 $$\sigma=\frac{Q}{\text{Área}}$$
 
-Por lo tanto, si se quisiera calcular la carga eléctrica en la superficie, se puede llegar a la siguiente 
+Por lo tanto, si se quisiera calcular la carga eléctrica en la superficie, se puede llegar a la siguiente igualdad: 
+
+$$\int_A\sigma\;dA=Q$$
+
+De tal forma, es posible calcular la fuerza de Coulomb ejercida por la superficie. 
+
+## Campo eléctrico 
+
+El campo eléctrico para una carga puntual se define de la siguiente forma: 
+
+$$\vec{E}(r)=\frac{1}{4\pi\epsilon_0}\cdot\frac{q}{r^2}\hat{r}$$
+
+Como su nombre lo indica, es un campo vectorial que representa la presencia de cargas eléctricas. De hecho, el flujo se ve representado por la siguiente ecuación: 
+
+$$\Phi_E=\int^{}_{S}E\cdot da$$
+
+![[Captura de pantalla 2023-08-28 a la(s) 15.22.14.png|center|500]]
+
+
+Notemos que los flujos se definen en función de una superficie, por eso la integral está en función de $S$, representando la superficie. De hecho, a partir de esta idea es donde nace la **ley de Gauss**. 
+
+## Ley de Gauss 
+
+Para una superficie, se define el campo eléctrico como: 
+
+$$\oint E\cdot da=\frac{Q_{enc}}{\epsilon_0}$$
+
+Vale decir, basta definir una superficie cualquiera para poder determinar su campo eléctrico. Al aplicar teoremas de divergencia se llega a la **ley de Gauss diferencial:**
+
+$$\nabla\cdot E=\frac{1}{\epsilon_0}\rho$$
+
+
+## Trabajo del campo eléctrico 
+
+Supongamos que se tiene una carga puntual con su respectivo campo eléctrico. *¿Qué pasaría si la partícula se mueve de un punto $a$ hacia un punto $b$?*. Por lo general, para calcular trabajos, se puede realizar su integral de línea: 
+
+$$\int^{b}_{a}E\cdot dl$$
+
+![[Captura de pantalla 2023-08-28 a la(s) 15.29.16.png|center|450]]
+
+
+Notemos que, trivialmente, si llegase ser el caso donde $r_a=r_b$, entonces se cumplirían las siguientes premisas: 
+
+$$\oint E\cdot dl=0\;\;\land\;\;\nabla\times E=0$$
+
