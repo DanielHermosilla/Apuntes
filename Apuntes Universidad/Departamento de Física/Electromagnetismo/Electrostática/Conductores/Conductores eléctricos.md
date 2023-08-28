@@ -86,4 +86,4 @@ $$\vec{E}=\frac{q}{4\pi\epsilon_0}\frac{1}{r}\hat{r}$$
 
 #### Ejemplo 
 
-Cavidad en un conductor sin carga en un campo $\vec{E}$ externo. 
+Cavidad en un conductor sin carga en un campo $\vec{E}$ externo. Supongamos que hay 
