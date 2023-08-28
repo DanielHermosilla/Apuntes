@@ -4122,6 +4122,9 @@ casualmente
 consistente
 circulando
 circulan
+cavidad
+centrado
+cabidad
 propios
 particular
 podr
@@ -4761,6 +4764,7 @@ EsSteam
 Entidades
 Entidad
 Entrop
+EDP
 Ahora
 Aca
 Al
@@ -6922,6 +6926,7 @@ intentar
 identificamos
 inpuesto
 inducida
+irregular
 ya
 yi
 yR
@@ -7497,6 +7502,8 @@ Creador
 Cournot
 Configuraciones
 Conductores
+Carga
+Cavidad
 Jordan
 JV
 JD
