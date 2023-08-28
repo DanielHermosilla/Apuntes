@@ -1729,6 +1729,7 @@ Superllave
 Sala
 Segregaci
 Stirling
+Semiconductores
 buscando
 busco
 buscamos
@@ -4118,6 +4119,7 @@ coincidencia
 citamente
 casualmente
 consistente
+circulando
 propios
 particular
 podr
@@ -4905,6 +4907,7 @@ Ayuda
 Android
 Asumiendo
 Adh
+Aisladores
 matriz
 metros
 mero
@@ -7488,6 +7491,7 @@ Creencias
 Creador
 Cournot
 Configuraciones
+Conductores
 Jordan
 JV
 JD
