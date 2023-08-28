@@ -83,3 +83,4 @@ $$V(r)=-\int^{r}_{\aleph}E\cdot dl$$
 Donde $\aleph$ representa un punto arbitrario. Aun así, se puede resumir en la siguiente equivalencia: 
 
 $$E=-\nabla V$$
+

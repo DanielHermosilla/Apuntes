@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Ejercicio 1.md",
+                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.50247192382812
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Ejercicio 1.md",
+                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Ejercicio 1.md",
+                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Resumenes/Resumen Ejercicio 1.md"
+                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md"
               }
             }
           },
@@ -182,19 +182,21 @@
   },
   "active": "200894998c13fc10",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Carga inducida.md",
+    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+    "Departamento de Física/Termodinámica/Resumenes",
+    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
+    "Departamento de Física/Electromagnetismo/Resumenes/Resumen Ejercicio 1.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 15.29.16.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 15.22.14.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 15.14.39.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
-    "Departamento de Física/Electromagnetismo/Resumenes/Resumen Ejercicio 1.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Diseño de tablas.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.37.34.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.33.03.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Trabajo y Energía en Electrostática.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Untitled.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Carga inducida.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.25.29.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.01.01.png",
@@ -210,7 +212,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 20.57.36.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 20.50.13.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 20.45.35.png",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 20.42.28.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Área de una superficie.md",
     "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md",
     "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md",
@@ -226,7 +227,6 @@
     "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios",
-    "Departamento de Física/Termodinámica/Ejercicios",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Modelo entidad-relación"
+    "Departamento de Física/Termodinámica/Ejercicios"
   ]
 }
