@@ -789,6 +789,7 @@ encerradas
 elegida
 encontrando
 escalan
+electrodin
 siguiente
 sistema
 soluci
@@ -1178,6 +1179,7 @@ simplificados
 suceptibles
 suposici
 suave
+sufijo
 no
 neo
 nea
@@ -4766,6 +4768,7 @@ Entidades
 Entidad
 Entrop
 EDP
+Electrost
 Ahora
 Aca
 Al
