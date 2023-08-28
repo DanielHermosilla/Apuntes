@@ -41,4 +41,25 @@ $$z=2-x-x^2$$
 Notar que al ser una superficie, se parametriza en dos variables, por lo tanto, una parametrización de $\Sigma$ es: 
 
 $$\vec{F}(x,z)=(x,x^2,z)$$ 
-Con $(x,z)\in D=\lbrace(x,z)\in\mathbb{R}^2:0\leq x\leq 1\;\land\; 0\leq z\leq 2-x-x^2\rbrace$ 
+Con $(x,z)\in D=\lbrace(x,z)\in\mathbb{R}^2:0\leq x\leq 1\;\land\; 0\leq z\leq 2-x-x^2\rbrace$. Ahora bien, encontrando las [[Derivada parcial|derivadas parciales:]]
+
+$$\frac{\partial \vec{F(x,z)}}{\partial x}\times\frac{\partial \vec{F(x,z)}}{\partial z}=\begin{bmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+1 & 2x & 0 \\
+0 & 0 & 1
+\end{bmatrix}=(2x,-1,0)$$ 
+Finalmente, bajo el cálculo del [[Producto vectorial|producto vectorial]] se obtiene el [[conjuntos ortogonales y ortonormales|vector normal]] a la superficie $\Sigma$. 
+
+![[Captura de pantalla 2023-08-27 a la(s) 20.57.36.png|center]]
+
+
+Por ende, 
+
+$$\begin{align}
+\int\int_\Sigma \vec{f}\cdot\hat{n}\;d\sigma&=\int\int_{D_{xz}}\vec{f}(\vec{F}(x,z))\cdot\vec{F^{'}_{x}}(x,z)\times\vec{F^{'}_{z}}(x,z)\;dxdz\\  \\
+&=\int\int_{D_{xz}}\vec{f}(x,x^2,z)\cdot(2x,-1,0)\;dxdz\\  \\
+&=\int\int_{D_{xz}}(x^2,0,x^3)\cdot(2x,-1,0)\;dxdz\\  \\
+&=\int^{1}_{0}\int^{2-x-x^2}_{0}2x^3\;dzdx\\  \\
+&=\frac{4}{15}
+\end{align}$$
+
