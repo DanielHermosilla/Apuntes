@@ -786,6 +786,7 @@ equiprobable
 equitativamente
 emptyset
 encerradas
+elegida
 siguiente
 sistema
 soluci
@@ -1422,6 +1423,8 @@ nash
 nick
 nuetralidad
 nuestras
+nto
+ndrica
 homog
 homogenea
 hacen
@@ -3215,6 +3218,7 @@ tapa
 trae
 tip
 tangencial
+trozo
 valores
 vectores
 variaci
@@ -4108,6 +4112,7 @@ concluimos
 coincidencia
 citamente
 casualmente
+consistente
 propios
 particular
 podr
@@ -7205,6 +7210,7 @@ ofrecian
 ordenamiento
 ordenando
 ofrecer
+octante
 wronskiana
 www
 wF

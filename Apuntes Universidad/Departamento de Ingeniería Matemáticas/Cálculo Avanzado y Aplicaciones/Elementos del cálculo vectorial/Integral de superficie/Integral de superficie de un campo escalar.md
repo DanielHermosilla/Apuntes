@@ -16,3 +16,4 @@ $$\int\int_\Sigma \delta d\sigma=\int\int_D \delta(\vec{F}(u,v))\;\vert\vert\vec
 - El valor medio de $f$ sobre $\Sigma$ se define como: 
 
 $$f_{med}=\frac{1}{\text{Área}(\Sigma)}\int\int_\Sigma fd\sigma$$ 
+

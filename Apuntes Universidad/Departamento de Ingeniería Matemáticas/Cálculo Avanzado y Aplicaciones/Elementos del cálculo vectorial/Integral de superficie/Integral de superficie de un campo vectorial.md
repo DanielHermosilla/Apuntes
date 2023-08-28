@@ -8,4 +8,37 @@ $$\int\int_\Sigma \vec{f}\cdot\hat{n}\;d\sigma=\int\int_D\vec{f}(\vec{F}(u,v))\c
 Notemos que esta notación es consistente con la definición, pues: 
 
 $$\hat{n}=\frac{\vec{F^{'}_{u}}(u,v)\times\vec{F^{'}_{v}}(u,v)}{\vert\vert\vec{F^{'}_{u}}(u,v)\times\vec{F^{'}_{v}}(u,v)\vert\vert}\;\land\;d\sigma=\vert\vert\vec{F^{'}_{u}}(u,v)\times\vec{F^{'}_{v}}(u,v)\vert\vert\;dudv$$ 
-El significado físico de esto se puede ver bajo la siguiente imagen, donde se tiene un flujo vectorial $\vec{f}$ y una [[Superficie|superficie]] $\Sigma$, entonces 
+El significado físico de esto se puede ver bajo la siguiente imagen, donde se tiene un flujo vectorial $\vec{f}$ y una [[Superficie|superficie]] $\Sigma$, entonces $\vec{f}\cdot\hat{n}=\vert\vert\vec{f}\vert\vert\cos\alpha$, que llegaría a ser *cuánto campo de $f$ está en la dirección del plano normal a la superficie.* 
+
+![[Captura de pantalla 2023-08-27 a la(s) 20.40.11.png|center|]]
+
+## Caso con flujo tangencial 
+
+Si $\vec{f}$ llegase a ser [[Vector tangencial|tangencial]] a la superficie, entonces el flujo a través de ella es nulo: 
+
+$$\int\int_\Sigma\vec{f}\cdot\hat{n}\;d\sigma=0$$
+
+![[Captura de pantalla 2023-08-27 a la(s) 20.42.28.png|center|550]]
+
+
+#### Ejemplo 
+
+Hallar el flujo de $\vec{f}(x,y,z)=(y,x^2-y,xy)$ a través del trozo de superficie cilíndrica de ecuación $y=x^2$ en el primer octante con $x+y+z\leq 2$ indicando en un gráfico la orientación elegida para $\hat{n}$. 
+
+Se tendría una curva $C\in\Sigma$ del siguiente estilo: 
+
+![[Captura de pantalla 2023-08-27 a la(s) 20.45.35.png|center|600]]
+
+
+Antes que nada, considerando la restricción, se proyecta en el plazo $x-z$ en la curva de ecuación: 
+
+$$z=2-x-x^2$$
+
+![[Captura de pantalla 2023-08-27 a la(s) 20.50.13.png|center|550]]
+
+
+
+Notar que al ser una superficie, se parametriza en dos variables, por lo tanto, una parametrización de $\Sigma$ es: 
+
+$$\vec{F}(x,z)=(x,x^2,z)$$ 
+Con $(x,z)\in D=\lbrace(x,z)\in\mathbb{R}^2:0\leq x\leq 1\;\land\; 0\leq z\leq 2-x-x^2\rbrace$ 
