@@ -72,7 +72,7 @@ $$\begin{align}
 \oint\vec{E}\;d\vec{s}&=\frac{Q_{enc}}{\epsilon_0}
 \end{align}$$
 
-Además notar que la carga encerrada es $\lambda\cdot l$. Por lo tanto, resolviendo la [[Integral de superficie|integral de superficie]]: 
+Además notar que la carga encerrada es $\lambda\cdot l$. Por lo tanto, resolviendo la [[Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie|integral de superficie]]: 
 
 
 $$\begin{align}
