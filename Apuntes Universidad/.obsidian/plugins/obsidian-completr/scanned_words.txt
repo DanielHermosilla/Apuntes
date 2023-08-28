@@ -4125,6 +4125,7 @@ circulan
 cavidad
 centrado
 cabidad
+cdot
 propios
 particular
 podr
@@ -7233,6 +7234,7 @@ ordenamiento
 ordenando
 ofrecer
 octante
+oint
 wronskiana
 www
 wF
