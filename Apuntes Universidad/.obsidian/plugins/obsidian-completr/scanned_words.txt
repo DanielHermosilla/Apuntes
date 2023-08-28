@@ -788,6 +788,7 @@ emptyset
 encerradas
 elegida
 encontrando
+escalan
 siguiente
 sistema
 soluci
@@ -1583,6 +1584,7 @@ heapify
 hemos
 hiperesfera
 hipersuperficie
+horrible
 Soluci
 Simplificando
 Se
@@ -2122,6 +2124,7 @@ lgebras
 lim
 llegando
 libertad
+liberamos
 que
 quiere
 qk
@@ -3220,6 +3223,7 @@ trae
 tip
 tangencial
 trozo
+traer
 valores
 vectores
 variaci
@@ -5597,6 +5601,7 @@ rmico
 relacional
 repitiendo
 reescrito
+resumir
 asociados
 ambas
 asegura
@@ -6908,6 +6913,7 @@ influye
 intuici
 intentar
 identificamos
+inpuesto
 ya
 yi
 yR
