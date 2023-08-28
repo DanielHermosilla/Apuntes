@@ -73,3 +73,13 @@ Notemos que, trivialmente, si llegase ser el caso donde $r_a=r_b$, entonces se c
 
 $$\oint E\cdot dl=0\;\;\land\;\;\nabla\times E=0$$
 
+## Potencial del campo eléctrico 
+
+
+Dado que la función del campo eléctrico es conservativa, se puede definir el potencial del campo eléctrico: 
+
+$$V(r)=-\int^{r}_{\aleph}E\cdot dl$$
+
+Donde $\aleph$ representa un punto arbitrario. Aun así, se puede resumir en la siguiente equivalencia: 
+
+$$E=-\nabla V$$
