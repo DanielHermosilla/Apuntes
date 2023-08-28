@@ -47,3 +47,7 @@ $$V(\vec{b})-V(\vec{a})=-\int^{\vec{b}}_{\vec{a}}\vec{E}\cdot dl$$
 Nuevamente, como el [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]] es nulo, entonces se cumple que $V(\vec{b})=V(\vec{a})$, por lo tanto, se concluye que **el trabajo es constante por la superficie**. 
 
 Ahora, si se aplican las [[Condiciones de borde|condiciones de borde]], al saber que las cargas circulan por la [[Superficie|superficie]] se tiene que $E^{''}_{+}=E^{''}_{-}$, por lo tanto, **el campo eléctrico es perpendicular a la superficie del conductor**. 
+
+## Carga en una cavidad de un conductor 
+
+Supongamos que se tiene un conductor y dentro del conductor se tiene una cavidad. Dentro de esta cavidad se pone una carga eléctrica. 

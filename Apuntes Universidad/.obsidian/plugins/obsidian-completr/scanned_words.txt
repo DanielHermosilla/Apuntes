@@ -2126,6 +2126,7 @@ lim
 llegando
 libertad
 liberamos
+licas
 que
 quiere
 qk
@@ -4120,6 +4121,7 @@ citamente
 casualmente
 consistente
 circulando
+circulan
 propios
 particular
 podr
@@ -6073,6 +6075,8 @@ alterada
 apropiado
 adimensionales
 argumentos
+acumula
+aplican
 La
 Los
 Luego
@@ -6917,6 +6921,7 @@ intuici
 intentar
 identificamos
 inpuesto
+inducida
 ya
 yi
 yR
