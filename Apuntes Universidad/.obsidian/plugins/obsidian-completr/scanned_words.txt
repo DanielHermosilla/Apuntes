@@ -2136,6 +2136,7 @@ llegando
 libertad
 liberamos
 licas
+ligadura
 que
 quiere
 qk
@@ -6964,6 +6965,7 @@ identificamos
 inpuesto
 inducida
 irregular
+imaginamos
 ya
 yi
 yR

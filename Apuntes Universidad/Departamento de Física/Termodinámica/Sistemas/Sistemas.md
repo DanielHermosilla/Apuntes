@@ -10,3 +10,6 @@ Un sistema aislado, en el *sentido termodinámico* ocurre cuando la [[Estados y 
 ## Ligadura 
 
 Es cualquier restricción que impide que un sistema evolucione temporalmente. Relajarla desencadena un proceso. 
+
+### Sistema aislado con ligadura 
+

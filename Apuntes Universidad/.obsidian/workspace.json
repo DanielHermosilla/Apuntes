@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistemas/Estados y procesos.md",
+                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50247192382812
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistemas/Estados y procesos.md",
+                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistemas/Estados y procesos.md",
+                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Sistemas/Estados y procesos.md"
+                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md"
               }
             }
           },
@@ -161,7 +161,10 @@
   },
   "active": "8feda5d37a4c91ec",
   "lastOpenFiles": [
+    "IMG_647B2099318A-1.jpeg",
     "Departamento de Física/Termodinámica/Sistemas/Sistemas.md",
+    "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
+    "IMG_B7994BEB15F0-1.jpeg",
     "Departamento de Física/Termodinámica/Sistemas/Estados y procesos.md",
     "Departamento de Física/Termodinámica/Sistemas/Relación fundamental de un sistema.md",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.46.32.png",
@@ -194,12 +197,10 @@
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.33.03.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Trabajo y Energía en Electrostática.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Untitled.md",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.25.29.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores",
     "Departamento de Física/Electromagnetismo/Electrostática/Divergencia y rotación del campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Energía de una distribución de carga puntuales.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Trabajo del campo eléctrico.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de superficie/Integral de superficie de un campo vectorial.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de superficie",
     "Departamento de Física/Termodinámica/Modelos Simples",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea",
