@@ -2748,6 +2748,7 @@ devine
 deduce
 defiende
 desviaciones
+decidan
 forma
 filas
 factor
@@ -4136,6 +4137,7 @@ cabidad
 cdot
 confundir
 confusi
+contribuyentes
 propios
 particular
 podr
@@ -4605,6 +4607,7 @@ planto
 proyecta
 parametriza
 pura
+poblaciones
 Entonces
 EDO
 Esto
@@ -5254,6 +5257,7 @@ multiplic
 mixta
 mixtas
 mixto
+motivaci
 resolver
 rmula
 reducir
@@ -6098,6 +6102,8 @@ argumentos
 acumula
 aplican
 asumen
+autoridades
+auditar
 La
 Los
 Luego

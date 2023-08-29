@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "200894998c13fc10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Equilibrio de Nash en Estrategias Mixtas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4709405da8e9236c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Poblaciones Mixtas.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50247192382812
+    "width": 210.50247192382812,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Equilibrio de Nash en Estrategias Mixtas.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Poblaciones Mixtas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Equilibrio de Nash en Estrategias Mixtas.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Poblaciones Mixtas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Equilibrio de Nash en Estrategias Mixtas.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Poblaciones Mixtas.md"
               }
             }
           },
@@ -171,12 +160,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "4709405da8e9236c",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
     "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Poblaciones Mixtas.md",
+    "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-29 a la(s) 11.19.16.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Equilibrio de Nash en Estrategias Mixtas.md",
-    "Captura de pantalla 2023-08-29 a la(s) 10.42.25.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
+    "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-29 a la(s) 10.42.25.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Estrategias Mixtas.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
@@ -206,18 +197,15 @@
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 20.57.36.png",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 20.50.13.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Área de una superficie.md",
     "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md",
     "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie",
     "Departamento de Física/Termodinámica/Modelos Simples",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos",
     "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios",
-    "Departamento de Física/Termodinámica/Ejercicios"
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Competencia de Oligopolios"
   ]
 }
