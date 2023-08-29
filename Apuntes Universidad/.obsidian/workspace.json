@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Campos conservativos.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Campos conservativos.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Campos conservativos.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Campos conservativos.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "8feda5d37a4c91ec",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Campos conservativos.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Teorema de Green.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Integral de superficie.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
@@ -198,8 +200,6 @@
     "Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico.md",
     "Departamento de Física/Electromagnetismo/Electromagnetismo.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/Captura de pantalla 2023-08-27 a la(s) 20.57.36.png",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de superficie/Área de una superficie.md",
-    "Departamento de Física/Termodinámica/Modelos Simples/Sólido con defectos.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de superficie",
     "Departamento de Física/Termodinámica/Modelos Simples",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea",
