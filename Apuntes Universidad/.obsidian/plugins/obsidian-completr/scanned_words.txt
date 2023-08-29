@@ -4596,6 +4596,7 @@ paralel
 planto
 proyecta
 parametriza
+pura
 Entonces
 EDO
 Esto
@@ -5242,6 +5243,7 @@ minimal
 minoria
 muchisimo
 multiplic
+mixta
 resolver
 rmula
 reducir

@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe07add33656ec7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aec1eac0a13a157",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "200894998c13fc10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash en Estrategias Mixtas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50247192382812
+    "width": 210.50247192382812,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash en Estrategias Mixtas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash en Estrategias Mixtas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash en Estrategias Mixtas.md"
               }
             }
           },
@@ -182,15 +162,18 @@
   },
   "active": "200894998c13fc10",
   "lastOpenFiles": [
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Carga inducida.md",
+    "Captura de pantalla 2023-08-29 a la(s) 10.42.25.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Estrategias Mixtas.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash en Estrategias Mixtas.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Carga inducida.md",
     "Departamento de Física/Termodinámica/Resumenes",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
     "Departamento de Física/Electromagnetismo/Resumenes/Resumen Ejercicio 1.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 15.29.16.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 15.22.14.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 15.14.39.png",
-    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Diseño de tablas.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.37.34.png",
@@ -217,9 +200,6 @@
     "Departamento de Física/Termodinámica/Modelos Simples/Gas ideal.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie/Superficie.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea/Campos conservativos.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de superficie",
     "Departamento de Física/Termodinámica/Modelos Simples",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Integral de línea",
