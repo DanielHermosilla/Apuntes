@@ -790,6 +790,7 @@ elegida
 encontrando
 escalan
 electrodin
+esperados
 siguiente
 sistema
 soluci
@@ -1180,6 +1181,8 @@ suceptibles
 suposici
 suave
 sufijo
+segundos
+sostenible
 no
 neo
 nea
@@ -2743,6 +2746,8 @@ despreciable
 dicha
 devine
 deduce
+defiende
+desviaciones
 forma
 filas
 factor
@@ -3228,6 +3233,7 @@ tip
 tangencial
 trozo
 traer
+tenis
 valores
 vectores
 variaci
@@ -4128,6 +4134,8 @@ cavidad
 centrado
 cabidad
 cdot
+confundir
+confusi
 propios
 particular
 podr
@@ -5244,6 +5252,8 @@ minoria
 muchisimo
 multiplic
 mixta
+mixtas
+mixto
 resolver
 rmula
 reducir

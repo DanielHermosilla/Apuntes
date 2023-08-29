@@ -7,6 +7,7 @@ Si se mira la desigualdad de cerca:
 
 $$\sum_{s_i\in S_i}\left[\sigma_{i}^{*}(s_i)EU_i(s_i,\sigma_{-i}^{*}\right)\geq\sum^{}_{s_i\in S_i}\left[\sigma_{i}^{'}(s_i)EU_i(s_i,\sigma_{-i}^{*})\right]\;\;\forall\sigma_{i}^{'}\in\Sigma_i$$
 
+Algunas veces el equilibrio de Nash mixto no es la [[La mejor respuesta|mejor respuesta]], dado que el otro jugador no sabe lo que jugará el otro. Es un estado de *"confusión sostenible"*. No hay manera de salir de esta situación con desviaciones individuales. 
 #### Ejemplo 
 
 En el tenis los jugadores quieren confundir al otro al servir, entonces una estrategia pura no es un [[Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash|Equilibrio de Nash]]. 
