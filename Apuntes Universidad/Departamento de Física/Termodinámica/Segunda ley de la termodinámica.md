@@ -17,7 +17,13 @@ $$S_2\geq S_1$$
 
 Por lo tanto, la segunda ley postula: 
 
-> *En un sistema **aislado** la [[Entropía|entropía]] nunca decrece*
+>[!info] *En un sistema **aislado** la [[Entropía|entropía]] **nunca** decrece*
+
+Ahora, si se restituyera la ligadura, una pregunta común es la [[Teoría de probabilidades|probabilidad]] de retorno, vale decir, la probabilidad de retornar a la configuración inicial. Esto es una simple [[Ley uniforme discreta|probabilidad uniforme discreta]], donde se tiene que: 
+
+$$\mathbb{P}=\frac{\text{Número de casos favorables}}{\text{Número de casos posibles}}=\frac{\Omega_1}{\Omega_2}$$
+
+Muchas veces, una probabilidad inalcancable. 
 
 
 

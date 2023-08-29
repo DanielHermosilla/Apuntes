@@ -2755,6 +2755,7 @@ defiende
 desviaciones
 decidan
 desencadena
+desprender
 forma
 filas
 factor
@@ -5643,6 +5644,8 @@ relacional
 repitiendo
 reescrito
 resumir
+restituyera
+retorno
 asociados
 ambas
 asegura

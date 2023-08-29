@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -161,10 +162,11 @@
   },
   "active": "8feda5d37a4c91ec",
   "lastOpenFiles": [
-    "IMG_647B2099318A-1.jpeg",
-    "Departamento de Física/Termodinámica/Sistemas/Sistemas.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
-    "IMG_B7994BEB15F0-1.jpeg",
+    "Departamento de Física/Termodinámica/img/IMG_647B2099318A-1.jpeg",
+    "Departamento de Física/Termodinámica/Sistemas/Sistemas.md",
+    "Departamento de Física/Termodinámica/img/IMG_B7994BEB15F0-1.jpeg",
     "Departamento de Física/Termodinámica/Sistemas/Estados y procesos.md",
     "Departamento de Física/Termodinámica/Sistemas/Relación fundamental de un sistema.md",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.46.32.png",
@@ -194,7 +196,6 @@
     "Departamento de Física/Electromagnetismo/Electrostática/Ley de Gauss.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Diseño de tablas.md",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.37.34.png",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 09.33.03.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía/Trabajo y Energía en Electrostática.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Untitled.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores",
