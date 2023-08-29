@@ -88,6 +88,8 @@ Notemos que si tenemos un recorrido cerrado, vale decir, un circumferencia cerra
 $$\oint F\cdot dr=0$$
 
 
+#### Ejemplo 
 
+Sea $F:\mathbb{R}^2\to\mathbb{R}^2$ tal que $F(x,y)=(2xy+3,x^2-1)$. Calcular
 
 
