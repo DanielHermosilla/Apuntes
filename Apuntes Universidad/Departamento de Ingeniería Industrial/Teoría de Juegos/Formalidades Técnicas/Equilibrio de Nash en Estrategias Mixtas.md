@@ -23,10 +23,24 @@ Como solo son dos estrategias, se busca el punto donde ambas estrategias dan el 
 
 Para calcular la mejor respuesta de Jugador 2, se debe calcular los pagos esperados de Jugador 1. 
 
-Entonces, los pagos esperados de jugador $1$ con la estrategia mixta $(q,1-q)$: 
+Entonces, los pagos esperados de Jugador $1$ con la estrategia mixta $(q,1-q)$: 
 
 $$EU_1[L,(q,1-q)]=qU_1(L,l)+(1-q)U_1(L,r)=80-30q$$
 
 Por el otro lado, para la estrategia $R$: 
 
-$$EU_1[R,(q,1-q)]$$
+$$EU_1[R,(q,1-q)]=qU_1(R,l)+(1-q)U_1(R,r)=20+70q$$
+
+Los pagos deben ser iguales en una mejor respuesta, entonces: 
+
+$$80-30q=20+70q\implies q^*=0.6$$
+
+Ahora, si se hace lo mismo para los pagos del Jugador 2 con probabilidad mixta $(p,1-p)$, se llega también que: 
+
+$$10+40p=80-60p\implies p^*=0.7$$
+
+Entonces, el equilibrio de Nash, llegaría a ser: 
+
+$$(p^*,q^*)=(0.6,0.7)$$
+
+Si se quiere verificar que es un equilibrio de Nash, entonces los pagos de los jugadores no deben mejorar con una estrategia diferente. 
