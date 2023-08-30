@@ -22,3 +22,26 @@ $$1\;\text{Farad}=1\frac{\text{Coulomb}}{\text{Volt}}$$
 
 #### Ejemplo: Condensador de placas paralelas 
 
+Se tiene la siguiente figura: 
+
+![[IMG_B386BF10EAA2-1.jpeg|center]]
+
+Por las [[Condiciones de borde|condiciones de borde]], se sabe que el [[Departamento de Física/Electromagnetismo/Electrostática/Campo eléctrico|campo eléctrico]] es nulo al llegar a los bordes. Entonces, al mirar las placas desde cerca:  
+
+![[IMG_4CBBA68B63EC-1.jpeg]]
+
+Se llega al siguiente sistema de ecuaciones: 
+
+$$\begin{align}  
+E_3-E_2&=-\frac{\sigma}{\epsilon_0}\\  \\
+E_2-E_1&=\frac{\sigma}{\epsilon_0}\\  \\
+\implies E_2&=\frac{\sigma}{\epsilon_0}
+\end{align}$$
+
+
+Por lo tanto, el potencial es: 
+
+$$\begin{align}
+V&=-\int^{d}_{0}\vec{E}\cdot d\vec{l}\\  \\
+&=-\int^{d}_{0}\frac{-Q}{\epsilon_0 A}\cdot\hat{j}\;dy
+\end{align}$$
