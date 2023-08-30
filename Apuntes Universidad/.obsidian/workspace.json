@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d91f5e7fa70493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Axiomas.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md"
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md"
               }
             }
           },
@@ -182,12 +194,22 @@
   },
   "active": "2eb1910138faaa9f",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Axiomas.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Varianza condicional.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Condicionando sobre un evento.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Esperanza condicional.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Probabilidad Condicional.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia condicional.md",
+    "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+    "Departamento de Física/Termodinámica/Ejercicios/Consultas",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Principio multiplicativo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Termodinámica/Energía.md",
@@ -203,19 +225,10 @@
     "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Departamento de Física/Termodinámica/img/IMG_647B2099318A-1.jpeg",
-    "Departamento de Física/Termodinámica/Sistemas/Sistemas.md",
     "Departamento de Física/Termodinámica/img/IMG_B7994BEB15F0-1.jpeg",
-    "Departamento de Física/Termodinámica/Sistemas/Estados y procesos.md",
-    "Departamento de Física/Termodinámica/Sistemas/Relación fundamental de un sistema.md",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.46.32.png",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.45.07.png",
     "Departamento de Física/Termodinámica/Sistemas",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Campos conservativos.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea/Teorema de Green.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Integral de superficie.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Poblaciones Mixtas.md",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-29 a la(s) 11.19.16.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-29 a la(s) 10.42.25.png",
@@ -226,7 +239,6 @@
     "Departamento de Física/Termodinámica/Modelos Simples",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio",
-    "Departamento de Física/Electromagnetismo/Electrostática/Trabajo y Energía"
+    "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio"
   ]
 }
