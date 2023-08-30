@@ -46,4 +46,6 @@ Si se hace el mismo análisis para la misma imagen anterior, nos podemos definir
 
 $$V(\vec{r})=\frac{1}{4\pi\epsilon_0}\frac{qd\cos\theta}{r^2}$$
 
-Haciendo despresaciones y cálculos parecidos a la parte anterior. Y por ende, el $\vec{p}$ se puede definir, ap
+Haciendo despresaciones y cálculos parecidos a la parte anterior. Y por ende, el $\vec{p}$ se puede definir, para cargas puntuales, como: 
+
+$$\vec{p}=\sum^{N}_{i=1}q_i\cdot\vec{r_i'}$$
