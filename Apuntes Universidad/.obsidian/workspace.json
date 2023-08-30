@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "8feda5d37a4c91ec",
   "lastOpenFiles": [
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
     "Departamento de Física/Electromagnetismo/img/IMG_4CBBA68B63EC-1.jpeg",
     "Departamento de Física/Electromagnetismo/img/IMG_B386BF10EAA2-1.jpeg",
     "Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Condensadores/Condensador.md",
