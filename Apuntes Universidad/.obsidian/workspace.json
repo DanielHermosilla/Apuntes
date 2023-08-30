@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md"
               }
             }
           },
@@ -162,8 +161,8 @@
   },
   "active": "8feda5d37a4c91ec",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Departamento de Física/Termodinámica/img/IMG_647B2099318A-1.jpeg",
     "Departamento de Física/Termodinámica/Sistemas/Sistemas.md",
     "Departamento de Física/Termodinámica/img/IMG_B7994BEB15F0-1.jpeg",
