@@ -19,6 +19,19 @@ Donde $Q$ es la carga almacenada y $V$ es la diferencia de potencial. Su unidad 
 
 $$1\;\text{Farad}=1\frac{\text{Coulomb}}{\text{Volt}}$$
 
+## Energía almacenada en el condensador 
+
+Si suponemos que tenemos dos cargas puntuales, sabemos que el [[Trabajo y Energía en Electrostática|trabajo]] para atraer la carga sería: 
+
+$$dW=dQ\cdot V$$
+
+Si reemplazamos esto por la ecuación del condensador: 
+
+$$dW=\frac{q}{C}\;dq$$
+
+Ahora, si se quiere cargar el condensador para que ejerca un cierto trabajo $W_{total}$, se llega a lo siguiente, que sería la energía del condensador: 
+
+$$\int^{W}_{0}dW=\int^{Q}_{0}\frac{q}{C}\;dq=\frac{1}{2}\frac{Q^2}{C}$$
 
 #### Ejemplo: Condensador de placas paralelas 
 
@@ -38,10 +51,21 @@ E_2-E_1&=\frac{\sigma}{\epsilon_0}\\  \\
 \implies E_2&=\frac{\sigma}{\epsilon_0}
 \end{align}$$
 
-
-Por lo tanto, el potencial es: 
+Por lo tanto, el [[Potencia eléctrica|potencial eléctrico]] es: 
 
 $$\begin{align}
 V&=-\int^{d}_{0}\vec{E}\cdot d\vec{l}\\  \\
-&=-\int^{d}_{0}\frac{-Q}{\epsilon_0 A}\cdot\hat{j}\;dy
+&=-\int^{d}_{0}\frac{-Q}{\epsilon_0 A}\;dy\\  \\
+&=\frac{Q}{A\epsilon_0}\cdot d
+\end{align}$$
+
+Acordándonos de la definición de [[Condensador|capacitancia]], donde $C=Q/V$, entonces la capacitancia de este sistema es: 
+
+$$C=\frac{Q}{\left(\frac{Qd}{A\epsilon_0}\right)}=\frac{A\epsilon_0}{d}$$
+
+De este ejercicio se puede atribuir la siguiente relación: 
+
+$$\begin{align}
+A\;\text{aumenta}&\to C\;\text{aumenta}\\  \\
+d\;\text{disminuye}&\to C\;\text{aumenta}
 \end{align}$$

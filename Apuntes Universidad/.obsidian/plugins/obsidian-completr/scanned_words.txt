@@ -795,6 +795,7 @@ esperados
 extensivas
 expl
 evolucione
+ejerca
 siguiente
 sistema
 soluci
@@ -1905,6 +1906,7 @@ brusco
 brillantes
 burbuja
 below
+bordes
 la
 las
 lo
@@ -6121,6 +6123,7 @@ asumen
 autoridades
 auditar
 aislado
+atribuir
 La
 Los
 Luego
@@ -7548,6 +7551,7 @@ Configuraciones
 Conductores
 Carga
 Cavidad
+Condensador
 Jordan
 JV
 JD
