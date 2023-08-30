@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Entropía.md"
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md"
               }
             }
           },
@@ -182,10 +182,16 @@
   },
   "active": "2eb1910138faaa9f",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Principio multiplicativo.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
+    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
+    "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Termodinámica/Energía.md",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
-    "Departamento de Física/Termodinámica/Entropía.md",
     "Departamento de Física/Termodinámica/Termodinámica.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
     "Captura de pantalla 2023-08-30 a la(s) 09.49.25.png",
@@ -210,15 +216,9 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Curvas y superficies/Integral de superficie.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Condiciones de borde.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Poblaciones Mixtas.md",
-    "Departamento de Física/Termodinámica/Ejercicios/Ejercicio 2.md",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-29 a la(s) 11.19.16.png",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Equilibrio de Nash en Estrategias Mixtas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-29 a la(s) 10.42.25.png",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas/Estrategias Mixtas.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Ley de Coulomb.md",
-    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Carga inducida.md",
     "Departamento de Física/Termodinámica/Resumenes",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-28 a la(s) 15.29.16.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores",

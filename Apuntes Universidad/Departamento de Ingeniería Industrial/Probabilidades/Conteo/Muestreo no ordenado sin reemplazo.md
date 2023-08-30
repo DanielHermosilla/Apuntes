@@ -12,7 +12,7 @@ También sirve para obtener el número de combinaciones en que se pueden formar 
 
 Corresponde al coeficiente multinomial. Corresponde a: 
 
-$$\frac{n!}{k_1!\ k_2!\ k_3!\ \dots\ k_j!}$$ 
+$$\frac{n!}{k_1!\ k_2!\ k_3!\dots\ k_j!}$$ 
 
 ### Ejemplo
 
