@@ -2951,6 +2951,7 @@ for
 fuertemente
 funcione
 factorial
+faradio
 tanto
 tiene
 tal
