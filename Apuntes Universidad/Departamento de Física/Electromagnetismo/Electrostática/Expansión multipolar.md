@@ -1,4 +1,4 @@
-
+	
 Se puede tener una fuente de cargas eléctricas y, por ende, un [[Potencia eléctrica|potencial eléctrico]].
 
 ![[Captura de pantalla 2023-08-30 a la(s) 09.49.25.png|center]]
