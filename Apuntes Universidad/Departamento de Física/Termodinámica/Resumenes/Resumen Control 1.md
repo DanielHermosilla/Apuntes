@@ -22,3 +22,15 @@ $$I_{max}=K\ln\Omega$$
 
 ## Entropía 
 
+Se define ante un sistema macroscópico de muchos eventos, donde todos estos son equiprobables y las variables a describir son extensivas.
+
+>[!info] 
+>Se define la entropía como 
+>
+>$$S=k_B\ln\Omega$$
+
+La entropía está contenida en el sistema y además es aditiva. Cada vez que dentro de un proceso ocurre un cambio en la entropía se puede afirmar que ocurre **pérdida de información**. 
+
+Esto se puede interpretar como una medida de la falta de información que afecta a un observador externo cualquiera que conoce el estado de equilibrio macroscópico.
+
+
