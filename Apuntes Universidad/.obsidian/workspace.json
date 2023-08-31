@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
+                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Axiomas.md",
+                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -192,9 +193,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2eb1910138faaa9f",
+  "active": "f2d91f5e7fa70493",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
+    "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Axiomas.md",
+    "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Varianza condicional.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Condicionando sobre un evento.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Esperanza condicional.md",
@@ -202,7 +206,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Regla de la cadena.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia condicional.md",
-    "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
     "Departamento de Física/Termodinámica/Ejercicios/Consultas",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
@@ -211,7 +214,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Principio multiplicativo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
     "Departamento de Física/Termodinámica/Entropía.md",
-    "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Física/Termodinámica/Energía.md",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Termodinámica.md",
@@ -223,7 +225,6 @@
     "Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Condensadores/Condensador.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
     "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Ley uniforme discreta.md",
     "Departamento de Física/Termodinámica/img/IMG_647B2099318A-1.jpeg",
     "Departamento de Física/Termodinámica/img/IMG_B7994BEB15F0-1.jpeg",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.46.32.png",

@@ -16,16 +16,15 @@ Sea $X\sim\text{Binom}(N,\frac{1}{2})$ la variable aleatoria que determina la ca
 $$P(N/2+\Delta)=\binom{N}{N/2+\Delta}\left(\frac{1}{2}\right)^{2(N/2+\Delta}$$
 
 
-Como es un sistema de moléculas ideal, la probabilidad es independiente, por lo tanto:
-
-$$P(N/2)\cdot P(\Delta)=\binom{N}{N/2+\Delta}\left(\frac{1}{2}\right)^{2(N/2+\Delta)}$$
-
-
-Ahora, notar que con la misma variable aleatoria se tiene que $P(N/2)$ equivale a: 
+Por lo tanto, desarrollando el binomio: 
 
 $$\begin{align}
-P(N/2)&=\binom{N}{N/2}\left(\frac{1}{2}\right)^{N}\\  \\
-&=\frac{N!}{\frac{N}{2}!\frac{N}{2}!}\left(\frac{1}{2}\right)^{N}
+P(N/2+\Delta)&=\frac{N!}{(N/2+\Delta)!(N/2+\Delta)!}\left(\frac{1}{2}\right)^{N+2\Delta}\\  \\
+\ln\left(P(N/2+\Delta)\right)&=\ln\left(\frac{N!}{(N/2+\Delta)!(N/2+\Delta)!}\left(\frac{1}{2}\right)^{N+2\Delta}\right)\\  \\
+&=\ln(N!)-\left[\ln\left((\frac{N}{2}+\Delta)!\right)+\ln\left((\frac{N}{2}+\Delta)!\right)+(N+2\Delta)\ln(2)\right]\\  \\
+&=\ln(N!)-\left[2\ln\left((\frac{N}{2}+\Delta)!\right)+(N+2\Delta)\ln(2)\right]\\  \\
+&=\frac{1}{2}\ln(2\pi)+(N+1/2)\ln(N)-N-\left[2\ln\left((\frac{N}{2}+\Delta)!\right)+(N+2\Delta)\ln(2)\right]
 \end{align}$$
 
-Por lo tanto, 
+
+
