@@ -34,4 +34,15 @@ Ahora, se tiene el siguiente juego:
 ![[Pasted image 20230831104625.png|center]]
 
 
-Claramente 
+Claramente los [[Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash|equilibrios de Nash]] son $(A,A),\;(B,C),\;(C,B)$. *¿Es $C$ una estrategia evolutivamente estable?*. No, porque una mutación de $B$ puede invadir a $C$: 
+
+$$\begin{align}
+EU_C&=\epsilon\\  \\
+EU_B&=1-\epsilon
+\end{align}$$
+
+La mutación va a prosperar, pero $B$ tampoco es evolutivamente estable. 
+
+Notemos que ocurre lo mismo con $(B,B)$. 
+
+Observemos que $(C,C)$ y $(B,B)$ no son [[Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash|equilibrio de Nash]], entonces, para una estrategia $s$, si $(s,s)$ no es [[Departamento de Ingeniería Industrial/Teoría de Juegos/Formalidades Técnicas/Equilibrio de Nash|equilibrio de Nash]], entonces $s$ no es una estrategia evolutivamente estable. 
