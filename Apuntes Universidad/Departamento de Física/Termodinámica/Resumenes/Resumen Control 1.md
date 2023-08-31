@@ -45,4 +45,13 @@ Dado que la energía es únicamente cinética, se puede escribir en función del
 
 $$E=\sum^{N}_{i=1}\frac{1}{2m}\vec{p_{i}^{2}}$$
 
-Es importante notar que en el caso de mo
+Es importante notar que en el caso de moléculas **monoatómicas** se tienen únicamente 3 grados de libertad, por lo tanto, al resolver la sumatoria se llega que el número de eventos es $KE^{3N/2}$. Sin embargo, esto no cumple para todo gas, esto está en función de los grados de libertad. Pero, asumiendo que es monoatómico, se llega que $\Omega_E=KE^{3N/2}$. 
+
+Ahora, para las coordenadas, como asumimos la partículas lo suficientemente chicas y $v_0$ vacantes, cada partícula puede compartir la misma vacante sin ningún problema. Sin embargo, acá el orden importa, entonces los eventos son $\Omega_V=\frac{(V/v_0)^N}{N!}$. Por lo tanto, la entropía quedaría como: 
+
+$$S_0=\frac{3Nk_B}{2}\ln E+Nk_B\ln V-k_B\ln N!+C'$$
+
+Y por ende, la variación de entropía como: 
+
+$$\Delta S=\frac{3Nk_B}{2}\ln\frac{E}{E_0}+Nk_B\ln\frac{V}{V_0}$$
+
