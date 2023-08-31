@@ -96,3 +96,28 @@ Sea $C$ el cuadrado de vértices $(1,1),\;(-1,1),\;(-1,-1),\;(1,-1)$ recorrido e
 $$\int_C\left(\frac{-y}{x^2+y^2}\right)dx+\left(\frac{x}{x^2+y^2}\right)dy$$
 
 Ocupando el teorema de Green extendido, nos definimos una circumferencia de radio $a$ en el origen.
+
+![[IMG_81AB91872B43-1.jpeg|center|450]]
+
+Por lo tanto, nos definimos $\Omega=[-1,1]\times [-1,1]\backslash\lbrace (x,y)\in\mathbb{R}^2\;\vert\; x^2+y^2<a\rbrace$. Si $F(x,y)=\left(P(x,y),Q(x,y)\right)$, entonces: 
+
+$$\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}=0$$
+
+Calculando la integral para la curva $C_1$, ocupando [[Departamento de Ingeniería Matemáticas/Cálculo Diferencial e Integral/Aplicaciones de la integral/Coordenadas polares|coordenadas polares]], se puede parametrizar como: 
+
+$$C_1:r(t)=(a\cos t,a\sin t),\;t\in[0,2\pi]$$
+
+Por ende, la integral sería: 
+
+$$\begin{align}
+\int_{C_1}Pdx+Qdy&=\int^{2\pi}_{0}\left(\frac{-a\sin t}{a^2\cos^2 t +a^2\sin^2 t},\frac{a\cos t}{a^2\cos^2 t+a^2\sin^2 t}\right)\cdot\left(-a\sin t,a\cos t\right)\;dt\\  \\
+&=\int^{2\pi}_{0}\left(\frac{\cancel{a^2}\sin^2t}{\cancel{a^2}}+\frac{\cancel{a^2}\cos^2 t}{\cancel{a^2}}\right)\;dt\\  \\
+&=\int^{2\pi}_{0}dt \\\\
+&=2\pi
+\end{align}$$
+
+Así; 
+
+$$\cancelto{0}{\int\int_{\Omega}\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dA}=\oint_{C_o}F\cdot dr - \cancelto{2\pi}{\oint_{C_1}F\cdot dr}$$
+
+Por lo tanto, el resultado llegaría a ser, simplemente $2\pi$. 
