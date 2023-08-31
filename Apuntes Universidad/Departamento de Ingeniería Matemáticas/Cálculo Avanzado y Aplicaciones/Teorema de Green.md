@@ -7,7 +7,7 @@ Sea $\Omega\subset\mathbb{R}^2$, se dirá lo siguiente:
 
 Por lo tanto, el *teorema de Green* plantea $\Omega\subseteq\mathbb{R}^2$, un [[Conjuntos|conjunto]] simplemente conexo y conexo, cuya [[Fronteras|frontera]] está dada por una curva $C$, regular y simple. Supongamos además que $C$ está recorrida en recorrido antihorario. 
 
->[!cite|Definición]  
+>[!info]  
 Sea $F:A\subseteq\mathbb{R}^2\to\mathbb{R}^2$ una función de clase $C$ en $A$, y $\bar{\Omega}\subseteq A$. Además, $F=(P,Q)\iff P\hat{i}+Q\hat{j}$. Entonces:  $$\oint_CF\cdot dr=\oint_CPdx+Qdy=\int\int_\Omega\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dxdy$$
 
 Notemos que si el campo es [[Campos conservativos|conservativo]], la integral vale $0$. 
@@ -79,4 +79,20 @@ Por lo tanto, si se unieran ambos conjuntos, se tendría el siguiente diagrama:
 Por lo tanto, se tendría una curva que se recorre en sentido horario y otra en sentido antihorario. 
 
 >[!info] 
->Sea $\Omega\subset\mathbb{R}^2$, un [[Conjuntos abiertos y cerrados|conjunto abierto]] no vacio, donde su [[Fronteras|frontera]] corresponde a [[Curvas|curvas]] [[Curva cerrada|cerradas]]
+>Sea $\Omega\subset\mathbb{R}^2$, un [[Conjuntos abiertos y cerrados|conjunto abierto]] no vacio, donde su [[Fronteras|frontera]] corresponde a [[Curvas|curvas]] [[Curva cerrada|cerradas]] [[Curva simple|simple]] seccionalmente suaves, todas recorridas en sentido antihorario disjuntas entre ellas, y $C_1,\dots,C_n\subset C_0$. 
+>
+>Además, sea $F:A\subseteq\mathbb{R}^2\to\mathbb{R}^2$ una función suave tal que: 
+>$$F=P\hat{i}+Q\hat{j}\;\;\land\;\;\bar{\Omega}\subseteq A$$
+>
+>Entonces: 
+>$$\begin{align}
+>\int\int_{\Omega}\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dA&=\oint_{C_o}P\;dx + Q\;dy - \sum^{n}_{i=1}\oint_{C_i}P\;dx+Q\;dy
+>\end{align}$$
+
+#### Ejemplo 
+
+Sea $C$ el cuadrado de vértices $(1,1),\;(-1,1),\;(-1,-1),\;(1,-1)$ recorrido en sentido antihorario. Calcular la integral: 
+
+$$\int_C\left(\frac{-y}{x^2+y^2}\right)dx+\left(\frac{x}{x^2+y^2}\right)dy$$
+
+Ocupando el teorema de Green extendido, nos definimos una circumferencia de radio $a$ en el origen.
