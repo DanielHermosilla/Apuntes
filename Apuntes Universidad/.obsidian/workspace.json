@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md"
               }
             }
           },
@@ -159,13 +159,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "35072f07f491cead",
+  "active": "f90c1fff3167baa3",
   "lastOpenFiles": [
-    "Pasted image 20230831105230.png",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
-    "Pasted image 20230831104625.png",
-    "Pasted image 20230831103759.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230831111915.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230831105230.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230831104625.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20230831103759.png",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-30 a la(s) 09.49.25.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
@@ -197,9 +199,7 @@
     "Departamento de Física/Termodinámica/img/IMG_647B2099318A-1.jpeg",
     "Departamento de Física/Termodinámica/img/IMG_B7994BEB15F0-1.jpeg",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.46.32.png",
-    "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.45.07.png",
     "Departamento de Física/Termodinámica/Sistemas",
-    "Departamento de Ingeniería Industrial/img/Captura de pantalla 2023-08-29 a la(s) 11.19.16.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
     "Departamento de Física/Termodinámica/Resumenes",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores",
