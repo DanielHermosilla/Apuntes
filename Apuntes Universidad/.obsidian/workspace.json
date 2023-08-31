@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -159,7 +160,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f90c1fff3167baa3",
+  "active": "35072f07f491cead",
   "lastOpenFiles": [
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
