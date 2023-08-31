@@ -121,3 +121,7 @@ Así;
 $$\cancelto{0}{\int\int_{\Omega}\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dA}=\oint_{C_o}F\cdot dr - \cancelto{2\pi}{\oint_{C_1}F\cdot dr}$$
 
 Por lo tanto, el resultado llegaría a ser, simplemente $2\pi$. 
+
+#### Ejemplo: 
+
+Calcular usando el teorema de Green, donde $F(x,y)=P\hat{i}+Q\hat{j}=\left(\frac{3xy}{x^2+y^2},\frac{2x-y}{x^2+y^2}\right)$ y $\Omega=\lbrace (x,y)\in\mathbb{R}^2\;\vert\; 1\leq x^2+y^2\leq 4\rbrace$.  

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md"
               }
             }
           },
@@ -175,14 +174,19 @@
   },
   "active": "ba7ddf1b6901897e",
   "lastOpenFiles": [
-    "IMG_81AB91872B43-1.jpeg",
-    "IMG_CFC809FBBB8B-1 1.jpeg",
-    "IMG_CFC809FBBB8B-1.jpeg",
-    "IMG_7AAA25B10C0D-1.jpeg",
-    "IMG_D87C6F7FE17C-1.jpeg",
-    "IMG_4CE96FB1CF1C-1.jpeg",
-    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Diferenciabilidad/Gradiente y plano tangente.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Diferencial del campo vectorial.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_81AB91872B43-1.jpeg",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_CFC809FBBB8B-1 1.jpeg",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_CFC809FBBB8B-1.jpeg",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_7AAA25B10C0D-1.jpeg",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_D87C6F7FE17C-1.jpeg",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/img/IMG_4CE96FB1CF1C-1.jpeg",
+    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230831111915.png",
@@ -190,7 +194,6 @@
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230831104625.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230831103759.png",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-30 a la(s) 09.49.25.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos",
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
@@ -209,10 +212,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Principio multiplicativo.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
-    "Departamento de Física/Termodinámica/Entropía.md",
-    "Departamento de Física/Termodinámica/Energía.md",
-    "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Sistemas",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
     "Departamento de Física/Termodinámica/Resumenes",

@@ -6,14 +6,14 @@ $$\nabla f =(\frac{\partial f}{\partial x_1}(x_0),\frac{\partial f}{x_2}(x_0)\do
 Por lo tanto, definimos la **superficie $(S)$** mediante una [[Funciones escalares|función escalar]] [[Diferenciabilidad|diferenciable]] al conjunto: 
 
 $$S(f) =\lbrace x\in\mathbb{R}^n\;|\;f(x)=0\;;\;\nabla f(x)\neq 0\rbrace$$ 
-# Ecuación 
+## Ecuación del plano tangente
 
 Por lo tanto, la ecuación del plano tangente llegaría a ser: 
 
 $$T_f(x,y) = f(x_0,y_0) + Df(x_0,y_0)\begin{bmatrix}
 x-x_0\\y-y_0
 \end{bmatrix}$$ 
-### Ejemplo 
+#### Ejemplo 
 
 $f(x,y) = \frac{x^2}{a^2} + \frac{y^2}{b^2}$ define la superficie $z = \frac{x^2}{a^2} + \frac{y^2}{b^2}$. Lo cual se puede reescribir como: 
 
