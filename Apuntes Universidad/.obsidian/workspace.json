@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md"
+                "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md"
               }
             }
           },

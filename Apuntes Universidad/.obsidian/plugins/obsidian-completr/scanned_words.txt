@@ -806,6 +806,11 @@ eD
 eId
 enc
 evs
+evolutivamente
+evolutivamentes
+esclavitud
+estretagia
+esperada
 siguiente
 sistema
 soluci
@@ -1449,6 +1454,7 @@ nuestras
 nto
 ndrica
 nk
+nero
 homog
 homogenea
 hacen
@@ -2974,6 +2980,7 @@ fuertemente
 funcione
 factorial
 faradio
+frontal
 tanto
 tiene
 tal
@@ -4182,6 +4189,9 @@ caracterizaciones
 cy
 cEK
 cwk
+costumbres
+costumbre
+choque
 propios
 particular
 podr
@@ -4654,6 +4664,7 @@ pura
 poblaciones
 permiten
 pE
+paises
 Entonces
 EDO
 Esto
@@ -6160,6 +6171,7 @@ autoridades
 auditar
 aislado
 atribuir
+autos
 La
 Los
 Luego
@@ -7020,6 +7032,7 @@ imaginariamente
 iCCPICC
 iä
 iCL
+invadir
 ya
 yi
 yR
@@ -8056,6 +8069,7 @@ Nadie
 Null
 NK
 Na
+Ninguno
 general
 gnita
 gs
@@ -8235,6 +8249,7 @@ griega
 gico
 gigantesca
 gramo
+gallina
 Otra
 OPTIONS
 OS
@@ -9172,6 +9187,7 @@ Galileo
 Gaussiana
 Germer
 GrG
+Green
 YO
 YlG
 YY

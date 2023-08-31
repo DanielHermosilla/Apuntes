@@ -9,9 +9,8 @@ Por lo tanto, el *teorema de Green* plantea $\Omega\subseteq\mathbb{R}^2$, un [[
 
 Supongamos además que $C$ está recorrida en recorrido antihorario. 
 
-Sea $F:A\subseteq\mathbb{R}^2\to\mathbb{R}^2$ una función de clase $C$ en $A$, y $\bar{\Omega}\subseteq A$. Además, $F=(P,Q)\iff P\hat{i}+Q\hat{j}$. Entonces: 
-
-$$\oint_CF\cdot dr=\oint_CPdx+Qdy=\int\int_\Omega\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dxdy$$
+>[!cite|Definición]  
+Sea $F:A\subseteq\mathbb{R}^2\to\mathbb{R}^2$ una función de clase $C$ en $A$, y $\bar{\Omega}\subseteq A$. Además, $F=(P,Q)\iff P\hat{i}+Q\hat{j}$. Entonces:  $$\oint_CF\cdot dr=\oint_CPdx+Qdy=\int\int_\Omega\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dxdy$$
 
 Notemos que si el campo es [[Campos conservativos|conservativo]], la integral vale $0$. 
 
