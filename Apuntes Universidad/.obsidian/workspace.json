@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba7ddf1b6901897e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -159,8 +173,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "35072f07f491cead",
+  "active": "ba7ddf1b6901897e",
   "lastOpenFiles": [
+    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20230831111915.png",
@@ -192,8 +208,6 @@
     "Departamento de Física/Termodinámica/Energía.md",
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Termodinámica.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
     "Departamento de Física/Electromagnetismo/img/IMG_4CBBA68B63EC-1.jpeg",
     "Departamento de Física/Electromagnetismo/img/IMG_B386BF10EAA2-1.jpeg",
     "Departamento de Física/Termodinámica/img/IMG_647B2099318A-1.jpeg",
