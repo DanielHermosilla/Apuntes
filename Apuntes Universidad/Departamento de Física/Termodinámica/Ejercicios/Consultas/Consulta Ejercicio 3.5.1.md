@@ -15,7 +15,6 @@ Sea $X\sim\text{Binom}(N,\frac{1}{2})$ la variable aleatoria que determina la ca
 
 $$P(N/2+\Delta)=\binom{N}{N/2+\Delta}\left(\frac{1}{2}\right)^{2(N/2+\Delta}$$
 
-
 Por lo tanto, desarrollando el binomio: 
 
 $$\begin{align}
@@ -23,8 +22,13 @@ P(N/2+\Delta)&=\frac{N!}{(N/2+\Delta)!(N/2+\Delta)!}\left(\frac{1}{2}\right)^{N+
 \ln\left(P(N/2+\Delta)\right)&=\ln\left(\frac{N!}{(N/2+\Delta)!(N/2+\Delta)!}\left(\frac{1}{2}\right)^{N+2\Delta}\right)\\  \\
 &=\ln(N!)-\left[\ln\left((\frac{N}{2}+\Delta)!\right)+\ln\left((\frac{N}{2}+\Delta)!\right)+(N+2\Delta)\ln(2)\right]\\  \\
 &=\ln(N!)-\left[2\ln\left((\frac{N}{2}+\Delta)!\right)+(N+2\Delta)\ln(2)\right]\\  \\
-&=\frac{1}{2}\ln(2\pi)+(N+1/2)\ln(N)-N-\left[2\ln\left((\frac{N}{2}+\Delta)!\right)+(N+2\Delta)\ln(2)\right]
+&=\frac{1}{2}\ln(2\pi)+(N+1/2)\ln(N)-N-\left[2\ln\left((\frac{N}{2}+\Delta)!\right)+(N+2\Delta)\ln(2)\right]\\  \\
+\text{Sea}\; H&=\frac{N}{2}+\Delta\\  \\
+&=\frac{1}{2}\ln(2\pi)+(N+1/2)\ln(N)-N-\left[2(\frac{1}{2}\ln(2\pi)+(H+\frac{1}{2})\ln(H)-H\right]H!\ln(2)\\  \\
 \end{align}$$
+
+
+
 
 
 
