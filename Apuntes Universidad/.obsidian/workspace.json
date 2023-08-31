@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e10adb8366d554b8",
+        "id": "d7cb16d5ebce13f0",
         "type": "tabs",
         "children": [
           {
-            "id": "8feda5d37a4c91ec",
+            "id": "35072f07f491cead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Pérdida de información.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ff3c9e1a435b491",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2eb1910138faaa9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2d91f5e7fa70493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md"
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md"
               }
             }
           },
@@ -193,12 +160,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f2d91f5e7fa70493",
+  "active": "35072f07f491cead",
   "lastOpenFiles": [
+    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-08-30 a la(s) 09.49.25.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos",
+    "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Axiomas.md",
-    "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Varianza condicional.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Condicionando sobre un evento.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Esperanza condicional.md",
@@ -218,13 +188,10 @@
     "Departamento de Física/Termodinámica/Sistema macroscópico.md",
     "Departamento de Física/Termodinámica/Termodinámica.md",
     "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
-    "Captura de pantalla 2023-08-30 a la(s) 09.49.25.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
     "Departamento de Física/Electromagnetismo/img/IMG_4CBBA68B63EC-1.jpeg",
     "Departamento de Física/Electromagnetismo/img/IMG_B386BF10EAA2-1.jpeg",
     "Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Condensadores/Condensador.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
-    "Departamento de Física/Termodinámica/Segunda ley de la termodinámica.md",
     "Departamento de Física/Termodinámica/img/IMG_647B2099318A-1.jpeg",
     "Departamento de Física/Termodinámica/img/IMG_B7994BEB15F0-1.jpeg",
     "Departamento de Física/Termodinámica/img/Captura de pantalla 2023-08-29 a la(s) 14.46.32.png",
@@ -239,7 +206,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de superficie",
     "Departamento de Física/Termodinámica/Modelos Simples",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Laboratorio"
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Modelos políticos"
   ]
 }
