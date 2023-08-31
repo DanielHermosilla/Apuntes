@@ -12,7 +12,6 @@ Sea $F:A\subseteq\mathbb{R}^2\to\mathbb{R}^2$ una función de clase $C$ en $A$, 
 
 Notemos que si el campo es [[Campos conservativos|conservativo]], la integral vale $0$. 
 
-Ahora, es posible extender el teorema para los casos donde el [[Conjuntos|conjunto]] no es conexo, como en el caso de un anillo. 
 #### Ejemplo 
 
 Sea $F(x,y)=(x^2-y^2,2x+y^2)$ y sea $C$ la circumferencia unitaria con centro en $(0,0)$ y recorrida en sentido antihorario. Calcular la [[Integral de línea|integral de línea]]. 
@@ -53,3 +52,31 @@ $$\begin{align}
 &=-\frac{1}{2}
 \end{align}$$
 
+
+
+## Teorema de Green generalizado 
+
+Ahora, es posible extender el teorema para los casos donde el [[Conjuntos|conjunto]] no es conexo, como en el caso de un anillo: 
+
+![[IMG_4CE96FB1CF1C-1.jpeg|center|450]]
+
+Sin embargo, es posible hacer particiones del conjunto, para lograr que no sea conexo: 
+
+![[IMG_D87C6F7FE17C-1.jpeg|center|450]]
+
+Por lo tanto, es posible definir ahora la integral de línea del conjunto $\Omega$ como: 
+
+$$\int\int_\Omega\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dxdy=\int\int_{C_1\cup C_2\cup C_3\cup C_4}\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right)dxdy=$$
+
+Pero ahora, si se hace lo equivalente con la otra mitad, donde nos definimos el otro conjunto como $\Omega'$, podríamos notar que $C_2'$ se cancela con $C_2$ al recorrer en sentido contrario y lo mismo con $C_3'$ y $C_3$. 
+
+![[IMG_7AAA25B10C0D-1.jpeg|center|450]]
+
+Por lo tanto, si se unieran ambos conjuntos, se tendría el siguiente diagrama: 
+
+![[IMG_CFC809FBBB8B-1 1.jpeg|center|450]]
+
+Por lo tanto, se tendría una curva que se recorre en sentido horario y otra en sentido antihorario. 
+
+>[!info] 
+>Sea $\Omega\subset\mathbb{R}^2$, un [[Conjuntos abiertos y cerrados|conjunto abierto]] no vacio, donde su [[Fronteras|frontera]] corresponde a [[Curvas|curvas]] [[Curva cerrada|cerradas]]
