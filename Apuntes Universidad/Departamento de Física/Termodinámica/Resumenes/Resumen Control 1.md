@@ -33,4 +33,16 @@ La entropía está contenida en el sistema y además es aditiva. Cada vez que de
 
 Esto se puede interpretar como una medida de la falta de información que afecta a un observador externo cualquiera que conoce el estado de equilibrio macroscópico.
 
+## Gas ideal 
 
+Un gas ideal es aquello donde la interacción entre partículas se considera despreciable, el volumen de las moléculas es despreciable y las partículas son iguales e indistinguibles. 
+
+Normalmente la configuración del gas, se describe por su **energía cinética** y su **volumen**, por lo tanto, el número total de eventos posibles se establece como: 
+
+$$\Omega=\Omega_E\Omega_V$$
+
+Dado que la energía es únicamente cinética, se puede escribir en función del momento lineal, que está en función de las restricciones de movimiento: 
+
+$$E=\sum^{N}_{i=1}\frac{1}{2m}\vec{p_{i}^{2}}$$
+
+Es importante notar que en el caso de mo
