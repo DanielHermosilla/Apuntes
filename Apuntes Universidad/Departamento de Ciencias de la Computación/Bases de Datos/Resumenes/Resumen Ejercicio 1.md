@@ -67,4 +67,28 @@ Aquí también se define lo que es la **superllave**, lo que corresponde al conj
 
 Normalmente son datos que determinan funcionalmente los otros datos de una tabla. 
 
->[!]
+>[!tip] Dependencia funcional 
+>Dada una relación y dos conjuntos de atributos $(X, Y)$, $X$ **determina funcionalmente** $Y$ si y solo si cada valor de $X$ en la relación tiene asociado un solo valor de $Y$
+
+### Llaves foráneas 
+
+Es otro tipo de restricción ocupada normalmente para la normalización. 
+
+>[!tip] Llave foránea
+>Un conjunto de atributos forma una llave foránea si esos atributos hacen referencia a la llave primaria de otra relación. El nombre de los atributos que se hace referencia pueden ser distintos, pero deben coincidir en la cantidad de columnas y los tipos de datos.
+
+### Pasar de modelo entidad-relación a modelo relacional 
+
+Normalmente se siguen ciertas reglas para hacer el traspaso: 
+
+- Las llaves de las entidades juntas forman una **super llave** para una relación (en este caso *nombre* con *nombre*): 
+
+![[Pasted image 20230901083807.png|center]]
+
+
+- Para las subclases se puede hacer referencia a la llave primaria de la entidad principal y así identifica que hereda los atributos: 
+
+![[Pasted image 20230901084054.png|center|500]]
+![[Pasted image 20230901084027.png|center|500]]
+
+- Por lo general, **no se hacen tablas para relaciones débiles**. 
