@@ -14,7 +14,7 @@ Al ir relacionando atributos entre sí, hay que tener claro que **las relaciones
 
 Las relaciones pueden relacionar entidades según la cantidad de atributos que interactuan: 
 
-![[Pasted image 20230901073335.png|center]]
+![[Pasted image 20230901073335.png|center|650]]
 
 ### Jerarquías de clases 
 
@@ -91,4 +91,40 @@ Normalmente se siguen ciertas reglas para hacer el traspaso:
 ![[Pasted image 20230901084054.png|center|500]]
 ![[Pasted image 20230901084027.png|center|500]]
 
-- Por lo general, **no se hacen tablas para relaciones débiles**. 
+- Por lo general, **no se hacen tablas para relaciones débiles**, tampoco en relaciones *$1$-algo*
+
+## Formas normales 
+
+### Primera forma normal 
+
+Se debe evitar tener lista de atributos en sólo un campo. Un mal ejemplo sería el siguiente: 
+
+![[Pasted image 20230901084521.png|center]]
+
+Se normalizaría a la siguiente forma: 
+
+![[Pasted image 20230901084548.png|center]]
+
+### Segunda forma normal 
+
+Todos los atributos **deben** depender **directamente** de la llave primaria. Un mal ejemplo sería el siguiente: 
+
+![[Pasted image 20230901084750.png|center|250]]
+
+
+Y su corrección sería: 
+
+![[Pasted image 20230901084854.png|center|400]]
+
+### Tercera forma normal 
+
+No deben haber dependencias transitivas. Esto sería un mal ejemplo: 
+
+![[Pasted image 20230901085040.png|center|600]]
+
+Ya que $\text{Código}\implies\text{CodCargo}\;\land\;\text{CodCargo}\implies\text{NombreCargo}$
+
+La corrección sería la siguiente: 
+
+![[Pasted image 20230901085239.png|center|600]]
+
