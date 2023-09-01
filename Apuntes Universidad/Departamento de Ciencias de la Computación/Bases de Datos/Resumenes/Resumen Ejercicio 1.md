@@ -41,3 +41,30 @@ Cuando se quiere referir a un conjunto de atributos dentro de un contexto, es po
 ## Modelo relacional 
 
 El modelo relacionar, originalmente introducido por Edgar. F. Codd, fue hecha para aplicar la matemática lógica a los modelos de bases de datos. 
+
+>[!tip] Modelo relacional
+>El modelo relacional es un modelo de datos para bases de datos en el que la información se organiza en tablas (relaciones), y estas tablas se relacionan entre sí a través de claves. Cada modelo relacional cumple ciertas características: 
+>
+>- **Relaciones (Tablas)**: En el modelo relacional, una "relación" es esencialmente lo que comúnmente llamamos una "tabla". Cada relación está compuesta por tuplas (filas) y atributos (columnas).
+>  $$$$
+>  
+>- **Atributos**: Los atributos son propiedades o características de la relación, y se pueden pensar como las columnas de una tabla.
+>  $$$$
+>    
+>-  **Tuplas**: Una tupla es un conjunto de valores para un determinado conjunto de atributos y puede pensarse como una fila en una tabla.
+>  $$$$
+>  
+>- **Clave Primaria**: Cada relación tiene una clave primaria. Es un conjunto de uno o más atributos que identifican de manera única a cada tupla dentro de la relación.
+>  $$$$
+>  
+>- **Clave Externa**: Es un conjunto de atributos en una relación que hace referencia a la clave primaria de otra relación. Establece una relación entre las dos tablas.
+
+Aquí también se define lo que es la **superllave**, lo que corresponde al conjunto de atributos de una relación que define únicamente una tupla. Por ende, las llaves siguen el siguiente esquema: 
+
+![[Pasted image 20230901082404.png|center]]
+
+### Dependencias funcionales 
+
+Normalmente son datos que determinan funcionalmente los otros datos de una tabla. 
+
+>[!]
