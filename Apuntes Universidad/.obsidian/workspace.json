@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "ba7ddf1b6901897e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes/Resumen Ejercicio 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7120d6fc5f193b33",
             "type": "leaf",
             "state": {
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
