@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -163,12 +164,16 @@
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "webpage-html-export:Export Vault to HTML": true,
+      "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
   "active": "35072f07f491cead",
   "lastOpenFiles": [
+    "Captura de pantalla 2023-09-04 a la(s) 09.18.19.png",
+    "Captura de pantalla 2023-09-04 a la(s) 09.16.55.png",
+    "Captura de pantalla 2023-09-04 a la(s) 09.13.14.png",
+    "Captura de pantalla 2023-09-04 a la(s) 09.12.03.png",
     "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales",
@@ -187,9 +192,6 @@
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084750.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084548.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084521.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901084054.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901084027.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901083807.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
@@ -206,7 +208,6 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos",
     "Departamento de Física/Termodinámica/Ejercicios/Consultas",
     "Departamento de Física/Termodinámica/Sistemas",
