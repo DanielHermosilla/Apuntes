@@ -176,4 +176,14 @@ A partir de aquí es claro ver que el Jugador $2$ va a jugar $L$, por ende, la s
 
 #### Ejemplo: Mejor respuesta 
 
-Muchas veces, comparar estrategia por estrategia puede llegar a ser muy tedioso. En este caso, se tenía una matriz $3\times 3$, pero en el caso de una matriz 
+Muchas veces, comparar estrategia por estrategia puede llegar a ser muy tedioso. En este caso, se tenía una matriz $3\times 3$, pero en el caso de una matriz $n\times n$ se tendría que hacer las siguiente cantidad de comparaciones por jugador: 
+
+$$\sum^{n}_{i=1}\;(N-i)=\frac{N(N-1)}{2}$$
+
+Si consideramos las comparaciones del jugador $2$, serían $N(N-1)$ comparaciones en total. Esto, **solamente para la primera tanda de estrategias estrictamente dominadas**. Si siguieramos bajo la misma lógica, y suponiendo el peor caso (una eliminación por tanda), se repetiría el proceso: 
+
+$$\sum^{n}_{i=1}(N-i)(N-(i-1))=\frac{N^2(N+1)}{2}+\frac{N^3-N^2}{6}$$
+
+Esto quiere decir que, bajo este método, **el peor caso es $\Theta(N^3)$**, algo completamente ineficiente. 
+
+De aquí es donde se introduce el método de **mejor respuesta**, 
