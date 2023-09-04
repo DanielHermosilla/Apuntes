@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md"
+                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "35072f07f491cead",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/prueba.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Carga inducida.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/prueba.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes/Resumen Ejercicio 1.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901085239.png",
@@ -205,8 +207,6 @@
     "Departamento de Física/Termodinámica/Pérdida de información.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Axiomas y propiedades/Axiomas.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Varianza condicional.md",
     "Departamento de Física/Termodinámica/Ejercicios/Consultas",
     "Departamento de Física/Termodinámica/Sistemas",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
