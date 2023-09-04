@@ -47,3 +47,10 @@ Notemos que el álgebra relacionar es **equivalente** a la **lógica de $1^{er}$
 >
 >En rigor, no es un operador, porque está cubierto por los operadores de producto y selección. Pero *join* es tán común que se abrevia así. 
 
+>[!note] División 
+>Su consulta es $R\divsymbol\pi_B(R)$, y se define como: 
+>
+>$$\pi_A(R)-\pi_A(\pi_A(R)\times\pi_B(R)-R)$$
+
+
+
