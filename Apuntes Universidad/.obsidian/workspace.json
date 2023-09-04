@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34eae1fffe5c066b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -142,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +173,7 @@
   },
   "active": "7120d6fc5f193b33",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Lenguajes de Consulta.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Campo eléctrico de un material.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
@@ -175,7 +188,6 @@
     "Departamento de Física/Electromagnetismo/Electrostática/Untitled.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Carga inducida.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Conductores eléctricos.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/prueba.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes/Resumen Ejercicio 1.md",

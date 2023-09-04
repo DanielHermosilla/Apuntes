@@ -1210,6 +1210,8 @@ sostenible
 seLU
 siguieramos
 suponiendo
+seleccionar
+satisfacen
 no
 neo
 nea
@@ -1768,6 +1770,8 @@ Segregaci
 Stirling
 Semiconductores
 Sng
+Selecci
+Selecciona
 buscando
 busco
 buscamos
@@ -4207,6 +4211,7 @@ costumbre
 choque
 chicas
 ctamente
+comunicar
 propios
 particular
 podr
@@ -4682,6 +4687,7 @@ pE
 paises
 participantes
 parecidos
+permitido
 Entonces
 EDO
 Esto
@@ -5009,6 +5015,7 @@ Adh
 Aisladores
 AkB
 AGq
+Algebra
 matriz
 metros
 mero
@@ -6198,6 +6205,7 @@ atribuir
 autos
 aparici
 aditiva
+and
 La
 Los
 Luego
