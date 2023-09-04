@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +167,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "35072f07f491cead",
+  "active": "e9470076aa45e162",
   "lastOpenFiles": [
     "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes/Resumen Ejercicio 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",

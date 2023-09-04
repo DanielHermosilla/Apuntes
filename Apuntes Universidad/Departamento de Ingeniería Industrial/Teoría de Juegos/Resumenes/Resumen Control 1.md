@@ -37,6 +37,13 @@ Durante el transcurso del curso, lo normal será **maximizar** la función de ut
 >
 >Para un jugador $i$, una estrategia $s_i\in S_i$ es **estrictamente dominada** si existe una estrategia $s_{i}^{'}\in S_i$ tal que: 
 >
->$$u_i(s_i,s_{-i})<u_i(s_{i}^{'},s_{-i})\;\;\;\forall s_{-i}\in S$$
+>$$u_i(s_i,s_{-i})<u_i(s_{i}^{'},s_{-i})\;\;\;\forall s_{-i}\in S_{-i}$$
+
+Algo a considerar es que **los jugadores racionales no juegan estrategias estrictamente dominadas**. Esto se llama *conocimiento común de racionalidad*. 
+
+
+| Header | Header | Header |
+| - | - | - |
+| Text | Text
 
 
