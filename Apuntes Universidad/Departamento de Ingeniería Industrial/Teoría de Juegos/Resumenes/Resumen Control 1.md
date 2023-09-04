@@ -186,4 +186,52 @@ $$\sum^{n}_{i=1}(N-i)(N-(i-1))=\frac{N^2(N+1)}{2}+\frac{N^3-N^2}{6}$$
 
 Esto quiere decir que, bajo este método, **el peor caso es $\Theta(N^3)$**, algo completamente ineficiente. 
 
-De aquí es donde se introduce el método de **mejor respuesta**, 
+De aquí es donde se introduce el método de **mejor respuesta**, que se enfoca en encontrar la estrategia óptima ante una posible jugada del otro jugador. Viéndolo con el mismo juego con el Jugador 1: 
+
+|       |  **L**  |  **M**  |  **R**  |
+|:-----:|:-------:|:-------:|:-------:|
+| **U** | $(\textcolor{red}{4},3)$ | $(5,1)$ | $(\textcolor{red}{6},2)$ |
+| **M** | $(2,1)$ | $(8,4)$ |$(3,6)$   |
+| **D** | $(3,0)$ | $(\textcolor{red}{9},6)$ | $(2,8)$ |
+
+
+Por **mejor respuesta** se elimina la estrategia $M$, quedando con la siguiente matriz: 
+
+|       |  **L**  |  **M**  |  **R**  |
+|:-----:|:-------:|:-------:|:-------:|
+| **U** | $(4,3)$ | $(5,1)$ | $(6,2)$ |
+| **D** | $(3,0)$ | $(9,6)$ | $(2,8)$ |
+
+
+Ahora, para el Jugador $2$: 
+
+|       |  **L**  |  **M**  |  **R**  |
+|:-----:|:-------:|:-------:|:-------:|
+| **U** | $(4,\textcolor{blue}{3})$ | $(5,1)$ | $(6,2)$ |
+| **D** | $(3,0)$ | $(9,6)$ | $(2,\textcolor{blue}{8})$ |
+
+
+Se eliminaría la estrategia $M$, quedando con la siguiente tabla: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(4,3)$ | $(6,2)$ |
+| **D** | $(3,0)$ | $(2,8)$ |
+
+
+Ahora, nuevamente, analizando para el Jugador $1$: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(\textcolor{red}{4},3)$ | $(\textcolor{red}{6},2)$ |
+| **D** | $(3,0)$ | $(2,8)$ |
+
+
+Se elimina $D$, quedando con la siguiente matriz: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(4,3)$ | $(6,2)$ |
+
+
+Y aquí se llega **a la misma situación anterior**, donde trivialmente se llega al equilibrio $(U,L)$. Notemos que en este caso, se hicieron $3$ comparaciones en vez de $9$. 

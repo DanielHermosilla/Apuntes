@@ -166,6 +166,7 @@ Personaje
 Profile
 PiY
 Pag
+Pagos
 Resolver
 Realizando
 Reemplazando
@@ -811,6 +812,9 @@ evolutivamentes
 esclavitud
 estretagia
 esperada
+estrateg
+estr
+enfoca
 siguiente
 sistema
 soluci
@@ -1204,6 +1208,8 @@ sufijo
 segundos
 sostenible
 seLU
+siguieramos
+suponiendo
 no
 neo
 nea
@@ -1615,6 +1621,7 @@ hipersuperficie
 horrible
 hlZ
 hE
+hicieron
 Soluci
 Simplificando
 Se
@@ -2785,6 +2792,7 @@ dO
 diF
 dR
 dispone
+dominadas
 forma
 filas
 factor
@@ -3282,6 +3290,9 @@ tL
 twT
 tbz
 tzqv
+transcurso
+tedioso
+tanda
 valores
 vectores
 variaci
@@ -4194,6 +4205,7 @@ costumbres
 costumbre
 choque
 chicas
+ctamente
 propios
 particular
 podr
@@ -4667,6 +4679,7 @@ poblaciones
 permiten
 pE
 paises
+participantes
 Entonces
 EDO
 Esto
@@ -4841,6 +4854,8 @@ Entrop
 EDP
 Electrost
 Ebta
+Estrategias
+Estrategia
 Ahora
 Aca
 Al
@@ -5699,6 +5714,10 @@ restituyera
 retorno
 ru
 rl
+representativo
+racionalidad
+racional
+repetir
 asociados
 ambas
 asegura
@@ -6639,6 +6658,7 @@ Davisson
 Diccionario
 Desencolar
 Dominancia
+Durante
 importante
 invertible
 intentara
@@ -7038,6 +7058,7 @@ iCCPICC
 iä
 iCL
 invadir
+influyen
 ya
 yi
 yR
@@ -7623,6 +7644,7 @@ Cavidad
 Condensador
 CBK
 Ch
+Comparando
 Jordan
 JV
 JD
@@ -7976,6 +7998,7 @@ Franjas
 False
 Formalmente
 Fecha
+Formalidades
 Normalmente
 Norma
 Notemos
@@ -9628,6 +9651,7 @@ juntando
 junta
 jugaran
 jugete
+juegan
 Zmm
 ZZZ
 Zk

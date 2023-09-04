@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "8e550782ec3b1479",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          },
+          {
             "id": "7120d6fc5f193b33",
             "type": "leaf",
             "state": {
@@ -27,7 +35,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +179,8 @@
   },
   "active": "35072f07f491cead",
   "lastOpenFiles": [
-    "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes/Resumen Ejercicio 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+    "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes/Resumen Ejercicio 1.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901085239.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901085040.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084854.png",
