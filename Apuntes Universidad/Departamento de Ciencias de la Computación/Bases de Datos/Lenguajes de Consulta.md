@@ -23,8 +23,20 @@ Y todo esto se le suman los operadores de proyección $\sigma$ para las filas y 
 
 Dentro de selección y proyección está permitido hacer combinaciones. Por ejemplo, si se quiere saber que tipo de cerveza son más fuertes que $4.8$: 
 
-|       | **Marca** | **Nombre** | **Tipo** | **Grados** | **Origen** | **mL** | **Precio** |
-|:-----:|:---------:|:----------:|:--------:|:----------:| ---------- |:------:|:----------:|
-| **Austral** |  $(4,3)$  |  $(5,1)$   | $(6,2)$  |            |            |        |            |
-| **Austral** |  $(2,1)$  |  $(8,4)$   | $(3,6)$  |            |            |        |            |
-| **Raco** |  $(3,0)$  |  $(9,6)$   | $(2,8)$  |            |            |        |            |
+|  **Marca**  | **Nombre** | **Tipo** | **Grados** | **Origen** | **mL** | **Precio** |
+|:-----------:|:----------:|:--------:|:----------:| ---------- |:------:|:----------:|
+| Austral |  Lager   | Lager  |    $4.6$        | Punta Arenas           |   $330$     |    $2000$        |
+| Austral |  Yagan   | Ale  | $5.0$           |  Punta Arenas          |  $330$      |  $2400$          |
+|  Raco   |  Amber   | Ale  |     $4.5$       |      Maipo      |   $500$     |         $3000$   |
+
+
+La operación aca sería: 
+
+$$\pi_{\text{tipo}}(\sigma_{\text{gradoss}}> 4.8(\text{Cerveza}))$$
+
+Lo que retornaría únicamente la tupla $(\text{Tipo},\text{Lager})$. 
+
+Otra consulta sería *¿Qué marcas de bebida son de Maipo?*. Aquí la operación sería: 
+
+$$\pi_{\text{marca}}(\sigma_{\text{Origen=Maipo}}(\text{Cerveza})\;\cup\;\pi_{\text{marca}}(\sigma_{\text{origen=Maipo}}(\text{Vino}))$$
+
