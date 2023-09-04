@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Campo eléctrico de un material.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Campo eléctrico de un material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Campo eléctrico de un material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md"
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Campo eléctrico de un material.md"
               }
             }
           },
@@ -170,12 +169,13 @@
   },
   "active": "35072f07f491cead",
   "lastOpenFiles": [
-    "Captura de pantalla 2023-09-04 a la(s) 09.18.19.png",
-    "Captura de pantalla 2023-09-04 a la(s) 09.16.55.png",
-    "Captura de pantalla 2023-09-04 a la(s) 09.13.14.png",
-    "Captura de pantalla 2023-09-04 a la(s) 09.12.03.png",
-    "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
+    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Campo eléctrico de un material.md",
+    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.18.19.png",
+    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.16.55.png",
+    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.13.14.png",
+    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.12.03.png",
+    "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales",
     "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.00.59.png",
     "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Condensadores.md",
@@ -191,7 +191,6 @@
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084854.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084750.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084548.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901084521.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",

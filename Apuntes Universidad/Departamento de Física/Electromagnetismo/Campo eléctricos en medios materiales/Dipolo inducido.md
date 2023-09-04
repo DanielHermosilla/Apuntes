@@ -31,8 +31,10 @@ $$N=p\times E$$
 
 Aunque en realidad, cuando la suma de fuerzas es nula, el sistema de referencia podría ser puesto en cualquier lugar. 
 
+## Vector polarización 
+
 Obviamente analizar [[Átomo|átomo]] por átomo es algo imposible, no se puede obtener con [[principio de incertidumbre de Heisemberg|certeza]] absoluta la posición o momento de cada [[Partícula|partícula]]. Por eso mismo, se define un sistema [[Sistema macroscópico|macroscópico]], donde las variable de polarización queda definida como: 
 
 $$\vec{p}=\frac{\sum^{N}_{i}\vec{p_i}}{\text{Vol}}$$
 
-Esto se llama [[vectores|vector]] po
+Esto se llama [[vectores|vector]] polarización. 
