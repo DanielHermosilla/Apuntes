@@ -38,5 +38,12 @@ Lo que retornaría únicamente la tupla $(\text{Tipo},\text{Lager})$.
 
 Otra consulta sería *¿Qué marcas de bebida son de Maipo?*. Aquí la operación sería: 
 
-$$\pi_{\text{marca}}(\sigma_{\text{Origen=Maipo}}(\text{Cerveza})\;\cup\;\pi_{\text{marca}}(\sigma_{\text{origen=Maipo}}(\text{Vino}))$$
+$$\pi_{\text{marca}}(\sigma_{\text{Origen=Maipo}}(\text{Cerveza}))\;\cup\;\pi_{\text{marca}}(\sigma_{\text{origen=Maipo}}(\text{Vino}))$$
+
+Notemos que el álgebra relacionar es **equivalente** a la **lógica de $1^{er}$ orden**. Vale decir, todas las consultas de relaciones es equivalente a las consultas matemáticas que involucran el $\exists,\;\forall,\;\text{etc}$. 
+
+>[!note] Join (Reuniones)
+>Se escribe como $R_1\Join R_2$ y es equivalente a $\sigma_{\text{condición}}(R_1\times R_2)$. 
+>
+>En rigor, no es un operador, porque está cubierto por los operadores de producto y selección. Pero *join* es tán común que se abrevia así. 
 
