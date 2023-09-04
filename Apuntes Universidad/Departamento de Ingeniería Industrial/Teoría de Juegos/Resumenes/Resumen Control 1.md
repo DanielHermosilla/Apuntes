@@ -106,5 +106,74 @@ Aquí se puede ver que no hay estrategía estrictamente dominada.
 |       |  **M**  |  **R**  |
 |:-----:|:-------:|:-------:|
 | **U** | $(5,1)$ | $(6,\textcolor{blue}{2})$ |
-| **M** | $(8,4)$ | $(3,6)$ |
-| **D** | $(9,6)$ | $(2,8)$ |
+| **M** | $(8,4)$ | $(3,\textcolor{blue}{6})$ |
+| **D** | $(9,6)$ | $(2,\textcolor{blue}{8})$ |
+
+
+En este caso **$M$** **está estrictamente dominada por $R$**. 
+
+- Comparando $L$ con $R$: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(4,\textcolor{blue}{3})$ | $(6,2)$ |
+| **M** | $(2,1)$ | $(3,\textcolor{blue}{6})$ |
+| **D** | $(3,0)$ | $(2,\textcolor{blue}{8})$ |
+
+
+Acá tampoco hay una estrategia dominada. 
+
+Como el segundo Jugador es racional, no va a jugar $M$, entonces esa estrategia se eliminaría. La tabla quedaría de la siguiente forma: 
+
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(4,3)$ | $(6,2)$ |
+| **M** | $(2,1)$ | $(3,6)$ |
+| **D** | $(3,0)$ | $(2,8)$ |
+
+
+Ahora, para el Jugador $1$, notemos lo siguiente: 
+
+- Comparando $U$ con $M$: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(\textcolor{red}{4},3)$ | $(\textcolor{red}{6},2)$ |
+| **M** | $(2,1)$ | $(3,6)$ |
+
+
+Aquí, notemos que $M$ **está estrictamente dominada** por $U$. 
+
+- Comparando $M$ con $D$: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **M** | $(2,1)$ | $(\textcolor{red}{3},6)$ |
+| **D** | $(\textcolor{red}{3},0)$ | $(2,8)$ |
+
+
+Aquí no hay una estrategia estríctamente dominada. 
+
+- Comparando $U$ con $D$: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(\textcolor{red}{4},3)$ | $(\textcolor{red}{6},2)$ |
+| **D** | $(3,0)$ | $(2,8)$ |
+
+
+En este caso $U$ **domina a D**. Por lo tanto, se eliminarían dos estrategias. 
+
+Por ende, se llega a la siguiente tabla: 
+
+|       |  **L**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(4,3)$ | $(6,2)$ |
+
+
+A partir de aquí es claro ver que el Jugador $2$ va a jugar $L$, por ende, la solución llegaría ser $(U,L)$. 
+
+#### Ejemplo: Mejor respuesta 
+
+Muchas veces, comparar estrategia por estrategia puede llegar a ser muy tedioso. En este caso, se tenía una matriz $3\times 3$, pero en el caso de una matriz 
