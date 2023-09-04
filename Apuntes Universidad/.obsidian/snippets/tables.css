@@ -1,5 +1,4 @@
-/* Center tables on the page */
-.markdown-preview-view table {
+table {
     margin-left: auto;
     margin-right: auto;
 }

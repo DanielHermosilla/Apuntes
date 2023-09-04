@@ -30,6 +30,7 @@ Notemos que el perfil de estrategias tiene la misma cantidad de dimensiones que 
 >Se representarán los pagos de un jugador $i$ como una función de utilidad $U(s)=U(s_1,s_2,\dots,s_n)$ que dependen de las decisiones de todos los jugadores. 
 
 Durante el transcurso del curso, lo normal será **maximizar** la función de utilidades en función del conjunto de jugadas $S_{-i}$. Cuando no se tiene certeza absoluta del perfil de estrategias se ocupa el concepto de **utilidad esperada**, haciendo alusión al concepto de **esperanza** de Probabilidades. 
+
 ###  Dominancia estricta 
 
 >[!important] Estrategia **estrictamente** dominada 
@@ -41,9 +42,24 @@ Durante el transcurso del curso, lo normal será **maximizar** la función de ut
 
 Algo a considerar es que **los jugadores racionales no juegan estrategias estrictamente dominadas**. Esto se llama *conocimiento común de racionalidad*. 
 
+#### Ejemplo 
 
-| Header | Header | Header |
-| - | - | - |
-| Text | Text
+Se tiene el siguiente juego, donde las estrategias del Jugador $1$ corresponde a $(U,\; M,\; D)\in S_1$ y $(L,\; M,\; R)\in S_2$ para el Jugador $2$. 
 
 
+|       |  **L**  |  **M**  |  **R**  |
+|:-----:|:-------:|:-------:|:-------:|
+| **U** | $(4,3)$ | $(5,1)$ | $(6,2)$ |
+| **M** | $(2,1)$ | $(3,6)$ | $(8,4)$ |
+| **D** | $(3,0)$ | $(9,6)$ | $(2,8)$ |
+
+
+Se asume que todos los jugadores son racionales y todos saben entre sí que son racionales. 
+
+Por lo tanto, notemos que el Jugador $1$ no tiene estrategias estrictamente dominadas, esto se puede ver al notar la mejor jugada ante una estrategia del Jugador $2$. 
+
+|       |          **L**           |          **M**           |          **R**           |
+|:-----:|:------------------------:|:------------------------:|:------------------------:|
+| **U** | $(\textcolor{red}{4},3)$ |         $(5,1)$          |         $(6,2)$          |
+| **M** |         $(2,1)$          |         $(3,6)$          | $(\textcolor{red}{8},4)$ |
+| **D** |         $(3,0)$          | $(\textcolor{red}{9},6)$ |         $(2,8)$          |
