@@ -21,3 +21,8 @@ $$\begin{align}
 V_{\text{Dipolar}}(\vec{r})&=\frac{1}{4\pi\epsilon_0}\;\int_{\text{Volumen material}}\frac{\vec{p}\cdot\hat{r}}{r^2}\;dz'
 \end{align}$$
 
+
+Haciendo muchos cálculos vectoriales se llega que: 
+
+$$V(\vec{r})=\frac{1}{4\pi\epsilon_0}\int\frac{\frac{1}{p}\cdot\hat{n}}{r}+\frac{1}{4\pi\epsilon_0}\int\frac{-\vec{\nabla}\cdot\vec{-p}}{r}dz$$
+
