@@ -50,7 +50,7 @@ Se tiene el siguiente juego, donde las estrategias del Jugador $1$ corresponde a
 |       |  **L**  |  **M**  |  **R**  |
 |:-----:|:-------:|:-------:|:-------:|
 | **U** | $(4,3)$ | $(5,1)$ | $(6,2)$ |
-| **M** | $(2,1)$ | $(3,6)$ | $(8,4)$ |
+| **M** | $(2,1)$ | $(8,4)$ |$(3,6)$   |
 | **D** | $(3,0)$ | $(9,6)$ | $(2,8)$ |
 
 
@@ -61,5 +61,13 @@ Por lo tanto, notemos que el Jugador $1$ no tiene estrategias estrictamente domi
 |       |          **L**           |          **M**           |          **R**           |
 |:-----:|:------------------------:|:------------------------:|:------------------------:|
 | **U** | $(\textcolor{red}{4},3)$ |         $(5,1)$          |         $(6,2)$          |
-| **M** |         $(2,1)$          |         $(3,6)$          | $(\textcolor{red}{8},4)$ |
+| **M** |         $(2,1)$          |   $(8,4)$            |   $(3,6)$   |
 | **D** |         $(3,0)$          | $(\textcolor{red}{9},6)$ |         $(2,8)$          |
+
+Aun así, notemos que para el Jugador $2$ si existen estrategias estrictamente dominadas:
+
+|       |           **L**           |  **M**  |  **R**  |
+|:-----:|:-------------------------:|:-------:|:-------:|
+| **U** | $(4,\textcolor{blue}{3})$ | $(5,1)$ | $(6,2)$ |
+| **M** |          $(2,1)$          | $(3,\textcolor{blue}{6})$ | $(8,4)$ |
+| **D** |          $(3,0)$          | $(9,6)$ | $(2,8)$ |
