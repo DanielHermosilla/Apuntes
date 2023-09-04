@@ -26,3 +26,7 @@ Haciendo muchos cálculos vectoriales se llega que:
 
 $$V(\vec{r})=\frac{1}{4\pi\epsilon_0}\int\frac{\frac{1}{p}\cdot\hat{n}}{r}+\frac{1}{4\pi\epsilon_0}\int\frac{-\vec{\nabla}\cdot\vec{-p}}{r}dz$$
 
+Desarrollando aun más: 
+
+$$V(\vec{r})=\frac{1}{4\pi\epsilon_0}\int_{S=\partial v}\frac{\rho_p}{r}da+\frac{1}{4\pi\epsilon_0}\int_V\frac{\rho}{r}dz$$
+
