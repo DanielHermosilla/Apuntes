@@ -235,3 +235,4 @@ Se elimina $D$, quedando con la siguiente matriz:
 
 
 Y aquí se llega **a la misma situación anterior**, donde trivialmente se llega al equilibrio $(U,L)$. Notemos que en este caso, se hicieron $3$ comparaciones en vez de $9$. 
+
