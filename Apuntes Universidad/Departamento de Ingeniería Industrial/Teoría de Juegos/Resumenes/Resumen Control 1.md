@@ -42,7 +42,7 @@ Durante el transcurso del curso, lo normal será **maximizar** la función de ut
 
 Algo a considerar es que **los jugadores racionales no juegan estrategias estrictamente dominadas**. Esto se llama *conocimiento común de racionalidad*. 
 
-#### Ejemplo 
+#### Ejemplo: Dominancia estricta 
 
 Se tiene el siguiente juego, donde las estrategias del Jugador $1$ corresponde a $(U,\; M,\; D)\in S_1$ y $(L,\; M,\; R)\in S_2$ para el Jugador $2$. 
 
@@ -56,18 +56,55 @@ Se tiene el siguiente juego, donde las estrategias del Jugador $1$ corresponde a
 
 Se asume que todos los jugadores son racionales y todos saben entre sí que son racionales. 
 
-Por lo tanto, notemos que el Jugador $1$ no tiene estrategias estrictamente dominadas, esto se puede ver al notar la mejor jugada ante una estrategia del Jugador $2$. 
+Por lo tanto, notemos que el Jugador $1$ no tiene estrategias estrictamente dominadas, esto se puede ver al notar la mejor jugada ante una estrategia del Jugador $2$. El análisis se hace por el método de **dominancia estricta**, a diferencia de **mejor respuesta**. 
+
+- Comparando $U$ con $M$: 
 
 |       |          **L**           |          **M**           |          **R**           |
 |:-----:|:------------------------:|:------------------------:|:------------------------:|
-| **U** | $(\textcolor{red}{4},3)$ |         $(5,1)$          |         $(6,2)$          |
-| **M** |         $(2,1)$          |   $(8,4)$            |   $(3,6)$   |
-| **D** |         $(3,0)$          | $(\textcolor{red}{9},6)$ |         $(2,8)$          |
+| **U** | $(\textcolor{red}{4},3)$ |         $(5,1)$          |         $(\textcolor{red}{6},2)$          |
+| **M** |         $(2,1)$          |   $(\textcolor{red}{8},4)$            |   $(3,6)$   |
+
+
+$U$ domina en dos jugadas, sin embargo, $M$ domina en una. 
+
+- Comparando $U$ con $D$: 
+
+|       |  **L**  |  **M**  |  **R**  |
+|:-----:|:-------:|:-------:|:-------:|
+| **U** | $(\textcolor{red}{4},3)$ | $(5,1)$ | $(\textcolor{red}{6},2)$ |
+| **D** | $(3,0)$ | $(\textcolor{red}{9},6)$ | $(2,8)$ |
+
+
+Nuevamente, $U$ no es la mejor jugada. 
+
+- Comparando $M$ con $D$: 
+
+|       |  **L**  |  **M**  |  **R**  |
+|:-----:|:-------:|:-------:|:-------:|
+| **M** | $(2,1)$ | $(8,4)$ |$(\textcolor{red}{3},6)$   |
+| **D** | $(\textcolor{red}{3},0)$ | $(\textcolor{red}{9},6)$ | $(2,8)$ |
+
+
+Lo mismo en este juego. Por lo tanto, no hay estrategia estrictamente dominada para el Jugador $1$. 
 
 Aun así, notemos que para el Jugador $2$ si existen estrategias estrictamente dominadas:
 
-|       |           **L**           |  **M**  |  **R**  |
-|:-----:|:-------------------------:|:-------:|:-------:|
-| **U** | $(4,\textcolor{blue}{3})$ | $(5,1)$ | $(6,2)$ |
-| **M** |          $(2,1)$          | $(3,\textcolor{blue}{6})$ | $(8,4)$ |
-| **D** |          $(3,0)$          | $(9,6)$ | $(2,8)$ |
+- Comparando $L$ con $M$: 
+
+|       |           **L**           |           **M**           |
+|:-----:|:-------------------------:|:-------------------------:|
+| **U** | $(4,\textcolor{blue}{3})$ |          $(5,1)$          |
+| **M** |          $(2,1)$          | $(3,\textcolor{blue}{6})$ |
+| **D** |          $(3,0)$          |          $(9,\textcolor{blue}{6})$          |
+
+
+Aquí se puede ver que no hay estrategía estrictamente dominada. 
+
+- Comparando $M$ con $R$: 
+
+|       |  **M**  |  **R**  |
+|:-----:|:-------:|:-------:|
+| **U** | $(5,1)$ | $(6,\textcolor{blue}{2})$ |
+| **M** | $(8,4)$ | $(3,6)$ |
+| **D** | $(9,6)$ | $(2,8)$ |
