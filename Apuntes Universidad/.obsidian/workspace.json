@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md",
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Condensadores.md"
+                "file": "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md"
               }
             }
           },
@@ -169,8 +169,14 @@
   },
   "active": "35072f07f491cead",
   "lastOpenFiles": [
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Carga inducida.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores/Conductores eléctricos.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
+    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
+    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales",
+    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.00.59.png",
+    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Condensadores.md",
+    "Departamento de Física/Electromagnetismo/Electrostática/Untitled.md",
+    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Carga inducida.md",
+    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Conductores eléctricos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/prueba.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
@@ -184,7 +190,6 @@
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084054.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901084027.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20230901083807.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901082404.png",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
     "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
@@ -202,18 +207,13 @@
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Estabilidad evolutiva en estregias mixtas.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos/Juegos Evolutivos.md",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos",
-    "Departamento de Física/Termodinámica/Pérdida de información.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
-    "Departamento de Física/Termodinámica/Ejercicios/Consultas/Consulta Ejercicio 3.5.1.md",
     "Departamento de Física/Termodinámica/Ejercicios/Consultas",
     "Departamento de Física/Termodinámica/Sistemas",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
     "Departamento de Física/Termodinámica/Resumenes",
-    "Departamento de Física/Electromagnetismo/Electrostática/Conductores",
+    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores",
     "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de superficie",
-    "Departamento de Física/Termodinámica/Modelos Simples",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de línea"
+    "Departamento de Física/Termodinámica/Modelos Simples"
   ]
 }

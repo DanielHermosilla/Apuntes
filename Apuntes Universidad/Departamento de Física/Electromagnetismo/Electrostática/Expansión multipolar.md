@@ -1,4 +1,4 @@
-	
+
 Se puede tener una fuente de cargas eléctricas y, por ende, un [[Potencia eléctrica|potencial eléctrico]].
 
 ![[Captura de pantalla 2023-08-30 a la(s) 09.49.25.png|center]]
@@ -40,6 +40,20 @@ Y se puede escribir el [[Trabajo del campo eléctrico|potencial]] dipolar en fun
 
 $$V_{dip}(\vec{r})=\frac{\vec{p}\cdot\hat{r}}{4\pi\epsilon_0\cdot r^2}$$
 
+## Campo eléctrico  
+
+Para calcular el campo eléctrico de un dipolo, donde se eligen coordenadas tal que $p$ es el origen y apunta en dirección $z$, entonces, sacando el [[Gradiente y plano tangente|gradiente]] del potencial para obtener el [[Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Campo eléctrico|campo eléctrico]]: 
+
+![[Captura de pantalla 2023-09-04 a la(s) 09.00.59.png|center|400]]
+
+
+Se obtienen los siguientes campos eléctricos, a sabiendas que se están en [[Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Integración/Coordenadas esféricas|coordenadas esféricas]]:
+
+$$\begin{align}
+E_r&=-\frac{\partial V}{\partial r}=\frac{2p\cos\theta}{4\pi\epsilon_0 r}\\  \\
+E_\theta&=-\frac{1}{r}\;\frac{\partial V}{\partial \theta}=\frac{p\sin\theta}{4\pi\epsilon_0 r^3}\\  \\
+E_\phi&=-\frac{1}{r\sin\theta}\;\frac{\partial V}{\partial \phi}=0
+\end{align}$$
 ## El sentido físico 
 
 Si se hace el mismo análisis para la misma imagen anterior, nos podemos definir $d$ como la distancia entre las cargas puntuales y $\theta$ el ángulo entre ellas, entonces: 
