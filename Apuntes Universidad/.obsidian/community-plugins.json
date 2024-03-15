@@ -7,9 +7,13 @@
   "obsidian-matrix",
   "various-complements",
   "quick-latex",
-  "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "highlightr-plugin",
   "webpage-html-export",
-  "obsidian-advanced-slides"
+  "obsidian-discordrpc",
+  "obsidian-tikzjax",
+  "cmdr",
+  "obsidian-smarter-md-hotkeys",
+  "obsidian-relative-line-numbers",
+  "obsidian-vimrc-support"
 ]

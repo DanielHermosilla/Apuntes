@@ -26,5 +26,5 @@ Si $X=(X_1,X_2\dots, X_k)\sim\text{Normal}(\mu,\sum)$, entonces:
 
 - $X_i\sim Normal(\mu_i,\sum_{i,i})$ 
 - $\text{Cov}(X_i,X_j)=\sum_{i,j}$ 
-- Para toda secuencia de reales $(a_1,\dots, a_k)$ la variable aleatoria $Y=\sum_{i}a_iX_i$ sigue una [[Distribución Normal]] 
+- Para toda secuencia de reales $(a_1,\dots, a_k)$ la variable aleatoria $Y=\sum_{i}a_iX_i$ sigue una [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal]] 
 - Si $\text{Cov}(X_i,X_j)=\sum_{i,j}=0$ entonces $X_i$ y $X_j$ son [[Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia|independendientes]]

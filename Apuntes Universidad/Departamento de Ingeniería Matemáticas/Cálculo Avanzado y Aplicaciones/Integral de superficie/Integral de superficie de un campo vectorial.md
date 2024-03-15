@@ -63,3 +63,8 @@ $$\begin{align}
 &=\frac{4}{15}
 \end{align}$$
 
+
+$$\begin{align}
+\oint_{C}\vec{F}\cdot d\vec{r} &=\iint_S (\vec{\nabla}\times\vec{F})d\vec{S}\tag{Teorema de Stokes}\\ \\ 
+\iint_{\Omega}\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right) &= \iint_S (\vec{\nabla}\times\vec{F})d\vec{S}\tag{Teorema de Green}
+\end{align}$$

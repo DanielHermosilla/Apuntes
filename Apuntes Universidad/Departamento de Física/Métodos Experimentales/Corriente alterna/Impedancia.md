@@ -7,7 +7,7 @@ $$Z_R = \frac{V_R}{I_R} = R$$
 Y por ende, la impedancia de un [[Condensador|condensador]] se define como: 
 
 $$Z_C = \frac{1}{i\omega C}$$ 
-Y la de una [[Inductancia|inductancia]] llegaría a ser: 
+Y la de una [[Departamento de Física/Métodos Experimentales/Corriente alterna/Inductancia|inductancia]] llegaría a ser: 
 
 $$Z=\frac{V_L}{I}=i\omega L$$ 
 Por lo tanto, en un [[Circuito RC|circuito RC]] podemos ocupar la impedancia para poder operar con [[Corriente alterna|corriente alterna]]: 

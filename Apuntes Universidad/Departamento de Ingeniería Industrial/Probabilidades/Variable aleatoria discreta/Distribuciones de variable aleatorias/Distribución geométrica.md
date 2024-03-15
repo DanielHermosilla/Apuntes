@@ -10,7 +10,7 @@ p(1-p)^{x-1} & \text{si}\ x = 1,2,3\dots \\
 
 ## Esperanza 
 
-Se define la [[Esperanza|esperanza]] de esta distribución como: 
+Se define la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] de esta distribución como: 
 
 $$E[X] = \sum_{k=1}^{n}kp(1-p)^{k-1}p$$ 
 Es dificil calcularla con la variable $k$, pero se puede hacer lo siguiente por sumatoria geométrica: 
@@ -20,11 +20,11 @@ Si lo derivamos queda lo siguiente:
 
 $$\frac{d}{dp}\ \ -\sum_{k=0}^{\infty}k(1-p)^{k-1} = \frac{-p}{p^2}$$
 $$\iff \sum_{k=1}^{n}kp(1-p)^{k-1}p = \frac{1}{p}$$ 
-Por lo tanto, la [[Esperanza|esperanza]] es $\frac{1}{p}$. 
+Por lo tanto, la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] es $\frac{1}{p}$. 
 
 ## Varianza 
 
-Por lo tanto, la [[Varianza|varianza]] sería lo siguiente: 
+Por lo tanto, la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]] sería lo siguiente: 
 
 $$Var(X) = E[X^2] - E[X]^2$$ 
 Bastaría calcular $E[X^2]$. 

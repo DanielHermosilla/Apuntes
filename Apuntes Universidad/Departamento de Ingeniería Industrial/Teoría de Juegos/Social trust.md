@@ -1,0 +1,2 @@
+
+Dado un [[Juegos secuenciales|juego secuencial]], generalmente en los [[Juego Spence|juego Spence]], se define **la probabilidad o la cuantificación** de confianza entre la comunicación entre jugadores. Es **muy difícil** de medir, por lo general se mide en el área de la sociología. 

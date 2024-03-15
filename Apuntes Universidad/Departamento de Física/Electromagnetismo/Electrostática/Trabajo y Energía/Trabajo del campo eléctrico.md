@@ -52,6 +52,7 @@ Para un $S$ cualquiera, entonces se tiene los siguientes resultados:
 - $\vec{\nabla}\cdot\vec{E}=\frac{\rho}{\epsilon_0}$ 
 
 
+
 #### Ejemplo 
 
 Se tiene un cable infinito con corriente en el eje $z$, y densidad $\lambda=\frac{C}{m}$. Por lo tanto, se pregunta el potencial en un punto $P$ que está a una distancia $r$ del cable verticalmente. Calcular el potencial. 
@@ -111,3 +112,5 @@ r_0\to0&V(\vec{r})\to\infty
 \end{cases}$$
 
 Por lo tanto, no sirve pararse en el infinito o en $r_0=0$ para analizar el trabajo. 
+
+

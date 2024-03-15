@@ -1,2 +1,0 @@
-
-Sea $F:\Omega\subseteq\mathbb{R}^n\to\mathbb{R}^n$ un [[Campos escalares y vectoriales|campo vectorial]] regular $\Omega\subset\mathbb{R}^n$ un [[Conjuntos abiertos y cerrados|abierto]] y $C\subset\Omega$ una [[Curvas|curva regular]] 

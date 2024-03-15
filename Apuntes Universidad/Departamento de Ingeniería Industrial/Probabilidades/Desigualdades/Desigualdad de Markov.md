@@ -8,7 +8,7 @@ Sea la variable aleatoria cualquiera $Y$, que toma los siguientes valores:
 
 $$Y=\begin{cases}\alpha &\text{si}\; X\geq\alpha\\\\
 0&\text{si no}\end{cases}$$ 
-Entonces, sabemos que la [[Esperanza|esperanza]] cumple lo siguiente: $E[Y]\leq E[X]$. Por lo tanto, 
+Entonces, sabemos que la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] cumple lo siguiente: $E[Y]\leq E[X]$. Por lo tanto, 
 
 $$\alpha\mathbb{P}(X\geq\alpha)+0\implies\alpha\mathbb{P}(x\geq\alpha)\leq E[X]$$ 
 ### Ejemplo 
@@ -20,7 +20,7 @@ Ocupando la desigualdad de Markov:
 $$\mathbb{P}(X\geq 10)\leq\frac{1}{10}$$ 
 Ahora nos informan que $Var(X)=1$, ¿Qué podriamos decir ahora de $\mathbb{P}(X\geq 10)$? 
 
-Como tenemos la [[Varianza|varianza]], sabemos que ésta se define como: 
+Como tenemos la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]], sabemos que ésta se define como: 
 
 $$\begin{align}
 Var(x)&=E[(x-E[X])^2]\\\\

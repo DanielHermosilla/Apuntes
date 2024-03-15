@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7cb16d5ebce13f0",
+        "id": "d88cc6231e0b62c2",
         "type": "tabs",
         "children": [
           {
-            "id": "7120d6fc5f193b33",
+            "id": "b2d91b097b4769d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34eae1fffe5c066b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Chi-cuadrado.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,16 +32,6 @@
         "id": "e2c5a5fa83b629e9",
         "type": "tabs",
         "children": [
-          {
-            "id": "f90c1fff3167baa3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTime"
-              }
-            }
-          },
           {
             "id": "ce15a986408ba6b2",
             "type": "leaf",
@@ -76,13 +54,31 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "cd674f52f753896a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b923b659e1d4737d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Chi-cuadrado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Chi-cuadrado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Chi-cuadrado.md"
               }
             }
           },
@@ -148,6 +144,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "5a6733bd7ea6976d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -164,61 +172,60 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
       "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": true,
-      "obsidian-advanced-slides:Show Slide Preview": true
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7120d6fc5f193b33",
+  "active": "b2d91b097b4769d3",
   "lastOpenFiles": [
-    "Departamento de Ciencias de la Computación/Bases de Datos/Lenguajes de Consulta.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución F.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Normal.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución t.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribuciones de variables discretas.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Chi-cuadrado.md",
+    "Departamento de Ingeniería Industrial/Estadística/Oblicuidad.md",
+    "Departamento de Ingeniería Industrial/Estadística/Kurtosis.md",
+    "Departamento de Ingeniería Industrial/Estadística/Grados de libertad.md",
+    "Departamento de Ingeniería Industrial/Estadística/Estandarización de una variable.md",
+    "Departamento de Ingeniería Industrial/Estadística/Estadística Aplicada.md",
+    "Departamento de Ingeniería Industrial/Estadística/Esperanza.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribución Conjunta.md",
+    "Departamento de Ingeniería Industrial/Estadística/Desviación Estándar.md",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20240314130430.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20240314130138.png",
+    "Departamento de Ingeniería Industrial/img/Captura de pantalla 2024-03-14 a la(s) 12.58.11.png",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Resumen Control 1.md",
-    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Campo eléctrico de un material.md",
-    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Dipolo inducido.md",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.18.19.png",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.16.55.png",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.13.14.png",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.12.03.png",
-    "Departamento de Física/Electromagnetismo/Electrostática/Expansión multipolar.md",
-    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales",
-    "Departamento de Física/Electromagnetismo/img/Captura de pantalla 2023-09-04 a la(s) 09.00.59.png",
-    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Condensadores.md",
-    "Departamento de Física/Electromagnetismo/Electrostática/Untitled.md",
-    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Carga inducida.md",
-    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores/Conductores eléctricos.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/prueba.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Auxiliar 1.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes/Resumen Ejercicio 1.md",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901085239.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901085040.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901084854.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901084750.png",
-    "Departamento de Ciencias de la Computación/img/Pasted image 20230901084548.png",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Campos escalares y vectoriales.md",
-    "Departamento de Ciencias de la Computación/Bases de Datos/Resumenes",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Divergencia.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Principio multiplicativo.md",
-    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 1.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado sin reemplazo.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo no ordenado con reemplazo.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestre ordenado con reemplazo.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo ordenado sin reemplazo.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Rotor.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo en Varias Variables/Diferenciabilidad/Gradiente y plano tangente.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Diferencial del campo vectorial.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Elementos del cálculo vectorial/Operadores diferenciales del cálculo vectorial/Laplaciano.md",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Teorema de Green.md",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Juegos Evolutivos",
-    "Departamento de Física/Termodinámica/Ejercicios/Consultas",
-    "Departamento de Física/Termodinámica/Sistemas",
-    "Departamento de Ingeniería Industrial/Teoría de Juegos/Estrategias Mixtas",
-    "Departamento de Física/Termodinámica/Resumenes",
-    "Departamento de Física/Electromagnetismo/Campo eléctricos en medios materiales/Conductores",
-    "Departamento de Ingeniería Matemáticas/Cálculo Avanzado y Aplicaciones/Integral de superficie",
-    "Departamento de Física/Termodinámica/Modelos Simples"
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas",
+    "Departamento de Ingeniería Industrial/Estadística/Varianza.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Uso de Gurobi.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Modelos.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares",
+    "Departamento de Ingeniería Industrial/Estadística/Variable Aleatoria.md",
+    "Departamento de Ingeniería Industrial/Estadística",
+    "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización",
+    "Departamento de Ciencias de la Computación/Python/Librerias/BeautifulSoup/Configuraciones básicas.md",
+    "Departamento de Ciencias de la Computación/Python/Librerias/BeautifulSoup/Busqueda por etiquetas.md",
+    "Departamento de Ciencias de la Computación/HTML/Sintaxis/Etiquetas.md",
+    "Departamento de Ciencias de la Computación/Python/Librerias/BeautifulSoup",
+    "Departamento de Ciencias de la Computación/Python/Web Scraping",
+    "Departamento de Física/Termodinámica/Auxiliares/Auxiliar 12.md",
+    "Departamento de Ciencias de la Computación/HTML/Sintaxis",
+    "Departamento de Ciencias de la Computación/HTML/Untitled.md",
+    "Departamento de Física/Termodinámica/img/Pasted image 20231215121538.png",
+    "Departamento de Ciencias de la Computación/HTML",
+    "Departamento de Física/Termodinámica/Resumenes/Resumen Examen.md",
+    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 3.md",
+    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 2.md",
+    "Departamento de Física/Termodinámica/Auxiliares",
+    "Departamento de Física/Termodinámica/img/Pasted image 20231215184350.png",
+    "Departamento de Física/Termodinámica/img/Pasted image 20231215184217.png",
+    "Departamento de Física/Termodinámica/img/Pasted image 20231215125854.png",
+    "Departamento de Física/Termodinámica/img/Pasted image 20231215124105.png",
+    "Departamento de Física/Electromagnetismo/img/Pasted image 20231213180047.png",
+    "Departamento de Física/Electromagnetismo/img/Pasted image 20231213180113.png",
+    "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Juego Evolutivos.canvas"
   ]
 }

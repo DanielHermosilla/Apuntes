@@ -5,7 +5,10 @@
   "enabledCssSnippets": [
     "Copia de somethingsnippet",
     "tables",
-    "align-1"
+    "align-1",
+    "page-breaks"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 20,
+  "nativeMenus": true,
+  "showViewHeader": true
 }

@@ -10,10 +10,10 @@ Donde $\lambda$ es el promedio de que ocurra algo.
 ![[Poisson.png|center]]
 ## Esperanza 
 
-La [[Esperanza|esperanza]] corresponde a $\lambda$ si se aplica la definición. 
+La [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] corresponde a $\lambda$ si se aplica la definición. 
 
 ## Varianza 
 
-La [[Varianza|varianza]] corresponde a $E[X^2]-E[X]^2$, por lo tanto: 
+La [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]] corresponde a $E[X^2]-E[X]^2$, por lo tanto: 
 
 $$E[X^2] = 

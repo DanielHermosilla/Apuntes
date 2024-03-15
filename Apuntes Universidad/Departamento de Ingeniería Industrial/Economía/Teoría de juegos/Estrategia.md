@@ -1,2 +1,2 @@
 
-Interacción social donde las personas son conscientes de las formas en que sus ascciones afectan los demás, y por defecto, la estrategia es la **acción que las personas pueden tomar cuando participan en una [[Juego|interacción total]]**. 
+Interacción social donde las personas son conscientes de las formas en que sus ascciones afectan los demás, y por defecto, la estrategia es la **acción que las personas pueden tomar cuando participan en una [[Departamento de Ingeniería Industrial/Economía/Teoría de juegos/Juego|interacción total]]**. 

@@ -1,5 +1,5 @@
 
-Para emitir juicios se necesita conocer las reglas del [[Juego|juego]] así como la asignación (el resultado). Las asignaciones podrían considerarse injustas por dos razones: 
+Para emitir juicios se necesita conocer las reglas del [[Departamento de Ingeniería Industrial/Economía/Teoría de juegos/Juego|juego]] así como la asignación (el resultado). Las asignaciones podrían considerarse injustas por dos razones: 
 
 1. [[Desigualdad]] del resultado final: medidas como riqueza o bienestar subjetivo, felicidad, etc. (juicio substantivo de justicia)
 

@@ -47,3 +47,18 @@ $$S\approx mk_B\ln(\frac{N}{m})$$
 El caso del sodio ($NaCl$) es interesante pues está constituido por dos iones. En este caso, las vacantes de los iones de cloro no pueden quedar vacias por la condición de nuetralidad de la materia. Cuando el átomo abandona la vacante deja un electrón en su lugar. 
 
 En tal caso, se llega que $\Omega=\frac{N!}{m!(N-m)!}$. 
+
+### Capacidad calórica y térmica 
+
+Notemos que para el sólido de **baja temperatura**, el [[Capacidad calórica|calor específico]] a volumen constante es del orden $O(cte\times T^3)$. Su valor es el siguiente: 
+
+$$c_V=234(T/\Theta_D)^33nk$$
+
+Sin embargo, para el modelo sólido a **alta temperatura** se tiene que el calor específico es equivalente a: 
+
+$$c_V=3R=25J/K-mol$$
+
+Es curioso que es una constante, pero notemos que todos convergen al mismo valor: 
+
+![[Pasted image 20230922112546.png|center]]
+

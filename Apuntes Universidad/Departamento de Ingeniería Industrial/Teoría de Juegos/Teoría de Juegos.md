@@ -1,3 +1,6 @@
+---
+color: "#0fb9b1"
+---
 
 Es un método para el estudio de interacciones [[Estrategia|estratégica]] . 
 

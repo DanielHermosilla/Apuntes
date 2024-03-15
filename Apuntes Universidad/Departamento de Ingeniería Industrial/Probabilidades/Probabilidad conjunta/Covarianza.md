@@ -26,7 +26,7 @@ $$\text{Cov}(X+Y,Z)=\text{Cov}(X,Z)+\text{Cov}(Y,Z)$$
 $$\text{Cov}(\sum_{i=1}^{m}a_iX_i,\sum_{j=1}^{n}b_jY_j)=\sum_{i=1}^{m}\sum_{j=1}^{n}a_ib_j\text{Cov}(X_i,Y_j)$$ 
 ### Ejemplo 
 
-Supongamos que tenemos $X$ con [[Distribución Normal]] e $Y$ con [[Distribución Exponencial]]. 
+Supongamos que tenemos $X$ con [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria continua/Distribuciones/Distribución Normal]] e $Y$ con [[Distribución Exponencial]]. 
 
 $$\text{Cov}(X,Y)=E[XY]-E[X]E[Y]$$ 
 Sabemos que la densidades respectivas: 
@@ -47,7 +47,7 @@ $$\int_{0}^{\infty}\int_{1}^{2}x\cdot y\cdot x\cdot e^{-yx}\mathbb{1}_{\lbrace x
 Por fubini: 
 
 $$=\int_{1}^{2}x\int_{0}^{\infty}xy\cdot e^{-yx}$$ $$=1$$ 
-La [[Esperanza|esperanza]] de $X$ es conocida, pero para la esperanza de $Y$ se necesita la [[PDF marginal]], entonces: 
+La [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] de $X$ es conocida, pero para la esperanza de $Y$ se necesita la [[PDF marginal]], entonces: 
 
 $$\int_{0}^{\infty}\int_{1}^{2}xe^{-yx}\cdot\mathbb{1}_{\lbrace (1,2)\rbrace}dxdy$$ 
 $$\int_{1}^{2}\frac{1}{x}dx$$ $$=ln(2)$$ 

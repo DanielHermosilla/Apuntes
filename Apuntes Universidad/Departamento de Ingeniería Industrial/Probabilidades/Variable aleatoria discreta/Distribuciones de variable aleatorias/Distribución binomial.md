@@ -6,7 +6,7 @@ Entonces:
 $$p_x(k)=\begin{pmatrix} n \\ k \end{pmatrix}p^k(1-p)^{n-k}$$ 
 ## Esperanza 
 
-La [[Esperanza|esperanza]] de esto sería: 
+La [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] de esto sería: 
 
 $$E[X] = \sum_{k=0}^{n}k·\begin{pmatrix} n \\ k \end{pmatrix}p^k(1-p)^{n-k}$$ 
 Con cambios de variable y sacando constantes afuera: 
@@ -20,7 +20,7 @@ $$E[X] = E[Y_1 + Y_2 + \dots + Y_n]$$
 $$\iff E[Y_1] + E[Y_2] + E[Y_3] + \dots E[Y_n]$$ $$\implies E[X] = np$$ 
 ## Varianza 
 
-Para calcular la [[Varianza|varianza]] sería: 
+Para calcular la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]] sería: 
 
 $$Var(x) = E[X^2] + E[X]^2$$ 
 Primero, se calcula el primer término: 

@@ -15,11 +15,11 @@ En palabras simples, en que cantidad de intentos se puede pasar $m$ etapas.
 
 ## Esperanza 
 
-Se tiene que la [[Esperanza|esperanza]] sería la multiplicación de $m$ veces la [[Esperanza|esperanza]] de la [[Distribución geométrica|distribución geométrica]]. Es decir:
+Se tiene que la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] sería la multiplicación de $m$ veces la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] de la [[Distribución geométrica|distribución geométrica]]. Es decir:
 
 $$E[X] = \frac{m}{p}$$ 
 ## Varianza 
 
-Se tiene que la [[Varianza|varianza]] es: 
+Se tiene que la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]] es: 
 
 $$Var(X) = \frac{m(1-p)}{p^2}$$ 

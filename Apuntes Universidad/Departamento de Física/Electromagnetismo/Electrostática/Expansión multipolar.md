@@ -40,6 +40,16 @@ Y se puede escribir el [[Trabajo del campo eléctrico|potencial]] dipolar en fun
 
 $$V_{dip}(\vec{r})=\frac{\vec{p}\cdot\hat{r}}{4\pi\epsilon_0\cdot r^2}$$
 
+>[!info] 
+>
+>Esto lo que dice, básicamente, es que al hacer una expansión de Taylor del trabajo eléctrico se obtiene los términos que representa un **monopolo**, **dipolo**, etc. 
+>
+>$$V\approx\frac{1}{4\pi\epsilon_0}\frac{1}{r}+\frac{1}{4\pi\epsilon_0}\frac{\vec{p}}{r^2}\hat{r}+\dots$$
+>
+>Donde el primer término corresponde al monopolo, el segundo al dipolo, y así sucesivamente. Notar que el dipolo está en función de $\vec{p}$, lo que se denomina **momento dipolar**: 
+>
+>$$\vec{p}=\int_N\rho(\vec{r}')\vec{r}'\;dz\;\iff\;\vec{p}=\sum^{N}_{i=1}q_i\vec{r_i'}$$
+
 ## Campo eléctrico  
 
 Para calcular el campo eléctrico de un dipolo, donde se eligen coordenadas tal que $p$ es el origen y apunta en dirección $z$, entonces, sacando el [[Gradiente y plano tangente|gradiente]] del potencial para obtener el [[Departamento de Física/Métodos Experimentales/Circuitos eléctricos/Campo eléctrico|campo eléctrico]]: 

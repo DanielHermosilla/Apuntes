@@ -5,13 +5,13 @@ $$p_x(x) = \begin{cases}
 1-p & \text{si}\ x=0 \\ 
 p & \text{si}\ x=1 \end{cases} $$ 
 
-En este caso, también se podría calcular la [[Esperanza|esperanza]]:
+En este caso, también se podría calcular la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]]:
 
 $$E[x] = 0 · (1-p) + 1 · p = p$$ 
-Y la [[Varianza|varianza]]:
+Y la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]]:
 
 $$Var(x) = E[X^2]-E[X]^2$$ 
-Por lo tanto, la [[Varianza|varianza]] sería: 
+Por lo tanto, la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]] sería: 
 
 $$Var(X) = p(1-p)$$ 
 Que se maximisa cuando $p=\frac{1}{2}$ 
@@ -53,6 +53,6 @@ $$\sum_{i<j<k}(A_1,A_2,A_3,A_{4}^{c},\dots,A_{10}^{c})$$
 Equivalente a tener $\begin{pmatrix} 10 \\ 3\end{pmatrix}$. Entonces, aplicando [[Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Independencia|independencia]], se tiene que: 
 
 $$\mathbb{P}(X=3) = \begin{pmatrix} 10 \\ 3\end{pmatrix} \mathbb{P}(A_1)·\mathbb{P}(A_2)·\mathbb{P}(A_3)·\mathbb{P}(A_{4}^{c})\dots\mathbb{P}(A_10))$$     
-Esto se denomina como [[Distribución binomial]]. Por lo tanto, la [[Esperanza|esperanza]] del costo sería: 
+Esto se denomina como [[Distribución binomial]]. Por lo tanto, la [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] del costo sería: 
 
 $$E[\text{costo}] = E[6X] = 6E[X] = 6 · 10 · 0.2 = 12$$ 

@@ -1,9 +1,9 @@
 
-Sea $X_1, X_2,\dots, X_n$ [[Variable aleatoria continua|variable aleatoria]] [[Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia|independientes]] e igualmente distribuidos con [[Esperanza|esperanza]]  y [[Varianza|varianza]] finita. 
+Sea $X_1, X_2,\dots, X_n$ [[Variable aleatoria continua|variable aleatoria]] [[Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Independencia|independientes]] e igualmente distribuidos con [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]]  y [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]] finita. 
 
 # Ley Débil de los Grandes Números (WLLN)
 
-Sean $X_1,X_2,\dots,X_n$ [[Variable aleatoria continua|variables aleatorias]] i.i.d con [[Esperanza|esperanza]] finita, entonces 
+Sean $X_1,X_2,\dots,X_n$ [[Variable aleatoria continua|variables aleatorias]] i.i.d con [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Esperanza|esperanza]] finita, entonces 
 
 $$X_n\to^p\mu$$ 
 O, equivalentemente, 

@@ -52,3 +52,63 @@ Ahora, si se quisiera generalizar aun más, podríamos notar lo siguiente:
 $$S-S_O=\frac{3\mathbf{R}k_B}{2}\ln\left(\frac{E}{E_0}\right)+Nk_b\ln\left(\frac{V}{V_0}\right)$$
 
 Donde $\mathbf{R}$ son los grados de libertad. 
+
+### Temperatura del gas ideal 
+
+Si se aplica la definición de [[Temperatura absoluta|temperatura absoluta]] se llega que: 
+
+$$\frac{1}{T}=\left(\frac{\partial S}{\partial E}\right)_V=\frac{3Nk_B}{2E}$$ 
+De donde se deduce que la [[Energía|energía]] del gas ideal monoatómico es: 
+
+$$E_\text{mono}=\frac{3Nk_BT}{2}$$
+
+Para el diatómico se cambia el $3$ por un $5$. Notemos que es **independiente del volumen** y sólo depende de la temperatura. Esto **solo ocurre con los gases reales**. 
+
+### Ecuación de estado del gas ideal 
+
+Recordemos que la presión es **fuerza por unidad de área** en esencia. Por lo tanto, es posible reemplazarla por el valor de energía en la ecuación anterior. Si consideramos la definición de presión como tal para el caso de gases ideales, se llega a la relación: 
+
+$$P=\frac{2E}{3V}$$
+
+Y ahora sí, al reemplazarla con la **energía monoatómica**, se llega que: 
+
+$$PV=Nk_BT$$ 
+
+Notar que el resultado es independiente si el gas es mono o diatómico. 
+
+Los gases no ideales llegarían a ser aquellos que cumplen que: 
+
+$$\frac{PV}{RT}=z(P,T)\neq 1$$
+
+Donde $z$ es **el factor de compresibilidad**.
+
+Este factor de compresibilidad se interpreta de la siguiente forma:
+
+$$P_1V_1=RT_1$$
+A presión ambiente, por lo general, se cumple que: 
+
+- $P_2=1bar$
+- $T_2=300K$
+
+### Ecuación de Van der Waals 
+
+La presión efectiva toma en cuenta que al chocar con la pared hay moléculas de un lado pero no del otro. La del otro lado las estarían frenando. Las moléculas que chocan con la pared dependen de $N/V$ y el efecto de frenado depende de las moléculas cercanas. Luego, la corrección es de la forma $1/v^2$. 
+
+Por ende, las variables efectivas llearian a ser: 
+
+$$P_\text{efectiva}=P+\frac{a}{v^2}$$
+
+$$v_\text{efectivo}=v-b$$
+
+$$P_\text{efectiva}v_\text{efectivo}=RT$$
+
+Los parámetros de $a$ y $b$ se determinan para cada gas. 
+
+La constante $a$ mide la interacción entre las moléculas, por el otro lado, el $b$ tiene que ver con el volumen del líquido condensado. 
+### Capacidad térmica y calor específico
+
+Para un gas ideal, el [[Capacidad calórica|calor específico]] molar para un volumen constante se define como: 
+
+$$c_V=\frac{r}{2}R$$
+
+En este caso, no depende de la temperatura, pero en los modelos reales **si hay dependencia de la temperatura**. 

@@ -20,6 +20,7 @@
     "^~~~.*",
     "^```.*"
   ],
+  "noAutoFocusUntilCycle": false,
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,

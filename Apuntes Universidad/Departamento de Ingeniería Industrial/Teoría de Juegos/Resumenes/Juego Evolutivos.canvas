@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4736585f7cd8082a","x":-280,"y":11,"width":250,"height":60,"color":"6","type":"text","text":"¿Es $(s,s)$ un Equilibrio de Nash estricto?"},
+		{"id":"9bc0598742c726b6","x":80,"y":11,"width":250,"height":60,"color":"2","type":"text","text":"No es una estrategia **evolutivamente estable** "},
+		{"id":"f8f7d16f95bf409f","x":-100,"y":-180,"width":250,"height":60,"color":"6","type":"text","text":"¿Es $(s,s)$ un Equilibrio de Nash simétrico?"},
+		{"id":"f94dc0e836e6d425","x":-279,"y":221,"width":250,"height":60,"color":"6","type":"text","text":"Es una estrategia **evolutivamente estable**"}
+	],
+	"edges":[
+		{"id":"5c33ef8c4ea59316","fromNode":"f8f7d16f95bf409f","fromSide":"bottom","toNode":"4736585f7cd8082a","toSide":"top","color":"6","label":"Si"},
+		{"id":"a76ff681535ce809","fromNode":"f8f7d16f95bf409f","fromSide":"bottom","toNode":"9bc0598742c726b6","toSide":"top","color":"2","label":"No"},
+		{"id":"a46ae45a757f9f8b","fromNode":"4736585f7cd8082a","fromSide":"bottom","toNode":"9bc0598742c726b6","toSide":"bottom","color":"2","label":"No\n\n"},
+		{"id":"f3d4c6b1b10ad1b2","fromNode":"4736585f7cd8082a","fromSide":"bottom","toNode":"f94dc0e836e6d425","toSide":"top","color":"6"}
+	]
+}
