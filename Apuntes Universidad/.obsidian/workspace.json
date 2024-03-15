@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422
+    "width": 309.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -178,8 +179,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b2d91b097b4769d3",
+  "active": "cd674f52f753896a",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Macroeconomía",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución F.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Normal.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución t.md",
@@ -218,7 +220,6 @@
     "Departamento de Ciencias de la Computación/HTML",
     "Departamento de Física/Termodinámica/Resumenes/Resumen Examen.md",
     "Departamento de Física/Termodinámica/Resumenes/Resumen Control 3.md",
-    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 2.md",
     "Departamento de Física/Termodinámica/Auxiliares",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215184350.png",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215184217.png",
