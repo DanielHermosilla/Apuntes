@@ -45,3 +45,5 @@ Por el otro lado, $x_{ij}\leq y_j\;\;\forall i\in I,\;\forall j\in J$. Así, $x_
 Por último, 
 
 $$\sum_{j\in J}x_{ij}=1\;\;\;\;\;\forall i\in I$$
+
+
