@@ -17,5 +17,27 @@ $$\sum^{T}_{t=1}(c_t+p_tD_t)$$
 
 Por el otro lado, si se produjiera todo en $t=1$: 
 
-$$c_1+p_1\left(\sum^{T}_{t=1}D_t\right)+\sum^{T-1}_{t=1}h_t\left(\sum^{T}_{s=t}D_s\right)$$
+$$c_1+p_1\left(\sum^{T}_{t=1}D_t\right)+\sum^{T-1}_{t=1}h_t\left(\sum^{T}_{s=t+1}D_s\right)$$
+
+Por lo tanto, nos definimos las siguientes variables: 
+
+$$\begin{align}
+y_t\in\lbrace 0,1\rbrace&\;\;\;\;\text{Se produce en el período}\;t\\  \\
+x_t\geq 0&\;\;\;\;\text{Cantidad producida en}\;t\\  \\
+I_t\geq 0&\;\;\;\;\text{Inventario de}\;t\;\text{a}\;t+1
+\end{align}$$
+
+Además, el inventario se puede definir como: 
+
+$$I_t=I_{t+1}+x_t-D_t\;\;\;t\in\lbrace 1,\dots, T\rbrace$$
+
+Además, 
+
+$$x_t\leq M\cdot b_T$$
+
+Con $M$ una constante  
+
+Así, la función objetivo llegaría a ser la siguiente: 
+
+$$\min\sum^{T}_{t=1}(c+y_t+p_tx_t)+\sum^{T-1}_{t=1}h_tI_t$$
 
