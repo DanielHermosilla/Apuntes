@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Problema de la mochila.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Lot Sizing.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422
+    "width": 309.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Problema de la mochila.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Lot Sizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Problema de la mochila.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Lot Sizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Problema de la mochila.md"
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Lot Sizing.md"
               }
             }
           },
@@ -180,8 +181,9 @@
   },
   "active": "b2d91b097b4769d3",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Chi-cuadrado.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Problema de la mochila.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos/Lot Sizing.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Chi-cuadrado.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
     "Departamento de Ingeniería Industrial/Macroeconomía",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución F.md",
@@ -219,7 +221,6 @@
     "Departamento de Ciencias de la Computación/HTML/Untitled.md",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215121538.png",
     "Departamento de Física/Termodinámica/Resumenes/Resumen Examen.md",
-    "Departamento de Física/Termodinámica/Resumenes/Resumen Control 3.md",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215184350.png",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215184217.png",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215125854.png",
