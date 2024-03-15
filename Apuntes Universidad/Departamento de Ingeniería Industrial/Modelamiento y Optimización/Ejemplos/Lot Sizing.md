@@ -33,7 +33,7 @@ $$I_t=I_{t+1}+x_t-D_t\;\;\;t\in\lbrace 1,\dots, T\rbrace$$
 
 Además, 
 
-$$x_t\leq M\cdot b_T$$
+$$x_t\leq M\cdot y_T$$
 
 Con $M$ una constante  
 
@@ -41,3 +41,4 @@ Así, la función objetivo llegaría a ser la siguiente:
 
 $$\min\sum^{T}_{t=1}(c+y_t+p_tx_t)+\sum^{T-1}_{t=1}h_tI_t$$
 
+El 
