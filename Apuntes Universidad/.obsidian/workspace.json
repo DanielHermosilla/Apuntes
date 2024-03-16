@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "787a158cdf59377b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Normal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Normal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Normal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Normal.md"
               }
             }
           },
@@ -178,8 +191,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b2d91b097b4769d3",
+  "active": "787a158cdf59377b",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función Generadora de Momento.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad Conjunta.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad de Probabilidad Condicional.md",
@@ -207,7 +221,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Estadística Aplicada.md",
     "Departamento de Ingeniería Industrial/Estadística/Esperanza.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribución Conjunta.md",
-    "Departamento de Ingeniería Industrial/Estadística/Desviación Estándar.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240314130430.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240314130138.png",
     "Departamento de Ingeniería Industrial/img/Captura de pantalla 2024-03-14 a la(s) 12.58.11.png",
