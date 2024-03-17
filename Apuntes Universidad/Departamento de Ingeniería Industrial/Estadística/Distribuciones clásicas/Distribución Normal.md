@@ -17,3 +17,4 @@ Es la [[Estandarización de una variable|estandarización]] de su distribución.
 
 - Su pdf es $\phi(z)=\frac{1}{\sqrt{2\pi}}e^{-\frac{z^2}{2}}$
 - Su cdf está dada por $\Phi(z)=P(Z\leq z)$. 
+
