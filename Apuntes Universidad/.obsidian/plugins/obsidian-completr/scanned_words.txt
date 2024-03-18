@@ -501,6 +501,7 @@ PKV
 Pfw
 Promedios
 Pizza
+Peer
 Resolver
 Realizando
 Reemplazando
@@ -2643,6 +2644,8 @@ sector
 semanales
 seguidos
 skewness
+sto
+servidores
 no
 neo
 nea
@@ -3651,6 +3654,7 @@ hLJ
 hcQ
 hOk
 hospitalaria
+host
 Soluci
 Simplificando
 Se
@@ -6432,6 +6436,8 @@ destrucci
 dejarlo
 desprenden
 distirbuye
+disstribuidos
+descarge
 forma
 filas
 factor
@@ -9386,6 +9392,7 @@ colisiona
 chocaran
 cdf
 chi
+conectan
 propios
 particular
 podr
@@ -12642,6 +12649,8 @@ reduciendo
 reescrita
 rebota
 relevantes
+reloj
+recopiladas
 asociados
 ambas
 asegura
@@ -13563,6 +13572,9 @@ arrastre
 asimilar
 aleator
 arrojando
+archivo
+archivos
+arrendar
 La
 Los
 Luego
@@ -13935,6 +13947,7 @@ LUzH
 Landauer
 Lasagna
 Lunes
+LAN
 una
 un
 uno
@@ -15164,6 +15177,7 @@ Diesel
 Desviaci
 Domingo
 Discreto
+Desde
 importante
 invertible
 intentara
@@ -17665,6 +17679,9 @@ Colisiones
 Cuantas
 Continuo
 Capacidades
+Concurrencia
+Cloud
+Computing
 Jordan
 JV
 JD
@@ -18432,6 +18449,7 @@ TPi
 Tama
 Tasa
 Tomate
+Tracker
 Factorizando
 Factor
 Ft
@@ -18836,6 +18854,7 @@ Fvz
 FtIv
 Fluctuaci
 Flujos
+Fallas
 Normalmente
 Norma
 Notemos
@@ -20425,6 +20444,7 @@ Bcc
 BxQ
 BIq
 Bolztmann
+BitTorrent
 Vector
 Veamos
 Vale
@@ -22412,6 +22432,7 @@ Moore
 Martes
 Miercoles
 Mientra
+Metadata
 KHTML
 KC
 Kd

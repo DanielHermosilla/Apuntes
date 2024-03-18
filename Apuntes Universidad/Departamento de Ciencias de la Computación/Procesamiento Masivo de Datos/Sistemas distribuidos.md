@@ -24,4 +24,6 @@ Cuando existen muchas búsquedas, existe un sistema llamado *"Tracker"*, donde e
 
 ## En la vida real 
 
-Por lo general se ocupan máquinas recopiladas en una 
+Por lo general se ocupan máquinas recopiladas en un lugar central, por ejemplo, un servidor LAN local. 
+
+Por el otro lado, está *"Cloud Computing"*, donde se puede contratar servidores de otra región para poder computacional. Es como arrendar poder computacional. 
