@@ -30,3 +30,19 @@ $$\sum_{j:(i,j)\in A}x_{ij}-\sum_{k:(k,i)\in A}x_{ki}=b_i$$
 
 $$\min\sum_{(i,j)\in A}c_{ij}x_{ij}$$
 
+El problema es factible sí solo si: 
+
+$$\sum_{i\in V}b_j=0$$
+
+El problema a optimizar llegaría a ser: 
+
+$$\begin{aligned} & \min \sum_{(i, j) \in A} c_{i j} x_{i j} \\\\ & \sum_{\{j:(i, j) \in A\}} x_{i j}-\sum_{\{j:(j, i) \in A\}} x_{j i}=b(i) \quad \forall i \in V \\\\ & x_{i j} \leq u_{i j} \;\;\;\forall(i, j) \in A \\\\ & x_{i j} \geq 0 \;\;\;\forall(i, j) \in A\end{aligned}$$
+
+### Ejemplo 
+
+Una naviera tiene $v$ barcos iguales y para los proximos $p$ años necesita
+$d_i$ barcos para el año $i$. Si $r_i$ son los ingresos de un barco en el año $i$, si el
+ingreso por vender un barco el año $i$, y $h_i$ el costo de arrendar un barco
+por el año $i$, escriba un problema de flujo a costo mínimo que maximice
+ingresos en los próximos $p$ años.
+
