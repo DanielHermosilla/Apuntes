@@ -11,3 +11,17 @@ Existen tres propiedades principales de ésto:
 2. Fallas independientes 
 
 3. No hay un *"reloj global"*. 
+
+### BitTorrent 
+
+Un ejemplo de sistemas disstribuidos es *"BitTorrent"*, que funciona Peer-to-Peer pero también mediante un servidor. 
+
+Desde un equipo, se manda *"Metadata"* sobre quién posee el archivo. 
+
+![[Pasted image 20240318151941.png|center]]
+
+Cuando existen muchas búsquedas, existe un sistema llamado *"Tracker"*, donde el servidor que posee el archivo deja que un cliente descarge el archivo y el cliente se convierte en host al mandar los archivos. 
+
+## En la vida real 
+
+Por lo general se ocupan máquinas recopiladas en una 
