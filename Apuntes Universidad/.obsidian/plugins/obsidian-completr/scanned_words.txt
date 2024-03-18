@@ -17664,6 +17664,7 @@ CPU
 Colisiones
 Cuantas
 Continuo
+Capacidades
 Jordan
 JV
 JD
@@ -18834,6 +18835,7 @@ FuL
 Fvz
 FtIv
 Fluctuaci
+Flujos
 Normalmente
 Norma
 Notemos
@@ -23172,6 +23174,7 @@ GeP
 Glvg
 Gordon
 Gibss
+Grafos
 YO
 YlG
 YY
