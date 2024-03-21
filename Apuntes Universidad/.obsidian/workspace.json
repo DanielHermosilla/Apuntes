@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2d91b097b4769d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "787a158cdf59377b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Sistemas distribuidos.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Sistemas distribuidos.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Sistemas distribuidos.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Sistemas distribuidos.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md"
               }
             }
           },
@@ -195,8 +182,10 @@
   "active": "787a158cdf59377b",
   "lastOpenFiles": [
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Sistemas distribuidos.md",
-    "Pasted image 20240318151941.png",
-    "Pasted image 20240318143614.png",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
+    "Departamento de Ciencias de la Computación/img/Pasted image 20240318151941.png",
+    "Departamento de Ciencias de la Computación/img/Pasted image 20240318143614.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo/Problemas de flujos.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Maximal Covering.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo",
@@ -234,7 +223,6 @@
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización",
     "Departamento de Ciencias de la Computación/Python/Librerias/BeautifulSoup",
-    "Departamento de Ciencias de la Computación/Python/Web Scraping",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215121538.png",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215184350.png",
     "Departamento de Física/Termodinámica/img/Pasted image 20231215184217.png",
