@@ -25,3 +25,5 @@ r_{x y}=\frac{s_{x y}}{s_x \cdot s_y}
 $$
 
 Los otros llegarían a ser la mediana, moda, skewness, etc. 
+
+Cada estadístico es una **función de la muestra aleatoria obtenida** y por lo tanto, **también es una variable aleatoria**. De hecho, cada estadístico también tiene una distribución de probabilidad. 
