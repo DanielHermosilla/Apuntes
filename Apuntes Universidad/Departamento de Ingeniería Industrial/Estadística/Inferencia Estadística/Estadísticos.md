@@ -26,4 +26,25 @@ $$
 
 Los otros llegarían a ser la mediana, moda, skewness, etc. 
 
-Cada estadístico es una **función de la muestra aleatoria obtenida** y por lo tanto, **también es una variable aleatoria**. De hecho, cada estadístico también tiene una distribución de probabilidad. 
+Cada estadístico es una **función de la muestra aleatoria obtenida** y por lo tanto, **también es una variable aleatoria**. De hecho, cada estadístico también tiene una distribución de probabilidad.
+
+Dado que no es posible obtener muchos muestreos aleatorios para obtener estadísticos se pueden ocupar estimadores. 
+
+>[!example]  Estimadores 
+>
+>Un estimador $\hat{\theta}$ de $\theta$ es una **regla** que asigna a cada posible resultado de una muestra un valor aproximado de $\theta$. 
+>
+>Un *estimador punto* de $\theta$ puede expresarse como $\hat{\theta}=h(Y_1,Y_2,\dots Y_n)$ y una *estimación puntual* de $\theta$ como $\hat{\theta}=h(y_1,\dots,y_n)$. En este caso, $h$ sería la regla o función y siempre es la misma. 
+>
+>Por ejemplo, el promedio muestral $(\bar{y}=\frac{1}{n} \sum_{i=1}^n y_i)$ es un **estimador** del promedio poblacional $(\mu)$, independiente de la muestra tomada. 
+
+
+>[!example] Insesgamiento 
+>
+>Un estimador $\hat{\theta}$ es insesgado si el promedio o valor esperado de su distribución muestral es igual a $\theta$. Es decir: 
+>
+>$$E[\hat{\theta}]=\theta$$
+>
+>Formalmente, si $\hat{\theta}$ es insesgado, entonces $\text{Sesgo}[\hat{\theta}\;\vert\;\theta]=E[\hat{\theta}-\theta]=0$. 
+
+
