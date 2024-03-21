@@ -38,4 +38,4 @@ Solamente $\lbrace 1,2\rbrace , \lbrace 2,3\rbrace, \lbrace 1,3\rbrace$.
 
 Ahora si se extrapola a un [[Conjuntos|conjunto]] $A=\lbrace 1,2,\dots, n\rbrace$. ¿Cuantos subconjuntos de $k$ elementos existen? 
 
-Sería lo mismo a tomar todas las posibilidades de un [[Muestreo aleatorio|muestreo ordenado]] sin reemplazo pero dividido por $k!$. 
+Sería lo mismo a tomar todas las posibilidades de un [[Departamento de Ingeniería Industrial/Probabilidades/Conteo/Muestreo aleatorio|muestreo ordenado]] sin reemplazo pero dividido por $k!$. 

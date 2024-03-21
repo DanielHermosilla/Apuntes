@@ -10280,6 +10280,7 @@ pdf
 prob
 provee
 preguntas
+poblacionales
 Entonces
 EDO
 Esto
@@ -10755,6 +10756,7 @@ ESR
 Expulsi
 Einsten
 Efusi
+Especificar
 Ahora
 Aca
 Al
@@ -12651,6 +12653,7 @@ rebota
 relevantes
 reloj
 recopiladas
+receta
 asociados
 ambas
 asegura
@@ -15947,6 +15950,8 @@ imaginario
 iii
 icy
 idealizadas
+inferencia
+inferir
 ya
 yi
 yR
@@ -17682,6 +17687,7 @@ Capacidades
 Concurrencia
 Cloud
 Computing
+Chile
 Jordan
 JV
 JD
@@ -21566,6 +21572,7 @@ Ugm
 UBY
 Upy
 UHS
+Utilizar
 Integraci
 Intel
 Image
@@ -22802,6 +22809,7 @@ KBZSj
 KKom
 KbR
 Koomey
+Kenia
 Gecko
 GG
 GRw
