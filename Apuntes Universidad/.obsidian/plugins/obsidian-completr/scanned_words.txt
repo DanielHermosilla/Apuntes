@@ -7655,6 +7655,7 @@ transporte
 tov
 tbol
 tormo
+tarea
 valores
 vectores
 variaci
@@ -8198,6 +8199,7 @@ vhM
 vyp
 vAn
 vtc
+vertice
 caracter
 cuando
 como
@@ -11901,6 +11903,7 @@ modular
 molares
 metodol
 metodolog
+mando
 resolver
 rmula
 reducir
