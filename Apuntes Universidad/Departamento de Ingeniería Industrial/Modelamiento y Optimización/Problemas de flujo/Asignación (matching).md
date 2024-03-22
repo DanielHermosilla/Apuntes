@@ -26,4 +26,18 @@ Por lo tanto, se puede formular de la siguiente forma:
 
 $$\sum_{j\vert (i,j)\in A}x_{ij}-\sum_{k\vert (k,i)\in A}x_{ki}=0$$
 
-Sin embargo, los arcos que entr
+Sin embargo, los arcos que entran a $x_{ki}$ no existen, es un flujo constante hacia $V_2$. Así, se reduce a lo siguiente: 
+
+$$\begin{align}
+\sum_{j\vert (i,j)\in A}x_{ij}-\cancel{\sum_{k\vert (k,i)\in A}x_{ki}}&=0\\  \\
+\sum_{j\vert j\in V_2(i,j)\in A}x_{ij}&=s_i
+\end{align}$$
+
+Así, poniendo en contexto el problema, la sumatoria debería ser igual a la demanda del nodo de destino. Por lo tanto: 
+
+$$\sum_{i\in V_1(i,j)\in A}x_{ij}=d_j\;\;\;j\in V_2$$
+
+Ahora, en el caso que se plantea para los nodos en $V_2$, es decir, al conjunto que le **llega flujo**. 
+
+$$\sum_{j\vert (i,j)\in A}x_{ij}-\sum_{k\vert (k,i)\in A}x_{ki}=b_i\;\;\; i\in V_2$$
+
