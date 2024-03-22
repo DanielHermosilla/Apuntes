@@ -1845,6 +1845,7 @@ enfermero
 equipo
 estandarizaci
 estandarizada
+escriba
 siguiente
 sistema
 soluci
@@ -3189,6 +3190,7 @@ nucleares
 nombrarse
 ndrico
 necesitadas
+naviera
 homog
 homogenea
 hacen
@@ -4597,6 +4599,8 @@ bKg
 borrar
 barr
 bado
+barcos
+barco
 la
 las
 lo
@@ -10281,6 +10285,7 @@ prob
 provee
 preguntas
 poblacionales
+proximos
 Entonces
 EDO
 Esto
@@ -22810,6 +22815,7 @@ KKom
 KbR
 Koomey
 Kenia
+Kirchhoff
 Gecko
 GG
 GRw
