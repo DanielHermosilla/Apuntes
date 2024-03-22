@@ -10,7 +10,7 @@ Por lo general, $V_1$ es el conjunto de trabajadores y $V_2$ es el conjunto de t
 ![[IMG_6221431BB0D3-1.jpeg|center|500]] 
 
 
-La solución podría llegar a ser un emparejamiento de trabajadores tal que cada vertice incide en un sólo arco. 
+La solución podría llegar a ser un emparejamiento de trabajadores tal que cada vertice incide en un sólo arco.  De tal forma, la relación es $1:1$,  la tarea necesita a **un trabajador** y las tareas deben tener una **única asignación**. 
 
 Nuevamente, esto se resuelve con el [[Problemas de flujos|problema de flujo]], donde: 
 
@@ -41,3 +41,8 @@ Ahora, en el caso que se plantea para los nodos en $V_2$, es decir, al conjunto 
 
 $$\sum_{j\vert (i,j)\in A}x_{ij}-\sum_{k\vert (k,i)\in A}x_{ki}=b_i\;\;\; i\in V_2$$
 
+Por último, plantear que se puede hacer una especia de variable binaria donde
+
+$$\sum_{j\in V_2}x_{ij}=1$$
+
+Si existe un $j(i)$ tal que cumpla el trabajo. El resto valdría $0$. 
