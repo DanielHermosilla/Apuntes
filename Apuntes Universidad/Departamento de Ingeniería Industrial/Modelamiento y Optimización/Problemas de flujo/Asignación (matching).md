@@ -45,4 +45,8 @@ Por último, plantear que se puede hacer una especia de variable binaria donde
 
 $$\sum_{j\in V_2}x_{ij}=1$$
 
-Si existe un $j(i)$ tal que cumpla el trabajo. El resto valdría $0$. 
+Si existe un $j(i)$ tal que cumpla el trabajo. El resto valdría $0$.
+
+Se dira que $M$ es un **matching** en un grafo $G(V,A)$ si $M\subset A$ y $\forall i\in V:$
+
+$$\vert\delta(i)\cap M\vert\leq\vert\text{Arcos incidentes en i}\vert$$
