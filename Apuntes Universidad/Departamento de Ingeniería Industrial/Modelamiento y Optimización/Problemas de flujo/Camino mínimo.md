@@ -17,3 +17,35 @@ $$
 $$
 
 Leyendo la sumatoria en lenguaje natural, la primera sumatoria son los arcos que salen de $i$ y el segundo término serían los que entran a $i$. Se resuelve de la misma forma que cualquier [[Problemas de flujos|problema de flujo]]. 
+
+#### Ejemplo 
+
+Una compañia produce piezas de acero de largo $L_1<L_2<\dots<L_n$
+
+- Di es la demanda para barras de largo Li.
+- Ki : costo fijo para producir barras de largo Li
+- ci : costo variable por producir una barra de largo Li
+- Se puede satisfacer la demanda Di con barras de largo Di, Di+1,... Dn
+
+Por lo tanto, nos definimos las siguientes variables: 
+
+$$y_i=\begin{cases}
+1&\text{Si produzco barras}\;L_i\\ \\
+0&\text{Si no}\end{cases}$$
+
+Y también, para representar la cantidad de barras: 
+
+$$x_i=\text{Cantidad de barras}\;L_i$$
+
+Otra variable que representa la cantidad de $D_i$ satisfecha por $L_j$: 
+
+$$S_{ij}=\text{Cantidad de}\;D_i\;\text{satisfecha por}\;L_j$$
+
+Por lo tanto, la **restricción** para satisfacer la demanda llegaría a ser: 
+
+$$\begin{align}
+\sum^{n}_{j=i}S_{ij}&\geq D_i\\  \\
+X_i&=\sum^{i}_{k=1}S_{ki}\\  \\
+X_i&\leq My_i
+\end{align}$$
+
