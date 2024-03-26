@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md"
               }
             }
           },
@@ -181,6 +180,8 @@
   },
   "active": "787a158cdf59377b",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo/Camino mínimo.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo/Asignación (matching).md",
     "Departamento de Ciencias de la Computación/Algoritmos y Estructura de Datos/Tipos de datos abstractos/Grafos/Grafo.md",
@@ -191,7 +192,6 @@
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo/Problemas de flujos.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240322102034.png",
     "Departamento de Ingeniería Industrial/img/IMG_6221431BB0D3-1.jpeg",
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Sistemas distribuidos.md",
@@ -213,7 +213,6 @@
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Varianza de Suma de Variables Aleatorias.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/PDF marginal.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Esperanza condicional.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad condicional e independencia/Condicionando sobre un evento.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
     "Departamento de Ingeniería Industrial/Macroeconomía",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240314130430.png",

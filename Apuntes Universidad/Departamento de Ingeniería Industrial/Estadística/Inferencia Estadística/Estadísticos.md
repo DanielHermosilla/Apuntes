@@ -56,3 +56,10 @@ $$
 \operatorname{Var}[\bar{y}]=E\left[(\bar{y}-E[\bar{y}])^2\right]=E\left[\left(\frac{1}{n} \sum_{i=1}^n y_i-E[\bar{y}]\right)^2\right]=\frac{\sigma^2}{n}
 $$
 
+Otra forma de probar los estimadores es con el error cuadrático medio de los estimadores: 
+
+$$
+\operatorname{MSE}[\hat{\theta}]=E\left[(\hat{\theta}-\theta)^2\right]=\operatorname{Var}[\hat{\theta}]+(\operatorname{Sesgo}[\hat{\theta}])^2
+$$
+
+Lo que dice básicamente es, **usa el que tenga menor [[Departamento de Ingeniería Industrial/Probabilidades/Variable aleatoria discreta/Esperanza/Varianza|varianza]]**. 
