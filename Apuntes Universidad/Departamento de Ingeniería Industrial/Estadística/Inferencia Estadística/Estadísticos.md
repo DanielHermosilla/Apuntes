@@ -49,3 +49,10 @@ Dado que no es posible obtener muchos muestreos aleatorios para obtener estadís
 
 
 El insesgamiento no siempre es la mejor alternativa, ya que se podría tener le caso que se tome como estimador $\hat\theta=y_1$ con sólo una única observación. Se tendría un estimador totalmente insesgado pero se estarían dejando $n-1$ muestras. 
+
+De tal forma, se introduce la varianza del estimador. Mientras menor sea la varianza del estimador, mejor: 
+
+$$
+\operatorname{Var}[\bar{y}]=E\left[(\bar{y}-E[\bar{y}])^2\right]=E\left[\left(\frac{1}{n} \sum_{i=1}^n y_i-E[\bar{y}]\right)^2\right]=\frac{\sigma^2}{n}
+$$
+
