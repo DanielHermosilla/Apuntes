@@ -1874,6 +1874,9 @@ eWH
 erd
 elFo
 especia
+estimadores
+estimador
+estimaci
 siguiente
 sistema
 soluci
@@ -7768,6 +7771,7 @@ tmrj
 taQ
 tyo
 traslados
+tomada
 valores
 vectores
 variaci
@@ -10911,6 +10915,7 @@ EHS
 ESa
 ESjc
 EPy
+Estimadores
 Ahora
 Aca
 Al
@@ -12068,6 +12073,10 @@ mxoGo
 mP
 mnn
 matching
+muestral
+mediana
+moda
+muestreos
 resolver
 rmula
 reducir
@@ -13765,6 +13774,7 @@ aqt
 asau
 aQl
 aKf
+aproximado
 La
 Los
 Luego
@@ -16182,6 +16192,7 @@ ifuu
 ieV
 incH
 iGiwhq
+insesgado
 ya
 yi
 yR
@@ -22377,6 +22388,7 @@ Imms
 IDe
 IodH
 Ikh
+Insesgamiento
 MORE
 Mozilla
 Macintosh

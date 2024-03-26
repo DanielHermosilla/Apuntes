@@ -32,7 +32,7 @@ Dado que no es posible obtener muchos muestreos aleatorios para obtener estadís
 
 >[!example]  Estimadores 
 >
->Un estimador $\hat{\theta}$ de $\theta$ es una **regla** que asigna a cada posible resultado de una muestra un valor aproximado de $\theta$. 
+>Un estimador $\hat{\theta}$ de $\theta$ es una **regla** que asigna a cada posible resultado de una muestra un valor aproximado de $\theta$.  Un estimador también cae bajo la definición de [[Variable Aleatoria|variable aleatoria]].
 >
 >Un *estimador punto* de $\theta$ puede expresarse como $\hat{\theta}=h(Y_1,Y_2,\dots Y_n)$ y una *estimación puntual* de $\theta$ como $\hat{\theta}=h(y_1,\dots,y_n)$. En este caso, $h$ sería la regla o función y siempre es la misma. 
 >

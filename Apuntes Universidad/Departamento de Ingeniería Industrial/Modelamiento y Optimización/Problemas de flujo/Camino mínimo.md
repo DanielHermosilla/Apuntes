@@ -49,3 +49,4 @@ X_i&=\sum^{i}_{k=1}S_{ki}\\  \\
 X_i&\leq My_i
 \end{align}$$
 
+ 
