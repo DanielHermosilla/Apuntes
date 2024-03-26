@@ -48,3 +48,4 @@ Dado que no es posible obtener muchos muestreos aleatorios para obtener estadís
 >Formalmente, si $\hat{\theta}$ es insesgado, entonces $\text{Sesgo}[\hat{\theta}\;\vert\;\theta]=E[\hat{\theta}-\theta]=0$. 
 
 
+El insesgamiento no siempre es la mejor alternativa, ya que se podría tener le caso que se tome como estimador $\hat\theta=y_1$ con sólo una única observación. Se tendría un estimador totalmente insesgado pero se estarían dejando $n-1$ muestras. 
