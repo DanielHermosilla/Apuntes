@@ -1,7 +1,7 @@
 
-# Pregunta $1$ ($3$ puntos)
+# Pregunta 1 (3 puntos)
 
-### Función diasMes $(1.0)$ puntos: 
+### Función diasMes (1.0) puntos: 
 
 - Receta de diseño $(0.2)$: (Contrato+objetivo$(0.1)$, ejemplo+prueba$(0.1)$)
 
@@ -12,7 +12,7 @@
 - `assert(diasMes(2,120) == 29)` $(0.3)$
 
 
-###  Función esFecha $(1.0)$ puntos: 
+###  Función esFecha (1.0) puntos: 
 
 - Receta de diseño $(0.2)$: (Contrato+objetivo$(0.1)$, ejemplo+prueba$(0.1)$)
 
@@ -20,7 +20,7 @@
 
 - `assert(esFecha(28,3,2027) == True)` $(0.4)$ 
 
-### Programa $(1.0)$ puntos
+### Programa (1.0) puntos
 
 - $(0.3)$ puntos:
 ```python 
@@ -44,9 +44,9 @@ Fecha 2? 20250229
 Fecha incorrecta 
 ```
 
-# Pregunta $2$ ($3$ puntos)
+# Pregunta 2 (3 puntos)
 
-### Función producto $(1.5)$ puntos: 
+### Función producto (1.5) puntos: 
 
 - Receta de diseño $(0.2)$: (Contrato+objetivo$(0.1)$, ejemplo+prueba$(0.1)$)
 
@@ -56,7 +56,7 @@ Fecha incorrecta
 
 - Descontar $(0.5)$ si no ocupa recursividad
 
-### Función factorial $(1.5)$ puntos: 
+### Función factorial (1.5) puntos: 
 
 - Receta de diseño $(0.2)$: (Contrato+objetivo$(0.1)$, ejemplo+prueba$(0.1)$)
 
