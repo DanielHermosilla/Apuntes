@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md"
               }
             }
           },
@@ -181,8 +180,9 @@
   },
   "active": "787a158cdf59377b",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
     "Departamento de Ingeniería Industrial/Estadística/Estadística Aplicada.md",
     "Departamento de Ingeniería Industrial/Estadística/Variable Aleatoria.md",
@@ -214,7 +214,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución Normal.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de Gammas.md",
     "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Función Generadora de Momento.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Probabilidad conjunta continua/Función de Densidad Conjunta.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
     "Departamento de Ingeniería Industrial/Macroeconomía",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240314130430.png",
