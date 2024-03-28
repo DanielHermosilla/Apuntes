@@ -1877,6 +1877,8 @@ especia
 estimadores
 estimador
 estimaci
+estandarizar
+estimarlo
 siguiente
 sistema
 soluci
@@ -3233,6 +3235,7 @@ ngJXo
 ngW
 nlt
 nlQc
+nticamente
 homog
 homogenea
 hacen
@@ -4672,6 +4675,7 @@ byE
 bqgb
 baQ
 binaria
+bivariada
 la
 las
 lo
@@ -7772,6 +7776,7 @@ taQ
 tyo
 traslados
 tomada
+tomadas
 valores
 vectores
 variaci
@@ -9534,6 +9539,7 @@ cÜ
 cqjX
 cqj
 cLn
+cuasivarianza
 propios
 particular
 podr
@@ -10426,6 +10432,8 @@ proximos
 pMor
 pfy
 poniendo
+probabil
+provienen
 Entonces
 EDO
 Esto
@@ -11393,6 +11401,7 @@ ABl
 AMHD
 AIyu
 AtV
+Aleatoria
 matriz
 metros
 mero
@@ -12077,6 +12086,7 @@ muestral
 mediana
 moda
 muestreos
+multivariada
 resolver
 rmula
 reducir
@@ -12843,6 +12853,7 @@ rMq
 rhz
 rKu
 rkmc
+realizaciones
 asociados
 ambas
 asegura
@@ -13775,6 +13786,8 @@ asau
 aQl
 aKf
 aproximado
+aleatoriamente
+asignan
 La
 Los
 Luego
@@ -14595,6 +14608,7 @@ uYq
 uyax
 uCE
 uay
+univariada
 Wronskiana
 We
 Width
@@ -15407,6 +15421,7 @@ DyjS
 DtmCT
 DGP
 DKj
+Discreta
 importante
 invertible
 intentara
@@ -16193,6 +16208,7 @@ ieV
 incH
 iGiwhq
 insesgado
+insesgamiento
 ya
 yi
 yR
@@ -17967,6 +17983,8 @@ Chile
 CjytVq
 CmB
 Camino
+Conocemos
+Continua
 Jordan
 JV
 JD
@@ -21182,6 +21200,7 @@ VMI
 VPi
 VbH
 Vde
+Variable
 Queda
 QO
 QRG
@@ -22389,6 +22408,7 @@ IDe
 IodH
 Ikh
 Insesgamiento
+Importante
 MORE
 Mozilla
 Macintosh
