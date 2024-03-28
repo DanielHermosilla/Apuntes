@@ -1,6 +1,10 @@
 
 Dado que no se conoce el parámetro poblacional $\mu_y$ que se quiere estudiar, se puede decir que tán cerca está $\mu_y$ en un determinado rango, y decir que tán cerca está *probabilísticamente* $\bar{y}$ de $\mu_y$. La lógica detrás del intervalo de confianza es utilizar un intervalo tal que existe un cierto nivel de probabilidad que contenga a $\mu_y$. 
 
+Se define de la siguiente forma: 
+
+$$C(\bar{y})=\bar{y}\pm z_{1-\frac{\alpha}{2}}\cdot SE(\bar{y})$$ 
+Donde $z$ es el valor que determina el investigador de confianza. 
 #### Ejemplo 
 
 Supongamos que $Y \sim N\left(\mu_y, \sigma_y^2\right)$, y que el parámetro $\sigma_y^2$ es conocido. Conocemos fácilmente la media muestral $\bar{y} \sim N\left(\mu_y, \frac{\sigma_y^2}{n}\right)$. Con esto podemos estandarizar $\bar{y}$, obteniendo:
