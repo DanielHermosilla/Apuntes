@@ -16,3 +16,7 @@ Una solución gráfica se vería de la siguiente forma:
 ![[Pasted image 20240401102224.png|center|900]]
 
 
+Por lo tanto, nos definimos la curva de nivel $\alpha$ como: 
+
+$$\lbrace x\;\vert\; f(x)=\alpha\rbrace$$
+
