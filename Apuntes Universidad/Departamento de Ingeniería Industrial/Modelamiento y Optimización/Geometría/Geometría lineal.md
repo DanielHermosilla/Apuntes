@@ -51,3 +51,40 @@ z
 0
 \end{pmatrix}$$
 
+Como se quiere llegar a la formulación estándar: 
+
+$$\begin{align}
+\min c^Tx&\\ \\
+Ax&=b\\  \\
+x&\geq 0
+\end{align}$$
+
+Para poder llegar a la igualdad, se agrega una *variable de holgura*. En ese sentido, me defino $s\geq0$ y las ecuaciones llegarían a ser: 
+
+$$\begin{align}
+3x+7y-2x&=4\\  \\
+x-y+z+s&=2\\  \\
+x\geq0\;\land\;s\geq 0
+\end{align}$$
+
+O, por el otro lado, se pueden definir lo siguiente: 
+
+$$\begin{align}
+y&=y^+-y^-\;\;\;\;\;\;\;\;y^+, y^-\geq 0\\  \\
+\vdots&=\vdots\\  \\
+x&=x^+-x^-
+\end{align}$$
+
+Por lo tanto, 
+
+$$\begin{align}
+3x+7y^+-7y^--2z^++2z^-&=4\\  \\
+x-y^++y^-+z^+-z^-+s&=2
+\end{align}$$
+
+Con todas las variables mayores o iguales a cero. En este caso, la matriz $A$ cambia a lo siguiente: 
+
+$$\begin{pmatrix}
+3 & 7 & -7 & -2 & 2 & 0 \\
+1 & -1 & 1 & 1 & -1 & 1
+\end{pmatrix}$$
