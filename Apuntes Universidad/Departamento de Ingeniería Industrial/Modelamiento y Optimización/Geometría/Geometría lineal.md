@@ -20,3 +20,34 @@ Por lo tanto, nos definimos la curva de nivel $\alpha$ como:
 
 $$\lbrace x\;\vert\; f(x)=\alpha\rbrace$$
 
+Esto sale que cualquier problema se puede escribir como $\min c^Tx\;:\;Ax\geq b, x\geq 0$. Por lo tanto, $c^Tx=\alpha$, donde la curva de nivel es perpendicular a $c$. 
+
+La curva de nivel en $\mathbb{R}^2$ sería una recta, en $\mathbb{R}^3$ es una cara, y así sucesivamente. 
+
+### Ejemplo 
+
+$$\begin{align}
+3x+7y-2x&=4\\  \\
+x-y+z&\geq 2\\  \\
+-x+y-z&\geq -2\\  \\
+x&\geq 0
+\end{align}$$
+
+Esto es lo mismo a escribir: 
+
+$$\begin{pmatrix}
+3 & 7 & -2 \\
+-3 & -7 & 2 \\
+-1 & 1 & -1 \\
+1 & 0 & 0
+\end{pmatrix}\begin{pmatrix}
+x \\
+y \\
+z
+\end{pmatrix}\geq\begin{pmatrix}
+4 \\
+-4 \\
+-2 \\
+0
+\end{pmatrix}$$
+
