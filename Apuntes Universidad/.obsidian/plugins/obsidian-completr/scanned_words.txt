@@ -6545,6 +6545,7 @@ deV
 dxZky
 denas
 destino
+descartar
 forma
 filas
 factor
@@ -9540,6 +9541,7 @@ cqjX
 cqj
 cLn
 cuasivarianza
+conforme
 propios
 particular
 podr
@@ -12087,6 +12089,7 @@ mediana
 moda
 muestreos
 multivariada
+meojra
 resolver
 rmula
 reducir
@@ -16209,6 +16212,7 @@ incH
 iGiwhq
 insesgado
 insesgamiento
+insesgados
 ya
 yi
 yR
