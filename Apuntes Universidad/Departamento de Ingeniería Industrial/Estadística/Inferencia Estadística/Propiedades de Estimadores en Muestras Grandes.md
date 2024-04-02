@@ -28,12 +28,50 @@ Así, se establece la diferencia entre ser insesgado y la consistencia, ya que e
 
 >[!cite] Teorema 
 >Si $X_n$ es un estimador insesgado de $\theta$ y su varianza converge en probabilidad a $0$ cuando $n\to\infty$, entonces $p\lim X_n=\theta$ y por lo tanto, $X_n$ es un estimador consistente de $\theta$. 
+>
+>Esto es **una forma de probar inconsistencia** (*pero hay más*).
 
 
+Esto, en su forma lógica, se dice de la siguiente forma: 
+
+$$\hat{\theta}\;\text{insesgado}\;\land\;p\lim(Var(\hat{\theta}))=0\iff p\lim(\hat{\theta})=\theta\iff\hat{\theta}\;\text{estimador consistente}$$
+
+>[!cite] Teorema: Ley de los Grandes Números (LLN)
+>Sea $\lbrace X_i\rbrace^{n}_{i=1}$ una muestra i.i.d, con $E[X_i]=\mu<\infty$ y $Var[X_i]=\sigma^2<\infty$. Luego, $X=\frac{1}{n}\sum^{n}_{i=1}X_i$ es un estimador consistente de $\mu$. 
+
+>[!example] Convergencia en distribución 
+>Sea $X_n$ una secuencia de variable aleatorias con $X_n\sim F_n(\cdot)$ y $X$ una variable aleatoria con distribución $f(\cdot)$. Si para cada $x$ tenemos que $f(x)$ es continua y $f_n(x)\to_{n\to\infty}f(x)$, entonces decimos que $X_n$ converge en distribución a $X$, y se escribe $X_n\to_d X$. 
+>
+>- Por ejemplo, la distribución *t-student* converge a una Normal Estándar cuando los grados de libertad crece al infinito. 
 
 
+## Propiedades para operar con límites 
+
+#### Slutsky: Parte 1 
+
+Si $X_n$ es una variable aleatoria tal que: 
+
+- $p\lim X_n=c$
+- $g(X_n)$ es una función continua y diferenciable 
+- $g(X_n)$ no depende de $n$
+
+Entonces: 
+
+$$p\lim g(X_n)=g(p\lim X_n)$$
+
+Además, si $X_n$ y $Y_n$ son dos variables aleatorias con ímites de probabilidad $\theta$ y $\mu$ respectivamente, entonces: 
+
+1. $p\lim(X_n\pm Y_n)=\theta\pm\mu$
+2. $p\lim(X_n\cdot Y_n)=\theta\cdot\mu$
+3. $p\lim\left(\frac{X_n}{Y_n}\right)=\frac{\theta}{\mu}$
+4. En general, $p\lim (g(X_n, Y_n))=g(\theta, \mu)$ 
+
+#### Slutzky: Parte 2 
 
 
+Sea $X_n$ una variable aleatoria tal que: 
 
+- $X_n\to X$
+- $$
 
 
