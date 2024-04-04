@@ -15,3 +15,13 @@ Cuando se hacen test de hipótesis, es posible cometer dos errores:
 
 $$Pr(\bar{X_n}>k\vert H_0)=Pr(\text{Rechazar}\;H_0\;\vert\;H_0\;\text{es verdadera})$$ 
 2. **Tipo 2**: No rechazar la hipótesis nula cuando la hipótesis nula es falsa. 
+
+### Conceptos Generales 
+
+- **Significancia estadística**: 
+
+$$Pr(\text{Rechazar}\;H_0\;\vert\;H_0\;\text{Es verdadera})=Pr(\text{Error tipo 1})=\alpha$$
+
+- **Poder:**
+
+$$Pr(\text{No rechazar}\;H_0\;\vert\;H_1\text{Es verdadera})=Pr(\text{Error tipo 2})=1-\beta$$
