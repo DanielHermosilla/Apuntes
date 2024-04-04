@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md"
               }
             }
           },
@@ -181,8 +180,10 @@
   },
   "active": "787a158cdf59377b",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
+    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
+    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
     "Departamento de Ingeniería Industrial/Estadística/Esperanza.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribución Conjunta.md",
     "Departamento de Ingeniería Industrial/Estadística/Desviación Estándar.md",
@@ -218,7 +219,6 @@
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240318104948.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/P-centering.md",
-    "Departamento de Ingeniería Industrial/Probabilidades/Probabilidad conjunta/Suma de variables aleatorias.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
     "Departamento de Ingeniería Industrial/Macroeconomía",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240314130430.png",
@@ -226,7 +226,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares",
     "Departamento de Ingeniería Industrial/Estadística",
-    "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Juego Evolutivos.canvas"
   ]
 }

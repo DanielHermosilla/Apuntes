@@ -106,3 +106,4 @@ De esto se puede decir que $\sqrt{n}(\bar{X_n}-\mu)$ se aproxima a una Normal *i
 
 Supongamos que se tiene una variable aleatoria $A$ que converge a otra $B$, pero no se sabe la distribución de $B$. Entonces por el CLT se puede transformar en $\sqrt{n}(B-\mu)$ tal que la distribución límite de $\sqrt{n}(B-\mu)$ tiene una media y varianza conocida. Luego, se puede descomponer la distribución de $B$
 
+La mayoría de los estimadores pueden ser escritos como funciones del promedio muestral. Se dice que un estimador es **asintóticamente eficiente** si la varianza distribuye asintótica de cualquier otro estimador consistente que se distribuye asintóticamente normal excede a $\frac{\text{Var}[\theta]}{n}$. 
