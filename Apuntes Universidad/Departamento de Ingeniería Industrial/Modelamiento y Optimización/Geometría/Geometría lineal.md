@@ -131,7 +131,7 @@ $$P=\bigcap_{i=\lbrace 1,\dots, m\rbrace}\lbrace x\;\vert\; a^{T}_{i}x\geq b_i\r
 
 - **Teorema de representación:** Un polítopo (polihedro acotado) es la envoltura convexa de sus *"esquinas*
 
-### Definiciones de *"esquinas* 
+### Definiciones de *"esquinas"* 
 
 Dado un polihedro $P=\lbrace x\;\vert\; Ax\geq b\rbrace$ $x$ tiene dimensión $n$. 
 
@@ -145,6 +145,8 @@ Definiendo $l(x)$ el conjunto de restricciones activas en $x$.
 
 $$I(x)=\lbrace i\;\vert\;a^{T}_{i}x=b_i\rbrace$$
 
-- **$x$ es solución básica de $P$** si $\lbrace a_i\rbrace_{i\in I(x)}$ tiene $n$ vectores [[dependencia|linealmente independientes]]. 
+- **$x$ es solución básica de $P$** si $\lbrace a_i\rbrace_{i\in I(x)}$ tiene $n$ vectores [[dependencia|linealmente independientes]]. Por lo tanto, bastaría probar que los vectores forman una base, es decir: 
+
+$$\langle S\rangle =\left\lbrace\sum \lambda_i x_i\;\vert\; x_i\in S\right\rbrace$$
 
 - $x$ **es solución básica factible de** $P$ si es una solución básica y factible. 
