@@ -128,3 +128,23 @@ $$\text{Conv}(S)=\text{ch}(S)=\left\lbrace\sum^{k}_{i=1}\lambda_i x^i\;\vert\; x
 
 - Un polihedro es convexo si: 
 $$P=\bigcap_{i=\lbrace 1,\dots, m\rbrace}\lbrace x\;\vert\; a^{T}_{i}x\geq b_i\rbrace$$
+
+- **Teorema de representación:** Un polítopo (polihedro acotado) es la envoltura convexa de sus *"esquinas*
+
+### Definiciones de *"esquinas* 
+
+Dado un polihedro $P=\lbrace x\;\vert\; Ax\geq b\rbrace$ $x$ tiene dimensión $n$. 
+
+- $x$ **es un vértica de $P$** si existe $c$ tal que $x$ es la única solución optima: 
+
+$$\min c^{T}_{y}\;\vert\; y\in P$$
+- $x$ **es un punto extremo de $P$** si no existen $y,z\in P$ tal que $y,z\neq x$ y $\lambda\in (0,1)$ tal que 
+
+$$x=\lambda y+(1-\lambda)z$$
+Definiendo $l(x)$ el conjunto de restricciones activas en $x$. 
+
+$$I(x)=\lbrace i\;\vert\;a^{T}_{i}x=b_i\rbrace$$
+
+- **$x$ es solución básica de $P$** si $\lbrace a_i\rbrace_{i\in I(x)}$ tiene $n$ vectores [[dependencia|linealmente independientes]]. 
+
+- $x$ **es solución básica factible de** $P$ si es una solución básica y factible. 

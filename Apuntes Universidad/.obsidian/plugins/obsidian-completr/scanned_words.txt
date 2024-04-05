@@ -507,6 +507,8 @@ PVS
 PYXXYA
 PvQ
 Pj
+Polihedro
+Politopo
 Resolver
 Realizando
 Reemplazando
@@ -1882,6 +1884,7 @@ estandarizar
 estimarlo
 eNT
 emV
+envoltura
 siguiente
 sistema
 soluci
@@ -2692,6 +2695,7 @@ suministro
 sfyT
 sucede
 student
+semiespacios
 no
 neo
 nea
@@ -4203,6 +4207,7 @@ SqTb
 StM
 Slutsky
 Slutzky
+Semiespacio
 buscando
 busco
 buscamos
@@ -9563,6 +9568,9 @@ cqj
 cLn
 cuasivarianza
 conforme
+conveso
+convexos
+convexo
 propios
 particular
 podr
@@ -10460,6 +10468,7 @@ provienen
 pPq
 psm
 psS
+polihedro
 Entonces
 EDO
 Esto
@@ -12885,6 +12894,7 @@ realizaciones
 rjd
 rJI
 rzui
+rtica
 asociados
 ambas
 asegura
@@ -13819,6 +13829,7 @@ aKf
 aproximado
 aleatoriamente
 asignan
+activas
 La
 Los
 Luego
@@ -15457,6 +15468,7 @@ DtmCT
 DGP
 DKj
 Discreta
+Definiendo
 importante
 invertible
 intentara
@@ -17157,6 +17169,7 @@ osK
 oWF
 ozeL
 ocnsistente
+optima
 wronskiana
 www
 wF
@@ -25159,6 +25172,7 @@ HYA
 Hap
 Hqx
 HKkL
+Hiperplano
 jkk
 jF
 jw
