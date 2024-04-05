@@ -126,4 +126,5 @@ Básicamente, si no es posible formar dos puntos dentro de un conjunto tal que a
 
 $$\text{Conv}(S)=\text{ch}(S)=\left\lbrace\sum^{k}_{i=1}\lambda_i x^i\;\vert\; x^1,\dots,x^k\;\in S,\sum^{K}_{i=1}\lambda_i=1,\lambda_1,\dots,\lambda_k\geq 0\right\rbrace$$
 
-
+- Un polihedro es convexo si: 
+$$P=\bigcap_{i=\lbrace 1,\dots, m\rbrace}\lbrace x\;\vert\; a^{T}_{i}x\geq b_i\rbrace$$
