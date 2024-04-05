@@ -110,4 +110,20 @@ $$\min c^Tx. Ax\geq b$$
 $$P=\lbrace x\;\vert\; Ax\geq b\rbrace = \bigcap_{i=\lbrace 1,\dots m\rbrace}\lbrace x\;\vert\;a^{T}_{i}x\geq b_i\rbrace$$ 
 - $C$ es **conjunto acotado** si existe $K$ tal que $\vert x_i\vert\leq K$ para todo $x\in C$, todo $i$. (Básicamente, si existe una [[Norma en varias variables|norma]]) 
 
-- **Politopo** es un polihedro acotado. 
+- **Politopo** es un polihedro acotado.
+
+![[IMG_C8C1FF3E5564-1.jpeg|center|600]] 
+
+- $C$ es un **conjunto conveso** si para todo $x,y \in C$ y $\lambda\in [0,1]$, se tiene que: 
+
+$$\lambda x + (1-\lambda)y\;\;\in C$$
+
+Básicamente, si no es posible formar dos puntos dentro de un conjunto tal que al formar una línea no sale del conjunto. En el mundo entero, siempre se tiene que son problemas no convexos. 
+
+- Dado $x^1, \dots, x^k$ y $\lambda_1, \dots,\lambda_k\geq 0$ tal que $\sum^{k}_{i=1}\lambda_i=1$, la **combinación convexa** de $x^1,\dots x^k$ es $y=\sum^{k}_{i=1}\lambda_ix^i$. 
+
+- Dado conjunto $S$, la **envoltura convexa** de $S$ es: 
+
+$$\text{Conv}(S)=\text{ch}(S)=\left\lbrace\sum^{k}_{i=1}\lambda_i x^i\;\vert\; x^1,\dots,x^k\;\in S,\sum^{K}_{i=1}\lambda_i=1,\lambda_1,\dots,\lambda_k\geq 0\right\rbrace$$
+
+
