@@ -88,3 +88,26 @@ $$\begin{pmatrix}
 3 & 7 & -7 & -2 & 2 & 0 \\
 1 & -1 & 1 & 1 & -1 & 1
 \end{pmatrix}$$
+
+## Definiciones 
+
+Dado una función objetivo: 
+
+$$\min c^Tx. Ax\geq b$$
+
+- $x$ es **solución factible** si $Ax\geq b$. 
+
+- $x$ es **solución óptima** si es factible y $c^Tx\leq c^Ty$ para todo y solución factible: 
+
+- $P=\lbrace x\;\vert\; Ax\geq b\rbrace$ es la **región factible**. 
+
+- **Hiperplano**: $\lbrace x\;\vert\; a^Tx=b\rbrace$
+
+- **Semiespacio**: $\lbrace x\;\vert\;a^Tx\geq b\rbrace$
+
+- **Polihedro**: Intersección finita de semiespacios: 
+
+$$P=\lbrace x\;\vert\; Ax\geq b\rbrace = \bigcap_{i=\lbrace 1,\dots m\rbrace}\lbrace x\;\vert\;a^{T}_{i}x\geq b_i\rbrace$$ 
+- $C$ es **conjunto acotado** si existe $K$ tal que $\vert x_i\vert\leq K$ para todo $x\in C$, todo $i$. (Básicamente, si existe una [[Norma en varias variables|norma]]) 
+
+- **Politopo** es un polihedro acotado. 

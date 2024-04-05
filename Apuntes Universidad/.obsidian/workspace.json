@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md"
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "787a158cdf59377b",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Untitled.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
     "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
+    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
@@ -191,7 +193,6 @@
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145623.png",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Apache Pig.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145848.png",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240401102224.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md",
@@ -216,7 +217,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240318151941.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240318143614.png",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Maximal Covering.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240318104948.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
