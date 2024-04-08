@@ -1885,6 +1885,7 @@ estimarlo
 eNT
 emV
 envoltura
+escoge
 siguiente
 sistema
 soluci
@@ -7114,6 +7115,8 @@ fbsn
 fmuF
 ffm
 finitas
+formalizaci
+factibles
 tanto
 tiene
 tal
@@ -10469,6 +10472,8 @@ pPq
 psm
 psS
 polihedro
+poliedro
+poliedros
 Entonces
 EDO
 Esto
@@ -10959,6 +10964,7 @@ ESa
 ESjc
 EPy
 Estimadores
+Escribir
 Ahora
 Aca
 Al
@@ -13830,6 +13836,7 @@ aproximado
 aleatoriamente
 asignan
 activas
+all
 La
 Los
 Luego
@@ -16259,6 +16266,7 @@ insesgamiento
 insesgados
 ieQQ
 iwrF
+intersecte
 ya
 yi
 yR
@@ -20095,6 +20103,7 @@ gYF
 gpF
 gVm
 glYi
+graficarlos
 Otra
 OPTIONS
 OS
@@ -22473,6 +22482,7 @@ IodH
 Ikh
 Insesgamiento
 Importante
+Invente
 MORE
 Mozilla
 Macintosh
