@@ -149,4 +149,14 @@ $$I(x)=\lbrace i\;\vert\;a^{T}_{i}x=b_i\rbrace$$
 
 $$\langle S\rangle =\left\lbrace\sum \lambda_i x_i\;\vert\; x_i\in S\right\rbrace$$
 
-- $x$ **es solución básica factible de** $P$ si es una solución básica y factible. 
+- $x$ **es solución básica factible de** $P$ si es una solución básica y factible, vale decir, la solución **cumple las restricciones**.
+
+Así, para un poliedro se tienen las siguientes equivalencias: 
+
+$$\text{x es un vértice de P}\;\iff\;\text{x es un punto extremo de P}\;\iff\;\text{x es solución básica factible de P}$$
+
+Además, si $P$ es un poliedro no vacio, entonces: 
+
+$$\text{P tiene SBF}\iff\text{P no contiene lineas}$$
+
+$d$ es una línea de $P$ si $x+\lambda d\in P$ para todo $\lambda$. Básicamente, no poder formar una línea infinita dentro del poliedro sin que intersecte con los vértices. 
