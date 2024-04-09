@@ -2697,6 +2697,7 @@ sfyT
 sucede
 student
 semiespacios
+shuffle
 no
 neo
 nea
@@ -5255,6 +5256,7 @@ lCE
 lLux
 lace
 lpw
+lazy
 que
 quiere
 qk
@@ -14662,6 +14664,7 @@ uay
 univariada
 uGiI
 uhcD
+underlined
 Wronskiana
 We
 Width
@@ -25183,6 +25186,7 @@ Hap
 Hqx
 HKkL
 Hiperplano
+Hadoop
 jkk
 jF
 jw
