@@ -23,3 +23,22 @@ $$t=T(X)=\frac{\bar{X_n}-\mu_0}{\sigma /\sqrt{n}}$$
 
 4. Definimos un nivel de significancia en algunos valores tradicionales 
 
+## Dualidad con intervalos de confianza
+
+Supongamos que tenemos las siguientes hipótesis: 
+
+$$\begin{align}
+H_0\;:\;\mu&=\mu_0\\  \\
+H_1\;:\;\mu&\neq\mu_0
+\end{align}$$
+
+El siguiente test debe tener un nivel de significancia $\alpha$. 
+
+Por lo tanto; 
+
+1. Obtenemos el intervalo de confianza de $1-\alpha\%$ para $\mu$: 
+
+$$\bar{X}\pm z_{\alpha/2}\frac{\sigma}{\sqrt{n}}$$
+
+2. Rechazamos la nula si el intervalo de confianza no contiene a $\mu_0$. 
+
