@@ -42,3 +42,14 @@ $$\bar{X}\pm z_{\alpha/2}\frac{\sigma}{\sqrt{n}}$$
 
 2. Rechazamos la nula si el intervalo de confianza no contiene a $\mu_0$. 
 
+## Test de $t$-medias 
+
+Considerando dos poblaciones distribuidas normalmente con $X\sim N(\mu_x, \sigma^{2}_{x})$ y $Y\sim N(\mu_y, \sigma^{2}_{y})$, queremos saber si las dos poblaciones después de $n$ observaciones tienen la misma media. 
+
+Por lo tanto, se tiene el siguiente test de hipótesis: 
+
+$$º\begin{align} 
+H_0\;:\;\mu_x=\mu_y&\iff\mu_x-\mu_y=0\\  \\
+H_1\;:\;\mu_x\neq\mu_y&\iff\mu_x-\mu_y\neq 0
+\end{align}$$
+
