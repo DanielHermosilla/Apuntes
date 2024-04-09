@@ -18,10 +18,22 @@ $$Pr(\bar{X_n}>k\vert H_0)=Pr(\text{Rechazar}\;H_0\;\vert\;H_0\;\text{es verdade
 
 ### Conceptos Generales 
 
-- **Significancia estadística**: 
+- **Significancia estadística**: El nivel de confianza para cometer el error tipo $1$, vale decir, rechazar la nula dado que la nula es verdadera. 
 
 $$Pr(\text{Rechazar}\;H_0\;\vert\;H_0\;\text{Es verdadera})=Pr(\text{Error tipo 1})=\alpha$$
 
-- **Poder:**
+- **Poder:** La probabilidad de no rechazar la nula dado que la hipotesis verdadera es verdadera. 
 
 $$Pr(\text{No rechazar}\;H_0\;\vert\;H_1\text{Es verdadera})=Pr(\text{Error tipo 2})=1-\beta$$
+
+- **Distribución de la nula**: La distribución del estadístico $T(X)$ cuando $H_0$ es verdadera, con el estadístico $T(X)$ siendo: 
+
+$$T(X)=\frac{\bar{X_n}-\mu_0}{\sigma/\sqrt{n}}$$
+
+Así, la dstribución nula nos puede ayudar a calcular el nivel de significancia del test, donde: 
+
+$$\begin{align}
+P_r(\text{Error tipo I})&=1-\Phi\left(\frac{k-\mu_0}{\sigma/\sqrt{n}}\right)\\  \\
+P_r(\text{Error tipo II})&=\Phi\left(\frac{k-\mu_1}{\sigma/\sqrt{n}}\right)
+\end{align}$$
+

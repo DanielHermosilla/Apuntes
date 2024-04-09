@@ -509,6 +509,7 @@ PvQ
 Pj
 Polihedro
 Politopo
+Poder
 Resolver
 Realizando
 Reemplazando
@@ -4210,6 +4211,7 @@ StM
 Slutsky
 Slutzky
 Semiespacio
+Significancia
 buscando
 busco
 buscamos
@@ -7119,6 +7121,7 @@ ffm
 finitas
 formalizaci
 factibles
+favor
 tanto
 tiene
 tal
@@ -8362,6 +8365,7 @@ vsI
 vBak
 vwa
 vrL
+verdadera
 caracter
 cuando
 como
@@ -12903,6 +12907,8 @@ rjd
 rJI
 rzui
 rtica
+rechazamos
+rechazar
 asociados
 ambas
 asegura
@@ -20506,6 +20512,8 @@ OSW
 OZn
 Oog
 OIzM
+Obtener
+Observan
 Be
 BA
 Bt
@@ -23708,6 +23716,7 @@ Geo
 Gfq
 Grd
 GxL
+Generales
 YO
 YlG
 YY
