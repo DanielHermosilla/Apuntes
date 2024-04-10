@@ -31,6 +31,30 @@ Dado un conjunto $S$ cualquiera, su envoltura convexa es:
 
 $$\text{Conv}(S)=\left\lbrace\sum^{k}_{i=1}\lambda_i x_i:x_1,\dots, x_k\in S,\sum^{k}_{i=1}\lambda_i=1,\;\lambda_i\geq 0\;\forall i=1,\dots, k\right\rbrace$$
 
+## Punto extremo 
+
+Sea $P$ un poliedro. Un punto $x\in P$ es un **punto extremo** de $P$ si no puede ser expresado como una combinación convexa de otros dos puntos del poliedro. 
+
+$$\nexists y,z\in P\backslash\lbrace x\rbrace, \lambda\in [0,1]:\;\;x=\lambda y+(1-\lambda)z$$
 
 
+## Vértice 
+
+Sea $P\subseteq\mathbb{R}^n$ un poliedro. Un punto $x\in P$ se dice vértice si existe $c\in\mathbb{R}^n$ tal que $c^Tx<c^Ty$ y para todo $y\in P\backslash\lbrace x\rbrace$. 
+
+## Soluciones básicas
+
+Sea un poliedro $P$ definido por restricciones lineales de igualdad y desigualdad. Un punto $x^*\in\mathbb{R}^n$ es: 
+
+1. **Solución Básica** si: 
+
+- Todas las restricciones de igualdad son activas 
+- De las restricciones que son activas en $x^*$, hay $n$ de ellas que son linealmente independientes. 
+
+2. **Solución Básica Factible** si además $x^*\in P$. 
+
+>[!cite] Teorema de Equivalencia 
+>Sea $P$ un poliedro no vacío, y sea $x^*\in P$. Entonces, las siguientes son equivalentes: 
+>
+>1. $$
 
