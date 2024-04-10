@@ -56,5 +56,9 @@ Sea un poliedro $P$ definido por restricciones lineales de igualdad y desigualda
 >[!cite] Teorema de Equivalencia 
 >Sea $P$ un poliedro no vacío, y sea $x^*\in P$. Entonces, las siguientes son equivalentes: 
 >
->1. $$
+>1. $x^*$ es vértice 
+>   2. $x^*$ es un punto extremo 
+>  3. $x^*$ es solución básica factible 
+
+
 
