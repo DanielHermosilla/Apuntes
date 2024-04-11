@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "787a158cdf59377b",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
+    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
+    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
     "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Resumen Auxiliar 4.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162237.png",

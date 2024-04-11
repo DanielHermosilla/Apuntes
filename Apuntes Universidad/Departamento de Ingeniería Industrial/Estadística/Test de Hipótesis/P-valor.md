@@ -55,5 +55,7 @@ H_1\;:\;\mu_x\neq\mu_y&\iff\mu_x-\mu_y\neq 0
 
 ### Test de dos y una cola  
 
-Se rechaza la hipótesis cuando $\mu_x\neq\mu_y$ cuando la diferencia entre ambos es mucha hacia ambos "lados"
+Se rechaza la hipótesis cuando $\mu_x\neq\mu_y$ cuando la diferencia entre ambos es mucha hacia ambos "lados". Si se considera únicamente un lado, llegaría a ser test de una cola. 
+
+
 
