@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md"
               }
             }
           },
@@ -179,13 +178,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd674f52f753896a",
+  "active": "787a158cdf59377b",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
+    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
+    "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Resumen Auxiliar 4.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162237.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162201.png",
-    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
-    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/SparkQL.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240408145359.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
@@ -196,7 +196,6 @@
     "Departamento de Ingeniería Matemáticas/Álgebra Lineal/Transformaciones lineales/matriz representante.md",
     "Departamento de Ingeniería Industrial/img/IMG_C8C1FF3E5564-1.jpeg",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Untitled.md",
-    "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",

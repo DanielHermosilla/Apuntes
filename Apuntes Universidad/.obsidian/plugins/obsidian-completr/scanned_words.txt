@@ -936,6 +936,7 @@ Ruh
 Rvn
 Real
 Registro
+Rechazamos
 el
 es
 entonces
@@ -2702,6 +2703,7 @@ student
 semiespacios
 shuffle
 subdivide
+significancia
 no
 neo
 nea
@@ -6580,6 +6582,8 @@ denas
 destino
 descartar
 defino
+dstribuci
+distico
 forma
 filas
 factor
@@ -7819,6 +7823,7 @@ tomadas
 tHe
 tiS
 tCZ
+tradicionales
 valores
 vectores
 variaci
@@ -12148,6 +12153,7 @@ moda
 muestreos
 multivariada
 meojra
+medias
 resolver
 rmula
 reducir
@@ -15500,6 +15506,7 @@ DGP
 DKj
 Discreta
 Definiendo
+Dualidad
 importante
 invertible
 intentara
@@ -16292,6 +16299,7 @@ ieQQ
 iwrF
 intersecte
 indicador
+intermedia
 ya
 yi
 yR
@@ -20533,6 +20541,7 @@ Oog
 OIzM
 Obtener
 Observan
+Obtenemos
 Be
 BA
 Bt
