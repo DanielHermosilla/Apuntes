@@ -44,35 +44,22 @@ $$\text{VA}=\text{Valor Bruto de Producción}(VB)-\text{Compras intermedias}(CI)
 
 El valor agregado en el contexto del PIB por producto se refiere al valor que una empresa agrega a los bienes y servicios durante el proceso de producción. Este valor se calcula restando el valor de los bienes y servicios intermedios (también conocidos como insumos) del valor de la producción final.
 
-Tomando el ejemplo del automóvil, el valor agregado sería el valor que la empresa fabricante del automóvil agrega al ensamblar y producir el vehículo. Este valor agregado incluiría los salarios pagados a los trabajadores, los costos de los materiales directamente utilizados en la producción del automóvil y otros costos operativos, como el alquiler de fábricas y equipos. El valor agregado no se basa en el precio al que se vende el automóvil, sino en el valor que se agrega durante el proceso de producción.
+Tomando el ejemplo del automóvil, el valor agregado sería el valor que la empresa fabricante del automóvil agrega al ensamblar y producir el vehículo. Este valor agregado **incluiría los salarios pagados a los trabajadores**, los costos de los materiales directamente utilizados en la producción del automóvil y otros costos operativos, como el alquiler de fábricas y equipos. El valor agregado no se basa en el precio al que se vende el automóvil, sino en el valor que se agrega durante el proceso de producción.
 
 El valor bruto de producción corresponde a las ventas de la industria, mientras que las compras intermedias hacen referencia al valor de lo utilizado por otras industrias de la economía para producir el bien de la industria. 
+
 - **PIB por ingresos**: 
 
-$$Y=S+U+I-Sub$$
-- $S$: Salario 
-- $U$: Utilidades 
-- $I$: Impuestos
-- $S$: Subvenciones 
-## Inflación 
+$$Y=\text{Salarios}(S)+\text{Utilidades}(U)+\text{Impuestos}(I)-\text{Subvenciones}(Su)$$
 
-Es la alza generalizada de los precios de los bienes 
-
-## Tipos de bienes 
-
-Existen dos tipos de bienes prinicpales: 
-
-- **Bienes intermedios:** Aquellos productos que se utilizan como insumos o materias primas
-
-- **Bienes finales**: Aquellos que son hechos a partir de los bienes intermedios
+Donde las utilidades son las $\text{Ventas}-\text{Costos}$, estando los salarios **incluidos** dentro de la definición de costos. 
 
 ## Balanza de pagos 
 
-Registro contable de todas las transacciones económicas. Se dividen en: 
+Registro contable que muestra transacciones económicas del país: 
 
-- **Cuenta corriente**: Se subdivide en la balanza comercial, de servicios, de rentas y de transferencias. 
-
-- **Cuenta de capital** 
-- **Cuenta financiera** 
-- **Cuenta de errores y omisiones** 
+1. **Cuenta corriente**: Transacciones de bienes, servicios, ingresos primarios e ingresos secundarios 
+2. **Cuenta de capital**: Refleja las operaciones asociadas activos no financieros no producidos y las transferencias de capital entre residentes y no residentes. 
+3. **Cuenta de errores y omisiones**: Cuenta para corregir los errores en cálculos. 
+4. **Cuenta Financiera**: Los pasivos y activos por tipos de inversión. 
 
