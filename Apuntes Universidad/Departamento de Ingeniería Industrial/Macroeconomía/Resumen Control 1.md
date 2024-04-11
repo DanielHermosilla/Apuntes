@@ -44,7 +44,7 @@ $$\text{VA}=\text{Valor Bruto de Producción}(VB)-\text{Compras intermedias}(CI)
 
 El valor agregado en el contexto del PIB por producto se refiere al valor que una empresa agrega a los bienes y servicios durante el proceso de producción. Este valor se calcula restando el valor de los bienes y servicios intermedios (también conocidos como insumos) del valor de la producción final.
 
-Tomando el ejemplo del automóvil, el valor agregado sería el valor que la empresa fabricante del automóvil agrega al ensamblar y producir el vehículo. Este valor agregado **incluiría los salarios pagados a los trabajadores**, los costos de los materiales directamente utilizados en la producción del automóvil y otros costos operativos, como el alquiler de fábricas y equipos. El valor agregado no se basa en el precio al que se vende el automóvil, sino en el valor que se agrega durante el proceso de producción.
+Tomando el ejemplo del automóvil, el valor agregado sería el valor que la empresa fabricante del automóvil agrega al ensamblar y producir el vehículo. Este valor agregado **incluiría**  los costos de los materiales directamente utilizados en la producción del automóvil y otros costos operativos, como el alquiler de fábricas y equipos. El valor agregado no se basa en el precio al que se vende el automóvil, sino en el valor que se agrega durante el proceso de producción.
 
 El valor bruto de producción corresponde a las ventas de la industria, mientras que las compras intermedias hacen referencia al valor de lo utilizado por otras industrias de la economía para producir el bien de la industria. 
 
