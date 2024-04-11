@@ -53,3 +53,7 @@ H_0\;:\;\mu_x=\mu_y&\iff\mu_x-\mu_y=0\\  \\
 H_1\;:\;\mu_x\neq\mu_y&\iff\mu_x-\mu_y\neq 0
 \end{align}$$
 
+### Test de dos y una cola  
+
+Se rechaza la hipótesis cuando $\mu_x\neq\mu_y$ cuando la diferencia entre ambos es mucha hacia ambos "lados"
+
