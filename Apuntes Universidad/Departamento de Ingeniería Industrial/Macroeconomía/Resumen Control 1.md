@@ -65,7 +65,30 @@ $$Y_t=\sum^{n}_{i=0}p_{i,t}q_{i,t}$$
 Busca medir los cambios de producción en función de otro año $(0)$: 
 
 $$y_t=\sum^{n}_{i=0}p_{i,0}q_{i,t}$$
+## Índice de Precios al Consumidor
 
+Es un indicador económico clave que mide la variación del precio mes a mes de una canaste representativa de bienes y servicios consumidos de un área determinadas: 
+
+$$\text{IPC}_t=\sum^{n}_{i=1}p_{i,t}\alpha_i$$
+
+Donde $\alpha_i$ es la ponderación que se le entrega a cada bien en la canasta: 
+
+$$\alpha_i=\frac{p_{i,0}q_{i,0}}{\sum^{n}_{j=1}p_{j,0}q_{j,0}}$$
+
+También se puede calcular la tasa de inflación mediante la siguiente forma: 
+
+$$\pi_t=\frac{\text{IPC}_t-\text{IPC}_{t-1}}{\text{IPC}_{t-1}}$$ 
+## Mercado de trabajo 
+
+- **Población en edad de trabajar:** Todas las personas comprendidas entre $15$ y $64$ años. 
+
+- **Fuerza Laboral:** Número de personas de la población en edad de trabajar **que desean estar o están trabajando.** Pueden estar empleados o desempleados. 
+
+- **Población Inactiva**: Personas de la población en edad de trabajar que no desempeñan ni buscan trabajo remunerado. 
+
+- **Ocupados**: Personas que se desempeñan en alguna actividad. 
+
+- **Desocupados**: Personas que quieren trabajar pero no están trabajando. 
 ## Balanza de pagos 
 
 Registro contable que muestra transacciones económicas del país: 
