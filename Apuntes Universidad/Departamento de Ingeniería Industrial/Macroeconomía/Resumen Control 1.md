@@ -54,6 +54,18 @@ $$Y=\text{Salarios}(S)+\text{Utilidades}(U)+\text{Impuestos}(I)-\text{Subvencion
 
 Donde las utilidades son las $\text{Ventas}-\text{Costos}$, estando los salarios **incluidos** dentro de la definición de costos. 
 
+## PIB Nominal 
+
+Conocido también como PIB a precios corrientes. Considera la producción con el precio actual de los bienes y servicios: 
+
+$$Y_t=\sum^{n}_{i=0}p_{i,t}q_{i,t}$$
+
+## PIB Real 
+
+Busca medir los cambios de producción en función de otro año $(0)$: 
+
+$$y_t=\sum^{n}_{i=0}p_{i,0}q_{i,t}$$
+
 ## Balanza de pagos 
 
 Registro contable que muestra transacciones económicas del país: 
