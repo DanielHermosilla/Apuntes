@@ -510,6 +510,8 @@ Pj
 Polihedro
 Politopo
 Poder
+Poblaci
+Personas
 Resolver
 Realizando
 Reemplazando
@@ -4225,6 +4227,7 @@ Semiespacio
 Significancia
 Salario
 Subvenciones
+SALARIOS
 buscando
 busco
 buscamos
@@ -6591,6 +6594,9 @@ defino
 dstribuci
 distico
 destinados
+dientes
+desempleados
+desempe
 forma
 filas
 factor
@@ -9608,6 +9614,10 @@ contable
 capital
 culo
 compras
+clavos
+cepillos
+canaste
+comprendidas
 propios
 particular
 podr
@@ -12169,6 +12179,7 @@ muestreos
 multivariada
 meojra
 medias
+mes
 resolver
 rmula
 reducir
@@ -12944,6 +12955,7 @@ rechazamos
 rechazar
 rentas
 residentes
+remunerado
 asociados
 ambas
 asegura
@@ -13885,6 +13897,7 @@ alza
 agregado
 alquiler
 activos
+actividad
 La
 Los
 Luego
@@ -14264,6 +14277,7 @@ LYR
 LilP
 Lyy
 LLN
+Laboral
 una
 un
 uno
@@ -15526,6 +15540,7 @@ DKj
 Discreta
 Definiendo
 Dualidad
+Desocupados
 importante
 invertible
 intentara
@@ -18106,6 +18121,9 @@ Continua
 Central
 CLT
 Cuenta
+CONSIDERA
+Considera
+Consumidor
 Jordan
 JV
 JD
@@ -20567,6 +20585,7 @@ OIzM
 Obtener
 Observan
 Obtenemos
+Ocupados
 Be
 BA
 Bt
@@ -20943,6 +20962,7 @@ Brep
 Buz
 Bruto
 Balanza
+Busca
 Vector
 Veamos
 Vale
@@ -22552,6 +22572,7 @@ Importante
 Invente
 Interno
 Inflaci
+Inactiva
 MORE
 Mozilla
 Macintosh
@@ -22992,6 +23013,7 @@ MYw
 MoZ
 MFA
 MTH
+Mercado
 KHTML
 KC
 Kd
