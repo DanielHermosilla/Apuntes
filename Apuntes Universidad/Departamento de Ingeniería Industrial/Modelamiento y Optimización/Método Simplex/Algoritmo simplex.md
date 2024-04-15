@@ -54,4 +54,20 @@ $$d_B=-B^{-1}A_j=\begin{pmatrix}
 
 Donde $B$ representa las columnas $\lbrace x_1, x_3, x_5, x_7\rbrace$, vale decir, **las soluciones básicas factibles** (el complemento de las no básicas factibles). 
 
-Un ejemplo aplicado de esto es volver a pararnos en el punto $(2,0,2)$. Para movernos, hay que analizar las variables no básicas. 
+Un ejemplo aplicado de esto es volver a pararnos en el punto $(2,0,2)$. Para movernos, hay que analizar las variables no básicas. Nos podemos mover hacia $\lbrace x_2, x_4, x_6\rbrace$. Por lo tanto, en caso de movernos en $x_6$ entonces el vector tentativo quedaría de la forma:
+
+$$d_{x_6}=\begin{pmatrix}
+\vdots \\
+\vdots \\
+\vdots \\
+\vdots \\
+\vdots \\
+1 \\
+\vdots
+\end{pmatrix}$$
+
+Ahora, habría que resolver el sistema de ecuaciones donde $B$ corresponde a los coeficientes de las **variables básicas** y $A_j$ el de las variables **no básicas**. 
+
+## Determinar cuanto poder moverse 
+
+Para determinar cuanto podemos movernos, lo determinará el valor del escalar $\theta$. 
