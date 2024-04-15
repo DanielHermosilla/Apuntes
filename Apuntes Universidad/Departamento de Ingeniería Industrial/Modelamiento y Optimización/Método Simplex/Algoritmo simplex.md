@@ -153,5 +153,12 @@ $$\bar{c_j}=c_j-c_{B}^{-1}B^{-1}A_j$$
 Para probar moverse en $c_{x_2}$ tendríamos que $c_{x_2}=-1$ y $c_B=(0,-3,0,0)$. Por lo tanto: 
 
 $$\begin{align}
-\bar{c_{x_2}}&=
+\bar{c_{x_2}}&=-1-(0,-3,0,0)\begin{pmatrix}
+0 \\
+1 \\
+2 \\
+-1
+\end{pmatrix}\\ \\  \\
+&=-2 
 \end{align}$$
+
