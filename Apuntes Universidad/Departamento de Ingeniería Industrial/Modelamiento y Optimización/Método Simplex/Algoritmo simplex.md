@@ -31,3 +31,27 @@ d_b \\
 \end{pmatrix}&=0
 \end{align}$$
 
+Esto, hace que quede algo de la forma: 
+
+$$\begin{align}
+Bd_B+A_j&=0\\  \\
+d_b&=-B^{-1}A_j
+\end{align}$$
+
+Por ejemplo, en este caso, para desplazarnos al punto de abajo de $(2,0,2)$ se tiene lo siguiente: 
+
+$$d_B=-B^{-1}A_j=\begin{pmatrix}
+1 & 1 & 0 & 0 \\
+0 & 1 & 1 & 0 \\
+1 & 0 & 0 & 0 \\
+0 & 1 & 0 & 1
+\end{pmatrix}^{-1}\begin{pmatrix}
+1 \\
+0 \\
+0 \\
+0
+\end{pmatrix}$$
+
+Donde $B$ representa las columnas $\lbrace x_1, x_3, x_5, x_7\rbrace$, vale decir, **las soluciones básicas factibles** (el complemento de las no básicas factibles). 
+
+Un ejemplo aplicado de esto es volver a pararnos en el punto $(2,0,2)$. Para movernos, hay que analizar las variables no básicas. 
