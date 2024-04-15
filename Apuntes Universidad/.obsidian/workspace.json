@@ -23,9 +23,11 @@
             "id": "975a24ddd9dd5165",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422
+    "width": 309.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md"
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md"
               }
             }
           },
@@ -191,6 +194,8 @@
   },
   "active": "975a24ddd9dd5165",
   "lastOpenFiles": [
+    "Pasted image 20240415102342.png",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
     "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Untitled.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
@@ -226,9 +231,7 @@
     "Departamento de Ingeniería Industrial/Estadística/Estadística Aplicada.md",
     "Departamento de Ingeniería Industrial/Estadística/Variable Aleatoria.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
-    "Departamento de Ciencias de la Computación/Introducción a la Programación/Pauta Auxiliar 2.md",
     "Departamento de Ciencias de la Computación/Introducción a la Programación",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo/Camino mínimo.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240322102034.png",
     "Departamento de Ingeniería Industrial/img/IMG_6221431BB0D3-1.jpeg",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
