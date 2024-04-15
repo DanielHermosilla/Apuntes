@@ -71,3 +71,41 @@ Ahora, habría que resolver el sistema de ecuaciones donde $B$ corresponde a los
 ## Determinar cuanto poder moverse 
 
 Para determinar cuanto podemos movernos, lo determinará el valor del escalar $\theta$. 
+
+Así, bajo a misma fórmula anterior, se tiene lo siguiente: 
+
+$$x+\theta d\geq 0$$
+
+Para determinar el valor de $\theta$, hay que analizar para que valor de $\theta$ una variable básica factible se vuelve cero. Por ejemplo: 
+
+$$\begin{pmatrix}
+2 \\
+0 \\
+2 \\
+0 \\
+4 \\
+0 \\
+1
+\end{pmatrix}+\theta\begin{pmatrix}
+0 \\
+0 \\
+-1 \\
+1 \\
+1 \\
+0 \\
+1
+\end{pmatrix}\geq 0$$
+
+Donde $\theta$ se tiene que desplazar en dos espacios, pues en ese valor el vector de dirección hace que se vuelva $0$ una otra variable. 
+
+## Método Simplex 
+
+Por lo tanto, podemos decir que el método [[Simplex]] se mueve a una solución básica factible adjacente mejor que la actual: 
+
+$$\begin{align}
+\theta^* c^Td^j&=\theta^*(c_{B}^{T},c_{N}^{T})(-B^{-1}A_j, \dots 1\dots)\\  \\
+&=\theta^*(c_j-c_{B}^{T}B^{-1}A_j)\\  \\
+&=\theta^*\bar{c_j}
+\end{align}$$
+
+Donde $\bar{c_j}$ es el costo reducido de la variable $j$. 
