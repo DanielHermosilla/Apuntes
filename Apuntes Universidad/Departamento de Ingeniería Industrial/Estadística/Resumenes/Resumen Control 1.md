@@ -62,5 +62,14 @@ E[S_{n}^{2}]&=E\left[\frac{1}{n}\sum^{n}_{i=1}\left(X_i-\mu-\bar{X}+\mu\right)^2
 &=E\left[\frac{1}{n}\sum^{n}_{i=1}\left((X_i-\mu)-(\bar{X}-\mu)\right)^2\right]\\  \\
 &=E\left[\frac{1}{n}\sum^{n}_{i=1}\left((X_i-\mu)^2-2(X_i-\mu)(\bar{X}-\mu)+(\bar{X}-\mu)^2\right)\right]\\  \\
 &=E\left[\frac{1}{n}\sum^{n}_{i=1}(X_i-\mu)^2\right]-2E\left[\frac{1}{n}\sum^{n}_{i=1}(X_i-\mu)(\bar{X}-\mu)\right] +E\left[\frac{1}{n}\sum^{n}_{i=1}(\bar{X}-\mu)^2\right]\\  \\
-&=\f
+&=\frac{1}{n}\sum^{n}_{i=1}\text{Var}(X_i)-\frac{2}{n}E\left[(\bar{X}n-\mu n)(\bar{X}-\mu)\right]+(\bar{X}-\mu)^2\\  \\
+&=\sigma^2-2E[(\bar{X}-\mu)^2]+(\bar{X}-\mu)^2\\  \\
+&=\sigma^2-2E[(\bar{X}-\mu)^2]+E[(\bar{X}-\mu)^2]\\  \\
+&=\sigma^2-\text{Var}(\bar{X})\\  \\
+&=\sigma^2-\sigma^2/n\neq\sigma^2
 \end{align}$$
+
+El sesgo llegaría a ser: 
+
+$$E[S^{2}_n -\sigma^2]=\frac{-\sigma^2}{n}$$
+
