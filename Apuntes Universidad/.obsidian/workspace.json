@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md"
               }
             }
           },
@@ -194,9 +194,11 @@
   },
   "active": "975a24ddd9dd5165",
   "lastOpenFiles": [
-    "Pasted image 20240415113005.png",
-    "Pasted image 20240415102342.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+    "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Industrial/Estadística/Resumenes",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20240415113005.png",
+    "Departamento de Ingeniería Industrial/img/Pasted image 20240415102342.png",
     "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Untitled.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
@@ -234,12 +236,10 @@
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
     "Departamento de Ciencias de la Computación/Introducción a la Programación",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240322102034.png",
-    "Departamento de Ingeniería Industrial/img/IMG_6221431BB0D3-1.jpeg",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
     "Departamento de Ingeniería Industrial/Macroeconomía",
-    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Juego Evolutivos.canvas"
   ]
 }
