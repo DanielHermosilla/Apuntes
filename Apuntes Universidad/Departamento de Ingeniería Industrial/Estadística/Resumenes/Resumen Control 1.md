@@ -73,3 +73,8 @@ El sesgo llegaría a ser:
 
 $$E[S^{2}_n -\sigma^2]=\frac{-\sigma^2}{n}$$
 
+A diferencia, se ocupa la **cuasi-varianza** para corregir el sesgo: 
+
+$$s_{y}^{2}=\frac{1}{n-1}\sum^{n}_{i=1}(y_i-\bar{y})^2$$
+
+Sin embargo, **no siempre ser insesgado implica ser un buen estimador**. También es importante conocer la varianza muestral (error). Mientras menor sea ésta, mejor. 
