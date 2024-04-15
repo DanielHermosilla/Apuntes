@@ -109,3 +109,49 @@ $$\begin{align}
 \end{align}$$
 
 Donde $\bar{c_j}$ es el costo reducido de la variable $j$. 
+
+De forma generalizada, se hace de la siguiente forma: 
+
+1. Inicializar: sea $x=\left(x_B, x_N\right)=\left(A_B^{-1} b, 0\right)$ SBF con base $B$
+
+2. Calcule costos reducidos $\overline{\mathrm{c}_{\mathrm{j}}}$ para todo $\mathrm{j} \in \mathrm{N}$
+- . Si $\overline{c_j} \geq 0$ para todo $\mathrm{j} \rightarrow \mathrm{x}$ es optimo. STOP
+-  Si no, escoja $j$ con $\overline{c_j}<0$
+
+2. Calcule $d^j=\left(-B^{-1} A_j, \ldots 1 \ldots\right)$
+- . Si $d^j \geq 0 \rightarrow$ problema es no acotado. STOP
+
+3. Calcule $\theta^*=\min _i\left\{\left.\frac{\left(x_B\right)_i}{\left(B^{-1} A_j\right)_i} \right\rvert\,\left(B^{-1} A_j\right)_i>0\right\}=\frac{\left(x_B\right)_l}{\left(B^{-1} A_j\right)_l}$
+
+4. Nueva SBF: $\mathrm{x} \leftarrow \mathrm{x}+\theta^* \mathrm{~d}^{\mathrm{j}}$ con base $\mathrm{B} \leftarrow \mathrm{B} \cup\left\{x_j\right\} \backslash\left\{x_l\right\}$
+
+5. Volver a 1
+
+#### Ejemplo: 
+
+![[Pasted image 20240415113005.png|center|800]] 
+
+Tenemos la SBF que corresponde al punto $(2,0,2,0,4,0,1)$ y donde la base $B$ de soluciones factibles está definida como: 
+
+$$B=\begin{pmatrix}
+1 & 1 & 0 & 0 \\
+0 & 1 & 1 & 0 \\
+1 & 0 & 0 & 0 \\
+0 & 1 & 0 & 1
+\end{pmatrix}$$
+
+Por lo tanto, hay que calcular los costos de moverse por $C_{x_2}, C_{x_4}, C_{x_6}$. 
+
+Notar que la función objetivo llegaría a ser: 
+
+$$c=(0,-1,-3,0,0,0,0)$$
+
+Por lo tanto, aplicando la fórmula del costo: 
+
+$$\bar{c_j}=c_j-c_{B}^{-1}B^{-1}A_j$$
+
+Para probar moverse en $c_{x_2}$ tendríamos que $c_{x_2}=-1$ y $c_B=(0,-3,0,0)$. Por lo tanto: 
+
+$$\begin{align}
+\bar{c_{x_2}}&=
+\end{align}$$
