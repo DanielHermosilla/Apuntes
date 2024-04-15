@@ -48,3 +48,19 @@ $$\begin{align}
 \end{align}$$
 
 Por lo tanto, se concluye que el estimador para el promedio muestral es **insesgado**. 
+
+- **Varianza muestral**: La varianza muestral **es sesgada**. Se tiene que se define de la siguiente forma: 
+
+$$\begin{align}
+S_{n}^{2}=\frac{1}{n}\sum^{n}_{i=1}\left(X_i-\bar{X}\right)^2
+\end{align}$$
+
+Donde $\bar{X}$ corresponde al promedio muestral. Notemos lo siguiente: 
+
+$$\begin{align}
+E[S_{n}^{2}]&=E\left[\frac{1}{n}\sum^{n}_{i=1}\left(X_i-\mu-\bar{X}+\mu\right)^2\right]\\  \\
+&=E\left[\frac{1}{n}\sum^{n}_{i=1}\left((X_i-\mu)-(\bar{X}-\mu)\right)^2\right]\\  \\
+&=E\left[\frac{1}{n}\sum^{n}_{i=1}\left((X_i-\mu)^2-2(X_i-\mu)(\bar{X}-\mu)+(\bar{X}-\mu)^2\right)\right]\\  \\
+&=E\left[\frac{1}{n}\sum^{n}_{i=1}(X_i-\mu)^2\right]-2E\left[\frac{1}{n}\sum^{n}_{i=1}(X_i-\mu)(\bar{X}-\mu)\right] +E\left[\frac{1}{n}\sum^{n}_{i=1}(\bar{X}-\mu)^2\right]\\  \\
+&=\f
+\end{align}$$
