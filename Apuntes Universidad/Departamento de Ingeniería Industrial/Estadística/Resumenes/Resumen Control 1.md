@@ -78,3 +78,13 @@ A diferencia, se ocupa la **cuasi-varianza** para corregir el sesgo:
 $$s_{y}^{2}=\frac{1}{n-1}\sum^{n}_{i=1}(y_i-\bar{y})^2$$
 
 Sin embargo, **no siempre ser insesgado implica ser un buen estimador**. También es importante conocer la varianza muestral (error). Mientras menor sea ésta, mejor. 
+
+>[!example] Eficiencia 
+>Se dice que un estimador $\hat{\theta}$ de $\theta$ es eficiente si, **dentro de todos los estimadores insesgados es el de menor varianza.**
+>
+
+>[!example] Error Cuadrático Medio 
+>Poniendo en perspectiva el sesgo y la eficiencia, es posible medir la precisión de un estimador mediante la siguiente fórmula: 
+>
+>$$\text{MSE}[\hat{\theta}]=E[(\hat{\theta}-\theta)^2]=\text{Var}[\hat{\theta}]+(\text{Sesgo}[\hat{\theta}])^2$$
+
