@@ -102,9 +102,9 @@ Puesto que el error estándar está íntimamente relacionado con la varianza del
 Para poder decir que tan cerca se está del parámetro, es posible definir **intervalos de confianza**, que nos dirá la **probabilidad que el parámetro está contenido en un determinado rango en torno al estadístico**. 
 
 
+## Intervalos de confianza 
 
-
-
+A forma de introducción, es posible definirnos una variable aleatoria de una población que distribuye Normal $Y\sim N(\mu_y, \sigma^{2}_y)$, **con el parámetro $\sigma^{2}_{y}$ conocido (luego se relajará la condición)**. Luego es posible estandarizar su estadístico, pues se sabe que $\hat{\theta}\sim N(\mu_y,\frac{\sigma^{2}_{y}}{n})$. Así: 
 
 
  
