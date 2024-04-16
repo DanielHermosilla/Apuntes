@@ -2711,6 +2711,8 @@ subdivide
 significancia
 sino
 secundarios
+sesgada
+sesgo
 no
 neo
 nea
@@ -9618,6 +9620,7 @@ clavos
 cepillos
 canaste
 comprendidas
+contraparte
 propios
 particular
 podr
@@ -10521,6 +10524,7 @@ poliedros
 prinicpales
 primarios
 pasivos
+ptimas
 Entonces
 EDO
 Esto
@@ -12180,6 +12184,7 @@ multivariada
 meojra
 medias
 mes
+muestrales
 resolver
 rmula
 reducir
@@ -13898,6 +13903,7 @@ agregado
 alquiler
 activos
 actividad
+aprendizaje
 La
 Los
 Luego
@@ -17250,6 +17256,7 @@ ocnsistente
 optima
 omisiones
 operativos
+obtenidas
 wronskiana
 www
 wF
@@ -18124,6 +18131,7 @@ Cuenta
 CONSIDERA
 Considera
 Consumidor
+Cuadr
 Jordan
 JV
 JD
@@ -22573,6 +22581,7 @@ Invente
 Interno
 Inflaci
 Inactiva
+Inferencia
 MORE
 Mozilla
 Macintosh

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d88cc6231e0b62c2",
+        "id": "1dd9ca5293e01db8",
         "type": "tabs",
         "children": [
           {
-            "id": "787a158cdf59377b",
+            "id": "47bb5e4c580d5993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "975a24ddd9dd5165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Descomposición de la Varianza.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422
+    "width": 309.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Descomposición de la Varianza.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Descomposición de la Varianza.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Descomposición de la Varianza.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md"
               }
             }
           },
@@ -191,10 +179,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "975a24ddd9dd5165",
+  "active": "47bb5e4c580d5993",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Esperanza Condicional.md",
     "Departamento de Ingeniería Industrial/Estadística/Descomposición de la Varianza.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
+    "Departamento de Ingeniería Industrial/Estadística/Esperanza Condicional.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error Cuadrático Medio.md",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
@@ -212,7 +201,6 @@
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162201.png",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/SparkQL.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240408145359.png",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Simplex.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas",
