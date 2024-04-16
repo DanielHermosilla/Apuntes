@@ -88,3 +88,23 @@ Sin embargo, **no siempre ser insesgado implica ser un buen estimador**. Tambié
 >
 >$$\text{MSE}[\hat{\theta}]=E[(\hat{\theta}-\theta)^2]=\text{Var}[\hat{\theta}]+(\text{Sesgo}[\hat{\theta}])^2$$
 
+>[!example] Error Estándar 
+>El error estándar de un estimador es la raiz cuadrada de su desviación estándar: 
+>
+>$$\text{S.E}(\hat{\theta})=\sqrt{\text{Var}[\hat{\theta}]}=\sqrt{\frac{\sigma^{2}_{\theta}}{n}}=\frac{\sigma_\theta}{\sqrt{n}}$$
+>
+>Se tiene la división por $n$ donde este es el tamaño de la muestra que representa $Y$. Sin embargo, notemos que el error está en función de un parámetro desconocido ($\sigma^{2}_{y}$), por ende, es posible es posible ocupar el estimador de la **cuasi-varianza**: 
+>
+>$$\text{S.E}(\hat{\theta})=\sqrt{\frac{s^{2}_{\theta}}{n}}=\frac{s^{}_{\theta}}{\sqrt{n}}$$
+
+Puesto que el error estándar está íntimamente relacionado con la varianza del estimador, es posible decir que el error estándar nos dirá la **eficiencia del estimador**. Sin embargo, **no es posible deducir que tán cercano está $\hat{\theta}$ del parámetro a evaluar**. 
+
+Para poder decir que tan cerca se está del parámetro, es posible definir **intervalos de confianza**, que nos dirá la **probabilidad que el parámetro está contenido en un determinado rango en torno al estadístico**. 
+
+
+
+
+
+
+
+ 
