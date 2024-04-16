@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md"
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md"
               }
             }
           },
@@ -194,8 +193,9 @@
   },
   "active": "975a24ddd9dd5165",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+    "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240415113005.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240415102342.png",
@@ -233,7 +233,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
     "Departamento de Ingeniería Industrial/Estadística/Estadística Aplicada.md",
     "Departamento de Ingeniería Industrial/Estadística/Variable Aleatoria.md",
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
     "Departamento de Ciencias de la Computación/Introducción a la Programación",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240322102034.png",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
