@@ -5,4 +5,4 @@ $$\text{Var}(Y)=\text{Var}(E[Y\vert X])+E[\text{Var}(Y\vert X)]$$
 
 Suponiendo que $X$ es un valor para un grupo diferente. 
 
-- $E[Y\vert X]$ representa el promedio de 
+- $E[Y\vert X]$ representa el promedio de $Y$ para el grupo $X$, luego $\text{Var}(E[Y\vert X])$ representa la varianza del promedio de $Y$ entre grupos. 
