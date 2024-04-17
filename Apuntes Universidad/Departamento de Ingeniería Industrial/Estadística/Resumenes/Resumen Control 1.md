@@ -108,4 +108,18 @@ A forma de introducción, es posible definirnos una variable aleatoria de una po
 
 $$Z=\frac{\hat{\theta}-\mu_y}{\sqrt{\sigma^{2}_{n}/n}}=\frac{\hat{\theta}-\mu_y}{\text{S.E}(\hat{\theta})}$$
 
- 
+Así, es posible encontrar un valor para $\mu_y$ donde se obtiene que $\mu_y=\hat{\theta}-Z\cdot\frac{\sigma^2}{n}$. Por lo tanto, para encontrarlo bajo un intervalo de confianza $\alpha$, se consigue el valor crítico de la distribución Normal tal que $P(z\leq z_{1-\frac{\alpha}{2}})$. Así, la fórmula general para el intervalo de confianza llegaría a ser: 
+
+$$C(\hat{\theta})=\hat{\theta}\pm z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}}$$ 
+Ahora, para el caso donde $\sigma$ es desconocido, es posible utilizar la **cuasi-varianza muestral**. Sin embargo, hay que tener en cuenta que no es posible computar 
+
+$$C(\hat{\theta})\neq\hat{\theta}\pm z_{1-\frac{\alpha}{2}}s_y$$
+
+Ya que $s_y$ es una **variable aleatoria**. Para saber la distribución de $\hat{\theta}$ es posible utilizar una aproximación parecida a la anterior, donde se normaliza bajo la siguiente fórmula: 
+
+$$T=\frac{\hat{\theta}-\mu_y}{s_y/\sqrt{n}}\sim t_{n-1}$$
+
+Así, el intervalo queda definido como: 
+
+$$C(\hat{\theta})=\hat{\theta}\pm t_{n-1, 1-\frac{\alpha}{#}$$
+
