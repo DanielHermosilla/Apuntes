@@ -147,6 +147,17 @@ $$p\lim X_n=0\cdot p\lim(1-1/n)+n\cdot p\lim(1/n)=0\cdot 1+n\cdot 0=0$$
 También es posible decir que se tiene un estimador consistente para el caso en que $X_n$ es un estimador insesgado y su varianza converge en $0$. 
 
 >[!example] Ley de los Grandes Números (LLN)
->Sea $\lbrace X_i\rbrace^{n}_{i=1}$ una muestra idéntica e independientemente distribuida, con $E[X_i]=\mu$ y $\text{Var}[X_i]=\sigma^2$. Luego $\bar{\theta}=\frac{1}{n}\sum^{n}_{i=1}X_i$ es un estimador consistente de $\mu$.
+>Sea $\lbrace X_i\rbrace^{n}_{i=1}$ una muestra idéntica e independientemente distribuida, con $E[X_i]=\mu$ y $\text{Var}[X_i]=\sigma^2$. Luego $\bar{\theta}=\frac{1}{n}\sum^{n}_{i=1}X_i$ es un estimador consistente de $\mu$. Por lo tanto, **la ley sólo funciona en distribuciones muestrales**. 
 
 
+Además, se tienen las siguientes proposiciones: 
+
+- Si $X_n$ es una variable aleatoria tal que $p\lim X_n=c$, $g(X_n)$ es continua y diferenciable y $g(X_n)$ no depende de $n$, entonces: 
+
+$$p\lim g(X_n)=g(p\lim X_n)$$
+
+- Si tenemos una variable aleatoria $H_n$ que, a medida que aumenta $n$ (*"grados de libertad"*), converge a otra distribución, entonces se dirá que hay una **convergencia en distribución**: 
+
+$$H_n\to_{d}H^*$$
+
+Un gran ejemplo de esto, es la $t$ student que converge a una 
