@@ -144,5 +144,9 @@ $$p\lim X_n=0\cdot p\lim(1-1/n)+n\cdot p\lim(1/n)=0\cdot 1+n\cdot 0=0$$
 >[!quote] Consistencia 
 >Si $X_n$ tiene media $\mu_n$ y varianza $\sigma^{2}_{n}$ tal que los límites ordinarios de $\mu_n$ y $\sigma^{2}_{n}$ son $c$ y $0$ respectivamente, entonces $X_n$ converge en probabilidad a $c$. Luego, un **estimador consistente** $\hat{\theta}$ si $p\lim\hat{\theta}=\mu$, donde $\mu$ debe ser constante. 
 
+También es posible decir que se tiene un estimador consistente para el caso en que $X_n$ es un estimador insesgado y su varianza converge en $0$. 
+
+>[!example] Ley de los Grandes Números (LLN)
+>Sea $\lbrace X_i\rbrace^{n}_{i=1}$ una muestra idéntica e independientemente distribuida, con $E[X_i]=\mu$ y $\text{Var}[X_i]=\sigma^2$. Luego $\bar{\theta}=\frac{1}{n}\sum^{n}_{i=1}X_i$ es un estimador consistente de $\mu$.
 
 
