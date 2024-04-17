@@ -127,4 +127,4 @@ Ahora, para el caso que no se conoce la distribución de la población hay que o
 
 ## Estimadores en muestras grandes 
 
-Para los casos donde se tienen muestras 
+Para los casos donde se tienen muestras muy grandes es posible observar que la calidad del estimador va mejorando proporcionalmente a $n$. 
