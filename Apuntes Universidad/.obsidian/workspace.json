@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -179,7 +178,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "47bb5e4c580d5993",
+  "active": "cd674f52f753896a",
   "lastOpenFiles": [
     "Departamento de Ingeniería Industrial/Estadística/Descomposición de la Varianza.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",

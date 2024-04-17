@@ -160,4 +160,28 @@ $$p\lim g(X_n)=g(p\lim X_n)$$
 
 $$H_n\to_{d}H^*$$
 
-Un gran ejemplo de esto, es la $t$ student que converge a una 
+Un gran ejemplo de esto, es la $t$ student que converge a una Normal Estándar a medida que aumentan sus grados de libertad. 
+
+- Por el otro lado, si $X_n\to_{d}X$ y $g(X_n)$ es una función continua y diferenciable que no depende de $n$, entonces: 
+
+$$g(X_n)\to_{d}g(X)$$
+
+Esto es conocido como **continuos mapping problem**. 
+
+>[!example] Teorema del Límite Central 
+>Sea $\lbrace X_i\rbrace^{n}_{i}$ una muestra independiente e indenticamente distribuida con una media y varianza constante. Así, se tiene que: 
+>
+>$$\sqrt{n}(\bar{X_n}-\mu)\to_{d} N(0,\sigma^2)$$
+>
+>Equivalente a tener: 
+>
+>$$\frac{(\bar{X_n}-\mu)}{\sigma/\sqrt{n}}\to_{d}N(0,1)$$
+>
+>Por lo demás, se tiene que: 
+>
+>$$\bar{X_n}\to_{a}N(\mu,\frac{\sigma^2}{n})$$
+
+
+
+
+
