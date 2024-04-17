@@ -128,3 +128,18 @@ Ahora, para el caso que no se conoce la distribución de la población hay que o
 ## Estimadores en muestras grandes 
 
 Para los casos donde se tienen muestras muy grandes es posible observar que la calidad del estimador va mejorando proporcionalmente a $n$. 
+
+>[!quote] Convergencia en Probabilidad 
+>Sea $X_n$ una secuencia de variables aleatorias indexadas por tamaño muestral $n$. La variable aleatoria **converge en probablidad a una constante $c$** si para todo $\epsilon>0$, se tiene que: 
+>
+>$$\lim_{n\to\infty}P(\vert X_n-c\vert>\epsilon)=0$$
+>
+>La intuición dice que mientras $n$ crece, la masa muestral se centra en torno a $c$. 
+
+
+Un ejemplo de convergencia en probabilidad es tener la variable aleatoria $X_n$ que toma valores $0$ y $n$ con probabilidad $1-1/n$ y $1/n$. Luego: 
+
+$$p\lim X_n=0\cdot p\lim(1-1/n)+n\cdot p\lim(1/n)=0\cdot 1+n\cdot 0=0$$
+
+>[!quote] Consistencia 
+>Si $X_n$ tiene media $\mu_n$ y varianza $\sigma^{2}_{n}$ tal que los límites ordinarios de $\mu_n$ y $\sigma^{2}_{n}$ son $c$ y $0$ respectivamente, entonces $X_n$ converge en probabilidad a $c$. 
