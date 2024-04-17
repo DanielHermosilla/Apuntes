@@ -149,6 +149,7 @@ También es posible decir que se tiene un estimador consistente para el caso en 
 >[!example] Ley de los Grandes Números (LLN)
 >Sea $\lbrace X_i\rbrace^{n}_{i=1}$ una muestra idéntica e independientemente distribuida, con $E[X_i]=\mu$ y $\text{Var}[X_i]=\sigma^2$. Luego $\bar{\theta}=\frac{1}{n}\sum^{n}_{i=1}X_i$ es un estimador consistente de $\mu$. Por lo tanto, **la ley sólo funciona en distribuciones muestrales**. 
 
+Donde $\lbrace X_i\rbrace^{n}_{i=1}$ corresponde a la variable aleatoria de la muestra. 
 
 Además, se tienen las siguientes proposiciones: 
 
