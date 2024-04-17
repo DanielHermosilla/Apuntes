@@ -106,5 +106,6 @@ Para poder decir que tan cerca se está del parámetro, es posible definir **int
 
 A forma de introducción, es posible definirnos una variable aleatoria de una población que distribuye Normal $Y\sim N(\mu_y, \sigma^{2}_y)$, **con el parámetro $\sigma^{2}_{y}$ conocido (luego se relajará la condición)**. Luego es posible estandarizar su estadístico, pues se sabe que $\hat{\theta}\sim N(\mu_y,\frac{\sigma^{2}_{y}}{n})$. Así: 
 
+$$Z=\frac{\hat{\theta}-\mu_y}{\sqrt{\sigma^{2}_{n}/n}}=\frac{\hat{\theta}-\mu_y}{\text{S.E}(\hat{\theta})}$$
 
  
