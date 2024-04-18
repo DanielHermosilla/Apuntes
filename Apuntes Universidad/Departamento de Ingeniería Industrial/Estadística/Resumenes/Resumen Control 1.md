@@ -182,7 +182,13 @@ Esto es conocido como **continuos mapping problem**.
 >
 >$$\bar{X_n}\to_{a}N(\mu,\frac{\sigma^2}{n})$$
 
-Se dirá que un estimador es **asintóticamente eficiente** si la varianza de la distribución asintótica excede $\text{Var}[\theta]/n$
+Se dirá que un estimador es **asintóticamente eficiente** si la varianza de la distribución asintótica excede $\text{Var}[\theta]/n$. 
+
+Así, a modo de resumen, la forma de escribir intervalos de confianza es la siguiente: 
+
+$$\text{IC}=\begin{cases}\hat{\theta}\pm z_{\alpha/2}\cdot\frac{\sigma}{\sqrt{n}}&\text{Si se conoce la distribución y varianza}\\  \\
+\hat{\theta}\pm t_{n-1, 1-\alpha/2}\cdot\frac{s_y}{\sqrt{n}}&\text{Si se conoce la distiribución}
+\end{cases}$$
 
 
 
