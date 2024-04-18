@@ -207,7 +207,27 @@ Para realizarlo se siguen tres pasos:
 
 El test de significancia sólo permite desacreditar una hipótesis pero no confirmarla. 
 
-1. Error tipo $I$: Cuan
+1. Error tipo $I$: 
+
+$$P(\text{Rechazar hipótesis nula}\;\vert\;\text{La hipótesis nula es verdadera})$$
+
+2. Error tipo $II$:
+
+$$P(\text{No rechazar hipótesis nula}\;\vert\;\text{Dado que la hipótesis alternativa es verdadera})$$
+
+Así, se define la significancia como $\alpha$, la probabilidad del error tipo $I$, y poder como $1-\beta$-, la probabilidad del error tipo $II$.
+
+Se define el estadístico del test para aceptar o rechazar la hipótesis nula como: 
+
+$$T(X)=\frac{\bar{X_n}-\mu_0}{\sigma/\sqrt{n}}$$
+
+Por lo tanto, la región que permite rechazar la hipótesis nula se define como $T(X)>c$. Esta distribución corresponde a aquella cuando la hipótesis alternativa es verdadera. 
+
+Así, se define **$p$-valor** como: 
+
+$$\text{p-valor}=P(\vert\;t\;\vert>\vert\;t^*\;\vert\;\vert H_0)$$
+
+Entonces, se define como la probabilidad de observar un valor $t$ mayor a $t^*$ cuando la hipótesis $H_0$ es verdadera.
 
 
 
