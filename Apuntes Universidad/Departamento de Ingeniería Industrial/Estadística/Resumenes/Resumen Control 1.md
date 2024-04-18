@@ -182,6 +182,8 @@ Esto es conocido como **continuos mapping problem**.
 >
 >$$\bar{X_n}\to_{a}N(\mu,\frac{\sigma^2}{n})$$
 
+Se dirá que un estimador es **asintóticamente eficiente** si la varianza de la distribución asintótica excede $\text{Var}[\theta]/n$
+
 
 
 
