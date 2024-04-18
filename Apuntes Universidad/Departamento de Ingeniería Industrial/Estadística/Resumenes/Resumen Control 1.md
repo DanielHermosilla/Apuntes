@@ -229,6 +229,18 @@ $$\text{p-valor}=P(\vert\;t\;\vert>\vert\;t^*\;\vert\;\vert H_0)$$
 
 Entonces, se define como la probabilidad de observar un valor $t$ mayor a $t^*$ cuando la hipótesis $H_0$ es verdadera.
 
+Es decir, **el mínimo nivel de probabilidad de rechazar la hipótesis nula, dada que es verdadera**. 
+
+Así, para hacer un test de hipótesis se hace lo siguiente: 
+
+1. Se define la hipótesis nula $H_0$ y la alternativa $H_1$. 
+
+2. Asumiendo que la nula es verdadera, se calcula el valor del test estadístico. 
+
+$$t=T(X)=\frac{\bar{X_n}-\mu_0}{\sigma/\sqrt{n}}$$
+
+
+
 
 
 
