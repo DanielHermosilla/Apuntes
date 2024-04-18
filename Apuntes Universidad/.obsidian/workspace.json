@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "733bb2917a7009e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md"
               }
             }
           },
@@ -179,8 +191,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "47bb5e4c580d5993",
+  "active": "733bb2917a7009e3",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
@@ -189,8 +203,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error Cuadrático Medio.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribución Conjunta.md",
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
