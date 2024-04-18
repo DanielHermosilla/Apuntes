@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422
+    "width": 309.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md"
               }
             }
           },
@@ -193,8 +194,8 @@
   },
   "active": "733bb2917a7009e3",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
+    "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",

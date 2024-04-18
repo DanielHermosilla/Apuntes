@@ -192,7 +192,22 @@ $$\text{IC}=\begin{cases}\hat{\theta}\pm z_{\alpha/2}\cdot\frac{\sigma}{\sqrt{n}
 \end{cases}$$
 
 
+## Test de Hipótesis 
 
+Se ocupa para rechazar una posible hipótesis, por ejemplo, la media de una muestra es $\mu_0$. Por ende, se definen dos hipótesis: 
+
+- **Hipótesis Nula** ($H_0$)
+- **Hipótesis Alternativa $(H_1)$
+
+Para realizarlo se siguen tres pasos: 
+
+1. Obtención de los datos 
+2. Calcular el estadístico de interés 
+3. Obtener la conclusión (por ejemplo, si $\bar{X_n}$ es demasiado grande, entonces se rechaza $H_0$ en favor de $H_1$)
+
+El test de significancia sólo permite desacreditar una hipótesis pero no confirmarla. 
+
+1. Error tipo $I$: Cuan
 
 
 
