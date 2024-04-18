@@ -1896,6 +1896,8 @@ escoge
 ensamblar
 equipos
 encontrarlo
+escritos
+excede
 siguiente
 sistema
 soluci
@@ -8399,6 +8401,7 @@ verdadera
 vil
 vende
 ventas
+varaible
 caracter
 cuando
 como
@@ -10531,6 +10534,8 @@ pasivos
 ptimas
 proporcionalmente
 probablidad
+promedios
+predictor
 Entonces
 EDO
 Esto
@@ -11022,6 +11027,7 @@ ESjc
 EPy
 Estimadores
 Escribir
+Esperanzas
 Ahora
 Aca
 Al
@@ -15556,6 +15562,7 @@ Discreta
 Definiendo
 Dualidad
 Desocupados
+Descomposici
 importante
 invertible
 intentara
@@ -16353,6 +16360,7 @@ industrias
 industria
 incluidos
 indenticamente
+investigador
 ya
 yi
 yR
@@ -22594,6 +22602,7 @@ Inflaci
 Inactiva
 Inferencia
 Intervalos
+Iteradas
 MORE
 Mozilla
 Macintosh

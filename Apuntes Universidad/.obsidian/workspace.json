@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md"
               }
             }
           },
@@ -179,14 +179,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd674f52f753896a",
+  "active": "47bb5e4c580d5993",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Descomposición de la Varianza.md",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
-    "Departamento de Ingeniería Industrial/Estadística/Esperanza Condicional.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md",
+    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error Cuadrático Medio.md",
-    "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribución Conjunta.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
+    "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240415113005.png",
@@ -208,25 +216,17 @@
     "Departamento de Ingeniería Matemáticas/Álgebra Lineal/Transformaciones lineales/matriz representante.md",
     "Departamento de Ingeniería Industrial/img/IMG_C8C1FF3E5564-1.jpeg",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Untitled.md",
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Propiedades de Estimadores en Muestras Grandes.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis",
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
     "Departamento de Ingeniería Industrial/Estadística/Esperanza.md",
-    "Departamento de Ingeniería Industrial/Estadística/Distribución Conjunta.md",
-    "Departamento de Ingeniería Industrial/Estadística/Desviación Estándar.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145623.png",
-    "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Apache Pig.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145848.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240401102224.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría",
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Intervalos de Confianza.md",
-    "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error estándar.md",
     "Departamento de Ciencias de la Computación/Introducción a la Programación",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240322102034.png",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
-    "Departamento de Ingeniería Industrial/Macroeconomía",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Juego Evolutivos.canvas"
   ]
 }
