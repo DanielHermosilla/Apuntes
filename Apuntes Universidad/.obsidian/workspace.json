@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "733bb2917a7009e3",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
@@ -204,7 +206,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Error Cuadrático Medio.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribución Conjunta.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión",
-    "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
@@ -229,7 +230,6 @@
     "Departamento de Ingeniería Industrial/img/IMG_C8C1FF3E5564-1.jpeg",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Untitled.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis",
-    "Departamento de Ingeniería Industrial/Estadística/Esperanza.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145623.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145848.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240401102224.png",
