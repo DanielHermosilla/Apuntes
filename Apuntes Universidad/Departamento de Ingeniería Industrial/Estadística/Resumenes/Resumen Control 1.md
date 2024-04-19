@@ -121,8 +121,7 @@ $$T=\frac{\hat{\theta}-\mu_y}{s_y/\sqrt{n}}\sim t_{n-1}$$
 
 Así, el intervalo queda definido como: 
 
-$$C(\hat{\theta})=
-$$
+$$C(\hat{\theta})=\hat{\theta}\pm t_{n-1, 1-\frac{\alpha}{2}}\cdot\frac{s_y}{\sqrt{n}}$$
 
 Ahora, para el caso que no se conoce la distribución de la población hay que ocupar **distribuciones asintóticas**. 
 
