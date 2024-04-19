@@ -6603,6 +6603,7 @@ destinados
 dientes
 desempleados
 desempe
+desacreditar
 forma
 filas
 factor
@@ -9628,6 +9629,7 @@ comprendidas
 contraparte
 consigue
 centra
+confirmarla
 propios
 particular
 podr
@@ -11508,6 +11510,7 @@ AtV
 Aleatoria
 AYE
 Ajustadas
+Alternativa
 matriz
 metros
 mero
@@ -12976,6 +12979,7 @@ rentas
 residentes
 remunerado
 relajar
+realizarlo
 asociados
 ambas
 asegura
@@ -19744,6 +19748,7 @@ Nd
 NFc
 NMM
 Nominal
+Nula
 general
 gnita
 gs
@@ -20613,6 +20618,7 @@ Obtener
 Observan
 Obtenemos
 Ocupados
+Obtenci
 Be
 BA
 Bt
@@ -25307,6 +25313,7 @@ Hqx
 HKkL
 Hiperplano
 Hadoop
+Hip
 jkk
 jF
 jw

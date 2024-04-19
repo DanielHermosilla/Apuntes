@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -194,8 +193,10 @@
   },
   "active": "733bb2917a7009e3",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución t.md",
+    "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución F.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
@@ -227,9 +228,7 @@
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex",
-    "Departamento de Ingeniería Matemáticas/Álgebra Lineal/Transformaciones lineales/matriz representante.md",
     "Departamento de Ingeniería Industrial/img/IMG_C8C1FF3E5564-1.jpeg",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Untitled.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145623.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240401145848.png",
