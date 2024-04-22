@@ -189,3 +189,14 @@ Así, $(\hat{x},0)$ es solución básica factible, que puede ser descrito tambi�
 $$(\hat{x},0)=(\hat{x_B},\hat{x_{NB},0})$$
 
 Pero, notemos que la solución se tiene con $y=0$, haciendo que $\min e^Ty=0$. Por lo tanto, como $y$ debe ser $0$, entonces no es posible que el problema a minimizar tenga como valor números positivos.
+
+## Reglas de pivoteo 
+
+Supongamos que estoy en un punto que es SBF donde en ambas direcciones puedo mejorar la función objetivo. Es arbitrario elegir la dirección, pero podría hacer que el método sea mucho más largo o no: 
+
+![[Pasted image 20240422105147.png|center]] 
+
+Supongamos que estamos en una solución degenerada (variable básica que es $0$). Es posible tener un paso $\theta^*=0$ en caso que esto sea degenerado. Sin embargo, al hacer el cambio de dirección también se cambia la base al sacar una variable no básica con una básica: 
+
+$$x'=x+\theta^*d^j=x$$
+

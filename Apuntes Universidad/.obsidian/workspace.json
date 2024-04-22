@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422
+    "width": 309.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -193,6 +194,7 @@
   },
   "active": "733bb2917a7009e3",
   "lastOpenFiles": [
+    "Pasted image 20240422105147.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución t.md",
@@ -225,7 +227,6 @@
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/SparkQL.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240408145359.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Simplex.md",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría/Geometría lineal.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex",
     "Departamento de Ingeniería Industrial/img/IMG_C8C1FF3E5564-1.jpeg",
