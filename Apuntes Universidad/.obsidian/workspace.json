@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422
+    "width": 309.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md"
+                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md"
               }
             }
           },
@@ -191,8 +192,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd674f52f753896a",
+  "active": "733bb2917a7009e3",
   "lastOpenFiles": [
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+    "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240422105147.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
@@ -212,7 +215,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas/Tarea 2.md",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Laboratorio 5.md",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240415113005.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240415102342.png",
@@ -235,7 +237,6 @@
     "Departamento de Ingeniería Industrial/img/Pasted image 20240401102224.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Geometría",
     "Departamento de Ciencias de la Computación/Introducción a la Programación",
-    "Departamento de Ingeniería Industrial/img/Pasted image 20240322102034.png",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
