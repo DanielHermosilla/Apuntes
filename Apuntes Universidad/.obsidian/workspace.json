@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md"
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "733bb2917a7009e3",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md",
+    "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución t.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución F.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",

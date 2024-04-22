@@ -1898,6 +1898,8 @@ equipos
 encontrarlo
 escritos
 excede
+esbozar
+escoja
 siguiente
 sistema
 soluci
@@ -2716,6 +2718,7 @@ sino
 secundarios
 sesgada
 sesgo
+simplex
 no
 neo
 nea
@@ -4234,6 +4237,8 @@ Significancia
 Salario
 Subvenciones
 SALARIOS
+Simplex
+STOP
 buscando
 busco
 buscamos
@@ -6604,6 +6609,8 @@ dientes
 desempleados
 desempe
 desacreditar
+desplazarnos
+desplazar
 forma
 filas
 factor
@@ -7845,6 +7852,8 @@ tHe
 tiS
 tCZ
 tradicionales
+trasladarse
+tentativo
 valores
 vectores
 variaci
@@ -8403,6 +8412,7 @@ vil
 vende
 ventas
 varaible
+vuelva
 caracter
 cuando
 como
@@ -10538,6 +10548,7 @@ proporcionalmente
 probablidad
 promedios
 predictor
+pararnos
 Entonces
 EDO
 Esto
@@ -12202,6 +12213,7 @@ mes
 muestrales
 mejorando
 mapping
+movernos
 resolver
 rmula
 reducir
@@ -12980,6 +12992,7 @@ residentes
 remunerado
 relajar
 realizarlo
+reducidos
 asociados
 ambas
 asegura
@@ -13923,6 +13936,7 @@ alquiler
 activos
 actividad
 aprendizaje
+adjacente
 La
 Los
 Luego
@@ -17280,6 +17294,7 @@ omisiones
 operativos
 obtenidas
 ordinarios
+optimo
 wronskiana
 www
 wF
@@ -19749,6 +19764,7 @@ NFc
 NMM
 Nominal
 Nula
+Nueva
 general
 gnita
 gs
@@ -21389,6 +21405,7 @@ Vde
 Variable
 VhqE
 ViW
+Volver
 Queda
 QO
 QRG
@@ -22609,6 +22626,7 @@ Inactiva
 Inferencia
 Intervalos
 Iteradas
+Inicializar
 MORE
 Mozilla
 Macintosh

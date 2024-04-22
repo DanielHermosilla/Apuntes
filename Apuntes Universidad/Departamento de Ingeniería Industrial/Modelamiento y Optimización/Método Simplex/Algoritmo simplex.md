@@ -162,3 +162,16 @@ $$\begin{align}
 &=-2 
 \end{align}$$
 
+## Encontrar la solución básica factible inicial 
+
+Notar que al hacer el algoritmo, se sabía *a priori* que vértice era solución básica factible. Sin embargo, es necesario saber como llegar a una SBF. 
+
+Antes que nada, es necesario dejar el problema en forma estándar, donde: 
+
+$$\begin{align}
+u^*&=\min e^Ty\\  \\
+Ax+y&=b\\  \\
+x,y&\geq 0
+\end{align}$$
+
+Donde $y$ son variables de holgura 
