@@ -203,3 +203,5 @@ $$x'=x+\theta^*d^j=x$$
 Pero es posible que esto cicle sin fin, sin terminar, cambiando la base entre sí todo el rato. Sin embargo, existe la **regla de pivoteo de Bland**: 
 
 **Quiebre empates seleccionando la variable de menor índice** 
+
+También, está la segunda regla de pivoteo: para entrar una variable de pivoteo **también se elige aquel de menor índice**
