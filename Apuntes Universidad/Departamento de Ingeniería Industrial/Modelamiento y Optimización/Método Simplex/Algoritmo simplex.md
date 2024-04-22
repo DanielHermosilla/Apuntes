@@ -174,4 +174,18 @@ Ax+y&=b\\  \\
 x,y&\geq 0
 \end{align}$$
 
-Donde $y$ son variables de holgura 
+Donde $y$ son variables de holgura. Notemos que el problema **debe ser de minimizar**. 
+
+Notemos, antes que nada, la siguiente propiedad: 
+
+- Si $u^*>0$ el problema es infactible. 
+
+Para demostrarlo, supongamos que $\min c^Tx$ es una solución básica factible, donde se tienen $m$ variables básicas y $n-m$ variables no básicas. Por lo tanto, bajo esta suposición, $\exists\hat{x}\;\text{SBF}$. Por lo tanto, si denominamos como $(P)$ a la función objetivo, entonces: 
+
+- $P$ tiene $n+m$ variables y $m$ restricciones $\implies$ $m$ variables básicas y $n$ variables no básicas. 
+
+Así, $(\hat{x},0)$ es solución básica factible, que puede ser descrito también como: 
+
+$$(\hat{x},0)=(\hat{x_B},\hat{x_{NB},0})$$
+
+Pero, notemos que la solución se tiene con $y=0$, haciendo que $\min e^Ty=0$. Por lo tanto, como $y$ debe ser $0$, entonces no es posible que el problema a minimizar tenga como valor números positivos.
