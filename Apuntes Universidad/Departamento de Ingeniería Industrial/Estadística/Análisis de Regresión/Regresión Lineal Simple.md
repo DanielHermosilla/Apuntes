@@ -45,3 +45,11 @@ Resolviendo todo esto, se llega que:
 $$\begin{align}
 \hat{\beta_1}&=\frac{\text{Cov}(X_i,y_i)}{\text{Var}(X_i)}
 \end{align}$$
+
+Puesto que tenemos el valor de $y$ con la estimación de mínimos cuadrados, es posible llegar a la siguiente equivalencia: 
+
+$$\begin{align}
+\hat{\beta_1}&=\frac{\text{Cov}(X,y)}{\text{Var}(X)}\\  \\
+&=\frac{\text{Cov}(x,\beta_0+\beta_1 X+\epsilon_i)}{\text{Var}(\beta_0+\beta_1 X+\epsilon_i)}\\  \\
+&=\beta_1+\frac{\text{Cov}(X,\epsilon)}{\text{Var}(X)}
+\end{align}$$
