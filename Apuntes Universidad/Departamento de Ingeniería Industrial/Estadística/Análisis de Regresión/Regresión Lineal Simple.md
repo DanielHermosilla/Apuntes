@@ -53,3 +53,5 @@ $$\begin{align}
 &=\frac{\text{Cov}(x,\beta_0+\beta_1 X+\epsilon_i)}{\text{Var}(\beta_0+\beta_1 X+\epsilon_i)}\\  \\
 &=\beta_1+\frac{\text{Cov}(X,\epsilon)}{\text{Var}(X)}
 \end{align}$$
+
+Así, si $\text{Cov}(X,\epsilon)=0$, entonces es posible decir que el estimador es insesgado. Sin embargo, es muy difícil determinar $\epsilon$, pues es posible tener muchas variables aleatorias que no son consideradas en la muestra. 
