@@ -10549,6 +10549,7 @@ probablidad
 promedios
 predictor
 pararnos
+predicci
 Entonces
 EDO
 Esto
@@ -12214,6 +12215,7 @@ muestrales
 mejorando
 mapping
 movernos
+minimice
 resolver
 rmula
 reducir
@@ -12993,6 +12995,7 @@ remunerado
 relajar
 realizarlo
 reducidos
+regresi
 asociados
 ambas
 asegura

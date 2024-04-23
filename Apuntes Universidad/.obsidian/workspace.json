@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md"
+                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md"
               }
             }
           },
@@ -194,16 +193,17 @@
   },
   "active": "733bb2917a7009e3",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240422105147.png",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Pregunta.md",
     "Departamento de Ingeniería Industrial/Estadística/Resumenes/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución t.md",
     "Departamento de Ingeniería Industrial/Estadística/Distribuciones clásicas/Distribución F.md",
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Muestreo Aleatorio.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Inferencia Estadística.md",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística/Estadísticos.md",
@@ -227,7 +227,6 @@
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162201.png",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/SparkQL.md",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240408145359.png",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Simplex.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Tareas",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex",
     "Departamento de Ingeniería Industrial/img/IMG_C8C1FF3E5564-1.jpeg",
