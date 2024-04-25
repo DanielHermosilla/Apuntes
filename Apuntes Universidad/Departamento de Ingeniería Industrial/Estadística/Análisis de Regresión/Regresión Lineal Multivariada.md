@@ -50,4 +50,13 @@ Se obtendrían $k+1$ ecuaciones con $k+1$ parámetros. Por construcción, los re
 - $\sum^{n}_{i=1}\hat{e_i}=0$
 - $\sum^{n}_{i=1}X_{ik}\hat{e_i}=0\;\;\;\forall k=1,\dots, k$
 
-Si definimos $\bar{r_{iK}}$ como el [[vectores|vector]] de residuos obtenidos luego de regresionar $X_{ik}$ sobre todos los restantes regresores $X_{ik}$. 
+Si definimos $\bar{r_{iK}}$ como el [[vectores|vector]] de residuos obtenidos luego de regresionar $X_{ik}$ sobre todos los restantes regresores $X_{ij}$, donde $j=\lbrace 1,2,\dots, K-1, K+1\rbrace$. (Es decir, todos los regresores menos sí mismo). 
+
+En otras palabras, este vector es la variación del regresor $X_k$ que no puede ser explicada por otros regresores. Es decir, una variación única de $X_{ik}$.  
+
+Es posible demostrar que el estimador del MCO está dado por: 
+
+$$\begin{align}
+\hat{\beta_k}&=\frac{\text{Cov}(y_i,\bar{r_{ik}})}{\text{Var}(\bar{r})}\\  \\
+&=\frac{\sum y_i\bar{r_{ik}}}{\sum\bar{r_{ik}}}
+\end{align}$$
