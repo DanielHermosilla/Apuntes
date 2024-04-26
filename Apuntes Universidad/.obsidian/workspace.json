@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1dd9ca5293e01db8",
+        "id": "acae728a8a52cb9e",
         "type": "tabs",
         "children": [
           {
-            "id": "47bb5e4c580d5993",
+            "id": "49dcbe7df69e5e1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "733bb2917a7009e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Multivariada.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Dualidad/Problema dual.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
-    "collapsed": true
+    "width": 309.5124969482422
   },
   "right": {
     "id": "4cb33655c1962e42",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Dualidad/Problema dual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Dualidad/Problema dual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md"
+                "file": "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Dualidad/Problema dual.md"
               }
             }
           },
@@ -191,11 +178,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "47bb5e4c580d5993",
+  "active": "49dcbe7df69e5e1e",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
-    "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Untitled.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Dualidad/Problema dual.md",
+    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Dualidad",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Multivariada.md",
+    "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240423123109.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240423123059.png",
@@ -225,8 +215,6 @@
     "Departamento de Ingeniería Industrial/img/Pasted image 20240415102342.png",
     "Departamento de Ingeniería Industrial/Macroeconomía/Resumen Control 1.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
-    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
-    "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162237.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162201.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240408145359.png",
@@ -238,7 +226,6 @@
     "Departamento de Ciencias de la Computación/Introducción a la Programación",
     "Departamento de Ingeniería Industrial/Estadística/Inferencia Estadística",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Problemas de flujo",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Ejemplos",
     "Departamento de Ingeniería Industrial/Teoría de Juegos/Resumenes/Juego Evolutivos.canvas"
   ]
 }

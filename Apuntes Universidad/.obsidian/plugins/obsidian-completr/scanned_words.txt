@@ -1900,6 +1900,7 @@ escritos
 excede
 esbozar
 escoja
+explicada
 siguiente
 sistema
 soluci
@@ -10550,6 +10551,7 @@ promedios
 predictor
 pararnos
 predicci
+posiible
 Entonces
 EDO
 Esto
@@ -12216,6 +12218,7 @@ mejorando
 mapping
 movernos
 minimice
+minimizaci
 resolver
 rmula
 reducir
@@ -12996,6 +12999,9 @@ relajar
 realizarlo
 reducidos
 regresi
+regresionar
+regresores
+regresor
 asociados
 ambas
 asegura
