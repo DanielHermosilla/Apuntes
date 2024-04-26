@@ -65,4 +65,10 @@ Notar que lo anterior es **lo mismo que el problema dual**
 >[!quote] Teorema Dualidad Debil 
 >Si $x$ es una solución factible para el problema primal e $y$ es una solución factible para el problema dual, entonces: 
 >
+>$$c^Tx\geq b^Ty$$
+
+>[!cite] Teorema Dualidad Fuerte 
+>Si el problema primal tiene una solución óptima $x^*$, entonces el dual tiene una solución óptima $y^*$ tal que: 
 >
+>$$c^Tx^*=b^Ty^*$$
+
