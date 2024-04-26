@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
+                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Multivariada.md",
+                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Multivariada.md",
+                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Multivariada.md"
+                "file": "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md"
               }
             }
           },
@@ -192,15 +191,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "733bb2917a7009e3",
+  "active": "47bb5e4c580d5993",
   "lastOpenFiles": [
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
+    "Departamento de Ingeniería Industrial/Macroeconomía/Demanda Agregada.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Multivariada.md",
+    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Regresión Lineal Simple.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240423123109.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240423123059.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240423122640.png",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Esperanza Condicional.md",
-    "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Descomposición de la Varianza.md",
     "Departamento de Ingeniería Industrial/Estadística/Análisis de Regresión/Predicción Lineal.md",
     "Departamento de Ciencias de la Computación/Procesamiento Masivo de Datos/Búsquedas en la web.md",
     "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Método Simplex/Algoritmo simplex.md",
@@ -227,7 +227,6 @@
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de diferencia de varianzas.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/P-valor.md",
     "Departamento de Ingeniería Industrial/Estadística/Test de Hipótesis/Test de Hipótesis.md",
-    "Departamento de Ingeniería Industrial/Modelamiento y Optimización/Auxiliares/Resumen Auxiliar 4.md",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162237.png",
     "Departamento de Ingeniería Industrial/img/Pasted image 20240410162201.png",
     "Departamento de Ciencias de la Computación/img/Pasted image 20240408145359.png",
