@@ -10552,6 +10552,7 @@ predictor
 pararnos
 predicci
 posiible
+primal
 Entonces
 EDO
 Esto
@@ -22636,6 +22637,7 @@ Inferencia
 Intervalos
 Iteradas
 Inicializar
+Intuici
 MORE
 Mozilla
 Macintosh
